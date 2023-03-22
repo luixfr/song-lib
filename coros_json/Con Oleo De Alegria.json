@@ -1,0 +1,29 @@
+{
+  "titles": ["Con Oleo De Alegria"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "422" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Con óleo de alegría me has ungido,",
+          "con gozo y con pandero cantaré,",
+          "delante de tu pueblo redimido,"
+        ],
+        "v2": [
+          "la gloria de tu Nombre exaltaré.",
+          "Con el pandero, toda la noche sin parar,",
+          "cantando alabanza a Jesús,"
+        ],
+        "v3": [
+          "diciendo de su gloria y majestad,",
+          "que Él es el Rey de Israel."
+        ]
+      }
+    }
+  ]
+}

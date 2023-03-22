@@ -1,0 +1,21 @@
+{
+  "titles": ["Hermanos Vamos A Pedir"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "125" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:/: Hermanos, vamos todos a pedir",
+          "el Fuego de Dios:/",
+          "Fuego, Fuego, Fuego"
+        ],
+        "v2": ["pedimos del Cielo;", "Fuego, Fuego, Fuego", "del cielo caerá."]
+      }
+    }
+  ]
+}

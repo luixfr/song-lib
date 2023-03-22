@@ -1,0 +1,20 @@
+{
+  "titles": ["Señor Yo Quiero Entrar"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "411" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "//: Señor, yo quiero entrar",
+          "a tu santuario para adoran://",
+          "/: Dame manos limpias y un corazón puro, sin vanidades, que sepa amar:/"
+        ]
+      }
+    }
+  ]
+}

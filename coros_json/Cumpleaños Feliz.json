@@ -1,0 +1,24 @@
+{
+  "titles": ["Cumpleaños Feliz"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "77" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": ["Cumpleaños feliz", "te deseamos hermana", "cumpleaños feliz."],
+        "v2": [
+          "Día del Padre feliz",
+          "te deseamos papá",
+          "Día del Padre feliz"
+        ],
+        "v3": ["/: /: Hoy en este día", "Buen papá: /", "Te deseamos alegría"],
+        "v4": ["Buen papá: /", "Deseamos por siempre", "Que Dios te bendiga"],
+        "v5": ["Y Cristo te guarde", "Y te sostenga", "Por siempre"]
+      }
+    }
+  ]
+}

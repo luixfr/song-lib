@@ -1,0 +1,26 @@
+{
+  "titles": ["Cristo Te Exalto"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "17" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Cristo, te exalto; Cristo, te adoro",
+          "porque Tú eres mi Señor,",
+          "sólo a Ti daré la gloria y honor/"
+        ],
+        "v2": [
+          "/: Gloriosa es tu presencia",
+          "me cubre y me da paz",
+          "mi ser siempre proclamara"
+        ],
+        "v3": ["que sólo Tú eres digno de adorar:/"]
+      }
+    }
+  ]
+}

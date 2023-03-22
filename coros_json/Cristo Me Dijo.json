@@ -1,0 +1,25 @@
+{
+  "titles": ["Cristo Me Dijo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "485" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Cristo me dijo:",
+          "//: que vendrá otra vez://",
+          "Que no me desesperará"
+        ],
+        "v2": [
+          "Pero que le sea fiel",
+          "Ohh, yo le estoy esperando",
+          "Amen, amen, amen"
+        ]
+      }
+    }
+  ]
+}

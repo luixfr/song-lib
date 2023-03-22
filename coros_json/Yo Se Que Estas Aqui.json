@@ -1,0 +1,25 @@
+{
+  "titles": ["Yo Se Que Estas Aqui"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "314" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Yo sé que estás aquí mi Señor,",
+          "yo sé que estás aquí:/",
+          "/:Y mi alma te alaba,"
+        ],
+        "v2": [
+          "y mi alma te alaba",
+          "y mi alma te alaba",
+          "porque se que estás aquí"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "titles": ["No Confundas Religion"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "250" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/: No confundas religión con salvación religión la tiene mucha",
+          "gente",
+          "salvación es algo que se siente. :/"
+        ]
+      }
+    }
+  ]
+}

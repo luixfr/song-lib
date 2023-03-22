@@ -1,0 +1,36 @@
+{
+  "titles": ["Puedo Confiar En El Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "197" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "Puedo confiar en el Señor Él no va a fallar, puedo confiar en el",
+          "Señor",
+          "Él me va a guiar,"
+        ],
+        "v2": [
+          "si el sol llegase a obscurecer",
+          "y no brille más",
+          "yo igual confío en el Señor,"
+        ],
+        "v3": [
+          "Él no va a fallar.",
+          "/: Puedo descansar. :/",
+          "a su mansión Cristo me guiará,"
+        ],
+        "v4": [
+          "si el sol llegase a obscurecer",
+          "y no brille más",
+          "yo igual confió en el Señor,"
+        ],
+        "v5": ["Él no va a fallar."]
+      }
+    }
+  ]
+}

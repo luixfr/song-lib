@@ -1,0 +1,36 @@
+{
+  "titles": ["Grande Eres Jehova"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "73a" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/: Grande eres Jehová",
+          "grande eres magnifico, Señor",
+          "grande eres Jehová"
+        ],
+        "v2": ["Santo, Santo, Santo.", "tres veces Santo", "magnifico, Señor."],
+        "v3": [
+          "Santo eres Jehová:/",
+          "Mi corazón te alaba",
+          "mi corazón te exalta"
+        ],
+        "v4": [
+          "mi alma te alaba",
+          "magnífico Señor",
+          "mi alma te alabe, oh, Jehová/"
+        ],
+        "v5": [
+          "/: No hay otro como Tú",
+          "no hay otro como Tú, Señor,",
+          "no hay, no hay otro como Tú:/"
+        ]
+      }
+    }
+  ]
+}

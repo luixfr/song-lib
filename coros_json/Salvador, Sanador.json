@@ -1,0 +1,22 @@
+{
+  "titles": ["Salvador, Sanador"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "281" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Salvador, Sanador,",
+          "Cristo es para mí,",
+          "Rey de paz, Rey de amor,"
+        ],
+        "v2": ["El me ama a mí.", "Sálvame,", "guárdame en tu santo amor;"],
+        "v3": ["Cristo, el Rey de gloria,", "es mi Redentor."]
+      }
+    }
+  ]
+}

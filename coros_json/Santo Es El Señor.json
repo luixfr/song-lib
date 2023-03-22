@@ -1,0 +1,26 @@
+{
+  "titles": ["Santo Es El Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "406" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Santo es el Señor",
+          "y digno de adoración.",
+          "Mi corazón ofrezco ante Ti."
+        ],
+        "v2": [
+          "/: Santo es el/ Señor.",
+          "Santo eres Tú,",
+          "y digno de adoración."
+        ],
+        "v3": ["Mi corazón ofrezco a Ti.", "/: Santo eres 1 Tú."]
+      }
+    }
+  ]
+}

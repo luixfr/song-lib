@@ -1,0 +1,31 @@
+{
+  "titles": ["Como El Siervo Clama"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "322" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/: Como el siervo busca por las aguas",
+          "así clama mi alma por Ti Señor: /",
+          "/: Como el siervo clama por las aguas"
+        ],
+        "v2": [
+          "así clama mi alma por Ti Señor: /",
+          "día y noche, yo tengo sed de Ti.",
+          "Sólo a Ti buscaré."
+        ],
+        "v3": [
+          "Lléname, lléname Señor",
+          "dame más, más de tu amor.",
+          "Yo tengo sed sólo de Ti,"
+        ],
+        "v4": ["lléname Señor:/"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "titles": ["Estar Aqui"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "395" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Estar aquí, en tu presencia,",
+          "es el momento que tanto esperé.",
+          "Estar aquí y adorarte,"
+        ],
+        "v2": [
+          "es el momento que tanto anhelé.",
+          "/: Gloriosa santidad, que llena este lugar. Llena mi corazón, llena todo mi ser: /"
+        ]
+      }
+    }
+  ]
+}

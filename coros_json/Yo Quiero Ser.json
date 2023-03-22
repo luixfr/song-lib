@@ -1,0 +1,18 @@
+{
+  "titles": ["Yo Quiero Ser"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "96" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["Yo quiero ser,", "Señor amante", "como el barro"],
+        "v2": ["en las manos del alfarero", "Toma mi vida", "y hazme de nuevo"],
+        "v3": ["/: yo quiero ser un", "vaso nuevo:/"]
+      }
+    }
+  ]
+}

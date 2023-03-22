@@ -1,0 +1,36 @@
+{
+  "titles": ["El Señor Me Lleno De Gozo."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "113" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/:/: El Señor me llenó de gozo,",
+          "puso paz en mi corazón/",
+          "/: Puso paz en mi corazón:/"
+        ],
+        "v2": [
+          "El Señor me llenó de gozo",
+          "puso paz en mi corazón.",
+          "Este gozo que yo siento en mi alma"
+        ],
+        "v3": [
+          "sólo Cristo me lo pudo dar.",
+          "/: Pero, qué felicidad:/",
+          "cantando todos en coro"
+        ],
+        "v4": [
+          "a nuestro Padre Celestial",
+          "/: Este gozo que yo siento en mi alma",
+          "sólo Cristo me lo pudo dar:/"
+        ],
+        "v5": ["/: Sólo Cristo me lo pudo dar:/"]
+      }
+    }
+  ]
+}

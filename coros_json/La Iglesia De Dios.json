@@ -1,0 +1,22 @@
+{
+  "titles": ["La Iglesia De Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "160" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["/: La Iglesia de Dios", "Pentecostés", "triunfará, triunfará/"],
+        "v2": [
+          "/: Con la fuerza",
+          "del Dios Omnipotente",
+          "debemos ser valientes,"
+        ],
+        "v3": ["para poder triunfar:/"]
+      }
+    }
+  ]
+}

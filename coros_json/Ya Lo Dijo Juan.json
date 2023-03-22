@@ -1,0 +1,20 @@
+{
+  "titles": ["Ya Lo Dijo Juan"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "368" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Ya lo dijo Juan el profeta",
+          "el que creyere en Él la vida tendrá mas a los que le recibieren",
+          "les da derecho a ser los hijos de Dios."
+        ]
+      }
+    }
+  ]
+}

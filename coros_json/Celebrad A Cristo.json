@@ -1,0 +1,21 @@
+{
+  "titles": ["Celebrad A Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "228" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "///: Celebrad a Cristo, celebrad:///",
+          "Resucité, resucité y por siempre El vivirá. Resucito, resucitó venid y celebrad",
+          "que nuestro Señor resucité."
+        ],
+        "v2": ["/: Venid y celebrad/ que nuestro Señor, resucité."]
+      }
+    }
+  ]
+}

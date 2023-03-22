@@ -1,0 +1,21 @@
+{
+  "titles": ["La Gloria De Jehová."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "127" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:La gloria de Jehová descendió en el Sinaí y aquél monte",
+          "temblaba",
+          "porque //: Dios estaba ahí://"
+        ],
+        "v2": ["y aquel monte temblaba", "porque Dios estaba ahí."]
+      }
+    }
+  ]
+}

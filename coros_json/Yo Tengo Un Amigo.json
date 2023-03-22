@@ -1,0 +1,27 @@
+{
+  "titles": ["Yo Tengo Un Amigo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "371" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Yo tengo un Amigo que",
+          "//:me ama//.",
+          "Yo tengo un amigo que me ama"
+        ],
+        "v2": [
+          "su Nombre es Jesús.",
+          "//: Que me ama: //",
+          "sí, con tierno amor,"
+        ],
+        "v3": ["/: Que me ama:/", "su Nombre es Jesús.", "Tú tienes un..."],
+        "v4": ["Tenemos un..."]
+      }
+    }
+  ]
+}

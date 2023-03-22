@@ -1,0 +1,31 @@
+{
+  "titles": ["Señor Llevame A Tus Atrios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "266" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Señor llévame a tus Atrios",
+          "al lugar Santo, al altar de bronce.",
+          "Señor tu rostro quiero ver,"
+        ],
+        "v2": [
+          "pésame en la muchedumbre,",
+          "por donde el sacerdote canta",
+          "tengo hambre y sed de justicia"
+        ],
+        "v3": [
+          "y sólo encuentro un lugar.",
+          "/:Llévame al lugar Santísimo",
+          "por la Sangre del Cordero Redentor/"
+        ],
+        "v4": ["llévame al lugar Santo", "tócame, límpiame. Heme aquí."]
+      }
+    }
+  ]
+}

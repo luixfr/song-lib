@@ -1,0 +1,21 @@
+{
+  "titles": ["Las Aguas Del Rio Jordán"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "265" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Las aguas del río del Jordán",
+          "limpiaron la lepra de Naamán:/",
+          "/:Y si te lavas en la Sangre de Cristo,"
+        ],
+        "v2": ["la Sangre de Cristo te puede limpiar:/"]
+      }
+    }
+  ]
+}

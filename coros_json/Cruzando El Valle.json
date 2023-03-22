@@ -1,0 +1,26 @@
+{
+  "titles": ["Cruzando El Valle"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "375" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Cruzando el valle voy,",
+          "hasta llegar allá,",
+          "a la Mansión de luz,"
+        ],
+        "v2": [
+          "para vivir con mi Jesús.",
+          "Allí no habrá dolor,",
+          "ni llanto para mi,"
+        ],
+        "v3": ["allí yo cantará", "que soy feliz con mi Jesús."]
+      }
+    }
+  ]
+}

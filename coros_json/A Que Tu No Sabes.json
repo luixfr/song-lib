@@ -1,0 +1,26 @@
+{
+  "titles": ["A Que Tu No Sabes"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "100" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: A que tú sabes lo que en Damasco pasó,",
+          "lo que paso, Io que pasó:/",
+          "/: ///: Fue el Espíritu Santo:///"
+        ],
+        "v2": [
+          "que sobre Pablo se derramó:/",
+          "/: En este día hermoso",
+          "también tú //: puedes tener://"
+        ],
+        "v3": ["/: //: El Espíritu Santo://", "que sobre Pablo se derramó:/"]
+      }
+    }
+  ]
+}

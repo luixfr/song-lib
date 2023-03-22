@@ -1,0 +1,29 @@
+{
+  "titles": ["Cuando Yo Oro"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "185" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//: Cuando yo oro alguien me toca://",
+          "y es la mano del Señor.",
+          "//: Gloria, gloria, gloria alguien me toca://"
+        ],
+        "v2": [
+          "y es la mano del Señor.",
+          "//: Cuando estoy enfermo alguien me sana://",
+          "y es la mano del Señor."
+        ],
+        "v3": [
+          "//: Gloria, gloria, gloria alguien me sana://",
+          "y es la mano del Señor."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "titles": ["Yo Se Que Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "305" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Yo sé que Cristo viene",
+          "y espero su venida:/",
+          "El que está preparado"
+        ],
+        "v2": [
+          "con El se irá hacia arriba",
+          "Arriba hacia arriba,",
+          "arriba y no hacia abajo."
+        ],
+        "v3": ["//: Subiendo:// y no bajando"]
+      }
+    }
+  ]
+}

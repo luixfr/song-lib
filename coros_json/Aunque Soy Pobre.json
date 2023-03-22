@@ -1,0 +1,23 @@
+{
+  "titles": ["Aunque Soy Pobre"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "243" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Aunque soy pobre, pero lo tengo todo:/",
+          "La salvación, la salvación, la salvación que es el único tesoro.",
+          "/: El rico tiene, pero le falta todo:/"
+        ],
+        "v2": [
+          "La salvación, la salvación, la salvación que es el único tesoro."
+        ]
+      }
+    }
+  ]
+}

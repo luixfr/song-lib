@@ -1,0 +1,29 @@
+{
+  "titles": ["Quedate Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "40" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//: Quédate Señor: //",
+          "En cada corazón.",
+          "//: Quédate Señor: //en mí."
+        ],
+        "v2": [
+          "Oh, Cristo mío",
+          "Haz de mi alma un altar,",
+          "para adorarte con devoción,"
+        ],
+        "v3": [
+          "para beber de las aguas de la vida",
+          "Y así saciar mi pobre corazón."
+        ]
+      }
+    }
+  ]
+}

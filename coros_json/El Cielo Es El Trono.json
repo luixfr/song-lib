@@ -1,0 +1,29 @@
+{
+  "titles": ["El Cielo Es El Trono"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "107" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:El cielo es el trono de mi Dios,",
+          "la tierra el estrado de sus pies",
+          "y siendo tan sublime el Señor"
+        ],
+        "v2": [
+          "mi pequeño corazón su templo es.",
+          "¡Oh! que grandeza, que maravilla",
+          "por eso yo no quiero más pecar;"
+        ],
+        "v3": [
+          "yo quiero ser su santo templo",
+          "donde su Espíritu venga a morar."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "titles": ["Me Gozaré"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "495" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/: Cuando el Señor hiciere volver",
+          ":/ Mi boca llenará de risa,",
+          "mis labios de la alabanza"
+        ],
+        "v2": [
+          "entonces dirán las naciones:",
+          "Grandes cosas ha hecho el Señor:/",
+          ":/Me gozaré, me gozaré, me gozaré"
+        ],
+        "v3": [
+          "me gozaré en Jehová. (¡Gózate!)",
+          "Pues se ha llevado todo mi dolor,",
+          "me ha hecho libre:/"
+        ],
+        "v4": [
+          "/:Así como David cantaba,",
+          "así como David andaba,",
+          "así como David fluía en su presencia:/"
+        ]
+      }
+    }
+  ]
+}

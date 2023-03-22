@@ -1,0 +1,26 @@
+{
+  "titles": ["Dejate Sentir"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "318" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Batalla no es batalla",
+          "si no viene la prueba",
+          "si no viene la lucha"
+        ],
+        "v2": [
+          "la batalla no es batalla.",
+          "Con Jesús yo iré pelearé la batalla",
+          "y si al frente el va,"
+        ],
+        "v3": ["ganaremos la batalla."]
+      }
+    }
+  ]
+}

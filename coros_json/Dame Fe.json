@@ -1,0 +1,31 @@
+{
+  "titles": ["Dame Fe"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "460" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Mira mi cuerpo Señor,",
+          "mira que enfermo estoy,",
+          "la duda viene a mi,"
+        ],
+        "v2": [
+          "siento ya desfallecer.",
+          "CORO:",
+          "//: Dame fe:// ayúdame. oh, Jesús."
+        ],
+        "v3": [
+          "Cuanta tristeza hay en mi,",
+          "en mis noches de dolor,",
+          "las noches siento morir,"
+        ],
+        "v4": ["sé que enterado estás."]
+      }
+    }
+  ]
+}

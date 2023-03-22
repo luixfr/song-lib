@@ -1,0 +1,26 @@
+{
+  "titles": ["Ven Espiritu, Ven"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "477" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Ven Espíritu, ven",
+          "y lléname Señor",
+          "con tu preciosa Unción:/"
+        ],
+        "v2": [
+          "/: Purifícame y lávame, renuévame,",
+          "restáurame Señor con tu poder:/",
+          "/: Purifícame y lávame, renuévame,"
+        ],
+        "v3": ["restáurame Señor, te quiero conocer:/"]
+      }
+    }
+  ]
+}

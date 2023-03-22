@@ -1,0 +1,50 @@
+{
+  "titles": ["Gracias Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "386" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7", "v8"],
+      "lyric": {
+        "v1": [
+          "//: Gracias Señor,",
+          "Tú eres mi fortaleza,",
+          "gracias Señor, en Ti soy triunfador://"
+        ],
+        "v2": [
+          "(Hombres)",
+          "Hemos conquistado al mundo,",
+          "por la Sangre de Jesús,"
+        ],
+        "v3": ["y que dio su vida misma", "para salvación.", "(Mujeres)"],
+        "v4": [
+          "Nuestras vidas trasformadas,",
+          "hablan de su gran amor;",
+          "y pueden decir al mundo,"
+        ],
+        "v5": [
+          "que El regresará, oh, oh, oh El regresará.",
+          "(Hombres)",
+          "Por su enorme sacrificio,"
+        ],
+        "v6": [
+          "por su última misión;",
+          "Jesucristo ha pagado",
+          "nuestra redención."
+        ],
+        "v7": [
+          "(Mujeres)",
+          "El poder de las tinieblas,",
+          "con su muerte El venció,"
+        ],
+        "v8": [
+          "otorgando la promesa",
+          "de resurrección, oh, oh, oh de resurrección."
+        ]
+      }
+    }
+  ]
+}

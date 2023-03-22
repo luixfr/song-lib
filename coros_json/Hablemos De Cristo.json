@@ -1,0 +1,24 @@
+{
+  "titles": ["Hablemos De Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "85" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Hablemos de Cristo,",
+          "el Rey de reyes es,",
+          "Señor de señores por la eternidad,"
+        ],
+        "v2": [
+          "El es el Camino, la Vida y la Verdad.",
+          "Hablemos de Cristo más y más."
+        ]
+      }
+    }
+  ]
+}

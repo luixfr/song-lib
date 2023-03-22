@@ -1,0 +1,36 @@
+{
+  "titles": ["Gracias Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "4" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/: Gracias Cristo, gracias Cristo: /",
+          "Levantemos nuestras manos",
+          "en señal de gratitud."
+        ],
+        "v2": [
+          "Gracias Cristo, gracias Cristo.",
+          "/: Santo Espíritu, Santo Espíritu: /",
+          "llena nuestros corazones,"
+        ],
+        "v3": [
+          "Santo Espíritu.",
+          "Levantemos nuestras manos",
+          "en señal de gratitud."
+        ],
+        "v4": [
+          "///: Aleluya:///",
+          "Levantemos nuestras manos",
+          "en señal de gratitud"
+        ],
+        "v5": ["Aleluya, aleluya."]
+      }
+    }
+  ]
+}

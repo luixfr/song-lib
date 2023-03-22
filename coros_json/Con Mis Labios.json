@@ -1,0 +1,30 @@
+{
+  "titles": ["Con Mis Labios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "58" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Con mis labios y mi vida",
+          "/: Te alabo Señor: /",
+          "Con mis labios y mi vida"
+        ],
+        "v2": [
+          "te alabo bendito Señor.",
+          "Porque Tú has sido",
+          "/: precioso para mi: /"
+        ],
+        "v3": [
+          "porque Tú has sido",
+          "precioso para mí,",
+          "Te alabo bendito Señor"
+        ]
+      }
+    }
+  ]
+}

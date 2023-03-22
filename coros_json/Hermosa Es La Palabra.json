@@ -1,0 +1,22 @@
+{
+  "titles": ["Hermosa Es La Palabra"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "213" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["//: Hermosa://", "es la Palabra del Señor", "//: Hermoso://"],
+        "v2": [
+          "el Evangelio de poder",
+          "//: Eterna://",
+          "la vida y paz que Cristo da"
+        ],
+        "v3": ["//: Divino://", "será mirar a nuestro Rey."]
+      }
+    }
+  ]
+}

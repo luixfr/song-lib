@@ -1,0 +1,18 @@
+{
+  "titles": ["Yo Quiero Mas"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "147" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["/:Yo quiero más", "y más de Cristo,", "yo quiero más"],
+        "v2": ["y más de Él", "yo quiero más", "de su Presencia"],
+        "v3": ["yo quiero más y más de Él."]
+      }
+    }
+  ]
+}

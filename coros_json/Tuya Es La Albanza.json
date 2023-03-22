@@ -1,0 +1,26 @@
+{
+  "titles": ["Tuya Es La Albanza"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "453" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Tuya es la alabanza en Sión, oh, Dios, tuya, toda tuya es mi",
+          "canción:/",
+          "Tú oyes la oración"
+        ],
+        "v2": [
+          "de aquellos que te buscan,",
+          "con tremendas cosas",
+          "nos responderás"
+        ],
+        "v3": ["Tú en justicia, oh, Dios", "/:de nuestra salvación:/"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "titles": ["Feliz, Feliz Cumpleaños"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "81" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "Feliz, feliz cumpleaños",
+          "deseamos para ti.",
+          "Que el Dios Omnipotente"
+        ],
+        "v2": ["te quiera bendecir.", "CORO", "Feliz, feliz cumpleaños"],
+        "v3": [
+          "de Dios felicidad",
+          "que tengas en la vida,",
+          "allá en la eternidad."
+        ],
+        "v4": ["Cumpleaños feliz", "te deseamos hermana", "cumpleaños feliz."],
+        "v5": [
+          "Al Dios rendimos gracias,",
+          "que con sin par bondad",
+          "Al fin de este año hermoso te permitió llegar."
+        ],
+        "v6": [
+          "Oremos pues, unidos, que te bendiga aun mas",
+          "Te colme en el futuro de bien, prosperidad."
+        ]
+      }
+    }
+  ]
+}

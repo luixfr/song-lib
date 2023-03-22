@@ -1,0 +1,27 @@
+{
+  "titles": ["Bendita Uncion"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "401" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": ["Bendita Unción,", "Que cae de tu Trono", "llenando mi vida,"],
+        "v2": [
+          "Mi alma y mi corazón",
+          "hoy vengo a Ti, ven llena mi vida",
+          "Espíritu Santo te quiero decir:"
+        ],
+        "v3": [
+          "Que te necesito Espíritu Santo",
+          "derrámate hoy sobre mi corazón",
+          "Con toda tu Unción."
+        ],
+        "v4": ["Y manda tu fuego sobre mi vida", "yo te necesito para vivir."]
+      }
+    }
+  ]
+}

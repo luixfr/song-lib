@@ -1,0 +1,59 @@
+{
+  "titles": ["Creo En Tí"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "491" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7", "v8", "v9"],
+      "lyric": {
+        "v1": [
+          "Creo en Tí, como creo en el sol",
+          "que me da su calor,",
+          "creo en Tí, oh bendito Jesús,"
+        ],
+        "v2": [
+          "pues me das tu amor,",
+          "creo en Tí, porque si no creyera,",
+          "mi alma huérfana fuera"
+        ],
+        "v3": [
+          "y en mi vida no habría ni la luz, ni el amor.",
+          "Creo en Tí, a pesar de las dudas,",
+          "a pesar de la ciencia, a pesar de mí mismo;"
+        ],
+        "v4": [
+          "creo en Tí, si mi fe languidece,",
+          "cuando casi se extingue oh Señor creo en Tí,",
+          "creo en Tí, aunque otros te nieguen"
+        ],
+        "v5": [
+          "y cuál réprobos vivan, oh Jesús, creo en Tí.",
+          "Creo en Ti, al mirar la belleza",
+          "de tu magna creación;"
+        ],
+        "v6": [
+          "creo en Ti, cuando escucho el reír",
+          "de tu gente feliz;",
+          "creo en Tí, si percibo las quejas,"
+        ],
+        "v7": [
+          "de los míseros parias que hasta a ti se acercan",
+          "en ansias de amar;",
+          "Creo en Tí, pues me diste tu mano,"
+        ],
+        "v8": [
+          "cuando yo estaba solo en mis densas tinieblas,",
+          "creo en Tí, porque tu eres el fuego",
+          "que calientas mi alma con su amor sin igual,"
+        ],
+        "v9": [
+          "creo en Tí, aunque otros se burlen",
+          "y un iluso me juzgue, oh Jesús, creo en Tí"
+        ]
+      }
+    }
+  ]
+}

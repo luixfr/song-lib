@@ -1,0 +1,29 @@
+{
+  "titles": ["Soy Feliz"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "257" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//: Soy feliz, Cristo me salvó://",
+          "Gloria, aleluya, Cristo me salvó.",
+          "/: Soy feliz:/ porque Cristo me salvó"
+        ],
+        "v2": [
+          "ahora vivo por Jesús porque Él",
+          "es mi Redentor volver atrás",
+          "no quiero más."
+        ],
+        "v3": [
+          "No hay nada que el mundo pueda dar",
+          "/: soy feliz:/ porque Cristo me salvó."
+        ]
+      }
+    }
+  ]
+}

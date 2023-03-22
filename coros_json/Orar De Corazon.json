@@ -1,0 +1,21 @@
+{
+  "titles": ["Orar De Corazon"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "194" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Orar de corazón, orar es una bendición,",
+          "es una bendición/",
+          "/: Pues nuevas son cada mañana"
+        ],
+        "v2": ["las misericordias del Señor Jehová:/"]
+      }
+    }
+  ]
+}

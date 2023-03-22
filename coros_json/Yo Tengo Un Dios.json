@@ -1,0 +1,20 @@
+{
+  "titles": ["Yo Tengo Un Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "207" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Yo tengo un Dios que escucha lo que pido, yo tengo un Dios que",
+          "quita todo mal, yo tengo un Dios que cuida de mi vida, yo tengo un Dios que se llama",
+          "Jesús."
+        ]
+      }
+    }
+  ]
+}

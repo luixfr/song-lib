@@ -1,0 +1,24 @@
+{
+  "titles": ["Oh Que Grande"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "221" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "///: Oh, qué grande/// es la Biblia para mi! Palabra Santa de mi",
+          "Creador,",
+          "Revelación de su Poder,"
+        ],
+        "v2": [
+          "en ella encuentro la salvación.",
+          "/: ¡Oh, qué grande es la Biblia para mí! :/"
+        ]
+      }
+    }
+  ]
+}

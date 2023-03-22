@@ -1,0 +1,31 @@
+{
+  "titles": ["Padre Del Cielo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "36" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Padre del cielo te adoramos",
+          "alzamos hoy tu Nombre en alto",
+          "que tu Reino se establezca"
+        ],
+        "v2": [
+          "en la alabanza",
+          "que tu pueblo te declare tu poder",
+          "/: Bendito sea el Señor Dios"
+        ],
+        "v3": [
+          "Poderoso, quien fue,",
+          "Quien es y quien vendrá.",
+          "Bendito sea el Señor Dios"
+        ],
+        "v4": ["Poderoso, por siempre reinará:/"]
+      }
+    }
+  ]
+}

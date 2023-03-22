@@ -1,0 +1,31 @@
+{
+  "titles": ["No Hay Problema"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "452" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "No hay problema",
+          "que Dios no pueda resolver.",
+          "No hay montaña"
+        ],
+        "v2": [
+          "que El no pueda mover.",
+          "No existe oscuridad",
+          "que Él no pueda alumbrar."
+        ],
+        "v3": [
+          "No hay herida que Él no pueda sanar.",
+          "/: Si el pecado del mundo",
+          "llevó sobre sus hombros,"
+        ],
+        "v4": ["las cargas que a ti te agobian,", "El las llevará:/"]
+      }
+    }
+  ]
+}

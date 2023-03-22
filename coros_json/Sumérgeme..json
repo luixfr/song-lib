@@ -1,0 +1,36 @@
+{
+  "titles": ["Sumérgeme."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "145" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/:Cansado del camino,",
+          "sediento de Ti.",
+          "Un desierto he cruzado"
+        ],
+        "v2": [
+          "sin fuerzas he quedado,",
+          "vengo a Ti.",
+          "Luché como soldado y a veces sufrí"
+        ],
+        "v3": [
+          "y aunque la lucha he ganado",
+          "mi armadura he desgastado,",
+          "vengo a Ti."
+        ],
+        "v4": [
+          "/: Sumérgeme",
+          "en el río de tu Espíritu",
+          "necesito refrescar"
+        ],
+        "v5": ["este seco corazón sediento de Ti:/"]
+      }
+    }
+  ]
+}

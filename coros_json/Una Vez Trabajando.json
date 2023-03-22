@@ -1,0 +1,20 @@
+{
+  "titles": ["Una Vez Trabajando"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "300" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Una vez trabajando oí una voz,",
+          "esa voz me decía: 'No peques más' Jesucristo ya viene en una nube blanca.",
+          "/: Jesucristo ya viene// no peques más."
+        ]
+      }
+    }
+  ]
+}

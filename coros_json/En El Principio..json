@@ -1,0 +1,20 @@
+{
+  "titles": ["En El Principio."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "115" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/:/: En el principio el Espíritu de Dios se movía sobre las aguas:/",
+          "/: Pero ahora se está moviendo",
+          "dentro de mi corazón:/"
+        ]
+      }
+    }
+  ]
+}

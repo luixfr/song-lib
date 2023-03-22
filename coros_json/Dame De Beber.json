@@ -1,0 +1,22 @@
+{
+  "titles": ["Dame De Beber"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "492" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//:Quiero estar en tu presencia",
+          "y poderte contemplar;",
+          "necesito estar contigo,"
+        ],
+        "v2": ["necesito adorar://", "CORO", "Dame de beber de tu manantial"],
+        "v3": ["dame de beber, necesito mas."]
+      }
+    }
+  ]
+}

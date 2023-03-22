@@ -1,0 +1,25 @@
+{
+  "titles": ["Como Jeremias"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "184" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Como Jeremías oraba",
+          "Y oraba",
+          "así quiero yo orar y orar: /"
+        ],
+        "v2": [
+          "/: Y Dios le contestaba",
+          "la petición que hacia",
+          "así quiero yo conteste la mía: /"
+        ]
+      }
+    }
+  ]
+}

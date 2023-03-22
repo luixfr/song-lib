@@ -1,0 +1,21 @@
+{
+  "titles": ["Bendito Sea Jehová"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "418" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Bendito sea Jehová,",
+          "quien adiestra mis manos a pelear.",
+          "Mi Roca, mi Escudo, mi Castillo"
+        ],
+        "v2": ["y mi Libertador, mi Gloria, mi Fuerza, en El confiaré."]
+      }
+    }
+  ]
+}

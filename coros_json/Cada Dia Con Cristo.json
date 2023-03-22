@@ -1,0 +1,20 @@
+{
+  "titles": ["Cada Dia Con Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "320" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Cada día con Cristo me llena de perfecta paz, cada día con",
+          "Cristo, le amo más y más,",
+          "El me salva y guarda y sé que pronto volverá y vivir con Cristo más dulce cada día será."
+        ]
+      }
+    }
+  ]
+}

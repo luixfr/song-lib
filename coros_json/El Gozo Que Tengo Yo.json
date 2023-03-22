@@ -1,0 +1,31 @@
+{
+  "titles": ["El Gozo Que Tengo Yo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "332" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "El gozo que tengo yo",
+          "/: El mundo no me lo dio: /",
+          "y /: como no me lo dio"
+        ],
+        "v2": [
+          "no me lo puede quitar: /",
+          "Si empezamos a orar",
+          "este lugar tiembla"
+        ],
+        "v3": [
+          "Si empezamos a orar",
+          "hablaremos nuevas lenguas.",
+          "Elías oró y el Fuego cayó;"
+        ],
+        "v4": ["oró Josué y el sol se paró"]
+      }
+    }
+  ]
+}

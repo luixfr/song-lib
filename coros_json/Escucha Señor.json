@@ -1,0 +1,26 @@
+{
+  "titles": ["Escucha Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "450" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Escucha, Señor, mi oración,",
+          "considera mi pensamiento,",
+          "atiende a la voz de mi clamor,"
+        ],
+        "v2": [
+          "mi Rey y mi Dios.",
+          "Porque a Ti oraré,",
+          "oirás mi voz de mañana,"
+        ],
+        "v3": ["oh, Dios, de mañana me presentaré ante Ti y esperaré."]
+      }
+    }
+  ]
+}

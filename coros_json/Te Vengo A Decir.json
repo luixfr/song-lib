@@ -1,0 +1,42 @@
+{
+  "titles": ["Te Vengo A Decir"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "382" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7"],
+      "lyric": {
+        "v1": [
+          "/: Te vengo a decir:/",
+          "Oh, mi Salvador:",
+          "/: Que yo te amo a Ti:/"
+        ],
+        "v2": ["Con el corazón.", "/: Te vengo a decir:/", "toda la verdad:"],
+        "v3": ["Te adoro Señor, te amo Señor,", "con el corazón.", "Coro:"],
+        "v4": [
+          "/: Yo quiero cantar:/de gozo y de paz.",
+          "/: Yo quiero llorar:/ de felicidad.",
+          "/: Te vengo a decir:/ toda la verdad:"
+        ],
+        "v5": [
+          "Que te amo Señor, te adoro Señor,",
+          "con el corazón.",
+          "Te adoro Señor, te amo Señor,"
+        ],
+        "v6": [
+          "con el corazón.",
+          "/: Te quiero seguir:/ oh, mi Salvador",
+          "/: y darte mi ser:/ mi Amigo, mi Dios."
+        ],
+        "v7": [
+          "/: Te quiero servir:/ mi Dios y mi Rey,",
+          "te vengo a poner todo lo que soy,",
+          "recíbelo Dios."
+        ]
+      }
+    }
+  ]
+}

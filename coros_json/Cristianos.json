@@ -1,0 +1,33 @@
+{
+  "titles": ["Cristianos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "163" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": ["CORO:", "Cristianos, cristianos", "/: cantemos al Señor:/"],
+        "v2": ["Cristianos, cristianos", "/:con toda nuestra voz:/", "-1-"],
+        "v3": [
+          "Que Dios escuchará nuestra canción",
+          "y nos hará sentir su bendición.",
+          "Si todos nos unimos,"
+        ],
+        "v4": [
+          "si juntos le pedimos",
+          "que alumbre nuestras almas con su santo amor.",
+          "-2-"
+        ],
+        "v5": [
+          "Que ya no queda tiempo que perder",
+          "escrito está que volverá Jesús.",
+          "Contempla el firmamento porque en cualquier momento veremos en el cielo su"
+        ],
+        "v6": ["presencia y su luz."]
+      }
+    }
+  ]
+}

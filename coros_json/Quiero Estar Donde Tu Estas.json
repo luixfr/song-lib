@@ -1,0 +1,36 @@
+{
+  "titles": ["Quiero Estar Donde Tu Estas"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "41" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/: Yo sólo quiero estar donde Tú estás",
+          "viviendo a diario en tu presencia",
+          "no quiero darte sólo adoración yo quiero ser adorador."
+        ],
+        "v2": [
+          "Yo sólo quiero estar donde Tú estás",
+          "en tu habitación por siempre",
+          "llévame al lugar donde Tú estás"
+        ],
+        "v3": [
+          "yo quiero estar donde Tú estás:/",
+          "Yo quiero estar contigo morando en tu presencia, comiendo de tu mesa, rodeado de  tu gloria,",
+          "en tu presencia, es donde siempre quiero estar,"
+        ],
+        "v4": [
+          "/: yo sólo quiero estar:/ donde Tú estás.",
+          "/: Oh mi Dios, Tú eres mi fuerza y mi canción",
+          "y aunque débil sea en tu presencia fuerte soy /:Yo sólo quiero estar, yo quiero estar  donde Tú estás:/ /:Aquí estoy en tu presencia adorándote, Jesús. Aquí estoy"
+        ],
+        "v5": ["adorándote por lo que haz hecho en mí:/"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "titles": ["Yo Era Esclavo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "176" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Yo era esclavo de la muerte",
+          "yo era esclavo del dolor",
+          "hasta que supe que existía"
+        ],
+        "v2": ["Jesús el gran libertador."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "titles": ["No Se Por Qué"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "379" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "No sé porque, Señor Tú me tocaste,",
+          "No sé porque en mi Tú te fijaste;",
+          "pero si sé que es grande tu amor"
+        ],
+        "v2": [
+          "por mi.",
+          "Mi corazón está agradecido,",
+          "mi corazón está a Ti rendido,"
+        ],
+        "v3": [
+          "contigo siempre quiero, Señor, estar.",
+          "Coro:",
+          "/: Porque fuera de Ti,"
+        ],
+        "v4": [
+          "nada deseo en la tierra,",
+          "tu presencia es más hermosa",
+          "que cualquier cosa: /"
+        ],
+        "v5": [
+          "Eres, Señor, mi gozo y alegría.",
+          "Tú estás Señor, conmigo todo el día",
+          "y en Ti yo siempre quiero,"
+        ],
+        "v6": ["Señor, estar."]
+      }
+    }
+  ]
+}

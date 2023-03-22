@@ -1,0 +1,35 @@
+{
+  "titles": ["Hacemos Hoy Ante Tu Altar"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "454" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/:Hacemos hoy ante tu altar,",
+          "un compromiso de vivir en santidad.",
+          "Hacemos hoy ante tu altar,"
+        ],
+        "v2": [
+          "un pacto de hombres",
+          "que te quieren agradar.",
+          "Con manos limpias,"
+        ],
+        "v3": [
+          "corazón puro ante Ti,",
+          "Cuidaré mis ojos,",
+          "Cuidaré mis manos,"
+        ],
+        "v4": [
+          "Cuidaré mi corazón",
+          "/: De todo lo malo: /",
+          "no te quiero fallar jamás."
+        ]
+      }
+    }
+  ]
+}

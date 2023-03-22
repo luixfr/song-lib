@@ -1,0 +1,24 @@
+{
+  "titles": ["Solo El Poder De Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "364" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Solo el poder de Dios",
+          "puede cambiar tu ser,",
+          "la prueba yo te doy"
+        ],
+        "v2": [
+          "El me ha cambiado a mí,",
+          "no ves que soy feliz sirviendo al Señor nueva criatura soy, por Jesús."
+        ]
+      }
+    }
+  ]
+}

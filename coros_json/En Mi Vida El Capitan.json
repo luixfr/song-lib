@@ -1,0 +1,30 @@
+{
+  "titles": ["En Mi Vida El Capitan"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "427" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: El Señor marchando va",
+          "y su pueblo, junto a El está,",
+          "Su Gloria en nuestras vidas brillará."
+        ],
+        "v2": [
+          "Su victoria nos ha dado ya",
+          "y con su brazo nos fortalecerá,",
+          "lucharé hasta la tierra a conquistar."
+        ],
+        "v3": [
+          "/: En mi vida el Capitán es Cristo,",
+          "marcharemos hasta su presencia,",
+          "no hay arma que nos pueda derrotar:/"
+        ]
+      }
+    }
+  ]
+}

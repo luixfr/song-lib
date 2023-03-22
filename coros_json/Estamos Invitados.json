@@ -1,0 +1,39 @@
+{
+  "titles": ["Estamos Invitados"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "291" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7", "v8"],
+      "lyric": {
+        "v1": [
+          "Estamos invitados",
+          "a una fiesta hermosa",
+          "sublime y tan gloriosa"
+        ],
+        "v2": [
+          "que no habrá otra igual",
+          "las Bodas del Cordero",
+          "de Cristo con su Iglesia"
+        ],
+        "v3": ["velozmente se acercan", "y yo listo quiero estar.", "CORO:"],
+        "v4": ["/: Aleluya: /", "gloria a Dios", "Jesús ha preparado"],
+        "v5": [
+          "Lugares especiales",
+          "donde los convidados",
+          "Podamos disfrutar,"
+        ],
+        "v6": [
+          "de hermosas bendiciones",
+          "y ricos galardones",
+          "y nuestras aflicciones"
+        ],
+        "v7": ["podamos olvidar", "/: Cristo viene: /", "Aleluya"],
+        "v8": ["Gloria a Dios"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "titles": ["Mirad Bendecid"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "309" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Mirad bendecid a Jehová,",
+          "vosotros todos los Siervos de Jehová",
+          "los que en la Casa de Jehová"
+        ],
+        "v2": [
+          "estáis por las noches.",
+          "/: Alzad vuestras manos",
+          "al Santuario y bendecid a Jehová:/"
+        ],
+        "v3": [
+          "Bendígate Jehová desde Sión",
+          "El cual ha hecho los cielos",
+          "y la tierra. Amén."
+        ]
+      }
+    }
+  ]
+}

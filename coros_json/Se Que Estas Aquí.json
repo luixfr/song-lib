@@ -1,0 +1,26 @@
+{
+  "titles": ["Se Que Estas Aquí"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "129" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:Sé que estás aquí, Señor,",
+          "recibe la alabanza de tu pueblo,",
+          "sé que me puedes llenar"
+        ],
+        "v2": [
+          "de tu presencia, oh mi buen Jesús.",
+          "//: Gloria a Ti,",
+          "gloria a Ti,"
+        ],
+        "v3": ["aleluya, gloria", "a Ti Jesús://"]
+      }
+    }
+  ]
+}

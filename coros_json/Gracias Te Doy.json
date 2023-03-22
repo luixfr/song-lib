@@ -1,0 +1,21 @@
+{
+  "titles": ["Gracias Te Doy"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "5" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Gracias te doy Señor: /",
+          "en este día gracias te doy.",
+          "/: Que por mis culpas"
+        ],
+        "v2": ["y mis pecados", "diste tu vida, oh buen Señor: /."]
+      }
+    }
+  ]
+}

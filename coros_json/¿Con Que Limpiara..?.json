@@ -1,0 +1,21 @@
+{
+  "titles": ["¿Con Que Limpiara..?"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "165" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "¿Con qué limpiará el joven su camino?",
+          "/: Con guardar tu Palabra:/",
+          "En mi corazón he guardado tus dichos"
+        ],
+        "v2": ["para no pecar contra Ti."]
+      }
+    }
+  ]
+}

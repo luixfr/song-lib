@@ -1,0 +1,20 @@
+{
+  "titles": ["Poder, Poder"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "133" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/:Poder, Poder, Poder yo necesito,",
+          "para poder vencer las huestes del maligno. Ese mismo Poder lo necesitas tú,",
+          "ese mismo Poder lo necesito yo."
+        ]
+      }
+    }
+  ]
+}

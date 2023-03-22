@@ -1,0 +1,30 @@
+{
+  "titles": ["Esta Aqui"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "335" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Está aquí:/",
+          "Aleluya mi Señor esta aquí",
+          "/: Está aquí:/"
+        ],
+        "v2": [
+          "Aleluya mi Señor está aquí.",
+          "Ahora vivo una vida diferente",
+          "diferente en el modo en que viví"
+        ],
+        "v3": [
+          "Hoy no hay penas, no hay temores",
+          "No hay tristezas",
+          "Aleluya mi Señor está aquí."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "titles": ["Me Has Escogido"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "479" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "Me has escogido un adorador,",
+          "sacerdote del Señor,",
+          "para alabanza de tu gloria"
+        ],
+        "v2": [
+          "y honor.",
+          "Desde el vientre Señor,",
+          "Me has escogido y por eso"
+        ],
+        "v3": [
+          "Te alabo Señor.",
+          "Con mi vida Señor,",
+          "con mis labios, Señor,"
+        ],
+        "v4": [
+          "yo te ofrezco un canto de amor",
+          "Has puesto en mí",
+          "un cántico nuevo,"
+        ],
+        "v5": [
+          "has puesto en mí",
+          "canto de alabanza;",
+          "en mis labios hay adoración"
+        ],
+        "v6": ["y el cántico de mi corazón."]
+      }
+    }
+  ]
+}

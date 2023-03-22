@@ -1,0 +1,24 @@
+{
+  "titles": ["Mi Corazon Contento Esta"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "247" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "¡Mi corazón contento está!",
+          "porque Jesús ya me salvó.",
+          "/: Oh qué feliz: /"
+        ],
+        "v2": [
+          "se siente el alma con Jesús",
+          "la paz que El da ninguno la pueda dar."
+        ]
+      }
+    }
+  ]
+}

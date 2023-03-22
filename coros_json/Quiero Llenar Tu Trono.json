@@ -1,0 +1,22 @@
+{
+  "titles": ["Quiero Llenar Tu Trono"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "43" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Quiero llenar tu Trono",
+          "De alabanza,",
+          "Quiero llenar tu Trono"
+        ],
+        "v2": ["De adoración.", "Quiero adorar postrado", "En tu presencia"],
+        "v3": ["Y proclamarte Señor: /"]
+      }
+    }
+  ]
+}

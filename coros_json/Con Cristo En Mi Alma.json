@@ -1,0 +1,21 @@
+{
+  "titles": ["Con Cristo En Mi Alma"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "323" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Con Cristo en mi alma",
+          "todo //: marcha feliz://",
+          "con Cristo en mi alma"
+        ],
+        "v2": ["todo marcha feliz,", "porque Cristo vive en mí."]
+      }
+    }
+  ]
+}

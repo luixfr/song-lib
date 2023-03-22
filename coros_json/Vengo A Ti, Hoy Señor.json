@@ -1,0 +1,29 @@
+{
+  "titles": ["Vengo A Ti, Hoy Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "47" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Vengo a Ti, hoy Señor",
+          "a rendir mi corazón",
+          "quiero más de Ti,"
+        ],
+        "v2": [
+          "toma mi necesidad;",
+          "dame tu preciosa paz,",
+          "quiero más de Ti."
+        ],
+        "v3": [
+          "//: Dame:// más de Ti bendito Señor",
+          "quiero más de Ti, bendito Señor."
+        ]
+      }
+    }
+  ]
+}

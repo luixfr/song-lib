@@ -1,0 +1,21 @@
+{
+  "titles": ["Oh Fuego Ven"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "130" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:///: Oh, Fuego ven :///",
+          "enciende a la congregación",
+          "invade hoy mi corazón,"
+        ],
+        "v2": ["///: Oh, Fuego ven:///"]
+      }
+    }
+  ]
+}

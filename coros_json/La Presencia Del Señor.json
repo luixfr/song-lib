@@ -1,0 +1,21 @@
+{
+  "titles": ["La Presencia Del Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "218" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "La presencia del Señor yo la siento en mí yo la siento, la siento en mí < /p>Cuando leo la Biblia la siento,",
+          "cuando oro o canto la siento",
+          "la presencia del Señor yo la siento"
+        ],
+        "v2": ["en el Templo y donde quiera que yo estoy."]
+      }
+    }
+  ]
+}

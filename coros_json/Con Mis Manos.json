@@ -1,0 +1,30 @@
+{
+  "titles": ["Con Mis Manos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "16" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Con mis manos hacia el cielo",
+          "y sin contienda en mi corazón;",
+          "de rodillas me rindo a Ti, Señor,"
+        ],
+        "v2": [
+          "y deseo hacer tu voluntad.",
+          "Que cada miembro en mi,",
+          "que todo lo que soy"
+        ],
+        "v3": [
+          "exprese amor y gratitud.",
+          "/: Porque el deseo de mi corazón",
+          "es amarte y darte adoración:/"
+        ]
+      }
+    }
+  ]
+}

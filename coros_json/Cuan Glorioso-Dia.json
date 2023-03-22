@@ -1,0 +1,25 @@
+{
+  "titles": ["Cuan Glorioso-Dia"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "461" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Cuán glorioso día, pronto viene ya;",
+          "en la noche o en el día, viene ya.",
+          "Las Bodas del Cordero se espera celebrar, yo veré al Rey que vendrá"
+        ],
+        "v2": [
+          "/: Yo veré al Rey ¡Si! Gloria:/",
+          "Yo veré al Rey que vendrá.",
+          "Las Bodas del Cordero se esperan celebrar, yo veré al Rey que vendrá."
+        ]
+      }
+    }
+  ]
+}

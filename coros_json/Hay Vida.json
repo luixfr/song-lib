@@ -1,0 +1,21 @@
+{
+  "titles": ["Hay Vida"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "293" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Hay vida, hay vida en Jesús:/",
+          "por Él entraré a la Patria Celestial,",
+          "porque hay vida, hay vida en Jesús."
+        ],
+        "v2": ["/: Hay gozo..."]
+      }
+    }
+  ]
+}

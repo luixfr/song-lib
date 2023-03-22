@@ -1,0 +1,30 @@
+{
+  "titles": ["Libre"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "469" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Libre, yo soy libre",
+          "las cadenas del pecado",
+          "Han sido rotas."
+        ],
+        "v2": [
+          "Libre, yo soy libre",
+          "para cantar, para adorar,",
+          "Para gozar."
+        ],
+        "v3": [
+          "/: He vencido al enemigo,",
+          "por la Sangre de Jesucristo",
+          "yo soy libre: /"
+        ]
+      }
+    }
+  ]
+}

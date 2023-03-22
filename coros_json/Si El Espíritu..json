@@ -1,0 +1,21 @@
+{
+  "titles": ["Si El Espíritu."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "142" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:/: Si el Espíritu de Dios",
+          "se mueve en mí",
+          "yo canto como David:/"
+        ],
+        "v2": ["/: Yo canto, yo canto,", "yo canto como David:/"]
+      }
+    }
+  ]
+}

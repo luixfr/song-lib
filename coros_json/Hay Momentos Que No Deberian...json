@@ -1,0 +1,26 @@
+{
+  "titles": ["Hay Momentos Que No Deberian.."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "467" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Hay momentos que no deberían terminar, hay segundos que",
+          "tendrían que ser eternidad, cuando tu Espíritu Señor se toca con el mío y mi corazón",
+          "estalla en adoración."
+        ],
+        "v2": [
+          "Te amo mi Señor, se acaban las palabras",
+          "sólo me queda mi alma, para cantarte.",
+          "Te adoro mi Señor, no hay nada alrededor"
+        ],
+        "v3": ["/: sólo estamos Tú y yo:/"]
+      }
+    }
+  ]
+}

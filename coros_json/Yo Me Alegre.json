@@ -1,0 +1,30 @@
+{
+  "titles": ["Yo Me Alegre"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "313" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Yo me alegre con los que me decían",
+          "a la Casa de Jehová iremos",
+          "/: Allí estaré, allí estaré/"
+        ],
+        "v2": [
+          "a la Casa de Jehová iremos.",
+          "/: Santo:/ dicen los serafines",
+          "/: Santo/ es el Señor Jehová"
+        ],
+        "v3": [
+          "/:Santo:/ el Dios que nos redime",
+          "por ser tres veces santo",
+          "la tierra llena de su gloria está."
+        ]
+      }
+    }
+  ]
+}

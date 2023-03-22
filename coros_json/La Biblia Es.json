@@ -1,0 +1,26 @@
+{
+  "titles": ["La Biblia Es"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "214" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "La Biblia es cual martillo,",
+          "que parte la roca en dos;",
+          "es Lámpara que alumbra,"
+        ],
+        "v2": [
+          "como faro en la tempestad;",
+          "Espada es de dos filos,",
+          "Espejo la Biblia es."
+        ],
+        "v3": ["¡Oh Libro Santo de mi Dios", "Tu eres para mi!"]
+      }
+    }
+  ]
+}

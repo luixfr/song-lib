@@ -1,0 +1,21 @@
+{
+  "titles": ["Yo Te Amo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "76" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Yo te amo en el amor del Señor",
+          "yo te amo en el amor del Señor",
+          "puedo ver en ti la gloria del Señor,"
+        ],
+        "v2": ["yo te amo en el amor del Señor:/"]
+      }
+    }
+  ]
+}

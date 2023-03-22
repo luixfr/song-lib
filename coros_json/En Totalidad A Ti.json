@@ -1,0 +1,26 @@
+{
+  "titles": ["En Totalidad A Ti"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "494" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//:En totalidad a Tí, rindo alma y corazón",
+          "no tengo nada mas que dar,",
+          "tómalo mi buen Señor://"
+        ],
+        "v2": [
+          "CORO",
+          "//: Tómame en tus brazos Cristo,",
+          "toma mi vida en tus manos,"
+        ],
+        "v3": ["y haz de mi lo que Tú quieras", "tómame aquí estoy://"]
+      }
+    }
+  ]
+}

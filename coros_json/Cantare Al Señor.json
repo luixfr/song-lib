@@ -1,0 +1,42 @@
+{
+  "titles": ["Cantare Al Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "321" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7"],
+      "lyric": {
+        "v1": [
+          "/: Cantaré al Señor por siempre",
+          "su diestra es todo poder:/",
+          "/: Echó a la mar a quien los perseguía"
+        ],
+        "v2": [
+          "jinete y caballo hecho a la mar:/",
+          "/: Mi Padre es Dios y yo le exalto",
+          "mi Padre es Dios y le exaltaré:/"
+        ],
+        "v3": ["Echó a la mar los carros de Faraón...", "La, la, la...", "***"],
+        "v4": [
+          "/: Cantaré al Jehová por siempre",
+          "su diestra es todo poder:/",
+          "/: Echó a la mar"
+        ],
+        "v5": [
+          "a quien los perseguía",
+          "jinete y caballo hecho a la mar:/",
+          "Echó a la mar los carros de Faraón.."
+        ],
+        "v6": [
+          "La, la, la...",
+          "/: Mi Padre es Dios y yo le exalto",
+          "mi Padre es Dios y le exaltaré:/"
+        ],
+        "v7": ["Echó a la mar los carros de Faraón...", "La, la, la..."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "titles": ["A Su Tiempo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "447" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Coro:",
+          "A su hora y en su momento,",
+          "El hará todas las cosas a su tiempo."
+        ],
+        "v2": [
+          "Y así me enseñará",
+          "que sus promesas cumplirá,",
+          "a su hora, en su momento"
+        ],
+        "v3": [
+          "y a su tiempo.",
+          "Y mi vida yo pondré",
+          "en sus manos, para que"
+        ],
+        "v4": ["suene mi canción en mi,", "a su tiempo."]
+      }
+    }
+  ]
+}

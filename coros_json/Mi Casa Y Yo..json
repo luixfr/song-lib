@@ -1,0 +1,33 @@
+{
+  "titles": ["Mi Casa Y Yo."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "154" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/:/: Mi casa y yo serviremos a Jehová:/",
+          "-1-",
+          "/: Escojan ustedes hoy a quien"
+        ],
+        "v2": [
+          "servir porque yo ya he decidido",
+          "lo que he de hacer,",
+          "en medio de un mundo adúltero y pecador"
+        ],
+        "v3": [
+          "yo digo lo mismo que dijo Josué:/",
+          "-2-",
+          "/:Yo sé que con este canto me comprometo a guardar el testimonio de mi familia"
+        ],
+        "v4": [
+          "por eso le pido a Dios que me dé fuerzas para hacer lo mismo que hizo Josué:/"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "titles": ["De Tu Amor Necesita Mexico"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "225" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "Dale fe y esperanza a mi país",
+          "ilumina Señor a México.",
+          "No permitas que esté lejos de Ti"
+        ],
+        "v2": [
+          "de tu amor necesita México.",
+          "CORO:",
+          "Bendice su suelo, su sol y sus mares"
+        ],
+        "v3": [
+          "sus pequeños pueblos, sus grandes ciudades. Bendice a su gente a cada instante",
+          "a su Presidente y a sus gobernantes.",
+          "-2-"
+        ],
+        "v4": [
+          "Hazle ver que el Camino eres Tú",
+          "guarda en tu corazón a México;",
+          "en el Nombre precioso de Jesús"
+        ],
+        "v5": [
+          "te pedimos Señor, por México.",
+          "-3-",
+          "Pon tus ojos en cada amanecer"
+        ],
+        "v6": [
+          "cada vez que despierte México",
+          "pon tu Mano bendita en cada ser",
+          "santifica Señor, a México."
+        ]
+      }
+    }
+  ]
+}

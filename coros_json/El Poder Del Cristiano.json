@@ -1,0 +1,39 @@
+{
+  "titles": ["El Poder Del Cristiano"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "189" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "El poder del cristiano está en la oración",
+          "el que ora constante vencerá",
+          "en todo tiempo la tentación."
+        ],
+        "v2": [
+          "El poder del cristiano está en Jesús",
+          "y Cristo nos dijo orar siempre, siempre",
+          "porque la respuesta está en la oración."
+        ],
+        "v3": [
+          "/: Y el enemigo caerá rendido",
+          "Caerá ante tus pies",
+          "y en toda prueba y en toda lucha"
+        ],
+        "v4": [
+          "Tú podrás vencer.",
+          "Si oras ferviente con toda tu mente",
+          "Y tu corazón"
+        ],
+        "v5": [
+          "las fuerzas del mal querrán destruirte",
+          "y tú fe herirte, pero no podrán: /"
+        ]
+      }
+    }
+  ]
+}

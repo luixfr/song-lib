@@ -1,0 +1,26 @@
+{
+  "titles": ["¡Shalom - Sea La Paz!"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "456" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//: El Señor vuelve a Jerusalem,",
+          "Sea la paz delante del Rey.",
+          "El Señor vuelve a Jerusalem,"
+        ],
+        "v2": [
+          "Shalom sea la paz.",
+          "A sus amigos restaurará.",
+          "Shalom sea la paz."
+        ],
+        "v3": ["Sus transgresiones olvidará.", "En Jerusalem sea la paz://"]
+      }
+    }
+  ]
+}

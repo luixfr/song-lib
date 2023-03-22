@@ -1,0 +1,20 @@
+{
+  "titles": ["Que Alegres Los Cristianos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "352" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/: Que alegres los cristianos:/",
+          "Que alegres los cristianos, que alaban al Señor. Ya no habrá más llanto tampoco",
+          "dolor, para los cristianos que alaban al Señor."
+        ]
+      }
+    }
+  ]
+}

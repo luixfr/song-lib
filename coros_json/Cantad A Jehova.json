@@ -1,0 +1,26 @@
+{
+  "titles": ["Cantad A Jehova"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "420" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Cantad a Jehová cántico nuevo,",
+          "cantad a Jehová toda la tierra",
+          "Cantad a Jehová,"
+        ],
+        "v2": [
+          "bendecid su Nombre.",
+          "Anunciad siempre su salvación;",
+          "porque grande es Jehová y digno"
+        ],
+        "v3": ["de suprema alabanza:/"]
+      }
+    }
+  ]
+}

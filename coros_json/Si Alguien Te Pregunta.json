@@ -1,0 +1,21 @@
+{
+  "titles": ["Si Alguien Te Pregunta"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "359" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Si alguien te pregunta por ahí:",
+          "¿Cómo estás?",
+          "//: Bendecido, bendecido"
+        ],
+        "v2": ["bendecido porque Cristo", "Me salvó: //"]
+      }
+    }
+  ]
+}

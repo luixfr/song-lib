@@ -1,0 +1,21 @@
+{
+  "titles": ["Envia Tu Poder."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "117" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/://: Envía tu Poder: // Señor,",
+          "//: Envía tu Poder: // Señor",
+          "//: Queremos tu Poder Señor:"
+        ],
+        "v2": ["///: Queremos tu Poder Señor:"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "titles": ["Señor Venimos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "410" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Señor, venimos ante Ti,",
+          "para adorarte sólo a Ti,",
+          "levantamos tu Nombre,"
+        ],
+        "v2": [
+          "que todo el mundo pueda ver.",
+          "Somos el ejército de Dios,",
+          "victorioso y más que vencedor."
+        ],
+        "v3": [
+          "Pelearé(hombres) pelearé(mujeres)",
+          "y venceré (hombres) y venceré (mujeres) la batalla en el Nombre de Jesús.",
+          "Su poder, (hombres) su poder (mujeres)"
+        ],
+        "v4": [
+          "podemos ver (hombres) podemos ver; (mujeres)",
+          "es Jesucristo, (hombres) es Jesucristo, (mujeres)",
+          "es Jesucristo nuestro Rey."
+        ]
+      }
+    }
+  ]
+}

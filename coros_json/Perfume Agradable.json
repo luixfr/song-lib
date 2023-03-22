@@ -1,0 +1,35 @@
+{
+  "titles": ["Perfume Agradable"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "481" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Déjame escuchar tu dulce voz",
+          "y hablar en tu presencia mi Señor;",
+          "déjame contemplar tu hermosura"
+        ],
+        "v2": [
+          "y hablar de tu presencia mi Señor.",
+          "Pues mi anhelo es agradarte,",
+          "lo mejor de mí entregarte,"
+        ],
+        "v3": [
+          "y que llegue hasta tu trono,",
+          "como un perfume agradable a Ti.",
+          "Pues mi anhelo es agradarte,"
+        ],
+        "v4": [
+          "mi alma entera a Ti entregarte,",
+          "y que llegue hasta tu trono,",
+          "como un perfume agradable a Ti, Señor."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "titles": ["Admirable Es El"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "269" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/: Admirable es Él;’ cojos andan, ciegos ven su promesa siempre",
+          "es fiel",
+          "/: Admirable es El:/"
+        ]
+      }
+    }
+  ]
+}

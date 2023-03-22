@@ -1,0 +1,20 @@
+{
+  "titles": ["Es La Vida De Mi Alma"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "334" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Es la vida de mi alma, Cristo, mi Cristo, es la vida de mi alma, es",
+          "Jesús, mi Salvador. Cristo, Cristo, Cristo, oh mi Cristo,",
+          "es la vida de mi alma, es Jesús, mi Salvador."
+        ]
+      }
+    }
+  ]
+}

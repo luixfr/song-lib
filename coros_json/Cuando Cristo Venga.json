@@ -1,0 +1,26 @@
+{
+  "titles": ["Cuando Cristo Venga"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "288" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Cuando Cristo venga en gloria",
+          "yo no me voy a quedar",
+          "/: Seremos levantados con su poder: /"
+        ],
+        "v2": [
+          "a la nueva Jerusalem.",
+          "/: Yo no me quedo me voy con Él",
+          "a la nueva Jerusalem: /"
+        ],
+        "v3": ["/: Tú te vas, yo también", "A la nueva Jerusalem: /"]
+      }
+    }
+  ]
+}

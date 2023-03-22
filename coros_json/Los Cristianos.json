@@ -1,0 +1,41 @@
+{
+  "titles": ["Los Cristianos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "164" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "Los cristianos somos ricos",
+          "tenemos paz y felicidad,",
+          "nuestro Cristo nos ha dicho"
+        ],
+        "v2": [
+          "que el cielo es para ti y para mí.",
+          "CORO:",
+          "Este mundo no es nuestro"
+        ],
+        "v3": [
+          "aquí vivimos, pero nos iremos,",
+          "nuestro mundo es celestial",
+          "aquí vivimos ahora"
+        ],
+        "v4": [
+          "pero luego nos iremos",
+          "con mi Cristo a morar (a morar).",
+          "-2-"
+        ],
+        "v5": [
+          "En el cielo será de gozo",
+          "irá el negro, irá el blanco;",
+          "todos juntos allí estaremos"
+        ],
+        "v6": ["glorificando y alabando a Dios."]
+      }
+    }
+  ]
+}

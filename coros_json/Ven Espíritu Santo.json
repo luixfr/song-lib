@@ -1,0 +1,46 @@
+{
+  "titles": ["Ven Espíritu Santo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "499" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7"],
+      "lyric": {
+        "v1": [
+          "Estoy aquí, desesperado por Tí,",
+          "con un corazón sediento,",
+          "que esperar beber de Tí."
+        ],
+        "v2": [
+          "/:Cuando tu Gloria desciende a un lugar,",
+          "toda la tierra tiene que adorar.",
+          "resucitan los muertos,"
+        ],
+        "v3": [
+          "se sanan enfermos, por tu poder.",
+          "Queremos de Tí, llénanos de Tí,",
+          "Espíritu Santo envuélvenos en Tí,"
+        ],
+        "v4": [
+          "derrama tu gloria, esperamos por Tí:/",
+          "CORO",
+          "///: Espíritu Santo ven, ven, ven,:/"
+        ],
+        "v5": [
+          "llena este lugar:///",
+          "Señor acércate, (Ven)",
+          "Transfórmame, (Ven)"
+        ],
+        "v6": [
+          "quebrántame, (Ven)",
+          "restáurame, oh vivifícame, (Ven)",
+          "libértame, (Ven)"
+        ],
+        "v7": ["envuélveme, (Ven)", "reposa sobre mi, (ven)."]
+      }
+    }
+  ]
+}

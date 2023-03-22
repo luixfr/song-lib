@@ -1,0 +1,21 @@
+{
+  "titles": ["Ser Como Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "358" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Ser como Cristo, ser corno Cristo",
+          "es mi anhelo ser como Él.",
+          "En mi camino de aquí al cielo"
+        ],
+        "v2": ["es mi anhelo ser como Él."]
+      }
+    }
+  ]
+}

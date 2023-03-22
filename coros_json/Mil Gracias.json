@@ -1,0 +1,26 @@
+{
+  "titles": ["Mil Gracias"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "6" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Mil gracias yo te doy Señor,",
+          "mil gracias de mi corazón,",
+          "mil gracias por que has enviado"
+        ],
+        "v2": [
+          "a Jesús por mi.",
+          "/: Y hoy el débil diga: 'Fuerte soy'.",
+          "El pobre diga: 'Rico soy',"
+        ],
+        "v3": ["por lo que Dios ha hecho", "por mí y en mí. :/ Mil gracias"]
+      }
+    }
+  ]
+}

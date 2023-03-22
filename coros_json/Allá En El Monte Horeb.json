@@ -1,0 +1,23 @@
+{
+  "titles": ["Allá En El Monte Horeb"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "99" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Allá en el monte Horeb la zarza ardía:/",
+          "Moisés quería saber por qué la zarza ardía y no se consumía quería saber.",
+          "/: Y oyó una voz del cielo que le decía!"
+        ],
+        "v2": [
+          "/: Quita, quita, quita las sandalias de tus pies, porque el lugar que pisas santo es:/"
+        ]
+      }
+    }
+  ]
+}

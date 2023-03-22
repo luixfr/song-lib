@@ -1,0 +1,21 @@
+{
+  "titles": ["Bellas Palabras De Vida"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "209" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Bellas Palabras de vida, son las de Cristo Jesús, ellas alientan mi",
+          "alma dan fortaleza y salud. Bellas palabras de vida, resplandecen en mi ser.",
+          "/: Bellas palabras que nunca en la vida"
+        ],
+        "v2": ["había escuchado hasta hoy:/"]
+      }
+    }
+  ]
+}

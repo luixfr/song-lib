@@ -1,0 +1,21 @@
+{
+  "titles": ["Prepárate."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "135" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:/: Prepárate para que sientas:/",
+          "el Espíritu de Dios.",
+          "///: Y déjalo que se mueva:///"
+        ],
+        "v2": ["dentro de tu corazón."]
+      }
+    }
+  ]
+}

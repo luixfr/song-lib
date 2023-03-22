@@ -1,0 +1,31 @@
+{
+  "titles": ["Tu Presencia Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "480" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Tu presencia Señor me llena,",
+          "tu presencia Señor me bendice,",
+          "tu presencia Señor me protege,"
+        ],
+        "v2": [
+          "tu presencia Señor está aquí.",
+          "Pues sólo en tu presencia",
+          "jamás temeré,"
+        ],
+        "v3": [
+          "sólo en tu presencia",
+          "ahí me esconderé.",
+          "Aun estando solo en cualquier lugar,"
+        ],
+        "v4": ["en tu presencia seguro estaré."]
+      }
+    }
+  ]
+}

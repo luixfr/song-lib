@@ -1,0 +1,25 @@
+{
+  "titles": ["Hemos Venido"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "32" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Hemos venido a este lugar",
+          "reunidos en su Nombre para adorarle: /",
+          "Adórale Cristo es el Señor."
+        ],
+        "v2": [
+          "/: Olvídate de ti, concéntrate",
+          "en su Nombre y adórale: /",
+          "Adórale Cristo es el Señor."
+        ]
+      }
+    }
+  ]
+}

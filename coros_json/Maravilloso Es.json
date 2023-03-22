@@ -1,0 +1,19 @@
+{
+  "titles": ["Maravilloso Es"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "345" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/: Maravilloso es, maravilloso es",
+          "cuando siento que Dios me ama a mi/"
+        ]
+      }
+    }
+  ]
+}

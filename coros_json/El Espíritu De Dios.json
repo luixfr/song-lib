@@ -1,0 +1,36 @@
+{
+  "titles": ["El Espíritu De Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "110" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/:/: El Espíritu de Dios",
+          "está en este lugar.",
+          "El Espíritu de Dios"
+        ],
+        "v2": [
+          "se mueve en este lugar.",
+          "Está aquí para consolar,",
+          "está aquí para liberar,"
+        ],
+        "v3": [
+          "está aquí para guiar,",
+          "el Espíritu de Dios está aquí: /",
+          "/:Muévete en mí,"
+        ],
+        "v4": [
+          "muévete en mi,",
+          "toca mi mente, mi corazón,",
+          "llena mi vida de tu amor."
+        ],
+        "v5": ["Muévete en mí,", "Dios Espíritu,", "muévete en mi:/"]
+      }
+    }
+  ]
+}

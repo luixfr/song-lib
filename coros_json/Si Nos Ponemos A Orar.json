@@ -1,0 +1,25 @@
+{
+  "titles": ["Si Nos Ponemos A Orar"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "199" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Si nos ponemos a orar",
+          "este lugar tiembla",
+          "Si nos ponemos a orar"
+        ],
+        "v2": [
+          "hablaremos nuevas lenguas.",
+          "Elías oró y el Fuego cayó; oró Josué y el sol se paró",
+          "/: Si nos ponemos a orar este lugar tiembla:/"
+        ]
+      }
+    }
+  ]
+}

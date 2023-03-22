@@ -1,0 +1,26 @@
+{
+  "titles": ["Delante De Ti"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "449" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Delante de Ti estoy, ante tu trono",
+          "delante de Ti, Señor, en oración.",
+          "Contemplo tu esplendor maravilloso y expreso a toda voz esta canción."
+        ],
+        "v2": [
+          "///: Maravilloso Dios:///",
+          "digno de adoración.",
+          "///: Incomparable Dios:///"
+        ],
+        "v3": ["digno de adoración."]
+      }
+    }
+  ]
+}

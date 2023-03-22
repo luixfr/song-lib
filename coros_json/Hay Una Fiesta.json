@@ -1,0 +1,21 @@
+{
+  "titles": ["Hay Una Fiesta"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "245" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Hay una //: fiesta//",
+          "/: constantemente en mí!",
+          "hay una //: fiesta"
+        ],
+        "v2": ["desde que Cristo me salvó."]
+      }
+    }
+  ]
+}

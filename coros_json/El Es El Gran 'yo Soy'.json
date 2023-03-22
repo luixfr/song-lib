@@ -1,0 +1,22 @@
+{
+  "titles": ["El Es El Gran 'yo Soy'"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "231" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["Aleluya Hosanna,", "cantemos ante el Rey.", "Aleluya Hosanna,"],
+        "v2": [
+          "nuestra alabanza a Él Aleluya Hosanna, el Cordero es Jesús.",
+          "Aleluya Hosanna,",
+          "Él es el gran 'Yo soy'< /p>postrémonos ante El,"
+        ],
+        "v3": ["honremos y adoremos a nuestro Rey,", "cantemos junto a Él."]
+      }
+    }
+  ]
+}

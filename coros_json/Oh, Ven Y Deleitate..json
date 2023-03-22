@@ -1,0 +1,24 @@
+{
+  "titles": ["Oh, Ven Y Deleitate."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "196" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:/: Oh, oh ven, ven y deléitate",
+          "en el Señor, y Él te concederá",
+          "las peticiones de tu corazón:/"
+        ],
+        "v2": [
+          "Confía sólo en Él y Él te dará,",
+          "espera sólo en Él y Él hará:/"
+        ]
+      }
+    }
+  ]
+}

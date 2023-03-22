@@ -1,0 +1,21 @@
+{
+  "titles": ["Mis Pecados"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "248" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Mis pecados son borrados ya",
+          "mi Jesús los sepultó",
+          "en la más profunda mar"
+        ],
+        "v2": ["mis pecados son borrados ya."]
+      }
+    }
+  ]
+}

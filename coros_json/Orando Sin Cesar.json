@@ -1,0 +1,29 @@
+{
+  "titles": ["Orando Sin Cesar"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "195" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:Orando sin cesar venceremos:/",
+          "para que puedas vencer",
+          "necesitas siempre orar,"
+        ],
+        "v2": [
+          "orando sin cesar venceremos",
+          "Venceré, porque El está conmigo,",
+          "venceré porque es mi Amigo fiel,"
+        ],
+        "v3": [
+          "venceré, /: vencerás/ venceré",
+          "venceremos en el Nombre del Señor."
+        ]
+      }
+    }
+  ]
+}

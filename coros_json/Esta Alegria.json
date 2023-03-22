@@ -1,0 +1,25 @@
+{
+  "titles": ["Esta Alegria"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "439" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "//: Esta alegría no va a salir,",
+          "no va a salir://",
+          "porque está dentro de mi corazón."
+        ],
+        "v2": [
+          "//: El Fuego cae, cae,",
+          "los males salen, salen://",
+          "y los creyentes alaban al Señor."
+        ]
+      }
+    }
+  ]
+}

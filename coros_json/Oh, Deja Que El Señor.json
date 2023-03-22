@@ -1,0 +1,40 @@
+{
+  "titles": ["Oh, Deja Que El Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "440" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "Oh, deja que el Señor te llene",
+          "con su Espíritu de amor,",
+          "satisfaga hoy tu alma y corazón;"
+        ],
+        "v2": [
+          "entrégale lo que te pide",
+          "y su Espíritu vendrá sobre ti,",
+          "vida nueva te dará."
+        ],
+        "v3": [
+          "Coro:",
+          "/: Cristo: / ven y llénanos.",
+          "/: Cristo: // llénanos de Ti."
+        ],
+        "v4": [
+          "Alzamos nuestra voz con gozo,",
+          "nuestra alabanza a Ti,",
+          "con dulzura te entregamos nuestro ser."
+        ],
+        "v5": [
+          "Entrega todas tus tristezas",
+          "en el Nombre de Jesús,",
+          "abundante vida hoy tendrás en El."
+        ]
+      }
+    }
+  ]
+}

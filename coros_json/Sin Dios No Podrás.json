@@ -1,0 +1,21 @@
+{
+  "titles": ["Sin Dios No Podrás"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "202" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Sin Dios no podrás caminar: /",
+          "Porque El es tu vida y tu fortaleza, sin Dios no podrás caminar,",
+          "cuando te sientas cansado"
+        ],
+        "v2": ["y tu carga es pesada.", "Clama a Jesucristo y El te ayudará."]
+      }
+    }
+  ]
+}

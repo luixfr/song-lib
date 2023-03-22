@@ -1,0 +1,26 @@
+{
+  "titles": ["Le Puedes Sentir"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "308" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Le puedes sentir a tu lado",
+          "en este mismo instante.",
+          "Le puedes llevar muy"
+        ],
+        "v2": [
+          "dentro de tu corazón.",
+          "Le puedes pedir en ese",
+          "problema que tienes."
+        ],
+        "v3": ["Jesús está aquí, si tú", "quieres le puedes sentir."]
+      }
+    }
+  ]
+}

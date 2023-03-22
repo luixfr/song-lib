@@ -1,0 +1,21 @@
+{
+  "titles": ["Fe, Mas Fe"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "463" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Fe, más fe, amor, más amor",
+          "y si no lo tienes pide al Salvador.",
+          "Porque amor sin fe, fe sin amor"
+        ],
+        "v2": ["es imposible agradar a Dios"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "titles": ["Poderoso Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "496" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "//:Al que está sentado en el Trono;",
+          "y al Cordero, sea el Honor,;",
+          "sea la Gloria, sea la Honra,"
+        ],
+        "v2": [
+          "sea el dominio por los siglos de los siglos://",
+          "//:Poderoso Dios ://",
+          "mi alma clama por Ti."
+        ]
+      }
+    }
+  ]
+}

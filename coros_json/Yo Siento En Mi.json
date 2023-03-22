@@ -1,0 +1,25 @@
+{
+  "titles": ["Yo Siento En Mi"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "442" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Yo siento en mí su presencia bendita,",
+          "la esencia divina",
+          "que fluye y que cae sobre de mi."
+        ],
+        "v2": [
+          "Yo siento en mi al Espíritu Santo,",
+          "descender de lo alto que llena y satura",
+          "///: tan dentro de mí:/// yo le siento."
+        ]
+      }
+    }
+  ]
+}

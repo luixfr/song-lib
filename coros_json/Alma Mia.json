@@ -1,0 +1,30 @@
+{
+  "titles": ["Alma Mia"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "171" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Alma mía alaba a Jehová",
+          "pues Él te dio la vida vino",
+          "a ser morada en ti."
+        ],
+        "v2": [
+          "Alma mía no quiero que estés triste",
+          "pues Cristo te hizo libre",
+          "para que puedas alabarle"
+        ],
+        "v3": [
+          "Alma mía alaba a Jehová",
+          "porque si tu le alabas",
+          "Yo estaré en paz."
+        ]
+      }
+    }
+  ]
+}

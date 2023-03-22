@@ -1,0 +1,26 @@
+{
+  "titles": ["Toma Por Favor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "365" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Toma por favor mi mano Señor",
+          "contigo quiero ir.",
+          "Con Sangre aquí pagaste por mi"
+        ],
+        "v2": [
+          "te quiero hoy servir",
+          "anhelo poder lo malo vencer",
+          "y en santidad vivir"
+        ],
+        "v3": ["toma por favor mi mano Señor", "contigo quiero ir."]
+      }
+    }
+  ]
+}

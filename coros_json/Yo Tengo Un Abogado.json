@@ -1,0 +1,24 @@
+{
+  "titles": ["Yo Tengo Un Abogado"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "206" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Yo tengo un abogado que me defiende",
+          "Él siempre está ocupado, pero me atiende.",
+          "El nunca pierde un caso todos los gana."
+        ],
+        "v2": [
+          "/: Si alguno se interesa en saber su Nombre",
+          "Cristo se llama:/"
+        ]
+      }
+    }
+  ]
+}

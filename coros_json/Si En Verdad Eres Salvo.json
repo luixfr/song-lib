@@ -1,0 +1,26 @@
+{
+  "titles": ["Si En Verdad Eres Salvo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "253" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//:Si en verdad eres salvo por la fe://",
+          "testifica con tu vida",
+          "si en verdad eres salvo por la fe."
+        ],
+        "v2": [
+          "//:Si en verdad eres salvo,",
+          "di: amen (¡amen!)://",
+          "testifica con tu vida"
+        ],
+        "v3": ["si en verdad eres salvo,", "di amen"]
+      }
+    }
+  ]
+}

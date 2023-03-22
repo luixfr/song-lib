@@ -1,0 +1,21 @@
+{
+  "titles": ["Yo Siento Paz Y Gozo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "177" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": ["/: Yo siento paz y gozo", "En mi corazón", "Porque Jesucristo"],
+        "v2": [
+          "Ya me libertó: /",
+          "/: Me libertó, me libertó",
+          "de las cadenas me liberto: /"
+        ]
+      }
+    }
+  ]
+}

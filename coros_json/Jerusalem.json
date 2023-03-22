@@ -1,0 +1,21 @@
+{
+  "titles": ["Jerusalem"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "294" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Jerusalem, que bonita eres",
+          "calles de oro, mar de cristal: /",
+          "/: Por esas calles yo voy a caminar"
+        ],
+        "v2": ["calles de oro, mar de cristal: /"]
+      }
+    }
+  ]
+}

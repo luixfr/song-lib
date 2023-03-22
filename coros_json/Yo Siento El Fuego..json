@@ -1,0 +1,21 @@
+{
+  "titles": ["Yo Siento El Fuego."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "149" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:/:Yo siento el Fuego que me está quemando, me está",
+          "bautizando el Espíritu Santo:/",
+          "/:Aquí se ayuna, aquí se ora"
+        ],
+        "v2": ["y a toda hora se alaba a Dios:/"]
+      }
+    }
+  ]
+}

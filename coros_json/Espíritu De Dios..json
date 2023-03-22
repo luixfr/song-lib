@@ -1,0 +1,25 @@
+{
+  "titles": ["Espíritu De Dios."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "119" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/://: Espíritu de Dios, llena mi vida",
+          "llena mi alma, llena mi ser://",
+          "//: Si lléname, lléname, lléname"
+        ],
+        "v2": [
+          "con tu presencia",
+          "lléname, lléname con tu poder,",
+          "lléname, lléname con tu amor://"
+        ]
+      }
+    }
+  ]
+}

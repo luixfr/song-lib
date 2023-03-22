@@ -1,0 +1,26 @@
+{
+  "titles": ["En Mi Corazon"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "333" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["En mi corazón hay", "//: banderas de amor://", "en mi corazón"],
+        "v2": [
+          "hay banderas de amor",
+          "porque Cristo ya vive en mí.",
+          "Álzalas mas arriba"
+        ],
+        "v3": [
+          "//: que todos vean://",
+          "álzalas más arriba que todos vean",
+          "que Cristo ya vive en mí."
+        ]
+      }
+    }
+  ]
+}

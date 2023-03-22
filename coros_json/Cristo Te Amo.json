@@ -1,0 +1,21 @@
+{
+  "titles": ["Cristo Te Amo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "59" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Cristo te amo",
+          "me postro ante Ti,",
+          "adoración y alabanza"
+        ],
+        "v2": ["sean ante el Rey!", "/: Aleluya. Aleluya:/"]
+      }
+    }
+  ]
+}

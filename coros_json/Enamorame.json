@@ -1,0 +1,32 @@
+{
+  "titles": ["Enamorame"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "486" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "Quiero entregarte mis sueños",
+          "Tu voluntad haz en ellos",
+          "Mi corazón te lo entrego"
+        ],
+        "v2": [
+          "Enamórame de ti",
+          "Quiero aprender a escucharte",
+          "Quiero saber que es amarte"
+        ],
+        "v3": [
+          "De tu verdad yo saciarme",
+          "Enamórame de ti Señor",
+          "Que tu presencia me inunde"
+        ],
+        "v4": ["Haz de mi un odre nuevo", "Cámbiame, renuévame,", "Enamórame,"],
+        "v5": ["Enamórame de ti Señor"]
+      }
+    }
+  ]
+}

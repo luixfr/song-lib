@@ -1,0 +1,31 @@
+{
+  "titles": ["Vamos Por Montes"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "92" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Vamos por montes y collados",
+          "llevando el Evangelio",
+          "que Cristo nos dejó"
+        ],
+        "v2": [
+          "y diciéndole a las gentes",
+          "que Cristo sana y salva",
+          "que se arrepientan ya."
+        ],
+        "v3": [
+          "Cristo te quiere salvar,",
+          "Cristo te puede sanar,",
+          "si dejas este mundo"
+        ],
+        "v4": ["tan lleno de maldad."]
+      }
+    }
+  ]
+}

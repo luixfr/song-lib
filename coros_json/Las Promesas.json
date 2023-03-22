@@ -1,0 +1,20 @@
+{
+  "titles": ["Las Promesas"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "219" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/: ¡Las promesas del Señor mías son! :/",
+          "en la Biblia yo las leo y yo sé",
+          "que las promesas del Señor mías son."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "titles": ["Yo Te Adoro Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "51" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/: Pues Tú glorioso eres Señor",
+          "y tu Nombre es digno de alabar.",
+          "Haz mi corazón"
+        ],
+        "v2": [
+          "puro y santo ante Ti",
+          "yo te adoro con todo mi corazón:/",
+          "Yo te adoro Señor,"
+        ],
+        "v3": [
+          "con todo mi ser",
+          "yo con Salmo te alabaré.",
+          "Yo te adoro Señor,"
+        ],
+        "v4": [
+          "con todo mi ser",
+          "todo el día te alabaré: /",
+          "Yo te amo, yo te amo"
+        ],
+        "v5": [
+          "Yo confió en ti",
+          "Yo te amo, yo te amo",
+          "En la Roca me refugiaré"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "titles": ["Ya Estoy Aqui"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "261" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Ya estoy aquí Cristo me envió,",
+          "para decir lo que El me dio,",
+          "me dio la paz y me salvó,"
+        ],
+        "v2": ["y con su Espíritu me bautizó."]
+      }
+    }
+  ]
+}

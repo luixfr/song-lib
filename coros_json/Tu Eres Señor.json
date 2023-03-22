@@ -1,0 +1,21 @@
+{
+  "titles": ["Tu Eres Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "46" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Tú eres, Tú eres Señor el lirio de los valles.",
+          "Tú eres, Tú eres Señor la rosa de Sarón",
+          "Tú eres, Tú eres Señor el amor de mi corazón."
+        ],
+        "v2": ["¡Porque Tú eres, Tú eres Señor, el Hijo de Dios/"]
+      }
+    }
+  ]
+}

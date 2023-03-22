@@ -1,0 +1,21 @@
+{
+  "titles": ["En El Altar De Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "114" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:/: En el altar de Dios:/",
+          "el fuego está encendido:/",
+          "/:/: Nadie lo puede apagar:/"
+        ],
+        "v2": ["porque el fuego del Señor", "en mi corazón está:/"]
+      }
+    }
+  ]
+}

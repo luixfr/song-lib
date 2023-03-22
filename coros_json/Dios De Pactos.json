@@ -1,0 +1,46 @@
+{
+  "titles": ["Dios De Pactos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "493" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7"],
+      "lyric": {
+        "v1": [
+          "//:Dios de pactos,",
+          "que guardas tus promesas,",
+          "que cumples tu Palabra,"
+        ],
+        "v2": [
+          "que guías mi destino.",
+          "Dios de pactos, confío en tus promesas",
+          "descanso en tu Palabra,"
+        ],
+        "v3": [
+          "por tu gracia estoy aquí://",
+          "En la intimidad, al abrigo de tu gloria",
+          "puedo estar, junto a Tí."
+        ],
+        "v4": [
+          "Al ver tu santidad, estoy maravillado,",
+          "ante Tí y tu amor.",
+          "Nunca más seré igual al salir"
+        ],
+        "v5": [
+          "de este santísimo lugar.",
+          "Tengo la Redención por la Sangre.",
+          "que descansa en tu altar, para mi"
+        ],
+        "v6": [
+          "La Gracia y el perdón,",
+          "son los frutos de vivir en comunión y adoración.",
+          "Nunca más seré igual al salir"
+        ],
+        "v7": ["de este santísimo lugar."]
+      }
+    }
+  ]
+}

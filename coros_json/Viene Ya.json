@@ -1,0 +1,30 @@
+{
+  "titles": ["Viene Ya"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "302" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Viene ya, viene ya",
+          "mi Jesús /: viene ya:/",
+          "vestido de gloria y majestad,"
+        ],
+        "v2": [
+          "en las nubes mi Jesús",
+          "viene ya (si viene ya)",
+          "Viene ya, viene ya"
+        ],
+        "v3": [
+          "mi Jesús /: Viene ya:/",
+          "por su pueblo que le ama en verdad",
+          "en las nubes mi Jesús viene ya."
+        ]
+      }
+    }
+  ]
+}

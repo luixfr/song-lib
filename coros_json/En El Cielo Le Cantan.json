@@ -1,0 +1,26 @@
+{
+  "titles": ["En El Cielo Le Cantan"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "61" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: En el cielo le cantan,",
+          "En la tierra le adoran: /",
+          "/: Vamos todos a alabar al Señor"
+        ],
+        "v2": [
+          "A su Nombre gloria: /",
+          "A su Nombre gloria",
+          "/: Vamos todos a alabar al Señor"
+        ],
+        "v3": ["a su Nombre gloria: /"]
+      }
+    }
+  ]
+}

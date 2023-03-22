@@ -1,0 +1,22 @@
+{
+  "titles": ["Hay Momentos Tan Especiales"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "30" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Hay momentos tan especiales junto a Ti Señor: /",
+          "/: En los que puedo",
+          "Sentir tu presencia"
+        ],
+        "v2": ["en los que puedo", "Recostarme en Ti", "en los que puedo"],
+        "v3": ["Yo tomar de tu amor: /"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "titles": ["En Medio De La Congregacion"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "391" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "En medio de la congregación,",
+          "en medio del pueblo de Dios,",
+          "yo alzaré mi voz a El."
+        ],
+        "v2": ["Digno es de alabar,", "digno de glorificar, mi Dios.", "Coro:"],
+        "v3": [
+          "/: Somos un pueblo en Cristo, aleluya:/",
+          "cuando estamos juntos,",
+          "entre nosotros Jesús está;"
+        ],
+        "v4": [
+          "cuando estamos juntos,",
+          "hay poder y autoridad en su Nombre.",
+          "En medio de la tribulación,"
+        ],
+        "v5": [
+          "en medio del valle de oscuridad, yo alzaré mi voz a El.",
+          "Digno es de alabar,",
+          "digno de glorificar, mi Dios."
+        ]
+      }
+    }
+  ]
+}

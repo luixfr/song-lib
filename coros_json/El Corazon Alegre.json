@@ -1,0 +1,21 @@
+{
+  "titles": ["El Corazon Alegre"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "331" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "El corazón alegre, constituye buen remedio",
+          "es buen remedio, el corazón alegre.",
+          "Mas el espíritu triste, seca los huesos."
+        ],
+        "v2": ["El corazón alegre, es remedio del Señor."]
+      }
+    }
+  ]
+}

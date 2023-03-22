@@ -1,0 +1,43 @@
+{
+  "titles": ["Este Es El Dia"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "429" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "//: Este es el Día:// que hizo Jehová,",
+          "nos gozaremos /: y alegraremos en él:/",
+          "Este es el día que hizo Jehová,"
+        ],
+        "v2": [
+          "nos gozaremos y alegraremos en él.",
+          "/: Este es el día que hizo Jehová.",
+          "/: Él me hace feliz:/"
+        ],
+        "v3": [
+          "me gozaré, porque El me hace feliz:/",
+          "/: Sí, me gozaré, sí me gozaré,",
+          "me gozaré, porque El me hace feliz:/"
+        ],
+        "v4": [
+          "//: Gozaos en el Señor,",
+          "os digo otra vez gozaos://",
+          "Gozaos, gozaos, os digo que gozaos."
+        ],
+        "v5": [
+          "Que glorioso día, esperando estoy,",
+          "en que nuestras almas se allegan hasta Dios, que glorioso día esperando estoy.",
+          "/: Canta, canta, oh hija de Sión:/"
+        ],
+        "v6": [
+          "porque nuestro canto agrada al Señor que glorioso día esperando estoy."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "titles": ["Somos El Pueblo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "97c" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7"],
+      "lyric": {
+        "v1": [
+          "DE DIOS.",
+          "Somos el pueblo de Dios",
+          "somos un pueblo especial"
+        ],
+        "v2": [
+          "llamados para anunciar",
+          "las virtudes de Aquel",
+          "que nos llamó a su luz."
+        ],
+        "v3": [
+          "Somos el pueblo de Dios",
+          "su Sangre nos redimió",
+          "y su Espíritu dio"
+        ],
+        "v4": [
+          "para darnos poder",
+          "y ser testigos de El.",
+          "Y llevaremos su gloria"
+        ],
+        "v5": [
+          "a cada pueblo y nación",
+          "trayéndoles esperanza",
+          "y nuevas de salvación."
+        ],
+        "v6": [
+          "Y su amor nos impulsa",
+          "no nos podemos callar",
+          "anunciaremos al mundo"
+        ],
+        "v7": ["de su amor y verdad."]
+      }
+    }
+  ]
+}

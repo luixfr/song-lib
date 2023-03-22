@@ -1,0 +1,35 @@
+{
+  "titles": ["Pueblos Todos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "67" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Pueblos todos batid las manos,",
+          "alabad a Dios con voz de júbilo.",
+          "Pueblos todos, batid las manos,"
+        ],
+        "v2": [
+          "alabad al Dios de Israel.",
+          "Cantad, a Dios cantad:",
+          "Cantad a nuestro Rey"
+        ],
+        "v3": [
+          "Porque Dios es el Rey",
+          "De toda la tierra.",
+          "Cantad, a Dios cantad,"
+        ],
+        "v4": [
+          "Cantad a nuestro Rey",
+          "Palmeando nuestras manos",
+          "Y alzando nuestra voz."
+        ]
+      }
+    }
+  ]
+}

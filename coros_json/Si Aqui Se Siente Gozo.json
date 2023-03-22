@@ -1,0 +1,21 @@
+{
+  "titles": ["Si Aqui Se Siente Gozo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "314a" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Si aquí se siente gozo, en este Edén Sagrado si aquí se siente",
+          "gozo, donde estamos congregados.",
+          "Si aquí se siente gozo, pues qué será en el Cielo; si aquí se siente gozo, Aleluya, oh,"
+        ],
+        "v2": ["qué bueno."]
+      }
+    }
+  ]
+}

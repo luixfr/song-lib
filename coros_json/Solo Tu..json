@@ -1,0 +1,26 @@
+{
+  "titles": ["Solo Tu."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "144" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:Sólo Tú eres Santo,",
+          "Sólo Tú eres digno",
+          "Tú eres hermoso y maravilloso"
+        ],
+        "v2": [
+          "/: Derrama tu Espíritu",
+          "y que tu luz brille",
+          "que tu gloria llene"
+        ],
+        "v3": ["ahora mismo este lugar: /"]
+      }
+    }
+  ]
+}

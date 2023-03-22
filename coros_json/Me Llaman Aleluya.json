@@ -1,0 +1,25 @@
+{
+  "titles": ["Me Llaman Aleluya"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "346" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "///: Me llaman aleluya, aleluya soy:///",
+          "Gloria n Dios en mi corazón,",
+          "mis pecados son perdonados."
+        ],
+        "v2": [
+          "///: El diablo está enojado, tiene razón//I",
+          "fue lanzado de mi corazón,",
+          "mis pecados son perdonados."
+        ]
+      }
+    }
+  ]
+}

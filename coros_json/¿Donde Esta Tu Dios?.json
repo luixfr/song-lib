@@ -1,0 +1,21 @@
+{
+  "titles": ["¿Donde Esta Tu Dios?"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "230" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "///: ¿Dónde, Dónde está tu Dios?: ///",
+          "Mi Dios está en el cielo",
+          "también en mi corazón"
+        ],
+        "v2": ["el tuyo está muerto", "y el mío resucitó"]
+      }
+    }
+  ]
+}

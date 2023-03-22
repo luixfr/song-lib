@@ -1,0 +1,21 @@
+{
+  "titles": ["Eres Digno"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "394" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Eres digno:/ de adoración.",
+          "/: Eres digno:/ de adoración.",
+          "/: Rey glorioso, Majestuoso."
+        ],
+        "v2": ["Eres digno de adoración/"]
+      }
+    }
+  ]
+}

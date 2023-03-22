@@ -1,0 +1,30 @@
+{
+  "titles": ["Amen, Amen"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "55" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Amén, amén, amén, amén, amén.",
+          "Las promesas del Señor",
+          "son siempre: Amén."
+        ],
+        "v2": [
+          "Cuando leo tu Palabra canto: Amén.",
+          "A la orden del Señor respondo: Amén.",
+          "Amén, amén, amén, amén, amén."
+        ],
+        "v3": [
+          "Mi vida yo la rindo a tus pies.",
+          "Cuando veo tu gloria y tu poder",
+          "en mi alabanza te canto: Amén, amén."
+        ]
+      }
+    }
+  ]
+}

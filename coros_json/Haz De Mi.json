@@ -1,0 +1,25 @@
+{
+  "titles": ["Haz De Mi"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "437" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Haz de mí",
+          "lo que quieras Señor,",
+          "Tú el alfarero yo el barro soy."
+        ],
+        "v2": [
+          "/: Hazme de nuevo,",
+          "hazme otra vez,",
+          "vaso de honra para Ti quiero ser:/"
+        ]
+      }
+    }
+  ]
+}

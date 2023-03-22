@@ -1,0 +1,26 @@
+{
+  "titles": ["Fortaleza De Mi Juventud"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "167" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Jesús Tú eres la fortaleza de mi juventud, en Ti tengo de Dios su amor en plenitud",
+          "eres Tú mi ejemplo fiel,",
+          "y en tu luz caminaré,"
+        ],
+        "v2": [
+          "y como Tú venciste, venceré.",
+          "Quiero a este mundo dar testimonio vivo, guárdame Señor, dame de tu abrigo,",
+          "líbrame del mal,"
+        ],
+        "v3": ["pues yo quiero vivir contigo."]
+      }
+    }
+  ]
+}

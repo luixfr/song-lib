@@ -1,0 +1,21 @@
+{
+  "titles": ["El Vino A Libertarnos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "174" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Él vino a libertarnos,",
+          "El vino para salvar a este mundo",
+          "que se pierde en el pecado"
+        ],
+        "v2": ["y a darnos una vida espiritual."]
+      }
+    }
+  ]
+}

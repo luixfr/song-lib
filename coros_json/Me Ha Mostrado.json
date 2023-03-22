@@ -1,0 +1,21 @@
+{
+  "titles": ["Me Ha Mostrado"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "378" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:(Miqueas 6:8).",
+          "/: Me ha mostrado:/ /: El Señor:/",
+          "lo que bueno y lo que pide El de mí. Hacer justicia, misericordia"
+        ],
+        "v2": ["y ser humilde ante El."]
+      }
+    }
+  ]
+}

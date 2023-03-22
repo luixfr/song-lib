@@ -1,0 +1,21 @@
+{
+  "titles": ["Le Amo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "343" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "///: Le amo:///",
+          "es la Rosa de Sarón para mí.",
+          "///: Le amo:///"
+        ],
+        "v2": ["y algún día su rostro veré."]
+      }
+    }
+  ]
+}

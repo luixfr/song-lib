@@ -1,0 +1,26 @@
+{
+  "titles": ["Cuando Los Santos Marchen"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "289" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Cuando los santos marchen ya",
+          "hacia la Patria Celestial,",
+          "Señor, yo quiero estar allá,"
+        ],
+        "v2": [
+          "cuando los santos marchen ya.",
+          "Mientras los santos no se van",
+          "estas señales seguirán:demonios fuera echarán"
+        ],
+        "v3": ["y los enfermos sanarán."]
+      }
+    }
+  ]
+}

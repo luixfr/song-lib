@@ -1,0 +1,31 @@
+{
+  "titles": ["Estamos Hoy De Fiesta"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "272" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/:Estamos hoy de fiesta con Jesús",
+          "al cielo queremos ir,",
+          "estamos sentados a la mesa"
+        ],
+        "v2": [
+          "es Cristo el que va a servir",
+          "//: Poderoso es nuestro Dios: //",
+          "Él sana, El salva,"
+        ],
+        "v3": [
+          "Poderoso es nuestro Dios",
+          "bautiza, redime poderoso",
+          "es nuestro Dios."
+        ],
+        "v4": ["//: Poderoso es nuestro Dios://"]
+      }
+    }
+  ]
+}

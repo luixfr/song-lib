@@ -1,0 +1,25 @@
+{
+  "titles": ["Entra En La Presencia"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "25" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Entra en la presencia del Señor",
+          "con gratitud y adórale de corazón,",
+          "entra en la presencia del Señor"
+        ],
+        "v2": [
+          "con gratitud y alza tu voz con júbilo.",
+          "/: Dad gloria y honra y alabanza",
+          "al Señor, oh Cristo, Nombre sin igual/"
+        ]
+      }
+    }
+  ]
+}

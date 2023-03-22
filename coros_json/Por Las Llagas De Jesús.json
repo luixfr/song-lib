@@ -1,0 +1,41 @@
+{
+  "titles": ["Por Las Llagas De Jesús"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "497" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "Por las llagas de Jesús,",
+          "mis dolencias Él llevó,",
+          "fue la Sangre que Él vertió,"
+        ],
+        "v2": [
+          "que mis culpas Él lavo,",
+          "Con la Sangre de Jesús,",
+          "mi conciencia Él limpió,"
+        ],
+        "v3": [
+          "fue la Gracia de la Cruz,",
+          "que mi libertad compro.",
+          "Por los siglos de los siglos,"
+        ],
+        "v4": [
+          "al Cordero alabaré",
+          "Con todos los redimidos,",
+          "junto al trono yo estaré."
+        ],
+        "v5": [
+          "Con millares de millares,",
+          "al Cordero adoraré",
+          "y con ojos redimidos"
+        ],
+        "v6": ["a Jesucristo yo veré"]
+      }
+    }
+  ]
+}

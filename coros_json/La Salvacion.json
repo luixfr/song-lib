@@ -1,0 +1,30 @@
+{
+  "titles": ["La Salvacion"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "399" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "La salvación es de nuestro Dios,",
+          "El está sentado sobre su trono.",
+          "Y al Cordero de Dios toda la gloria,"
+        ],
+        "v2": ["sabiduría, honor y todo el poder.", "Coro:", "A nuestro Dios,"],
+        "v3": [
+          "ahora y siempre, Amén...",
+          "Y los redimidos cantarán",
+          "a una voz y unidad."
+        ],
+        "v4": [
+          "Y le declararán toda la gloria,",
+          "sabiduría, honor y todo el poder."
+        ]
+      }
+    }
+  ]
+}

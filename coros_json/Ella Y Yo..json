@@ -1,0 +1,36 @@
+{
+  "titles": ["Ella Y Yo."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "156" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/:Dejaremos el mañana juntos",
+          "viviremos el presente hoy",
+          "entre flores, cardos y las piedras"
+        ],
+        "v2": [
+          "y el arroyo de una paz.",
+          "Coro:",
+          "/: Viviremos con amor trabajando con amor con la paz y la alegría del Señor."
+        ],
+        "v3": [
+          "Ella y yo viviremos con amor",
+          "ella y yo lucharemos con amor",
+          "-2-"
+        ],
+        "v4": [
+          "Preparados cuando venga Cristo",
+          "muy unidos y llenos de amor",
+          "la esperanza de un mundo nuevo"
+        ],
+        "v5": ["y el sol de una mañana."]
+      }
+    }
+  ]
+}

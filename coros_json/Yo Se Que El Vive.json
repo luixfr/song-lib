@@ -1,0 +1,60 @@
+{
+  "titles": ["Yo Se Que El Vive"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "500" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7", "v8", "v9"],
+      "lyric": {
+        "v1": [
+          "Si los vientos te obedecen,",
+          "si la mar ante Tí calla,",
+          "¿Por qué hay hombres"
+        ],
+        "v2": [
+          "que dicen que Tú no vives?",
+          "si la tierra tu la riegas,",
+          "con la lluvia de los cielos"
+        ],
+        "v3": [
+          "¿Por qué hay hombres que dudan tanto de Ti?",
+          "Es mi anhelo que las flores",
+          "le dijeran a los hombres,"
+        ],
+        "v4": [
+          "por cual mano todas ellas fueron creadas;",
+          "de seguro entenderían, que si ti no existiría",
+          "lo más bello que en el mundo pueda haber."
+        ],
+        "v5": [
+          "¿No ves el agua fluir, por la cual tu sosiegas",
+          "la sed que aprisiona tu boca?",
+          "¿O la sombra del árbol la cual te regala descanso?"
+        ],
+        "v6": [
+          "¿pues entonces porque te preguntas",
+          "si hay un creador?",
+          "Si puedes vete a contar, las estrellas que"
+        ],
+        "v7": [
+          "alumbran lo negro de un inmenso cielo;",
+          "si no puedes, acepta que Dios es real,",
+          "no es un cuento, Él es tan Grande,"
+        ],
+        "v8": [
+          "no se puede negar.",
+          "Yo se que Él vive, pues lo veo en la risa de un",
+          "niño cuando voy pasando;"
+        ],
+        "v9": [
+          "y al oír el bramido del mar que me dice cantando,",
+          "que hay un Dios verdadero que hizo",
+          "toda la creación."
+        ]
+      }
+    }
+  ]
+}

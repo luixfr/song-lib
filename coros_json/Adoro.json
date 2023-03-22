@@ -1,0 +1,31 @@
+{
+  "titles": ["Adoro"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "12" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Adoro, adoro a Cristo,",
+          "entro en su presencia con cántico.",
+          "Adoro, adoro a Cristo,"
+        ],
+        "v2": [
+          "entro en su presencia otra vez.",
+          "/: A ser renovado/ y ser renovado",
+          "en la presencia del Señor."
+        ],
+        "v3": [
+          "/: A ser renovado: /",
+          "mi Señor yo necesito",
+          "ser renovado y ser renovado"
+        ],
+        "v4": ["en la presencia del Señor."]
+      }
+    }
+  ]
+}

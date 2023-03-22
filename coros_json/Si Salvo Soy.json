@@ -1,0 +1,25 @@
+{
+  "titles": ["Si Salvo Soy"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "254" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Si salvo soy, debo decir",
+          "las maravillas que el Señor hizo conmigo.",
+          "Yo fui a la cruz y vi a Jesús"
+        ],
+        "v2": [
+          "y mis pecados El perdonó.",
+          "/:Y yo que he sido salvo no debo avergonzarme de presentar a Cristo como mi",
+          "Salvador:/"
+        ]
+      }
+    }
+  ]
+}

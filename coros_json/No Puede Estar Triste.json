@@ -1,0 +1,26 @@
+{
+  "titles": ["No Puede Estar Triste"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "348" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "No puede estar triste",
+          "un corazón que tiene a Cristo;",
+          "no puede estar triste"
+        ],
+        "v2": [
+          "un corazón que tiene a Dios.",
+          "Canto con gozo a Jesucristo",
+          "y el que tenga gozo en el Señor"
+        ],
+        "v3": ["diga un 'Amén' (Amén)."]
+      }
+    }
+  ]
+}

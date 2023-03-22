@@ -1,0 +1,25 @@
+{
+  "titles": ["Eben-Ezer"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "2" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Eben-ezer,",
+          "hasta aquí nos ayudó Jehová,",
+          "con su Poder y su Gracia nos guiará,"
+        ],
+        "v2": [
+          "esta canción por los siglos durará,",
+          "Eben-ezer,",
+          "hasta aquí nos ayudó Jehová."
+        ]
+      }
+    }
+  ]
+}

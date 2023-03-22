@@ -1,0 +1,26 @@
+{
+  "titles": ["Me Gozare"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "296" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Me gozaré, me alegraré y",
+          "cantaré al Señor",
+          "porque han llegado"
+        ],
+        "v2": [
+          "las Bodas del Cordero de Dios: /",
+          "/: Y a su Esposa se le ha concedido",
+          "que se vista de lino fino, lino limpio"
+        ],
+        "v3": ["y resplandeciente para recibir al Rey: /"]
+      }
+    }
+  ]
+}

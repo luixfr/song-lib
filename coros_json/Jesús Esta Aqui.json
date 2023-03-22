@@ -1,0 +1,26 @@
+{
+  "titles": ["Jesús Esta Aqui"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "191" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Jesús está aquí, pide lo que quieras",
+          "El tiene Poder y te responderá,",
+          "Jesús está aquí"
+        ],
+        "v2": [
+          "hermano pide lo que quieras.",
+          "/: Tres cosas quiero yo, que Tú me des Señor:/",
+          "y esas tres cosas son: amor y santidad"
+        ],
+        "v3": ["y el Espíritu Santo que es fiel Consolador"]
+      }
+    }
+  ]
+}

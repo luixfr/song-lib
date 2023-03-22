@@ -1,0 +1,26 @@
+{
+  "titles": ["Jacob Lucho."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "126" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:/: Jacob luchó con un ángel",
+          "por una bendición:/",
+          "/: Dámela Señor, con tu gran Poder:/"
+        ],
+        "v2": [
+          "/: Yo la vine a buscar",
+          "y sin ella no me voy:/",
+          "/: Dámela, Señor, por tu gran Poder:/"
+        ],
+        "v3": ["Yo la vine a buscar", "y sin ella no me voy."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "titles": ["Haré Un Altar Para Ti"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "124" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Haré un altar para Ti",
+          "con sacrificio de alabanza",
+          "con júbilo y confianza"
+        ],
+        "v2": ["y cantaré. . . a Jehová.", "//: Descienda el Fuego:// de Dios."]
+      }
+    }
+  ]
+}

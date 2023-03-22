@@ -1,0 +1,25 @@
+{
+  "titles": ["Ya Cristo Viene"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "303" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Ya Cristo viene, señales hay,",
+          "almas salvadas viene a llevar;",
+          "los que durmieron se quedarán,"
+        ],
+        "v2": [
+          "los que velaron se irán con El.",
+          "Me voy con Él, me voy con Él",
+          "yo no me quedo me voy con Él"
+        ]
+      }
+    }
+  ]
+}

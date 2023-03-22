@@ -1,0 +1,24 @@
+{
+  "titles": ["Canto De Gozo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "57" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Canto de gozo tengo en mi",
+          "canto de gozo en mi corazón:/",
+          "/: Sólo en tu presencia hay plenitud de gozo!"
+        ],
+        "v2": [
+          "Y ahora Señor recibe Tú la gloria",
+          "y ahora Señor recibe Tú el honor."
+        ]
+      }
+    }
+  ]
+}

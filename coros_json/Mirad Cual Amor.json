@@ -1,0 +1,22 @@
+{
+  "titles": ["Mirad Cual Amor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "347" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//: Mirad cual amor",
+          "Nos ha dado el Padre",
+          "que seamos llamados"
+        ],
+        "v2": ["Los hijos de Dios: //", "Por eso el mundo", "Ya no nos conoce"],
+        "v3": ["porque a Él tampoco", "No le conoció."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "titles": ["Tu Río Fluirá"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "498" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:Hay un río de vida, que está fluyendo",
+          "de tu trono, oh Dios;",
+          "llevando vida, llevando paz a cada nación."
+        ],
+        "v2": [
+          "Con gran poder, con gran virtud, fluye hoy.",
+          "Derrama tu gloria sobre nosotros, oh Señor:/",
+          "/:Tu río fluirá, nadie lo detendrá,"
+        ],
+        "v3": [
+          "con gloria y con poder",
+          "tu gloria se verá:/",
+          "En toda nación."
+        ]
+      }
+    }
+  ]
+}

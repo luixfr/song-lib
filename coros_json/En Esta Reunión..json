@@ -1,0 +1,30 @@
+{
+  "titles": ["En Esta Reunión."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "116" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:En esta reunión Cristo está",
+          "El ha prometido estar,",
+          "donde dos o tres"
+        ],
+        "v2": [
+          "en mi nombre estén",
+          "//: allí estaré: //",
+          "/: Yo lo siento en mí: /"
+        ],
+        "v3": [
+          "Su Espíritu me hace hablar.",
+          "/: Yo lo siento en mí: /",
+          "su Espíritu me hace cantar."
+        ]
+      }
+    }
+  ]
+}

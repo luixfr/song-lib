@@ -1,0 +1,22 @@
+{
+  "titles": ["Hay Un Pueblo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "246" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["/: Hay un pueblo", "que vive muy feliz", "Ese pueblo"],
+        "v2": [
+          "es el pueblo de Dios:/",
+          "/: ese pueblo vive así",
+          "porque un día conoció"
+        ],
+        "v3": ["a Jesús el Salvador:/"]
+      }
+    }
+  ]
+}

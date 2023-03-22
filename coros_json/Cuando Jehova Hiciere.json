@@ -1,0 +1,29 @@
+{
+  "titles": ["Cuando Jehova Hiciere"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "424" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:/: Cuando Jehová hiciere volver",
+          "la cautividad de Sión:/",
+          "Seremos como los que sueñan,"
+        ],
+        "v2": [
+          "nuestra boca se llenará de risa,",
+          "nuestra lengua de alabanza,",
+          "las naciones entonces dirán:"
+        ],
+        "v3": [
+          "/:Grandes cosas ha hecho Jehová:/",
+          "grandes cosas ha hecho Jehová, estaremos alegres"
+        ]
+      }
+    }
+  ]
+}

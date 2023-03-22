@@ -1,0 +1,29 @@
+{
+  "titles": ["Yo Tengo Una Corona"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "268" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Yo tengo una corona allá en el cielo",
+          "que Cristo ha preparado para mí",
+          "Y oí una voz del Cielo que decía:"
+        ],
+        "v2": [
+          "'Hijo mió no te tardes en venir'",
+          "y yo no endurecí mi corazón",
+          "y a la voz de Cristo me humillé"
+        ],
+        "v3": [
+          "me dijo: 'Levántate, hijo mió < /p>que con mi Sangre tus pecados",
+          "Yo lavé'"
+        ]
+      }
+    }
+  ]
+}

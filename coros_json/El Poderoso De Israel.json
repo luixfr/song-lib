@@ -1,0 +1,33 @@
+{
+  "titles": ["El Poderoso De Israel"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "271" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "Él es el Poderoso de Israel",
+          "su voz se oirá nadie lo detendrá",
+          "al Poderoso de Israel"
+        ],
+        "v2": ["-1-", "Y de noche cantaremos", "celebrando su poder"],
+        "v3": [
+          "con alegría de corazón",
+          "como el que va con la flauta",
+          "al monte de Jehová"
+        ],
+        "v4": ["celebraremos su Poder.", "-2-", "Y los ojos de los ciegos"],
+        "v5": [
+          "se abrirán y nos verán",
+          "los oídos de los sordos oirán",
+          "el cojo saltará, con el arpa alabará"
+        ],
+        "v6": ["la lengua de los mudos cantará."]
+      }
+    }
+  ]
+}

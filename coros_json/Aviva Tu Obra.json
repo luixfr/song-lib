@@ -1,0 +1,21 @@
+{
+  "titles": ["Aviva Tu Obra"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "103" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Aviva tu Obra, avívala Señor",
+          "tu gloria descienda sobre tu pueblo hoy:/",
+          "Danos Señor de tu amor, danos gozo y santidad danos Señor de tu autoridad"
+        ],
+        "v2": ["/: para vencer:/"]
+      }
+    }
+  ]
+}

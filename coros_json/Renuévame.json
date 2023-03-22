@@ -1,0 +1,31 @@
+{
+  "titles": ["Renuévame"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "240" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Renuévame, Señor Jesús",
+          "ya no quiero ser igual.",
+          "Renuévame, Señor Jesús"
+        ],
+        "v2": [
+          "pon en mí tu corazón.",
+          "Porque todo lo que hay",
+          "Dentro de mí necesita"
+        ],
+        "v3": [
+          "Ser cambiado Señor,",
+          "porque todo lo que hay",
+          "Dentro de mi corazón"
+        ],
+        "v4": ["//: Necesita más de Ti: //"]
+      }
+    }
+  ]
+}

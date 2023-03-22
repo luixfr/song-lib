@@ -1,0 +1,26 @@
+{
+  "titles": ["Grande Eres Tú"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "396" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Venimos adorarte",
+          "y darte gloria;",
+          "levantamos nuestras manos"
+        ],
+        "v2": [
+          "exaltándote Señor: /",
+          "/: Grande eres Tú,",
+          "grandes tus milagros son."
+        ],
+        "v3": ["No hay nadie como Tú", "no hay nadie como Tú: /"]
+      }
+    }
+  ]
+}

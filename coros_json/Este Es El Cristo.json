@@ -1,0 +1,26 @@
+{
+  "titles": ["Este Es El Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "273" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Este es el Cristo que yo predico",
+          "y no me canso de predicar,",
+          "Él sana a los enfermos"
+        ],
+        "v2": [
+          "reprende a los demonios",
+          "y calma la tempestad.",
+          "/: Y yo le alabaré: /"
+        ],
+        "v3": ["Diciendo: Gloria a Dios"]
+      }
+    }
+  ]
+}

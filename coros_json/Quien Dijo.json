@@ -1,0 +1,26 @@
+{
+  "titles": ["Quien Dijo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "353" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Quien dijo que no,",
+          "que no había victoria,",
+          "el tal no ha conocido"
+        ],
+        "v2": [
+          "al Cristo de la gloria.",
+          "Yo digo que sí que victoria",
+          "tenemos"
+        ],
+        "v3": ["/: porque ya conocemos", "la gloria de Dios:/"]
+      }
+    }
+  ]
+}

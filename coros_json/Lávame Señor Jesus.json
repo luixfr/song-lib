@@ -1,0 +1,41 @@
+{
+  "titles": ["Lávame Señor Jesus"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "237" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "Lávame, Señor Jesús",
+          "y límpiame de mis pecados.",
+          "Purifícame, lávame en tu Sangre,"
+        ],
+        "v2": [
+          "Límpiame de mi maldad.",
+          "Examina, hoy mi corazón",
+          "y libérame de mis pecados."
+        ],
+        "v3": [
+          "Santifícame, lávame en tu Sangre,",
+          "Límpiame de mi maldad.",
+          "Pues yo reconozco,"
+        ],
+        "v4": [
+          "que me he revelado,",
+          "muchas veces he pecado contra Ti.",
+          "Es por eso que yo ahora me arrepiento y yo vengo suplicando tu perdón."
+        ],
+        "v5": [
+          "Perdóname, Señor Jesús",
+          "y límpiame de mis pecados.",
+          "Purifícame, lávame en tu Sangre,"
+        ],
+        "v6": ["límpiame de mi maldad."]
+      }
+    }
+  ]
+}

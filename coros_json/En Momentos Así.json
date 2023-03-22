@@ -1,0 +1,21 @@
+{
+  "titles": ["En Momentos Así"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "392" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "En momentos así, levanto mi voz, levanto mi canto a Cristo.",
+          "En momentos así, levanto mi ser, levanto mi alma a El.",
+          "/: cuánto te amo, Dios:/"
+        ],
+        "v2": ["cuánto te amo, Dios te amo."]
+      }
+    }
+  ]
+}

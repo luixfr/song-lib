@@ -1,0 +1,25 @@
+{
+  "titles": ["Con Un Clamor De Gozo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "423" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Con un clamor de gozo exalto a mi Señor, el es la Roca de mi",
+          "salvación:/",
+          "La diestra del Señor poderosa es,"
+        ],
+        "v2": [
+          "la diestra del Señor me sustentará,",
+          "la diestra del Señor poderosa es,",
+          "anunciaré sus maravillas."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "titles": ["En El Hogar."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "151" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:/: En el hogar, en el hogar: /",
+          "necesitas a Jesús.",
+          "/: Verás que feliz se vive: /"
+        ],
+        "v2": ["con Jesús en el hogar."]
+      }
+    }
+  ]
+}

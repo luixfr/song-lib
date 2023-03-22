@@ -1,0 +1,26 @@
+{
+  "titles": ["No Hay Nadie Como Tu"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "451" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "///: No hay nadie como Tú:///",
+          "Porque siempre que yo te llamo,",
+          "Tú vienes hacia mí."
+        ],
+        "v2": [
+          "Porque siempre que yo te busco,",
+          "Tú estas junto a mí.",
+          "Por eso y por muchas cosas,"
+        ],
+        "v3": ["no hay nadie como Tú."]
+      }
+    }
+  ]
+}

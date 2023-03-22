@@ -1,0 +1,21 @@
+{
+  "titles": ["Ya No Me Siento Solo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "384" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Ya no me siento solo, solo, solo:/",
+          "/: porque conmigo está",
+          "Cristo mi Salvador,"
+        ],
+        "v2": ["El vive en mi interior y", "me defenderá:/"]
+      }
+    }
+  ]
+}

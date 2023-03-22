@@ -1,0 +1,26 @@
+{
+  "titles": ["A Traves Del Mundo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "436" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:A través del mundo cruel,",
+          "mi deber es servirle:/",
+          "En las pruebas y el dolor,"
+        ],
+        "v2": [
+          "mi deber es servirle.",
+          "Aunque ruja tempestad,",
+          "mi deber es servirle."
+        ],
+        "v3": ["Mi vida entera consagro al Señor,", "mi deber es servirle."]
+      }
+    }
+  ]
+}

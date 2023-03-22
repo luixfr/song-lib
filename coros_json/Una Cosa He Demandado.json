@@ -1,0 +1,21 @@
+{
+  "titles": ["Una Cosa He Demandado"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "312" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Una cosa he demandado",
+          "a Jehová esta buscaré:/",
+          "/: Que esté yo en la casa"
+        ],
+        "v2": ["de Jehová todos los días", "de mi vida y viviré:/"]
+      }
+    }
+  ]
+}

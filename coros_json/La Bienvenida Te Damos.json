@@ -1,0 +1,26 @@
+{
+  "titles": ["La Bienvenida Te Damos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "75" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "La bienvenida te damos hoy",
+          "en el nombre del Señor",
+          "Esperando te sientas bien"
+        ],
+        "v2": [
+          "en la Casa del Amigo fiel",
+          "Ya estás aquí gracias a Dios",
+          "casualidad no puede ser"
+        ],
+        "v3": ["/: La bienvenida:/ te damos hoy."]
+      }
+    }
+  ]
+}

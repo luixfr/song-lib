@@ -1,0 +1,26 @@
+{
+  "titles": ["Yo Quiero Sentir"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "369" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Yo quiero sentir,",
+          "A un Cristo de poder,",
+          "Yo quiero sentir,"
+        ],
+        "v2": [
+          "El Espíritu Santo;",
+          "Yo quiero sentir,",
+          "Que ángeles del cielo,"
+        ],
+        "v3": ["Acampen a mi lado", "Y me ayuden a vencer."]
+      }
+    }
+  ]
+}

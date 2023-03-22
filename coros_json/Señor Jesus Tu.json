@@ -1,0 +1,21 @@
+{
+  "titles": ["Señor Jesus Tu"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "380" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Señor Jesús, Tú eres mi vida;",
+          "Señor Jesús, Tú eres mi amor.",
+          "/: Salvaste mi alma perdida,"
+        ],
+        "v2": ["por eso te alabo con el corazón!"]
+      }
+    }
+  ]
+}

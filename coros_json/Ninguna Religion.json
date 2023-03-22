@@ -1,0 +1,22 @@
+{
+  "titles": ["Ninguna Religion"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "249" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["Ninguna religión", "pudo cambiar mi ser", "la Sangre de Jesús"],
+        "v2": [
+          "sólo lo pudo hacer",
+          "//: Oh ven pronto a Él://",
+          "y salvo serás."
+        ],
+        "v3": ["//: Entrégate a Él://", "y salvo serás."]
+      }
+    }
+  ]
+}

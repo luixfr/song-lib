@@ -1,0 +1,21 @@
+{
+  "titles": ["Lavame En Tu Sangre"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "459" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Lávame en tu Sangre:/Carmesí:/",
+          "con ella me compraste,",
+          "con ella pagaste Tú por mi."
+        ],
+        "v2": ["/: Lávame en tu sangre:/ Señor:/"]
+      }
+    }
+  ]
+}

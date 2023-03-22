@@ -1,0 +1,25 @@
+{
+  "titles": ["Aleluya"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "489" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Aleluya, aleluya, nuestro Dios Poderoso es Rey",
+          "CORO",
+          "Aleluya, aleluya, Santo,"
+        ],
+        "v2": [
+          ":/Santo, eres Tú Dios, Poderoso Rey,",
+          "digno eres Tú, Cordero de Dios, Eres Santo:/",
+          "Amén"
+        ]
+      }
+    }
+  ]
+}

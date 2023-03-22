@@ -1,0 +1,31 @@
+{
+  "titles": ["Como Corre El Rio"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "472" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/: Cómo corre el río en todo mi ser:/",
+          "/: Es que yo confío en Cristo/:",
+          "Tú eres Todopoderoso,"
+        ],
+        "v2": [
+          "eres grande y majestuoso.",
+          "Eres fuerte invencible,",
+          "y no hay nadie como Tú. :/"
+        ],
+        "v3": [
+          "o mi Rey:/",
+          "/: Cómo río de agua viva que salta hacia arriba, yo llevo dentro.",
+          "Confirma, confirma"
+        ],
+        "v4": ["este llamamiento, Espíritu Santo en este momento:/"]
+      }
+    }
+  ]
+}

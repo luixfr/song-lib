@@ -1,0 +1,39 @@
+{
+  "titles": ["En Mi Familia"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "158a" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "Si en esta vida no puedes ser feliz",
+          "y tu familia vive muy infeliz",
+          "y sólo encuentras problemas hasta aquí"
+        ],
+        "v2": [
+          "acepta a Cristo y siempre feliz serás.",
+          "CORO:",
+          "En mi familia Cristo vive"
+        ],
+        "v3": [
+          "en mi familia Cristo está.",
+          "Querido hermano quiero decirte:",
+          "que con mi Cristo siempre feliz serás."
+        ],
+        "v4": [
+          "-2-",
+          "Acepta a Cristo, sí mi hermano",
+          "y con tu esposa hoy ven aquí"
+        ],
+        "v5": [
+          "y tu familia hoy bendecida",
+          "por Jesucristo por siempre así será."
+        ]
+      }
+    }
+  ]
+}

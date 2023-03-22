@@ -1,0 +1,29 @@
+{
+  "titles": ["Adelante Con Valor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "315" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Adelante con valor",
+          "sin temor porque Dios es amor:/",
+          "//: Porque Dios es amor:// es amor."
+        ],
+        "v2": [
+          "//: Porque Dios es amor:// es amor.",
+          "/: En el amor no hay temor",
+          "porque el amor echa fuera el temor:/"
+        ],
+        "v3": [
+          "//: Porque Dios es amor:// es amor.",
+          "//: Porque Dios es amor:// es amor."
+        ]
+      }
+    }
+  ]
+}

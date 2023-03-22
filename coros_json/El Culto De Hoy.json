@@ -1,0 +1,25 @@
+{
+  "titles": ["El Culto De Hoy"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "108" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:/: El culto de hoy",
+          "va a ser maravilloso,",
+          "Porque Jesús va a derramar"
+        ],
+        "v2": [
+          "de su Poder: /",
+          "/: Derrama Señor, derrama Señor;",
+          "derrama sobre nosotros tu Poder: /"
+        ]
+      }
+    }
+  ]
+}

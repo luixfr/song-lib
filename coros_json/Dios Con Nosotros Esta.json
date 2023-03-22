@@ -1,0 +1,24 @@
+{
+  "titles": ["Dios Con Nosotros Esta"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "229" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "¡Dios con nosotros está, así lo prometió! Dios con nosotros está y",
+          "su promesa es fiel. Dios con nosotros está, es hoy igual que ayer. Dios con nosotros",
+          "está, dad gloria a Emmanuel"
+        ],
+        "v2": [
+          "Vive Cristo es hoy igual que ayer.",
+          "¡Aleluya! El con nosotros está."
+        ]
+      }
+    }
+  ]
+}

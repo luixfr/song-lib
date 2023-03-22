@@ -1,0 +1,26 @@
+{
+  "titles": ["Es Hora De Alabar A Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "62" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Es hora de alabar a Dios,",
+          "es hora de glorificarle;",
+          "es hora de decirle te amo;"
+        ],
+        "v2": [
+          "es hora de invocar su Nombre.",
+          "Y con las manos levantadas",
+          "te adoramos y te bendecimos."
+        ],
+        "v3": ["Hoy todos juntos te amamos", "e invocamos tu glorioso Nombre."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "titles": ["Voz De Jubilo Y De Salvacion"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "260" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:Voz de júbilo y de salvación",
+          "hay en las tiendas de los justos",
+          "La diestra de Jehová hace proezas,"
+        ],
+        "v2": [
+          "la diestra de Jehová sublime es,",
+          "la diestra de Jehová hace valentías, la diestra de Jehová sublime es.",
+          "/:No moriré, sino que viviré"
+        ],
+        "v3": ["y contaré las obras de Jehová:/"]
+      }
+    }
+  ]
+}

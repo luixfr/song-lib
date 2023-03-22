@@ -1,0 +1,25 @@
+{
+  "titles": ["El Leon De La Tribu"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "443" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Es el León de la tribu de Judá,",
+          "Jesús nos ha libertado de las cadenas,",
+          "y ahora El es mi Roca y mi victoria."
+        ],
+        "v2": [
+          "El es mi fuerza en el tiempo de debilidad,",
+          "mi Poder en el tiempo de guerra",
+          "y hoy es la Esperanza de Israel:/"
+        ]
+      }
+    }
+  ]
+}

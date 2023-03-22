@@ -1,0 +1,25 @@
+{
+  "titles": ["El Mundo Dice"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "166" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "El mundo dice que nada",
+          "Aprovechamos",
+          "sirviendo a Cristo en nuestra"
+        ],
+        "v2": [
+          "Juventud.",
+          "/: Pero nosotros les testificamos",
+          "que es un deleite servir a Jesús: /"
+        ]
+      }
+    }
+  ]
+}

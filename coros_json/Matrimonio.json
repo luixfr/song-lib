@@ -1,0 +1,39 @@
+{
+  "titles": ["Matrimonio"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "157" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "Matrimonio ley que Dios instituyo",
+          "pues en ella el amor legalizó",
+          "los patriarcas y profetas cada uno practicó"
+        ],
+        "v2": [
+          "y mi Cristo en Galilea con su primer milagro honró.",
+          "CORO.",
+          "Por eso el matrimonio es una ley de Dios"
+        ],
+        "v3": [
+          "porque forma una vida con las vidas de dos.",
+          "Por eso el matrimonio te une con quien tú amas",
+          "porque forman un alma de lo que son dos almas."
+        ],
+        "v4": [
+          "-2-",
+          "Matrimonio ley divina del Creador",
+          "eres fuerte y tu fuerza es el amor"
+        ],
+        "v5": [
+          "tu has vencido las barreras del amor sin religión",
+          "y en pureza representas a la Iglesia del Señor."
+        ]
+      }
+    }
+  ]
+}

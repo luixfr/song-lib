@@ -1,0 +1,21 @@
+{
+  "titles": ["Ardiendo En Fuego"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "102" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Ardiendo en Fuego mi alma está,",
+          "ardiendo en Fuego mi alma está",
+          "gloriosa llama me limpiará,"
+        ],
+        "v2": ["aleluya, mi alma ardiendo está."]
+      }
+    }
+  ]
+}

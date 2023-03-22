@@ -1,0 +1,21 @@
+{
+  "titles": ["Libertad, Libertad"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "444" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Libertad, libertad oh qué buena,",
+          "es aquella que da el Salvador.",
+          "Libertad a las almas perdidas,"
+        ],
+        "v2": ["libertad de la condenación."]
+      }
+    }
+  ]
+}

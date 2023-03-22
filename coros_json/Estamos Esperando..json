@@ -1,0 +1,22 @@
+{
+  "titles": ["Estamos Esperando."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "121" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["/:Estamos esperando", "un avivamiento", "estamos esperando"],
+        "v2": [
+          "que baje el Poder",
+          "/: El Poder del Padre,",
+          "el Poder del Hijo"
+        ],
+        "v3": ["el Poder del Santo", "Espíritu de Dios:/"]
+      }
+    }
+  ]
+}

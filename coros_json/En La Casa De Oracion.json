@@ -1,0 +1,26 @@
+{
+  "titles": ["En La Casa De Oracion"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "306" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: En la casa de oración",
+          "se siente gozo:/",
+          "/: porque Cristo mora allí:/"
+        ],
+        "v2": [
+          "En la casa de oración",
+          "se siente gozo. /:",
+          "/: Dale libertad al Señor"
+        ],
+        "v3": ["y verás como también tú sientes gozo:/"]
+      }
+    }
+  ]
+}

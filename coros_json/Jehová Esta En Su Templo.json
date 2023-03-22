@@ -1,0 +1,26 @@
+{
+  "titles": ["Jehová Esta En Su Templo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "233" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Jehová está en su Templo,",
+          "Alábale que Él vive:/",
+          "/: Alábale, alábale,"
+        ],
+        "v2": [
+          "Alábale que El vive:/",
+          "/: Con toda reverencia",
+          "Alábale que El vive:/"
+        ],
+        "v3": ["/: Alábale, alábale,", "alábale que El vive:/"]
+      }
+    }
+  ]
+}

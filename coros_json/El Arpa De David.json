@@ -1,0 +1,20 @@
+{
+  "titles": ["El Arpa De David"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "425" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/: Suena, suena el arpa de David,",
+          "los demonios tiemblan y huyen de aquí:/",
+          "/: Porque en la alabanza se mueve el Poden"
+        ]
+      }
+    }
+  ]
+}

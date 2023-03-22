@@ -1,0 +1,26 @@
+{
+  "titles": ["Solamente En Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "255" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Solamente en Cristo,",
+          "Solamente en Él",
+          "la salvación se encuentra en Él."
+        ],
+        "v2": [
+          "No hay otro Nombre",
+          "dado a los hombres",
+          "solamente en Cristo,"
+        ],
+        "v3": ["solamente en Él."]
+      }
+    }
+  ]
+}

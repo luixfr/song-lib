@@ -1,0 +1,41 @@
+{
+  "titles": ["En La Presencia De Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "428" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "En la presencia de Dios,",
+          "su rostro yo puedo mirar,",
+          "su mano yo puedo estrechar,"
+        ],
+        "v2": [
+          "en la presencia de Dios.",
+          "Un día estaré para siempre, ¡Aleluya!",
+          "/: En la presencia de Dios:/"
+        ],
+        "v3": [
+          "se quita todo dolor,",
+          "se quita todo temor,",
+          "en la presencia de Dios."
+        ],
+        "v4": [
+          "Un día estaré para siempre, ¡Aleluya! En la presencia de Dios.",
+          "En la presencia de Dios,",
+          "yo siento su comunión,"
+        ],
+        "v5": [
+          "yo siento su bendición,",
+          "en la presencia de Dios.",
+          "Un día estaremos todos allá"
+        ],
+        "v6": ["reunidos /: En la presencia de Dios:/"]
+      }
+    }
+  ]
+}

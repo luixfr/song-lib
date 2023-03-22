@@ -1,0 +1,26 @@
+{
+  "titles": ["En Las Pruebas."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          ": En las pruebas y en las luchas,",
+          "la Iglesia sigue caminando:/",
+          "Sigue caminando"
+        ],
+        "v2": [
+          "sólo se detiene para predicar.",
+          "/: ¡Oh gloria, aleluya!",
+          "La Iglesia sigue caminando:/"
+        ],
+        "v3": ["Sigue caminando", "sólo se detiene para predicar."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "titles": ["El Que Habita"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "80" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "EI que habita al abrigo",
+          "del Altísimo",
+          "morará bajo la sombra"
+        ],
+        "v2": [
+          "del Omnipotente",
+          "/: Y yo diré al Señor esperanza mía,",
+          "Castillo mío,"
+        ],
+        "v3": [
+          "mi Dios en quien confiaré: /",
+          "/: Mi Dios en quien confiaré: /",
+          "EI que habita al abrigo"
+        ],
+        "v4": ["Del Altísimo", "Morará bajo la sombra", "Del Omnipotente"],
+        "v5": ["Que es Jehová", "Quién es ese Jehová", "Es Jesús mi Señor"],
+        "v6": ["Es Jesús mi Señor", "Mi Jehová"]
+      }
+    }
+  ]
+}

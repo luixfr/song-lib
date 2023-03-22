@@ -1,0 +1,21 @@
+{
+  "titles": ["Alla En El Cielo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "285" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Allá en el cielo tengo un hogar",
+          "y una corona para heredar.",
+          "Si tú te duermes otro vendrá"
+        ],
+        "v2": ["y tu corona //: heredará://"]
+      }
+    }
+  ]
+}

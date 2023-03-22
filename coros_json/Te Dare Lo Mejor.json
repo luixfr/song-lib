@@ -1,0 +1,25 @@
+{
+  "titles": ["Te Dare Lo Mejor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "381" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Te daré lo mejor del trigo,",
+          "de la miel de la roca te daré:/",
+          "Derribará a tus adversarios,"
+        ],
+        "v2": [
+          "los buscarás y no los hallarás;",
+          "vencerás en todos tus caminos,",
+          "para siempre en el Nombre de Jesús"
+        ]
+      }
+    }
+  ]
+}

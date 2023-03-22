@@ -1,0 +1,24 @@
+{
+  "titles": ["Hay Una Fuente En Mi"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "31" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Hay una fuente en mí",
+          "que está brotando",
+          "que está fluyendo dentro de mí:/"
+        ],
+        "v2": [
+          "Es un río de alabanza y de adoración,",
+          "dirigido hacia Ti Señor Jesús, recíbelo."
+        ]
+      }
+    }
+  ]
+}

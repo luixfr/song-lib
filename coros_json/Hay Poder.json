@@ -1,0 +1,20 @@
+{
+  "titles": ["Hay Poder"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "274" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Hay poder, hay poder,",
+          "no lo dudes que en Cristo hay poder, Jesucristo es el mismo de ayer y de hoy y será",
+          "por los siglos amén. (Hay salud)."
+        ]
+      }
+    }
+  ]
+}

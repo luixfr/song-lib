@@ -1,0 +1,21 @@
+{
+  "titles": ["Te Amo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "431" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Te amo /: más que todo te amo:/",
+          "Señor, mi vida te doy.",
+          "Te alabo/: eres santo y te alabo:/"
+        ],
+        "v2": ["Señor, mi vida te doy."]
+      }
+    }
+  ]
+}

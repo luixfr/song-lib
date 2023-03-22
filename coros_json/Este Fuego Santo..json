@@ -1,0 +1,26 @@
+{
+  "titles": ["Este Fuego Santo."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "122" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:/: Este Fuego Santo",
+          "¿quién lo apagará?,",
+          "¿quién lo apagará,"
+        ],
+        "v2": [
+          "¿quién lo apagará? :/",
+          "Ni las pruebas,",
+          "ni las luchas lo podrán apagar,"
+        ],
+        "v3": ["manda el Fuego, Fuego Santo,", "Purificador."]
+      }
+    }
+  ]
+}

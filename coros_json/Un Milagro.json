@@ -1,0 +1,25 @@
+{
+  "titles": ["Un Milagro"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "283" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Un milagro Dios quiere hacer en Ti:/",
+          "quiere salvarte quiere sanarte,",
+          "quiere ayudarte y hacerte bien"
+        ],
+        "v2": [
+          "/:Un milagro Dios quiere hacer en Ti:/",
+          "en Jesucristo cree solamente",
+          "y el milagro sucederá."
+        ]
+      }
+    }
+  ]
+}

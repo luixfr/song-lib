@@ -1,0 +1,26 @@
+{
+  "titles": ["Donde Esta El Espiritu"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "173" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Donde está el Espíritu de Dios,",
+          "hay libertad, hay libertad;",
+          "donde está el Espíritu de Dios,"
+        ],
+        "v2": [
+          "ahí siempre hay libertad",
+          "//: Libertad, libertad: //",
+          "donde está el Espíritu de Dios,"
+        ],
+        "v3": ["ahí siempre hay libertad."]
+      }
+    }
+  ]
+}

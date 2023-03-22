@@ -1,0 +1,22 @@
+{
+  "titles": ["Levántate En El Nombre De Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "238" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["Levántate", "en el Nombre de Cristo,", "Levántate"],
+        "v2": [
+          "en el Nombre del Señor",
+          "toma tu puesto en la batalla",
+          "hay una guerra que pelear"
+        ],
+        "v3": ["hay una guerra que ganar. …", "¡Levántate!"]
+      }
+    }
+  ]
+}

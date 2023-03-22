@@ -1,0 +1,35 @@
+{
+  "titles": ["Porque Tu Eres Bueno"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "39" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Porque Tú eres bueno",
+          "porque para siempre",
+          "Tu misericordia es,"
+        ],
+        "v2": [
+          "Cada mañana al despertar",
+          "sé que en Ti puedo confiar,",
+          "me sostienes por tu gran fidelidad. (fin)"
+        ],
+        "v3": [
+          "Porque Tú eres bueno,",
+          "porque tu justicia eterna es",
+          "y en ella yo me deleitaré"
+        ],
+        "v4": [
+          "en tu verdad caminaré",
+          "por tu senda de justicia guíame.",
+          "Porque Tú eres bueno."
+        ]
+      }
+    }
+  ]
+}

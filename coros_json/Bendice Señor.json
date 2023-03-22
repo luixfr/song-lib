@@ -1,0 +1,21 @@
+{
+  "titles": ["Bendice Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "178" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Bendice Señor esta ofrenda que te damos,",
+          "multiplícala, multiplícala,",
+          "que sea tu Nombre glorificado"
+        ],
+        "v2": ["y que crezca en mí la fe."]
+      }
+    }
+  ]
+}

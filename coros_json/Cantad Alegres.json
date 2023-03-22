@@ -1,0 +1,31 @@
+{
+  "titles": ["Cantad Alegres"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "419" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Cantad alegres al Señor,",
+          "toda la tierra alabad",
+          "/: El, es mi Dios y mi Señor:/"
+        ],
+        "v2": [
+          "/: Levantemos nuestra voz y aplaudid:/",
+          "/: Levantemos nuestras manos",
+          "y alabemos al Señor:/"
+        ],
+        "v3": [
+          "Levantemos nuestra voz,",
+          "¡Gloria a Dios! y aplaudid.",
+          "/: Levantemos manos santas"
+        ],
+        "v4": ["y alabemos al Señor:/"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "titles": ["El Hombre Sabio."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "152" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/:El hombre sabio su casa construyó",
+          "/: sobre la roca sólida quedó: /",
+          "y la casa no cayó."
+        ],
+        "v2": [
+          "/: El hombre necio su casa construyó",
+          "sobre la arena floja la dejó:/",
+          "y la lluvia comenzó"
+        ],
+        "v3": [
+          "//: vinieron lluvias y el río se desbordó://",
+          "y la casa se cayó.",
+          "//: Yo construiré mi casa en el Señor://"
+        ],
+        "v4": ["Pues la Roca es el Señor."]
+      }
+    }
+  ]
+}

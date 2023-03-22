@@ -1,0 +1,40 @@
+{
+  "titles": ["Esta Obra"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "120" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/:/: Esta obra no va a parar,",
+          "No va a parar: /",
+          "Esta obra no va a parar"
+        ],
+        "v2": [
+          "porque está dentro de mi corazón.",
+          "/: El Fuego cae, cae,",
+          "Los males salen, salen,"
+        ],
+        "v3": [
+          "Y los creyentes alaban al Señor: /",
+          "(Este gozo...)",
+          "/: Este gozo no va a parar,"
+        ],
+        "v4": [
+          "No va a parar: /",
+          "Este gozo no va a parar",
+          "porque está dentro de mi corazón."
+        ],
+        "v5": [
+          "/: El Fuego cae, cae,",
+          "Los males salen, salen,",
+          "Y los creyentes alaban al Señor: /"
+        ]
+      }
+    }
+  ]
+}

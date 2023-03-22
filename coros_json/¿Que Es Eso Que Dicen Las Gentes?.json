@@ -1,0 +1,26 @@
+{
+  "titles": ["¿Que Es Eso Que Dicen Las Gentes?"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "280" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "¿Qué es eso que dicen las gentes?",
+          "¿Qué nueva doctrina es?",
+          "¿Qué es eso que con Potencia?"
+        ],
+        "v2": [
+          "¡Oh, qué maravilla es!",
+          "La fama de Jesucristo",
+          "corre por todo lugar."
+        ],
+        "v3": ["/: Y todos se maravillan", "por su grande potestad: /"]
+      }
+    }
+  ]
+}

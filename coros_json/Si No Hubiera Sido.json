@@ -1,0 +1,20 @@
+{
+  "titles": ["Si No Hubiera Sido"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "362" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/: Si no hubiera sido por el Señor:/",
+          "/: Mi alma se hubiera perdido",
+          "sino hubiera sido por el Señor:/"
+        ]
+      }
+    }
+  ]
+}

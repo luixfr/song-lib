@@ -1,0 +1,30 @@
+{
+  "titles": ["Santo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "404" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//: Santo:// es Jehová nuestro Dios.",
+          "//: La tierra está llena de su gloria/",
+          "Santo es Jehová."
+        ],
+        "v2": [
+          "//: Santo:// es Jehová nuestro Dios",
+          "//: La Iglesia está llena de su gloria// Santo es Jehová.",
+          "//: Santo// es Jehová nuestro Dios."
+        ],
+        "v3": [
+          "La tierra está llena de su gloria, la Iglesia está llena de su gloria, mi vida está llena de",
+          "su gloria.",
+          "Santo es Jehová."
+        ]
+      }
+    }
+  ]
+}

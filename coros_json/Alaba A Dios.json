@@ -1,0 +1,61 @@
+{
+  "titles": ["Alaba A Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "488" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7", "v8", "v9", "v10"],
+      "lyric": {
+        "v1": [
+          "Dios no rechaza la oración, la oración es alimento",
+          "nunca vi un justo sin respuesta,",
+          "o quedar en sufrimiento."
+        ],
+        "v2": [
+          "Basta solamente esperar lo que Dios irá a hacer:",
+          "Cuando Él levanta sus manos, es hora de vencer.",
+          "/:Oh, alaba, simplemente alaba;"
+        ],
+        "v3": [
+          "estás llorando, alaba;",
+          "estás sufriendo, alaba;",
+          "no importa, alaba;"
+        ],
+        "v4": [
+          "tu alabanza Él escuchará :/",
+          "Dios va al frente abriendo caminos,",
+          "quebrando cadenas, sacando espinas;"
+        ],
+        "v5": [
+          "manda a sus ángeles contigo a luchar.",
+          "Él abre puerta nadie puede cerrar,",
+          "Él trabaja para los que confían,"
+        ],
+        "v6": [
+          "camina contigo de noche y de día.",
+          "Levanta tus manos tu victoria llegó,",
+          "comienza a cantar."
+        ],
+        "v7": [
+          "CORO",
+          "//:Y alaba a Dios, alaba a Dios",
+          "alaba a Dios, alaba a Dios://"
+        ],
+        "v8": [
+          "La gente necesita entender",
+          "lo que Dios está hablando;",
+          "cuando Él queda en silencio,"
+        ],
+        "v9": [
+          "es porque Dios está trabajando.",
+          "Basta solamente esperar lo que Dios irá a hacer:",
+          "Cuando Él extiende sus manos,"
+        ],
+        "v10": ["es hora de vencer."]
+      }
+    }
+  ]
+}

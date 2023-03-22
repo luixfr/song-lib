@@ -1,0 +1,31 @@
+{
+  "titles": ["No Hay Nada Mejor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "400" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/: No hay nada mejor,",
+          "que estar contigo.",
+          "No hay nada mejor,"
+        ],
+        "v2": [
+          "que buscar de tu presencial",
+          "Hoy quiebro mi alabastro,",
+          "lo derramo ante Ti"
+        ],
+        "v3": [
+          "y el perfume llena este lugar.",
+          "Que suba este aroma",
+          "en un cántico hacia Ti,"
+        ],
+        "v4": ["mi Cristo, mi Rey y Salvador."]
+      }
+    }
+  ]
+}

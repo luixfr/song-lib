@@ -1,0 +1,21 @@
+{
+  "titles": ["Yo Por Medio De Ti"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "267" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Yo por medio de Ti",
+          "puedo entrar al Santo lugar:/",
+          "/:por la Sangre de Cristo"
+        ],
+        "v2": ["y la gracia de Dios", "somos redimidos por Ti:/"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "titles": ["Amemonos Hermanos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "74" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Amémonos hermanos",
+          "con santo y puro amor,",
+          "que una familia somos"
+        ],
+        "v2": [
+          "y nuestro Padre es Dios:/",
+          "Aleluya, aleluya, aleluya.",
+          "aleluya, gloria a Dios/:"
+        ],
+        "v3": ["Gloria a Dios. Aleluya, gloria a Dios"]
+      }
+    }
+  ]
+}

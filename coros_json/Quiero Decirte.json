@@ -1,0 +1,26 @@
+{
+  "titles": ["Quiero Decirte"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "402" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:/: Quiero decirte una vez más",
+          "Cuanto te amo:/",
+          "Mi corazón no puede callar"
+        ],
+        "v2": [
+          "/: ante tu presencia:/",
+          "Poderoso Dios.",
+          "Te amo mi Rey, te amo mi Dios"
+        ],
+        "v3": ["/:no puedo callar ante tu presencia:/"]
+      }
+    }
+  ]
+}

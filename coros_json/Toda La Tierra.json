@@ -1,0 +1,26 @@
+{
+  "titles": ["Toda La Tierra"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "432" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Toda la tierra te alabará,",
+          "los montes y collados te bendecirán.",
+          "y los abismos proclamarán"
+        ],
+        "v2": [
+          "que eres Dios del universo,",
+          "eres gran Señor.",
+          "Te alabará, te adorará de noche y de día; yo te exaltaré, te alabaré, te adorará; Tú"
+        ],
+        "v3": ["eres mi Dios, Tú eres Rey,", "Tú eres el Santo de Israel."]
+      }
+    }
+  ]
+}

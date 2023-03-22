@@ -1,0 +1,30 @@
+{
+  "titles": ["Oh Señor Quiero."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "132" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:Oh, Señor, quiero que arda hoy mi ser,",
+          "como la zarza quiero arder con tu Poder,",
+          "en nuevas lenguas quiero hablar como señal que estoy ardiendo con tu Fuego"
+        ],
+        "v2": [
+          "Celestial. Quiero alabaste y adorarte sólo a Ti,",
+          "como se adora en Espíritu y Verdad.",
+          "Oh, Señor, quiero que arda hoy mi ser, como la zarza quiero arder con tu Poder."
+        ],
+        "v3": [
+          "/: Ardiendo el Fuego en mi alma está:/",
+          "preciosa llama que limpiará",
+          "oh, Señor, quiero que arda hoy mi ser."
+        ]
+      }
+    }
+  ]
+}

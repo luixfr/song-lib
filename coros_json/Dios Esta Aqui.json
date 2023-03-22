@@ -1,0 +1,33 @@
+{
+  "titles": ["Dios Esta Aqui"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "60" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "Dios está aquí tan cierto",
+          "Como el aire que respiro",
+          "Tan cierto como en la mañana"
+        ],
+        "v2": [
+          "Se levanta el sol, tan cierto",
+          "Como que le canto",
+          "Y me puede escuchar."
+        ],
+        "v3": ["/: Le alabo: /", "y mi alma no se cansa", "de alabarle: /"],
+        "v4": ["/: Le alabo:/", "Mientras viva", "y exista en mí ser."],
+        "v5": [
+          "/: Le adoro:/ y mi alma",
+          "no se cansa de adorarle",
+          "/: Le adoro:/"
+        ],
+        "v6": ["mientras viva y exista en mi ser."]
+      }
+    }
+  ]
+}

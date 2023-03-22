@@ -1,0 +1,26 @@
+{
+  "titles": ["El Es El Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "389" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//: Él es el Señor de señores,",
+          "Él es el Señor sobre mi,",
+          "Él es el Señor sobre todos,"
+        ],
+        "v2": [
+          "todos los que estamos aquí://",
+          "Alfa y Omega, principio y fin,",
+          "Tú eres todo, todo en mi."
+        ],
+        "v3": ["Alfa y Omega, principio y fin,", "Tú eres todo, Señor Jesús."]
+      }
+    }
+  ]
+}

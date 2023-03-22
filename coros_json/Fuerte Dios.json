@@ -1,0 +1,25 @@
+{
+  "titles": ["Fuerte Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "27" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Fuerte Dios, Consolador Príncipe de paz",
+          "gran Señor, Vencedor.",
+          "Siempre vives y siempre reinarás."
+        ],
+        "v2": [
+          "Yo te exalto, Dios te exalto eres todo para mi",
+          "Tu creación canta de Ti, te exalto Dios,",
+          "te exalto, te exalto Cristo mi Rey:/"
+        ]
+      }
+    }
+  ]
+}

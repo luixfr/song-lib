@@ -1,0 +1,26 @@
+{
+  "titles": ["Vine A Alabar A Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "70" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//: Vine alabar a Dios://",
+          "vine a alabar su santo Nombre",
+          "vine a alabar a Dios."
+        ],
+        "v2": [
+          "Él vino a mi vida en un día especial",
+          "mostró me su poder y su grande amor",
+          "me dijo: 'No te dejará' < /p>Y por eso canto yo: Gloria sea a mi Señor."
+        ],
+        "v3": ["//: vamos a alabar a Dios", "vanas a alabar su santo Nombre://"]
+      }
+    }
+  ]
+}

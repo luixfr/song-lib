@@ -1,0 +1,31 @@
+{
+  "titles": ["Enciende Una Luz"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "97a" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Enciende una luz déjala brillar",
+          "La luz de Jesús que brille en todo lugar",
+          "No la puedes esconder, no te puedes callar"
+        ],
+        "v2": [
+          "Ante tal necesidad",
+          "Enciende una luz en la oscuridad",
+          "Como pues invocaran a aquel en el cual no han creído"
+        ],
+        "v3": [
+          "Y como creerán en aquel de quien no han oído",
+          "Y como oirán si nadie les predica",
+          "Hermosos son los pies"
+        ],
+        "v4": ["De los que anuncian la paz", "Las buena nuevas de Jesús."]
+      }
+    }
+  ]
+}

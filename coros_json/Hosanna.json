@@ -1,0 +1,25 @@
+{
+  "titles": ["Hosanna"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "232" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Hosanna, hosanna al Hijo de David: /",
+          "Bendito el que viene",
+          "en el Nombre del Señor."
+        ],
+        "v2": [
+          "Con todas las fuerzas",
+          "lo diga nuestra voz",
+          "y en las alturas hosanna."
+        ]
+      }
+    }
+  ]
+}

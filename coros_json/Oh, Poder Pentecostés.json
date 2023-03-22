@@ -1,0 +1,21 @@
+{
+  "titles": ["Oh, Poder Pentecostés"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "441" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Oh, poder Pentecostés,",
+          "ven hoy a mi://",
+          "Quiero yo sentir el gozo, de ese Fuego tan glorioso. !Oh, poder Pentecostés, ven hoy"
+        ],
+        "v2": ["a mí"]
+      }
+    }
+  ]
+}

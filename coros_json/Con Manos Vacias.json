@@ -1,0 +1,35 @@
+{
+  "titles": ["Con Manos Vacias"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "483" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Con manos vacías vengo a Ti,",
+          "no tengo nada que darte,",
+          "no hay nada de valor en mí,"
+        ],
+        "v2": [
+          "no puedo impresionarte.",
+          "Te puedo entregar mi corazón,",
+          "pero está quebrantado;"
+        ],
+        "v3": [
+          "recíbelo mi buen Pastor,",
+          "Tú puedes restaurarlo.",
+          "/: Pongo mi vida a tu servicio Señor,"
+        ],
+        "v4": [
+          "no será mucho, pero la entrego hoy.",
+          "Y si mis manos hoy vacías están,",
+          "puedes llenarlas con tu gran poder y amor. Usa mis manos Señor:/"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "titles": ["Yo Le Alabo De Corazon"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "71" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/: Yo le alabo de corazón,",
+          "yo le alabo con mi voz:/",
+          "y sino tengo mi voz,"
+        ],
+        "v2": [
+          "yo le alabo con mis manos",
+          "y si no tengo mis manos,",
+          "yo le alabo con mis pies"
+        ],
+        "v3": [
+          "y sino tengo mis pies,",
+          "yo le alabo con mi alma",
+          "y sino tengo mi alma,"
+        ],
+        "v4": [
+          "es que ya me fui con El.",
+          "/: Prepárate para que sientas: /",
+          "el Espíritu de Dios."
+        ],
+        "v5": ["///: Y déjalo que se mueva: ///", "dentro de tu corazón."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "titles": ["¡Admirable!"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "208" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "¡Admirable! ¡Oh, cuan admirable es Jesús! ¡Admirable es Jesús",
+          "mi Señor!",
+          "para mí, para ti la Palabra dice así:"
+        ],
+        "v2": ["Que admirable, es Jesús mi Señor."]
+      }
+    }
+  ]
+}

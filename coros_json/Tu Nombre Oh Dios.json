@@ -1,0 +1,21 @@
+{
+  "titles": ["Tu Nombre Oh Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "415" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Tu Nombre oh, Dios, es puro y santo,",
+          "tu Nombre, oh, Dios, es más precioso que el oro:/",
+          "//: Bendito sea tu Nombre://"
+        ],
+        "v2": ["mi Señor y mi Dios."]
+      }
+    }
+  ]
+}

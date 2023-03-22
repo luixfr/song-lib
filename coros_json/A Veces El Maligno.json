@@ -1,0 +1,29 @@
+{
+  "titles": ["A Veces El Maligno"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "316" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "A veces el maligno quiere",
+          "volver mi vida aprisionar",
+          "y el Espíritu Santo que me guía"
+        ],
+        "v2": [
+          "me sostiene y no me deja claudicar.",
+          "Hay veces que el maligno quiere",
+          "volver mi vida aprisionar"
+        ],
+        "v3": [
+          "y el Espíritu Santo que me guía",
+          "me sostiene y no me deja claudicar."
+        ]
+      }
+    }
+  ]
+}

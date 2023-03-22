@@ -1,0 +1,21 @@
+{
+  "titles": ["Como La Viuda"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "179" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Como la viuda que dio lo que tenía",
+          "solo dos blancas las dio para el Señor,",
+          "amado hermano, si tú das para Cristo"
+        ],
+        "v2": ["recibirás de Dios la bendición."]
+      }
+    }
+  ]
+}

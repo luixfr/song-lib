@@ -1,0 +1,20 @@
+{
+  "titles": ["Así Como El Relámpago"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "286" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/: Así como el relámpago será la Venida del Señor. /: Así como el",
+          "relámpago:/ será la Venida del Señor. /: Hay que estar orando, hay que estar velando,",
+          "para entrar al Reino Celestial/"
+        ]
+      }
+    }
+  ]
+}

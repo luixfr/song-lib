@@ -1,0 +1,21 @@
+{
+  "titles": ["Por La Eternidad"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "162" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "En mi Iglesia la gloria es /: para Él/",
+          "en mi Iglesia la gloria es para Él.",
+          "Ahora y por la eternidad ///: para El:///"
+        ],
+        "v2": ["En mi vida...", "En mi casa..."]
+      }
+    }
+  ]
+}

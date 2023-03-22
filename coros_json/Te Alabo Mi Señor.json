@@ -1,0 +1,18 @@
+{
+  "titles": ["Te Alabo Mi Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "45" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["Te alabo mi Señor", "yo te alabo", "porque Tú eres"],
+        "v2": ["precioso para mí", "porque junto a Ti", "voy caminando"],
+        "v3": ["porque siento", "Tu presencia en mi ser."]
+      }
+    }
+  ]
+}

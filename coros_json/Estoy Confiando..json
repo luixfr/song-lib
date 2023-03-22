@@ -1,0 +1,21 @@
+{
+  "titles": ["Estoy Confiando."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "337" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Estoy confiando, Señor en Ti",
+          "Tú eres fiel Señor, tan fiel a mi.",
+          "Nunca me has dejado, aunque débil soy"
+        ],
+        "v2": ["estoy confiando, Señor en Ti."]
+      }
+    }
+  ]
+}

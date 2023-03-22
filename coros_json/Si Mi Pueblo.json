@@ -1,0 +1,21 @@
+{
+  "titles": ["Si Mi Pueblo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "143" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:/: Si mi pueblo e humillare",
+          "y clamare a Mí:/",
+          "Yo oiré y le responderé"
+        ],
+        "v2": ["y un avivamiento le daré."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "titles": ["Dios Es Amor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "211" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/:Dios es amor:/ la Biblia lo dice",
+          "/:en el capítulo cuatro -",
+          "versículo ocho primera de Juan:/"
+        ]
+      }
+    }
+  ]
+}

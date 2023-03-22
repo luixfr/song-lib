@@ -1,0 +1,26 @@
+{
+  "titles": ["Me Has Librado"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "446" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Me has librado de la muerte,",
+          "me has dado nueva vida,",
+          "desataste mi tristeza,"
+        ],
+        "v2": [
+          "me ceñiste de alegría.",
+          "Por tanto, nunca callará,",
+          "a Ti cantará, te alabará, gloria mía,"
+        ],
+        "v3": ["Cristo mi Señor, a Ti cantará,", "te alabará, gloria mía."]
+      }
+    }
+  ]
+}

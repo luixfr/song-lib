@@ -1,0 +1,25 @@
+{
+  "titles": ["Santo Espíritu Llena Mi Vida"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "140" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Santo Espíritu llena mi vida",
+          "pues por Cristo yo quiero brillar",
+          "Santo Espíritu llena mi vida"
+        ],
+        "v2": [
+          "y úsame las almas a salvar",
+          "///: Alabanzas:/// doy a Cristo el Rey",
+          "///: Alabanzas:/// doy al Rey."
+        ]
+      }
+    }
+  ]
+}

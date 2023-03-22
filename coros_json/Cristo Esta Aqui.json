@@ -1,0 +1,21 @@
+{
+  "titles": ["Cristo Esta Aqui"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "387" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Cristo está aquí, su presencia siento en mí.",
+          "Dadle gloria, poder y honra, aleluya...",
+          "A su majestad alzo mis manos,"
+        ],
+        "v2": ["Señor te alabo, te adoro", "y te amo, aleluya."]
+      }
+    }
+  ]
+}

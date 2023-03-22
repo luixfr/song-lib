@@ -1,0 +1,26 @@
+{
+  "titles": ["Bendito Sea El Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "448" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "¡Bendito sea el Señor!",
+          "que oyó mi voz,",
+          "en El confía mi corazón,"
+        ],
+        "v2": [
+          "bendito sea el Señor.",
+          "¡Bendito sea el Señor!",
+          "que me bendijo con gozo,"
+        ],
+        "v3": ["con mi canto le alabará,", "bendito sea el Señor."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "titles": ["Para Que Pecar"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "252" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "¿Para qué pecar si soy salvo,",
+          "si ya tengo tanta luz?;",
+          "¿Para qué pecar si la vida"
+        ],
+        "v2": [
+          "Dios me ha dado en Jesús?",
+          "¿Para qué pecar si el infierno",
+          "sólo espera al pecador?"
+        ],
+        "v3": [
+          "///: Para qué pecar? :///contra Dios Es mejor vivir santamente",
+          "victoriosos sobre el mal,",
+          "pues Jesús promete a su Iglesia"
+        ],
+        "v4": [
+          "una Patria más allá.",
+          "Una hermosa Patria en el Cielo,",
+          "donde inmundo no entrará"
+        ],
+        "v5": ["//:¿Para qué pecar?://contra Dios."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "titles": ["Cristo Esta Junto A Mi"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "326" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Cristo está junto a mí",
+          "//: y me guarda con poder: //",
+          "Cristo está junto a mí"
+        ],
+        "v2": [
+          "y me guarda con Poder.",
+          "Cristo me guarda con Poder.",
+          "Yo quiero más y más de Cristo,"
+        ],
+        "v3": [
+          "yo quiero más y más de Él",
+          "yo quiero más de su Presencia",
+          "yo quiero más y más de Él."
+        ]
+      }
+    }
+  ]
+}

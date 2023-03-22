@@ -1,0 +1,20 @@
+{
+  "titles": ["La Ofrenda"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "181" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "//: La ofrenda:// del Señor.",
+          "Si tú das un peso",
+          "el Señor te da dos."
+        ]
+      }
+    }
+  ]
+}

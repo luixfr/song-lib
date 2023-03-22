@@ -1,0 +1,35 @@
+{
+  "titles": ["Unidos, Unidos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "158" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/: Unidos, unidos",
+          "En su Nombre unidos: /",
+          "/: Pues en este mundo"
+        ],
+        "v2": [
+          "Paz y amor tendremos: /",
+          "Unidos siempre unidos",
+          "Tomados de la mano"
+        ],
+        "v3": [
+          "iremos por el mundo",
+          "Cantándole a Dios",
+          "la gloria de Jesús"
+        ],
+        "v4": [
+          "Al fin resplandecerá",
+          "y al mundo llenará",
+          "De amor y de paz."
+        ]
+      }
+    }
+  ]
+}

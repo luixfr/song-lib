@@ -1,0 +1,26 @@
+{
+  "titles": ["Este Gozo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "336" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Este gozo que yo siento en mi alma",
+          "/: sólo Cristo me lo pudo dar: /",
+          "Este gozo que yo siento en mi alma"
+        ],
+        "v2": [
+          "sólo Cristo me lo pudo dar.",
+          "/: Pero qué felicidad: /",
+          "cantando todos con gozo"
+        ],
+        "v3": ["a nuestro Padre Celestial."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "titles": ["Mi Corazón Esta"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "484" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Mi corazón está dispuesto, oh, Señor",
+          "Dispuesto a alabarte, oh mi Dios.",
+          "Cantaré a Jehová con todo mi corazón"
+        ],
+        "v2": ["sólo a Ti te alabaré /: oh, mi Señor:/"]
+      }
+    }
+  ]
+}

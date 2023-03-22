@@ -1,0 +1,20 @@
+{
+  "titles": ["Jesus Esta Conmigo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "341" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/: Jesús está conmigo y yo con Él:/",
+          "El quiere que le sirva y que sea fiel,",
+          "Jesús está conmigo y yo con El."
+        ]
+      }
+    }
+  ]
+}

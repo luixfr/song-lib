@@ -1,0 +1,21 @@
+{
+  "titles": ["Si Sientes Compasión"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "90" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Si sientes compasión por tus amigos, entonces háblales de tu Señor:/",
+          "/: Háblales de Cristo, cuenta a tus amigos lo que el Salvador hizo por ti:/",
+          "//: Testifica:// de Cristo por doquier."
+        ],
+        "v2": ["//: Testifica:// de Cristo el Salvador."]
+      }
+    }
+  ]
+}

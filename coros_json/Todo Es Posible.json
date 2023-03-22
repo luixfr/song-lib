@@ -1,0 +1,21 @@
+{
+  "titles": ["Todo Es Posible"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "203" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Todo es posible si puedes creer",
+          "fe mueve la mano de Dios,",
+          "fe en su Palabra viva,"
+        ],
+        "v2": ["todo es posible si puedes creer. :/"]
+      }
+    }
+  ]
+}

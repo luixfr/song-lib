@@ -1,0 +1,20 @@
+{
+  "titles": ["Se Fiel"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "357" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Se fiel hasta la muerte",
+          "y yo te daré la corona de la vida.",
+          "Se fiel, se fiel."
+        ]
+      }
+    }
+  ]
+}

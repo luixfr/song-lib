@@ -1,0 +1,26 @@
+{
+  "titles": ["Si Tuvieres Fe"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "201" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Si tuvieres fe",
+          "como un grano de mostaza",
+          "fe como dice el Señor:/"
+        ],
+        "v2": [
+          "/: Tú le dirías a esa montaña",
+          "muévete, muévete:/",
+          "/: Y esa montaña se moverá"
+        ],
+        "v3": ["se moverá, se moverá:/"]
+      }
+    }
+  ]
+}

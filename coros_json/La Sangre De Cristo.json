@@ -1,0 +1,25 @@
+{
+  "titles": ["La Sangre De Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "264" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: La Sangre de Cristo tiene Poder",
+          "º lo que hay en mi ser:/",
+          "/: La Sangre de Cristo Jesús"
+        ],
+        "v2": [
+          "poderosa Sangre carmesí",
+          "que derramó allá en la cruz",
+          "suficiente ha sido para mi:/"
+        ]
+      }
+    }
+  ]
+}

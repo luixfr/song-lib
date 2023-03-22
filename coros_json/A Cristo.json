@@ -1,0 +1,25 @@
+{
+  "titles": ["A Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "11" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "A Cristo sólo a Cristo yo exaltaré",
+          "a Cristo sólo a Cristo yo adoraré.",
+          "/: Porque Él me ha dado vida eterna"
+        ],
+        "v2": [
+          "porque Él me ha dado el Poder",
+          "porque Él me ha dado la victoria, Él es mi Rey: /",
+          "/: A Cristo he proclamado Rey:/"
+        ]
+      }
+    }
+  ]
+}

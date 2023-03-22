@@ -1,0 +1,31 @@
+{
+  "titles": ["Dios Es Nuestro Amparo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "212" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Dios es nuestro amparo,",
+          "nuestra fortaleza",
+          "nuestro pronto auxilio en la tribulación"
+        ],
+        "v2": [
+          "Aunque se traspasen",
+          "los montes a la mar",
+          "aunque la tierra tiemble"
+        ],
+        "v3": [
+          "tenemos que cantar",
+          "/: Cielo y tierra pasarán",
+          "más su Palabra no Pasará:/"
+        ],
+        "v4": ["no, no, no pasará"]
+      }
+    }
+  ]
+}

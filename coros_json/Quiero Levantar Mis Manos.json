@@ -1,0 +1,24 @@
+{
+  "titles": ["Quiero Levantar Mis Manos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "42" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Quiero levantar mis manos, quiero levantar mi voz ofreciendo a Ti",
+          "mi vida, en santidad y amor.",
+          "Padre sólo a Ti, te ofrezco mi vida y mi corazón y me postro en tu presencia en adoración."
+        ],
+        "v2": [
+          "/: Hijo de Dios recibe hoy",
+          "toda la gloria, la honra y honor: /"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "titles": ["Desciende La Paloma"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "106" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/:Desciende la Paloma con Fuego Celestial, descúbrele tu pecho,",
+          "déjala penetrar,",
+          "olvida las tristezas y empiézate a gozar, que ahora la Paloma te quiere bautizar."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "titles": ["Venimos Ante Ti."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "48" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Venimos ante Ti, Señor",
+          "con corazones sinceros",
+          "llenos de alabanza"
+        ],
+        "v2": [
+          "y de adoración:/",
+          "/: Porque Tú eres Rey de reyes",
+          "y Señor de señores"
+        ],
+        "v3": ["Tú eres digno que todos te adoren:/"]
+      }
+    }
+  ]
+}

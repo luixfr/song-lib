@@ -1,0 +1,21 @@
+{
+  "titles": ["Señor, Hasta Los Cielos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "407" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Señor, hasta los cielos",
+          "llega tu misericordia:/",
+          "/: Cuán gloriosa, oh, Dios,"
+        ],
+        "v2": ["es tu misericordia:/"]
+      }
+    }
+  ]
+}

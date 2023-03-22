@@ -1,0 +1,25 @@
+{
+  "titles": ["Estoy Cantando Alegre"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "377" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Estoy cantando alegre en el camino de la vida y la verdad.",
+          "A cada paso encuentro un motivo",
+          "de amor y felicidad."
+        ],
+        "v2": [
+          "/: Sí, alegre voy cantando:/",
+          "Si, yo viviré feliz con El",
+          "por la eternidad /: Gloria a Dios:/"
+        ]
+      }
+    }
+  ]
+}

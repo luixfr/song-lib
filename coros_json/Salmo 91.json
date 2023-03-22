@@ -1,0 +1,32 @@
+{
+  "titles": ["Salmo 91"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "403" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "Me librará del cazador,",
+          "de la peste del destructor,",
+          "con sus plumas me cubrirá"
+        ],
+        "v2": ["y debajo de sus alas viviré.", "Coro:", "/: Yo diré a Jehová:"],
+        "v3": [
+          "Esperanza mía y mi castillo,",
+          "mi Dios, en quien confiaré:/",
+          "/: Yo habito al abrigo del Omnipotente, yo moro bajo la sombra del Altísimo:/"
+        ],
+        "v4": [
+          "Caerán a mi lado mil",
+          "y a mi diestra caerán diez mil;",
+          "más a mi no llegarán,"
+        ],
+        "v5": ["porque he puesto mi confianza en Ti."]
+      }
+    }
+  ]
+}

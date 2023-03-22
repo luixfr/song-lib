@@ -1,0 +1,37 @@
+{
+  "titles": ["Te Exaltaré"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "413" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "/:Te exaltaré, mi Dios y Rey",
+          "y bendeciré tu Nombre,",
+          "eternamente y para siempre,"
+        ],
+        "v2": [
+          "cada día te bendeciré",
+          "y alabaré tu Nombre, eternamente",
+          "y para siempre."
+        ],
+        "v3": ["Coro:", "Grande es Jehová y digno", "de suprema alabanza;"],
+        "v4": [
+          "y su grandeza es inescrutable;",
+          "cada día a te bendecirá.",
+          "Generación a Generación"
+        ],
+        "v5": [
+          "celebrarán tus obras",
+          "y anunciarán tus portentosos hechos.",
+          "Cada día te bendecirá"
+        ],
+        "v6": ["y alabaré tu Nombre eternamente", "y para siempre."]
+      }
+    }
+  ]
+}

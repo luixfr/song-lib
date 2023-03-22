@@ -1,0 +1,21 @@
+{
+  "titles": ["Para Mi El Vivir"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "234" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Para mi el vivir es Cristo,",
+          "crucificado con El estoy,",
+          "ya no vivo yo, vive Cristo en mí,"
+        ],
+        "v2": ["para mí el vivir es Él."]
+      }
+    }
+  ]
+}

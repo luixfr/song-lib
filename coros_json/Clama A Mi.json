@@ -1,0 +1,21 @@
+{
+  "titles": ["Clama A Mi"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "183" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "'Clama a Mí y te responderé'",
+          "eso dice Jeremías 33:3;",
+          "cosas nuevas Yo te enseñaré"
+        ],
+        "v2": ["Clama a Mí y te responderé."]
+      }
+    }
+  ]
+}

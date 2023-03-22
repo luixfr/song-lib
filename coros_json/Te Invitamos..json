@@ -1,0 +1,26 @@
+{
+  "titles": ["Te Invitamos."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "155" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/:Te invitamos oh Cristo,",
+          "te invitamos hoy mismo,",
+          "quédate con nosotros,"
+        ],
+        "v2": [
+          "quédate de una vez;",
+          "la noche ya se acerca",
+          "viene la lobreguez"
+        ],
+        "v3": ["quédate con nosotros", "quédate de una vez."]
+      }
+    }
+  ]
+}

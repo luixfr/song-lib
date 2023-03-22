@@ -1,0 +1,31 @@
+{
+  "titles": ["Tu Misericordia"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "69" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/: Tu misericordia",
+          "es mejor que la vida:/",
+          "Mis labios te alabarán."
+        ],
+        "v2": [
+          "Y así mi vida te bendecirá",
+          "y en tu Nombre mis manos alzaré.",
+          "/: Alzaré mis manos"
+        ],
+        "v3": [
+          "en tu Nombre Señor:/",
+          "mis labios te alabarán",
+          "y así mi vida te bendecirá"
+        ],
+        "v4": ["y en tu Nombre mis manos alzaré"]
+      }
+    }
+  ]
+}

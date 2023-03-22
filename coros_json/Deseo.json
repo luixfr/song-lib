@@ -1,0 +1,40 @@
+{
+  "titles": ["Deseo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "78" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "Deseo pases feliz tu cumpleaños",
+          "de eterno gozo llene Dios tu Corazón",
+          "que sientas en tu ser completa dicha"
+        ],
+        "v2": [
+          "que puedas de Él tener su santa unción.",
+          "CORO:",
+          "Del cielo te vendrán las bendiciones"
+        ],
+        "v3": [
+          "Y las caricias del eterno Salvador,",
+          "de gracia llenará todos tus días",
+          "/: Que seas feliz toda la vida"
+        ],
+        "v4": [
+          "es mi oración:/",
+          "Tú ve, sigue adelante viendo a Cristo,",
+          "Confiando en Dios"
+        ],
+        "v5": [
+          "que te dará su galardón",
+          "para que cuando venga estés listo",
+          "y así podrás vivir con Él en Sión."
+        ]
+      }
+    }
+  ]
+}

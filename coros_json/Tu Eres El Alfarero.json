@@ -1,0 +1,25 @@
+{
+  "titles": ["Tu Eres El Alfarero"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "91" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Tú eres el alfarero que con tus manos me has transformado:/",
+          "y mientras pasan los días,",
+          "pasan los años, mas te venero"
+        ],
+        "v2": [
+          "/: Rompe mi cántaro,",
+          "rompe mi copa, rompe mi vida",
+          "y hazla de nuevo:/"
+        ]
+      }
+    }
+  ]
+}

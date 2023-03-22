@@ -1,0 +1,26 @@
+{
+  "titles": ["Que Te Bendiga Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "82" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Que te bendiga Dios este día",
+          "en este instante lleno de ternura.",
+          "Que te bendiga Dios toda la vida"
+        ],
+        "v2": [
+          "para que tu alma goce conmovida.",
+          "Nada te aparte de mi Jesús",
+          "que es el sendero del cielo,"
+        ],
+        "v3": ["que de tu vida e la luz", "que te dejó su consuelo."]
+      }
+    }
+  ]
+}

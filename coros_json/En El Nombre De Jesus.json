@@ -1,0 +1,27 @@
+{
+  "titles": ["En El Nombre De Jesus"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "24" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "En el Nombre de Jesús",
+          "me acerco ante tu presencia,",
+          "Oh Señor."
+        ],
+        "v2": ["En el Nombre de Jesús", "a ofrecerte mi ofrenda,", "Oh Señor."],
+        "v3": [
+          "/: Es alabanza, adoración",
+          "lo que te ofrezco, oh Señor,",
+          "en el Nombre maravilloso"
+        ],
+        "v4": ["de Jesús: /"]
+      }
+    }
+  ]
+}

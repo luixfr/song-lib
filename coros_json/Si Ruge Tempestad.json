@@ -1,0 +1,24 @@
+{
+  "titles": ["Si Ruge Tempestad"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "363" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Si ruge tempestad Jesús es roca mía, en el vendaval Jesús es",
+          "mi sostén, parece naufragar mi alma en alta mar, Jesús mi Salvador es mi guía,",
+          "/:te seguiré:/ Señor. /:te alabaré:/"
+        ],
+        "v2": [
+          "Señor y contaré tu grande amor,",
+          "que sólo en Cristo hay salvación."
+        ]
+      }
+    }
+  ]
+}

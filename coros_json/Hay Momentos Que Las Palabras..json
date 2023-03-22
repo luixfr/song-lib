@@ -1,0 +1,26 @@
+{
+  "titles": ["Hay Momentos Que Las Palabras."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "29" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Hay momentos que las palabras",
+          "no alcanzan para decirte",
+          "lo que siento querido Salvador."
+        ],
+        "v2": [
+          "/: Te agradezco por todo",
+          "lo que has hecho,",
+          "por todo lo que hacer"
+        ],
+        "v3": ["y todo lo que harás:/"]
+      }
+    }
+  ]
+}

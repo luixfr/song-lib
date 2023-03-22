@@ -1,0 +1,21 @@
+{
+  "titles": ["Dios Grande Es Tu Amor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "328" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Dios, cuan grande es tu amor tu grande amor por mi. Admirable",
+          "amor, que durará sin fin",
+          "es divino y santo, amplio cual es el mar,"
+        ],
+        "v2": ["alto más que los cielos es tu amor por mi."]
+      }
+    }
+  ]
+}

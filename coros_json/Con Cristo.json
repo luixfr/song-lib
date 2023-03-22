@@ -1,0 +1,25 @@
+{
+  "titles": ["Con Cristo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "150" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Con Cristo en la familia",
+          "/: que feliz hogar :/",
+          "Con Cristo en la familia"
+        ],
+        "v2": [
+          "que feliz hogar.",
+          "El diablo en la familia/: que horrible hogar",
+          "el diablo en la familia que horrible hogar."
+        ]
+      }
+    }
+  ]
+}

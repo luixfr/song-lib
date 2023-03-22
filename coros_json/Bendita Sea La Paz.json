@@ -1,0 +1,30 @@
+{
+  "titles": ["Bendita Sea La Paz"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "319" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Bendita sea la paz,",
+          "la paz que da el Señor, bendita sea la paz;",
+          "los hombres la buscan en los deleites de Satán, bendita sea la paz, la paz que el"
+        ],
+        "v2": [
+          "mundo no puede dar.",
+          "/: Ellos nunca la hallarán:/",
+          "ni en los teatros, ni en los bailes,"
+        ],
+        "v3": [
+          "ni embriagados con licor.",
+          "/: Ellos nunca la hallarán:/",
+          "porque la paz se encuentra sirviendo al Señor."
+        ]
+      }
+    }
+  ]
+}

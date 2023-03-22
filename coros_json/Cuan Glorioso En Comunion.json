@@ -1,0 +1,21 @@
+{
+  "titles": ["Cuan Glorioso En Comunion"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "376" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Cuán glorioso, en comunión los santos, alabando al Santo y Trino",
+          "Dios,",
+          "El nos coima de infinitas bondades,"
+        ],
+        "v2": ["porque El es nuestro todo", "y es nuestro Sumo Bien."]
+      }
+    }
+  ]
+}

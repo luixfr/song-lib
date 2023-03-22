@@ -1,0 +1,21 @@
+{
+  "titles": ["Yo Encontré En La Biblia"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "224" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Yo encontré en la Biblia Sagrada",
+          "una luz, sí una luz!",
+          "/: Esa luz era Jesús"
+        ],
+        "v2": ["el dueño de mi corazón:/"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "titles": ["Contento Estoy"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "374" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Contento estoy, en mi corazón;",
+          "al cielo voy, ésta es mi canción: /",
+          "Coro:"
+        ],
+        "v2": [
+          "/: Gloria, Aleluya, al cielo voy,",
+          "al cielo voy, esta es mi canción: /",
+          "/: Si quieres ir a Jerusalem,"
+        ],
+        "v3": [
+          "tienes que ser como Cristo fue: /",
+          "/: Si quieres ver a mi Salvador",
+          "tú tienes que serle siempre fiel: /"
+        ]
+      }
+    }
+  ]
+}

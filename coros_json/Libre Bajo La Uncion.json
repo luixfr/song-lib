@@ -1,0 +1,26 @@
+{
+  "titles": ["Libre Bajo La Uncion"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "476" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Libre bajo la unción de Dios",
+          "por el poder del Espíritu Santo:/",
+          "No hay cadenas que puedan seguir"
+        ],
+        "v2": [
+          "ni ataduras que no se puedan romper.",
+          "/: Por el poder de Dios que liberta y que conmueve, que quebranta",
+          "y que consume."
+        ],
+        "v3": ["Es el Fuego, es el Fuego,", "es el Fuego de Dios:/"]
+      }
+    }
+  ]
+}

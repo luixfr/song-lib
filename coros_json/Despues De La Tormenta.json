@@ -1,0 +1,26 @@
+{
+  "titles": ["Despues De La Tormenta"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "187" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Después de la tormenta",
+          "viene la calma, viene la paz,",
+          "si a Cristo de rodillas"
+        ],
+        "v2": [
+          "tú se la pides Él te la da.",
+          "No importa que legiones",
+          "de las tinieblas te hagan sufrir"
+        ],
+        "v3": ["en el sagrado Nombre", "de Jesucristo tendrán que huir."]
+      }
+    }
+  ]
+}

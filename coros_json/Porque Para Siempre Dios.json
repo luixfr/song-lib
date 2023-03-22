@@ -1,0 +1,25 @@
+{
+  "titles": ["Porque Para Siempre Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "37" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: Porque para siempre Dios tu misericordia es:/",
+          "Mejor que la vida es, mi alma lo sabe bien",
+          "porque para siempre Dios tu misericordia es."
+        ],
+        "v2": [
+          "Más vasta que el ancho mar",
+          "más alta que el cielo está",
+          "porque para siempre Dios tu misericordia es."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "titles": ["450 Profetas"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "186" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "450 profetas aclamaban a Baal en alta voz:",
+          "¡Oh, Baal, Baal, Baal móndanos fuego!",
+          "y BaaI nunca, nunca respondió."
+        ],
+        "v2": [
+          "Pero Elías oró con grande fe,",
+          "derramó agua sobre el altar de Dios",
+          "y clamó: ¡Jehová, mándanos Fuego!"
+        ],
+        "v3": [
+          "y al instante el Fuego descendió,",
+          "¡Aleluya! al instante el Fuego descendió."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "titles": ["Te Doy Gracias, Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "8" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Te doy gracias Señor,",
+          "por la vida que me das.",
+          "Te doy gracias Señor,"
+        ],
+        "v2": [
+          "por todo lo que me das.",
+          "Te doy gracias Señor,",
+          "porque me has traído aquí."
+        ],
+        "v3": ["/: Quiero alabarte en espíritu y en verdad/"]
+      }
+    }
+  ]
+}

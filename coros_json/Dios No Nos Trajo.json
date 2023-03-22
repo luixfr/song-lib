@@ -1,0 +1,26 @@
+{
+  "titles": ["Dios No Nos Trajo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "329" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Dios no nos trajo hasta aquí",
+          "Para volver atrás",
+          "Nos trajo aquí"
+        ],
+        "v2": [
+          "a poseer la tierra que nos dio: /",
+          "/: Aunque gigantes",
+          "Encuentre allá yo nunca temeré"
+        ],
+        "v3": ["nos trajo aquí", "a poseer la tierra que nos dio: /"]
+      }
+    }
+  ]
+}

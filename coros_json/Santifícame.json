@@ -1,0 +1,21 @@
+{
+  "titles": ["Santifícame"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "139" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:/: Santifícame Señor:/",
+          "Santo Espíritu",
+          "desciende sobre mí"
+        ],
+        "v2": ["santifícame Señor."]
+      }
+    }
+  ]
+}

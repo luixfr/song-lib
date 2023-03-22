@@ -1,0 +1,26 @@
+{
+  "titles": ["Nos Vamos A Gozar"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "298" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Nos vamos a gozar: /",
+          "a las Bodas del Cordero",
+          "nos vamos a gozar."
+        ],
+        "v2": [
+          "Y luego nos iremos",
+          "a la Patria Celestial",
+          "a morar con Jesucristo"
+        ],
+        "v3": ["por la eternidad."]
+      }
+    }
+  ]
+}

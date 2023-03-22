@@ -1,0 +1,35 @@
+{
+  "titles": ["Eres Todopoderoso"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "470" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "La única razón de mi adoración,",
+          "Eres Tú mi Jesús.",
+          "El único motivo para vivir,"
+        ],
+        "v2": [
+          "eres Tú mi Señor.",
+          "La única verdad está en Ti,",
+          "eres mi luz y mi salvación."
+        ],
+        "v3": [
+          "Mi único amor eres Tú Señor,",
+          "y por siempre te alabaré.",
+          "/: Tú eres Todopoderoso,"
+        ],
+        "v4": [
+          "eres grande y majestuoso.",
+          "Eres fuerte invencible,",
+          "y no hay nadie como Tú. :/"
+        ]
+      }
+    }
+  ]
+}

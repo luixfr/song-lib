@@ -1,0 +1,35 @@
+{
+  "titles": ["Vine Adorar"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "51a" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Venimos a adorar",
+          "a el Rey de la Creación",
+          "venimos a ensalzar"
+        ],
+        "v2": [
+          "a Jesús mi salvación.",
+          "Digno, digno, digno es El",
+          "digno de adoración es El"
+        ],
+        "v3": [
+          "Rey de mi corazón",
+          "dueño de mi pasión, es El.",
+          "/: Tú, eres bello, maravilloso y majestuoso"
+        ],
+        "v4": [
+          "Tú, eres hermoso eres el gozo de mi salud",
+          "Tuuuú nos llenas de tu amor",
+          "Tuuuú nos llenas el corazón:/ Tú."
+        ]
+      }
+    }
+  ]
+}

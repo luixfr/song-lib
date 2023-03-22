@@ -1,0 +1,20 @@
+{
+  "titles": ["Hazme Brillar"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "339" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Hazme brillar, Señor, como las estrellas, hazme brillar, Señor,",
+          "junto a tu luz. Hazme brillar, Señor, cada día un poco más y refleja en mí tu santidad.",
+          "Hazme brillar, Señor, junto a tu luz, hazme brillar, Señor, un poco más."
+        ]
+      }
+    }
+  ]
+}

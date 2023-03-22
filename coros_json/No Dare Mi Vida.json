@@ -1,0 +1,26 @@
+{
+  "titles": ["No Dare Mi Vida"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "65" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: No daré mi vida a nadie",
+          "Más que a Ti:/",
+          "/: No daré mi vida a nadie más: /"
+        ],
+        "v2": [
+          "porque sólo Tú me puedes sostener,",
+          "(No daré alabanza…",
+          "No daré mi tiempo…"
+        ],
+        "v3": ["No daré mi amor…"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "titles": ["Anhelo Conocerte Espíritu Santo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "490" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/:Anhelo conocerte Espíritu Santo,",
+          "anhelo siempre estar cerca de Tí.",
+          "Mas yo se que he fallado, Tu Presencia"
+        ],
+        "v2": [
+          "he descuidado, ven y limpia",
+          "todo lo que hay en mi:/",
+          "CORO"
+        ],
+        "v3": [
+          "como paloma, con tu gracia hoy desciende,",
+          "como aceite derramado, ungeme,",
+          "como fuente de agua de vida, sacia mi ser;"
+        ],
+        "v4": ["llama de fuego, ven y purifícame"]
+      }
+    }
+  ]
+}

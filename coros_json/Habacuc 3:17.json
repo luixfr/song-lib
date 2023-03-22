@@ -1,0 +1,35 @@
+{
+  "titles": ["Habacuc 3:17"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "397" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Aunque la higuera no florezca,",
+          "ni en las vides haya fruta,",
+          "aunque falte el producto del olivo."
+        ],
+        "v2": [
+          "Los labrados no den nada",
+          "y las ovejas sean quitadas,",
+          "y no haya vacas en los corrales."
+        ],
+        "v3": [
+          "Coro I",
+          "/: Con todo yo me alegraré en el Señor",
+          "y me gozaré en el Dios de mi salvación/"
+        ],
+        "v4": [
+          "Coro II:",
+          "/: El Señor es mi fortaleza:/",
+          "(Termina con el Coro 1)."
+        ]
+      }
+    }
+  ]
+}

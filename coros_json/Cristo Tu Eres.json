@@ -1,0 +1,20 @@
+{
+  "titles": ["Cristo Tu Eres"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "19" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Cristo Tú eres hermoso tu amor es maravilloso mi ser te adorará por siempre, Cristo",
+          "mi vida entrego a Ti. Cristo eres admirable tu amor es incomparable mi ser te adorará",
+          "por siempre, Cristo mi vida entrego a Ti."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "titles": ["Alabare"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "54" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Alabaré, alabaré:/",
+          "alabaré a mi Señor;",
+          "Juan vio el número de los redimidos"
+        ],
+        "v2": [
+          "y todos alababan al Señor,",
+          "unos oraban, otros cantaban",
+          "pero todos alababan al Señor."
+        ],
+        "v3": ["/: Alabaré, alabaré:/ a mi Señor."]
+      }
+    }
+  ]
+}

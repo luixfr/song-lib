@@ -1,0 +1,26 @@
+{
+  "titles": ["Grande Es El Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "430" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Grande es el Señor,",
+          "Creador del universo",
+          "canta y alaba al Rey que viene pronto de felicidad"
+        ],
+        "v2": [
+          "el corazón nos llena,",
+          "grande es el Señor.",
+          "//: Oh, oh, oh, Hosanna al Altísimo://"
+        ],
+        "v3": ["Grande es el Señor."]
+      }
+    }
+  ]
+}

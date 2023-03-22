@@ -1,0 +1,31 @@
+{
+  "titles": ["Toma El Escudo."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "146" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/:Párate firme con la armadura de Dios poderoso y fuerte en su",
+          "amor.",
+          "Párate firme velando en oración"
+        ],
+        "v2": [
+          "contra las asechanzas del mal;",
+          "estamos firmes cejudos con la verdad y tu Evangelio queremos llevar.",
+          "Toma el escudo y el casco de salvación y la espada la Palabra de Dios."
+        ],
+        "v3": [
+          "Y ora en el Espíritu siempre",
+          "no dejes de luchar por el bien",
+          "no aceptamos las tinieblas,"
+        ],
+        "v4": ["ni la muerte eterna, estamos en tu luz."]
+      }
+    }
+  ]
+}

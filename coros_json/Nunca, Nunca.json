@@ -1,0 +1,20 @@
+{
+  "titles": ["Nunca, Nunca"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "350" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/: Nunca:/ Cristo me ha dejado",
+          "/: Nunca:/ me ha desamparado,",
+          "en la noche oscura o en el día de prueba nunca Jesucristo me desamparará."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "titles": ["Que Bonito Es"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "68" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": ["/: Qué bonito es", "cantar al Señor", "Hermanos,"],
+        "v2": ["Vamos a cantarle", "/: Qué bonito es:/", "Cantar al Señor."]
+      }
+    }
+  ]
+}

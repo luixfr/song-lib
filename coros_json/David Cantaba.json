@@ -1,0 +1,28 @@
+{
+  "titles": ["David Cantaba"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "468" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/: David, David cantaba,",
+          "en la presencia del Señor",
+          "y el pueblo se regocijaba: /"
+        ],
+        "v2": ["Coro:", "/: Porque David andaba", "conforme al corazón"],
+        "v3": ["de Jehová: /", "/: Saúl mató a mil", "David a sus diez mil,"],
+        "v4": [
+          "y el pueblo se regocijaba: /",
+          "/: David, David peleó",
+          "contra el oso y el león,"
+        ],
+        "v5": ["y el pueblo se regocijaba: /"]
+      }
+    }
+  ]
+}

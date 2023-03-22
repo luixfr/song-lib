@@ -1,0 +1,56 @@
+{
+  "titles": [
+    "Abre Mis Labios"
+  ],
+  "autors": [
+    "Autor Desconocido"
+  ],
+  "songbooks": [
+    {
+      "name": "Himnario de coros",
+      "number": "10a"
+    }
+  ],
+  "languages": [
+    "spanish"
+  ],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": [
+        "v1",
+        "v2",
+        "c1",
+        "v3",
+        "v4",
+        "c1"
+      ],
+      "lyric": {
+        "v1": [
+          "Me haz tomado en tus brazos",
+          "y me haz dado salvación",
+          "de tu amor haz derramado en mi corazón."
+        ],
+        "v2": [
+          "No podré agradecerte lo que has hecho por mi",
+          "sólo puedo darte ahora mi canción."
+        ],
+        "c1": [
+          "Gracias, Gracias Señor;",
+          "Gracias mi Señor Jesús"
+        ],
+        "v3": [
+          "En la cruz diste tu vida",
+          "entregaste todo ahí",
+          "vida eterna regalaste al morir."
+        ],
+        "v4": [
+          "Por tu Sangre tengo entrada",
+          "ante el Trono Celestial",
+          "puedo entrar confiadamente ante Ti."
+        ]
+      }
+    }
+  ]
+}

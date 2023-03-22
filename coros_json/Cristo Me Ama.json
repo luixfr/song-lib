@@ -1,0 +1,14 @@
+{
+  "titles": ["Cristo Me Ama"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "210" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": { "v1": ["//: Cristo me ama://", "la Biblia dice así."] }
+    }
+  ]
+}

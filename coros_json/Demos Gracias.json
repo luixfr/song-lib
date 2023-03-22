@@ -1,0 +1,26 @@
+{
+  "titles": ["Demos Gracias"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "1" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Demos gracias al Señor,",
+          "/: demos gracias:/por su amor:/",
+          "Por las mañanas las aves"
+        ],
+        "v2": [
+          "cantan las alabanzas",
+          "a Cristo el Salvador.",
+          "Y tú hermano porque"
+        ],
+        "v3": ["no cantas las alabanzas", "a Cristo el Salvador."]
+      }
+    }
+  ]
+}

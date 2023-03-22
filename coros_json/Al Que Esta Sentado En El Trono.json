@@ -1,0 +1,21 @@
+{
+  "titles": ["Al Que Esta Sentado En El Trono"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "13a" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "//: Al que está sentado en el trono y al Cordero://",
+          "//: Sea la gloria, el honor,",
+          "La alabanza y el poder para siempre://"
+        ],
+        "v2": ["Final: /: Para siempre, para siempre:/"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "titles": ["El Me Levantará"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "239" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "//: Él me levantará: //",
+          "así es el Señor.",
+          "Él me levantará aaa: //"
+        ],
+        "v2": [
+          "en sus manos me sostendrá",
+          "así es el Señor.",
+          "//: Me fortalecerá: //"
+        ],
+        "v3": [
+          "así es el Señor.",
+          "//: Me fortalecerá: //",
+          "así es el Señor."
+        ],
+        "v4": [
+          "Me fortalecerá aaa: //",
+          "en sus manos me sostendrá",
+          "así es el Señor"
+        ]
+      }
+    }
+  ]
+}

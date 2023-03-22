@@ -1,0 +1,34 @@
+{
+  "titles": ["Grandes Y Maravillosas"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "28" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Grandes y maravillosas son tus obras",
+          "Señor, Dios Todopoderoso",
+          "justos y verdaderos son tus caminos"
+        ],
+        "v2": [
+          "//: Rey de los santos:// //: Aleluya, amén://",
+          "Quién no te temerá, ¡Oh! Señor",
+          "y glorificará tu Nombre, pues sólo Tú eres Santo por lo cual todas las naciones"
+        ],
+        "v3": [
+          "vendrán y te adorarán",
+          "//: Aleluya, amén://",
+          "Temed a Dios y darle gloria porque su juicio ha llegado"
+        ],
+        "v4": [
+          "y adorar a Aquel que hizo el cielo y el mar,",
+          "y las fuentes de las aguas///: Aleluya, amén/fi"
+        ]
+      }
+    }
+  ]
+}

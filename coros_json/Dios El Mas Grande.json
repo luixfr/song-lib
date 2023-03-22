@@ -1,0 +1,31 @@
+{
+  "titles": ["Dios El Mas Grande"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "21" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Dios el más grande y digno de alabar",
+          "yo vengo a tu presencia adorar",
+          "yo doblo mis rodillas ante Ti."
+        ],
+        "v2": [
+          "Dios el más grande y digno de alabar,",
+          "me ayuda al enemigo derrotar,",
+          "el gozo de mi vida eres Tú."
+        ],
+        "v3": [
+          "Señor yo quiero levantar mi voz",
+          "quiero agradecerte por tu obra en mi vida",
+          "Señor confío en tu grande amor"
+        ],
+        "v4": ["sólo Tú eres Dios eterno,", "sólo Tú transformas mi ser."]
+      }
+    }
+  ]
+}

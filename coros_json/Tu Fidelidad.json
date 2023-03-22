@@ -1,0 +1,17 @@
+{
+  "titles": ["Tu Fidelidad"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "414" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": ["Tu fidelidad es grande,", "tu fidelidad,", "Incomparable es;"],
+        "v2": ["nadie como Tú,", "Bendito Dios,", "grande es tu fidelidad."]
+      }
+    }
+  ]
+}

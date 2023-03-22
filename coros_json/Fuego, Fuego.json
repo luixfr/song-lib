@@ -1,0 +1,21 @@
+{
+  "titles": ["Fuego, Fuego"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "123" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:/: Fuego, Fuego, la Iglesia pide Fuego:/",
+          "/: Hermano querido pídelo tú también:/",
+          "/: Porque ya viene Cristo"
+        ],
+        "v2": ["a llevar su Iglesia a Jerusalem:/"]
+      }
+    }
+  ]
+}

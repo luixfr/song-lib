@@ -1,0 +1,21 @@
+{
+  "titles": ["A Ti Atribuimos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "15" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: A Ti atribuimos la gloria",
+          "a Ti atribuimos la honra",
+          "a Ti atribuimos poder"
+        ],
+        "v2": ["y majestad", "santo es el Señor/"]
+      }
+    }
+  ]
+}

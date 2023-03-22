@@ -1,0 +1,20 @@
+{
+  "titles": ["Alguien Esta Aquí"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "242" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Alguien está aquí y yo sé que es Cristo alguien está aquí y yo sé",
+          "que es el Señor:",
+          "Alguien me salvó y yo sé que es Cristo alguien me sanó y yo sé que es el Señor."
+        ]
+      }
+    }
+  ]
+}

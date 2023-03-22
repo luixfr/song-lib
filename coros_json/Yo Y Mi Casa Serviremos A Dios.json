@@ -1,0 +1,39 @@
+{
+  "titles": ["Yo Y Mi Casa Serviremos A Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "98" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "//: Yo y mi casa serviremos a Dios://",
+          "En la escuela Dominical",
+          "A la escuela dominical"
+        ],
+        "v2": [
+          "Vamos todos para aprender",
+          "De Cristo quien murió",
+          "Para librarnos de Satán"
+        ],
+        "v3": [
+          "¡Oh que gozo y felicidad!",
+          "En la clase tu sentirás",
+          "¿tu ira? Yo si; ¿y tu? yo también"
+        ],
+        "v4": [
+          "/: Pues vamos todos a aprender:/",
+          "Toda la familia vamos contentos",
+          "A la Escuela Dominical"
+        ],
+        "v5": [
+          "El gran Maestro de Galilea espera",
+          "Que todos juntos vayamos a aprender."
+        ]
+      }
+    }
+  ]
+}

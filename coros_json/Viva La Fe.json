@@ -1,0 +1,21 @@
+{
+  "titles": ["Viva La Fe"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "367" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "//: Viva la fe, viva la esperanza,",
+          "viva el amor://",
+          "/: que viva Cristo:/"
+        ],
+        "v2": ["que viva el Rey", "/: ¡que viva Cristo! :/", "que viva el Rey."]
+      }
+    }
+  ]
+}

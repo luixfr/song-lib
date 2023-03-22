@@ -1,0 +1,30 @@
+{
+  "titles": ["Te Adoramos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "412" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Te adoramos, Cristo,",
+          "te adoramos,",
+          "Cristo, te adoramos, Cristo,"
+        ],
+        "v2": [
+          "mi Señor.",
+          "Tú eres Santo, Cristo, Tú eres Santo,",
+          "Cristo, tu eres Santo, Cristo, mi Señor."
+        ],
+        "v3": [
+          "Aleluya, gloria aleluya,",
+          "gloria aleluya.",
+          "Gloria al Señor."
+        ]
+      }
+    }
+  ]
+}

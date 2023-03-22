@@ -1,0 +1,21 @@
+{
+  "titles": ["Hay Una Promesa"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "292" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Hay una promesa en la Biblia",
+          "que es para ti y para mi.",
+          "/: Cielo nuevo, tierra nueva"
+        ],
+        "v2": ["donde vamos a vivir:/"]
+      }
+    }
+  ]
+}

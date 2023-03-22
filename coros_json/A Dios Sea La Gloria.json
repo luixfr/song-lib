@@ -1,0 +1,45 @@
+{
+  "titles": ["A Dios Sea La Gloria"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "487" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "Como he de expresar",
+          "lo que Dios por mí ha hecho,",
+          "Y que sin merecer dios su"
+        ],
+        "v2": [
+          "Sangre carmesí",
+          "Ni las voces de un millón de ángeles",
+          "expresaran mi gratitud;"
+        ],
+        "v3": [
+          "Todo lo que soy y lo que espero ser,",
+          "lo debo todo a Él",
+          "///: a Dios sea la gloria: ///"
+        ],
+        "v4": [
+          "Por lo que Él hizo por mi",
+          "con su sangre me a comprado",
+          "con su poder me ha levantado"
+        ],
+        "v5": [
+          "a Dios sea la gloria",
+          "por lo que hizo por mi",
+          "quiero vivir para Dios"
+        ],
+        "v6": [
+          "quiero agradarle, solo a él",
+          "si acaso alcanzo alguna fama",
+          "la llevare a la cima del calvario"
+        ]
+      }
+    }
+  ]
+}

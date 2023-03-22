@@ -1,0 +1,35 @@
+{
+  "titles": ["Dios Te Bendiga"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "79" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/: Dios te bendiga es mi deseo",
+          "Dios te bendiga ahora y siempre",
+          "Dios te bendiga y sea contigo"
+        ],
+        "v2": [
+          "Dios te bendiga mí hermano",
+          "Dios te bendiga mi amigo",
+          "Dios te bendiga"
+        ],
+        "v3": [
+          "/: Dios te bendiga es mi deseo",
+          "Dios te bendiga ahora y siempre",
+          "Dios te bendiga y sea contigo"
+        ],
+        "v4": [
+          "Dios te bendiga mamitas",
+          "Dios te bendiga hermanas",
+          "Dios te bendiga"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "titles": ["No Es Con Espada"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "161" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: No hay Dios tan grande como Tú,",
+          "no lo hay, no lo hay:/",
+          "/: No hay Dios que pueda hacer"
+        ],
+        "v2": [
+          "las obras como las que haces Tú:/",
+          "//: No es con espada, ni con ejército",
+          "más con su Santo Espíritu://"
+        ],
+        "v3": ["//:Y esta Iglesia se moverá://", "más con su Santo Espíritu."]
+      }
+    }
+  ]
+}

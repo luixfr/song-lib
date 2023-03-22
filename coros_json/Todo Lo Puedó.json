@@ -1,0 +1,20 @@
+{
+  "titles": ["Todo Lo Puedó"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "204" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Todo lo puedo en Cristo que me fortalece eso lo dice Pablo a los",
+          "Filipenses",
+          "en su capítulo cuatro en su versículo trece todo lo puedo en Cristo que me fortalece."
+        ]
+      }
+    }
+  ]
+}

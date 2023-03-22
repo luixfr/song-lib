@@ -1,0 +1,26 @@
+{
+  "titles": ["Alabad A Jehova"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "53" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "(Sal 117).",
+          "Alabad a Jehová naciones todas,",
+          "pueblos todos, alabadle"
+        ],
+        "v2": [
+          "porque ha engrandecido",
+          "sobre nosotros su misericordia.",
+          "/: Y la verdad de Jehová"
+        ],
+        "v3": ["es para siempre aleluya amén: /"]
+      }
+    }
+  ]
+}

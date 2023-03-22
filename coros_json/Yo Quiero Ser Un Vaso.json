@@ -1,0 +1,36 @@
+{
+  "titles": ["Yo Quiero Ser Un Vaso"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "94" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/: Yo quiero ser un vaso",
+          "para honra del Señor: /",
+          "Señor llena mi vaso"
+        ],
+        "v2": [
+          "con tu Espíritu Santo",
+          "yo quiero ser un vaso",
+          "para honra del Señor."
+        ],
+        "v3": [
+          "/: Lléname, lléname,",
+          "lléname con tu Poder: /",
+          "Lleno quiero ser Señor"
+        ],
+        "v4": [
+          "Y en tu viña trabajar",
+          "lléname, lléname,",
+          "lléname con tu Poder. (Úsame..."
+        ],
+        "v5": ["Bautízame.  ..)"]
+      }
+    }
+  ]
+}

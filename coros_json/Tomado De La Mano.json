@@ -1,0 +1,22 @@
+{
+  "titles": ["Tomado De La Mano"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "366" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Tomado de la mano",
+          "yo voy con Él:/",
+          "/: Si Jesús me dice:"
+        ],
+        "v2": ["Amigo deja todo", "y ven conmigo", "yo iré a donde Él va,"],
+        "v3": ["le seguiré:/"]
+      }
+    }
+  ]
+}

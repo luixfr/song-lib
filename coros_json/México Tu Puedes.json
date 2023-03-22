@@ -1,0 +1,26 @@
+{
+  "titles": ["México Tu Puedes"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "226" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: México tu puedes ser mejor/",
+          "todo, todo puede mejorar.",
+          "México tu puedes ser mejor."
+        ],
+        "v2": [
+          "Tu vida, tu gente, tus campos, tu ambiente todo, todo puede mejorar.",
+          "Hogares felices, una vida nueva",
+          "todo, todo puede mejorar"
+        ],
+        "v3": ["México tu puedes ser mejor."]
+      }
+    }
+  ]
+}

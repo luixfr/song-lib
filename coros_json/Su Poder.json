@@ -1,0 +1,35 @@
+{
+  "titles": ["Su Poder"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "258" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Su Poder, gran Poder,",
+          "sobrenatural Poder",
+          "mi Jesús todo puede hacer."
+        ],
+        "v2": [
+          "Me halló, me tocó,",
+          "por su gracia me salvó:",
+          "mi Jesús todo puede hacer."
+        ],
+        "v3": [
+          "Es el Alfa y Omega,",
+          "es Principio y es Fin:",
+          "Admirable es la victoria que"
+        ],
+        "v4": [
+          "El me dio su Poder, gran Poder,",
+          "sobrenatural Poder,",
+          "mi Jesús todo puede hacer."
+        ]
+      }
+    }
+  ]
+}

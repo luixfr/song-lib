@@ -1,0 +1,40 @@
+{
+  "titles": ["Vengo A Tu Presencia"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "416" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "Vengo a tu presencia, mi Señor,",
+          "con acción de alabanza",
+          "y de adoración."
+        ],
+        "v2": [
+          "Vengo a tu presencia, mi Señor,",
+          "con fruto de mis labios y en mi corazón.",
+          "Coro:"
+        ],
+        "v3": [
+          "Levanto mis manos a Ti, Señor,",
+          "levanto mi canto a Ti.",
+          "/: Porque eres digno:/"
+        ],
+        "v4": [
+          "Vengo a tu presencia, mi Señor,",
+          "con mi vida y mis labios,",
+          "con mis manos y mi ser."
+        ],
+        "v5": [
+          "vengo a tu presencia, mi Señor,",
+          "en la noche, en la mañana,",
+          "desde el amanecer."
+        ]
+      }
+    }
+  ]
+}

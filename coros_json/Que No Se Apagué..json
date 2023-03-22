@@ -1,0 +1,25 @@
+{
+  "titles": ["Que No Se Apagué."],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "137" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/:Que no se apague el Fuego,",
+          "que hay en mi corazón.",
+          "Que no se apague el Fuego,"
+        ],
+        "v2": [
+          "que siga ardiendo más y más.",
+          "//: Dame gozo Señor, dame paz y amor",
+          "porque voy a morar más allá del sol://"
+        ]
+      }
+    }
+  ]
+}

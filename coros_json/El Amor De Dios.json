@@ -1,0 +1,30 @@
+{
+  "titles": ["El Amor De Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "330" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: El amor de Dios es maravilloso:/",
+          "grande es el amor de Dios.",
+          "Tan alto"
+        ],
+        "v2": [
+          "Que no puedo estar arriba de él.",
+          "Tan bajo",
+          "Que no puedo estar abajo de él."
+        ],
+        "v3": [
+          "Tan ancho que no puedo",
+          "Estar fuera de él.",
+          "Grande es el amor de Dios."
+        ]
+      }
+    }
+  ]
+}

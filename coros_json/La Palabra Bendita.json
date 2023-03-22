@@ -1,0 +1,26 @@
+{
+  "titles": ["La Palabra Bendita"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "216" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "La Palabra bendita de Dios",
+          "es Autoridad Suprema,",
+          "con su voz aquieta a la mar,"
+        ],
+        "v2": [
+          "los demonios también tiemblan.",
+          "Gloria, gloria a Dios,",
+          "pues Él nunca ha cambiado"
+        ],
+        "v3": ["es el mismo de ayer", "y el mismo para siempre."]
+      }
+    }
+  ]
+}

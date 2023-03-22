@@ -1,0 +1,26 @@
+{
+  "titles": ["Dios Cuan Grande"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "388" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Dios, cuán grande es tu amor,",
+          "tu grande amor por mi;",
+          "admirable amor,"
+        ],
+        "v2": [
+          "que durará hasta el fin.",
+          "Es sublime y santo,",
+          "ancho cual es el mar,"
+        ],
+        "v3": ["alto, más que los cielos,", "es tu amor por mi."]
+      }
+    }
+  ]
+}

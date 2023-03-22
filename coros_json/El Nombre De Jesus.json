@@ -1,0 +1,26 @@
+{
+  "titles": ["El Nombre De Jesus"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "466" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "El Nombre de Jesús, es Poder;",
+          "el Nombre de Jesús, victoria es;",
+          "el Nombre de Jesús, levantado será,"
+        ],
+        "v2": [
+          "el Nombre de Jesús, sublime es.",
+          "Yo le canto y le alabo",
+          "yo le exalto y le adoro,"
+        ],
+        "v3": ["porque el Nombre de Jesús,", "es Poder."]
+      }
+    }
+  ]
+}

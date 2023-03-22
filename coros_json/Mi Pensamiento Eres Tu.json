@@ -1,0 +1,26 @@
+{
+  "titles": ["Mi Pensamiento Eres Tu"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "35" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "//: Mi pensamiento",
+          "Eres Tú, Señor: //",
+          "mi pensamiento eres Tú"
+        ],
+        "v2": [
+          "Porque Tú me has dado la vida,",
+          "porque Tú",
+          "Me has dado el existir,"
+        ],
+        "v3": ["porque Tú me has dado cariño,", "me has dado amor."]
+      }
+    }
+  ]
+}

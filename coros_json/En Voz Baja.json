@@ -1,0 +1,25 @@
+{
+  "titles": ["En Voz Baja"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "307" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/En voz baja debo hablar,",
+          "suavemente caminar",
+          "cuando al Templo voy."
+        ],
+        "v2": [
+          "Aunque a Dios no puedo ver",
+          "El se encuentra por doquier,",
+          "gracias yo le doy."
+        ]
+      }
+    }
+  ]
+}

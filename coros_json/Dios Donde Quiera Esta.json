@@ -1,0 +1,21 @@
+{
+  "titles": ["Dios Donde Quiera Esta"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "188" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "/: ///: Dios donde quiera esta:///",
+          "Aleluya a Jehová",
+          "/: Lo buscas en los cielos, lo buscas en la mar, lo buscas en los montes y allí lo"
+        ],
+        "v2": ["encontrarás:/"]
+      }
+    }
+  ]
+}

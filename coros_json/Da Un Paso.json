@@ -1,0 +1,20 @@
+{
+  "titles": ["Da Un Paso"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "327" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "/:Da un paso más en el camino de la fe:/",
+          "Avanza hermano, avanza hermana",
+          "que nos espera glorioso galardón."
+        ]
+      }
+    }
+  ]
+}

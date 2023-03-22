@@ -1,0 +1,39 @@
+{
+  "titles": ["Quien, Quien, Quien"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "354" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "/: Quién, quién, quién como Jehová?",
+          "que con su Poder el mar abrió:/",
+          "Oirán las naciones lo que Él hizo"
+        ],
+        "v2": [
+          "temblarán cuando vean sus prodigios",
+          "su pueblo le alabará, con pandero",
+          "cantará y dirán;"
+        ],
+        "v3": [
+          "¿quién, quién, quién como Jehová?",
+          "/: Cantaré al Señor por siempre",
+          "su diestra es todo poder:/"
+        ],
+        "v4": [
+          "/: Echó a la mar a quien los perseguía",
+          "jinete y caballo hecho a la mar:/",
+          "/: Mi Padre es Dios y yo le exalto"
+        ],
+        "v5": [
+          "mi Padre es Dios y le exaltaré:/",
+          "Echó a la mar los carros de Faraón... La, la, la..."
+        ]
+      }
+    }
+  ]
+}

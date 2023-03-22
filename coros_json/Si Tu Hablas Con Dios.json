@@ -1,0 +1,35 @@
+{
+  "titles": ["Si Tu Hablas Con Dios"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "200" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Si tú hablas con Dios",
+          "las cosas cambiarán orando.",
+          "Cualquier necesidad"
+        ],
+        "v2": [
+          "Dios la resolverá, orando.",
+          "Descansar en el Señor",
+          "las penas mitigar, orando."
+        ],
+        "v3": [
+          "Bendita oración yo puedo",
+          "hablar con Dios orando.",
+          "/: Señor: /"
+        ],
+        "v4": [
+          "ten compasión de mi",
+          "resuelve mi problema",
+          "que yo confió en Ti."
+        ]
+      }
+    }
+  ]
+}

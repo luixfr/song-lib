@@ -1,0 +1,24 @@
+{
+  "titles": ["Eres Mi Protector"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "26" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Eres mi protector llenas mi corazón",
+          "con cánticos de liberación",
+          "de angustia me guardarás."
+        ],
+        "v2": [
+          "/: Confiaré en Ti:/",
+          "El débil dirá: 'fuerte soy con poder del Señor'."
+        ]
+      }
+    }
+  ]
+}

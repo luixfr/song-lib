@@ -1,0 +1,36 @@
+{
+  "titles": ["Viene Otra Vez"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "462" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": ["Coro:", "/: Viene otra vez:/", "en la noche puede ser"],
+        "v2": [
+          "o de día al amanecer.",
+          "/: Viene otra vez:/",
+          "Oh, cuán glorioso ese día será,"
+        ],
+        "v3": [
+          "Cristo vendrá otra vez.",
+          "En su presencia estaré,",
+          "no más tristeza tendré,"
+        ],
+        "v4": [
+          "gozo sin fin gozaré,",
+          "Cristo vendrá otra vez.",
+          "Nuevas de gran gozo doy,"
+        ],
+        "v5": [
+          "y yo cantando estoy,",
+          "a proclamarlo yo voy:",
+          "Cristo vendrá otra vez."
+        ]
+      }
+    }
+  ]
+}

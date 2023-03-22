@@ -1,0 +1,20 @@
+{
+  "titles": ["Nos Reunimos"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "220" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1"],
+      "lyric": {
+        "v1": [
+          "Nos reunimos a oír la Palabra del Señor",
+          "el Salvador y su amor es un asunto principal de su Doctrina y poder nos confirmamos",
+          "en la fe para así poder llegar a la Patria Celestial."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "titles": ["Dios Bendice"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "180" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Dios bendice al dador alegre, silo bendice,",
+          "la Biblia lo dice y es verdad,",
+          "Aleluya Dios bendice al dador alegre, sí lo bendice."
+        ],
+        "v2": ["La Biblia lo dice y es verdad."]
+      }
+    }
+  ]
+}

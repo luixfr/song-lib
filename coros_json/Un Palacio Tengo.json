@@ -1,0 +1,26 @@
+{
+  "titles": ["Un Palacio Tengo"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "301" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "///: Un palacio tengo allá,",
+          "más lindo que el sol :///",
+          "con mi buen Jesús."
+        ],
+        "v2": [
+          "///: Bendito Cristo, contigo estaré :///",
+          "en el más allá.",
+          "///: Si tú quieres ir al Cielo,"
+        ],
+        "v3": ["ven a Jesús:///", "ven sin demorar."]
+      }
+    }
+  ]
+}

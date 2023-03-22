@@ -1,0 +1,26 @@
+{
+  "titles": ["Venimos A Adorarte"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "278" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Venimos a adorarte,",
+          "a darte gloria,",
+          "levantamos nuestras manos"
+        ],
+        "v2": [
+          "adorándote, Señor: /",
+          "//: Grande eres Tú:",
+          "grandes tus milagros son,"
+        ],
+        "v3": ["no hay nadie como Tú,", "no hay nadie como Tú.://"]
+      }
+    }
+  ]
+}

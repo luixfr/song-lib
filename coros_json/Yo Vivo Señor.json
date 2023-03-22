@@ -1,0 +1,18 @@
+{
+  "titles": ["Yo Vivo Señor"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "235" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": ["Yo vivo Señor,", "Porque Tú vives", "porque Tú vives,"],
+        "v2": ["Señor, es que yo vivo.", "Tú me das gozo,", "Me das consuelo"],
+        "v3": ["y en aflicciones, Señor,", "Tú estás conmigo."]
+      }
+    }
+  ]
+}

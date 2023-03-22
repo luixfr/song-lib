@@ -1,0 +1,26 @@
+{
+  "titles": ["Señor, Señor Jesús Yo Se"],
+  "autors": ["Autor Desconocido"],
+  "songbooks": [{ "name": "Himnario de coros", "number": "409" }],
+  "languages": ["spanish"],
+  "versions": [],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "/: Señor, Señor Jesús,",
+          "Yo sé que Tú eres grande,",
+          "Yo sé que Tú eres fuerte Señor,"
+        ],
+        "v2": [
+          "Señor Jesús.",
+          "Gloria a Ti, yo daré gloria,",
+          "Lo haré eternamente,"
+        ],
+        "v3": ["Te daré por siempre gloria,", "Señor, Señor Jesús:/"]
+      }
+    }
+  ]
+}
