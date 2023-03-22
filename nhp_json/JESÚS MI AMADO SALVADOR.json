@@ -1,0 +1,37 @@
+{
+  "titles": ["JESÚS MI AMADO SALVADOR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "464" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Jesús, mi amado salvador,",
+        "Tu sangre fue mi redención,",
+        "Y al ver sufrir tu cruel dolor,",
+        "Contempla mi alma tu Pasión."
+      ],
+      "c1": [
+        "Cordero, que en la cruz moriste",
+        "Para darnos plena salvación,",
+        "Tu amor es fuego celestial,",
+        "Que brota siempre a raudal."
+      ],
+      "v2": [
+        "Hoy siente mi alma al pesar",
+        "Y llora así mi corazón,",
+        "Al ver tus lágrimas rodar",
+        "Cuando me diste comunión."
+      ],
+      "v3": [
+        "Es dulce estar con mi Jesús,",
+        "En férvida y bella oración;",
+        "Contempla mi alma allí de la Cruz",
+        "A cristo en su gran Pasión."
+      ]
+    }
+  ],
+  "versions": []
+}

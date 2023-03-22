@@ -1,0 +1,49 @@
+{
+  "titles": ["SOMOS OBREROS DEL SEÑOR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "329" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Somos Obreros del Señor, ",
+        "la mies segamos con amor, ",
+        "las Nuevas damos de la Salvación ",
+        "de Jesucristo al pecador. ",
+        "Hoy trabajemos por amor ",
+        "a Cristo nuestro Salvador, ",
+        "que por nosotros vida dio ",
+        "en el Calvario, do murió."
+      ],
+      "c1": [
+        "“A le siega acudid”, el Maestro llama.",
+        "Todos deben trabajar, tarde y mañana.",
+        "Corre el tiempo y jamás, nunca hermano,",
+        "volverá. ¡Ven Obrero, ven, trabaja yal"
+      ],
+      "v2": [
+        "El Evangelio predicad, ",
+        "a todo el mundo sin cesar, ",
+        "y sin temor y con lealtad, ",
+        "hoy su bandera levantad. ",
+        "En nuestras manos Él confió ",
+        "esta Gran Comisión de amor. ",
+        "Las Nuevas dad, no vaciléis, ",
+        "que la victoria obtendréis."
+      ],
+      "v3": [
+        "Horas y días pasarán, ",
+        "el tiempo nunca volverá; ",
+        "si no predicas a Jesús, ",
+        "muchos jamás verán la Luz, ",
+        "Hoy es el día de salvación, ",
+        "el mundo pereciendo está. ",
+        "¡Oh! No desprecies el honor ",
+        "que Jesucristo hoy te da."
+      ]
+    }
+  ],
+  "versions": []
+}

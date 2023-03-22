@@ -1,0 +1,43 @@
+{
+  "titles": ["ES JESUCRISTO MI AMIGO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "127" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Es Jesucristo mi Amigo mejor,",
+        "tierno y amante cual otro no habrá.",
+        "Toda mi vida descansa en su amor,",
+        "tan sólo en El segura estará."
+      ],
+      "c1": [
+        "¡Oh, dulce Amigo! cerca de Ti,",
+        "mi senda quiero firme seguir;",
+        "sentir yo quiero que mora en mí,",
+        "tu Santa Gracia para vivir."
+      ],
+      "v2": [
+        "Él en mis pruebas desciende hasta mí,",
+        "y hace en mi pecho la dicha nacer.",
+        "Nunca por El olvidado me vi,",
+        "nunca faltó su amor en mi ser."
+      ],
+      "v3": [
+        "Él en mis dudas me inunda de luz,",
+        "y hallo el sendero que debo seguir.",
+        "Todo en mi vida lo debo a Jesús,",
+        "sólo por Él, yo puedo vivir."
+      ],
+      "v4": [
+        "Él me conduce cual tierno Pastor,",
+        "Ileva mi vida por sendas de paz.",
+        "Él me rescata de todo temor,",
+        "dándome el gozo de ver su Faz."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,42 @@
+{
+  "titles": ["SI EL PECADO ANHELAS EL PERDÓN"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "358" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Si del pecado anhelas el perdón, ",
+        "¡Mira al Cordero de Dios! ",
+        "Él por su muerte trajo redención, ",
+        "¡Mira al Cordero de Dios!"
+      ],
+      "c1": [
+        "/:¡Mira al Cordero de Dios!:/ ",
+        "Él solamente puede salvarte. ",
+        "¡Mira al Cordero de Dios!"
+      ],
+      "v2": [
+        "En tentaciones, dudas y temor,",
+        "¡Mira al Cordero de Dios! ",
+        "El con su fuerza te hace vencedor,",
+        "¡Mira al Cordero de Dios!"
+      ],
+      "v3": [
+        "Si estás tú triste y falta en ti valor,",
+        "¡Mira al Cordero de Dios! ",
+        "Tu alma con canto llenará su amor,",
+        "¡Mira al Cordero de Dios!"
+      ],
+      "v4": [
+        "No temas, si tu senda en sombras va,",
+        "¡Mira al Cordero de Dios! ",
+        "En pruebas Cristo te amparará,",
+        "¡Mira al Cordero de Dios!"
+      ]
+    }
+  ],
+  "versions": []
+}

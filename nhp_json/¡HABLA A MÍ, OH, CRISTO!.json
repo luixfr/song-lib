@@ -1,0 +1,43 @@
+{
+  "titles": ["¡HABLA A MÍ, OH, CRISTO!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "256" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c2"],
+      "v1": [
+        "¡Habla a mí, oh, Cristo! ¡Habla yo quiero oír!",
+        "Muéstrame tu camino, con gozo he de seguir.",
+        "Cuando estaba triste, cansado vine a Ti;",
+        "Tú me diste descanso, paz y tranquilidad."
+      ],
+      "c1": [
+        "¡Habla a mí, oh, Cristo! ¡Habla en gran amor!",
+        "Tómame en tus brazos, llena mi corazón.",
+        "Estoy postrado a tus Pies, escuchando tu Voz,",
+        "dame descanso, gozo, paz y tranquilidad."
+      ],
+      "v2": [
+        "Mil voces, sí, me llaman. ¡Guárdame fiel, Señor!",
+        "Que yo en este mundo nunca te pierda a Ti.",
+        "Sólo Tú das descanso, sólo Tú das perdón;",
+        "tu carga es ligera, tu yugo fácil es."
+      ],
+      "v3": [
+        "Cuando fié en los hombres, sufrí engaño vil;",
+        "ahora en Ti confío, siempre Tú eres fiel.",
+        "Para ser victorioso en este mundo aquí,",
+        "yo debo, oh, mi Cristo sólo confiar en Ti."
+      ],
+      "c2": [
+        "Hablas a mí ¡oh, Cristo! Hablas en gran amor.",
+        "Me llevas en tus Brazos, llenas mi corazón.",
+        "Tu gran poder conozco, victoria tengo en Ti;",
+        "tu plenitud hermosa disfruto yo aquí."
+      ]
+    }
+  ],
+  "versions": []
+}

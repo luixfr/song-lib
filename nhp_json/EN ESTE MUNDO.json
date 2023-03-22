@@ -1,0 +1,43 @@
+{
+  "titles": ["EN ESTE MUNDO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "411" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c2"],
+      "v1": [
+        "En este mundo ingrato, lleno de falsedad,",
+        "vagaba yo perdido, en densa obscuridad;",
+        "mas plugo a Ti mostrarme la Senda de Verdad",
+        "y hoy mi alma rebosa de felicidad."
+      ],
+      "c1": [
+        "Cristo Divino, eres mi Salvación,",
+        "Tú me libraste de condenación.",
+        "Santo Evangelio ¡Potencia de Dios!,",
+        "vino a mi vida y la rescató."
+      ],
+      "v2": [
+        "Él sanó mi cuerpo, quitó la enfermedad, ",
+        "y hoy me siento libre, soy feliz en verdad. ",
+        "Miles de bendiciones sólo me hacen gozar ",
+        "y rindo tributo santo, por su gran bondad."
+      ],
+      "v3": [
+        "Tú, que vives perdido, sin sosiego ni paz,",
+        "ven a los Pies de Cristo y Él te consolará.",
+        "Entrégale tu vida y El sólo te guiará, ",
+        "y anda en su camino, ¡te bendecirá!"
+      ],
+      "c2": [
+        "Marcha, hermano, en pos del Salvador;",
+        "en El confía, El te dará valor. ",
+        "Ven, pecador, llégate a mi Señor ",
+        "y así algún día entrarás a Sión."
+      ]
+    }
+  ],
+  "versions": []
+}

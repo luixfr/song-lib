@@ -1,0 +1,37 @@
+{
+  "titles": ["SI EN TU SENDA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "181" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Si en tu senda las nubes agolparse ves,",
+        "no vaciles por ello, ni flaqueen tus pies;",
+        "cada nube que venga no podrá traer,",
+        "más que pruebas que pasan, si hay valor y fe."
+      ],
+      "c1": [
+        "Si hay valor y fe, si hay valor y fe,",
+        "en la más oscura noche siempre hay luz.",
+        "Si hay valor y fe, si hay valor y fe,",
+        "gozo y paz traerá la lucha, si hay valor y fe."
+      ],
+      "v2": [
+        "Si es tu vida una carga de cuidados mil,",
+        "olvidado de todo te podrás sentir;",
+        "si tu ayuda acudieres a llevar doquier,",
+        "esto endulza la vida, si hay valor y fe."
+      ],
+      "v3": [
+        "Pon en alto los ojoss sin dudar jamás,",
+        "que en las lides del mundo vencedor saldrás;",
+        "que si hay flores y encantos tras invierno cruel,",
+        "trae encantos la vida, si hay valor y fe."
+      ]
+    }
+  ],
+  "versions": []
+}

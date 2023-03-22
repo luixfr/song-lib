@@ -1,0 +1,37 @@
+{
+  "titles": ["EN JESUCRISTO FUENTES DE PAZ"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "125" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "En Jesucristo, fuente de paz,",
+        "en horas negras de tempestad:",
+        "Hallan las armas dulce solaz,",
+        "grato consuelo, felicidad."
+      ],
+      "c1": [
+        "¡Gloria cantemos al Redentor!",
+        "Que por nosotros quiso morir.",
+        "La Santa Gracia del Salvador,",
+        "siempre dirija nuestro vivir."
+      ],
+      "v2": [
+        "En los peligros, en el dolor ,",
+        "a cada paso su protección,",
+        "calma le infunde, santo vigor,",
+        "nuevos alientos al corazón."
+      ],
+      "v3": [
+        "Cuando en la lucha falta la fe,",
+        "y el alma siente desfallecer,",
+        "Cristo nos dice: \"Yo os colmaré",
+        "de rica Gracia, santo poder\"."
+      ]
+    }
+  ],
+  "versions": []
+}

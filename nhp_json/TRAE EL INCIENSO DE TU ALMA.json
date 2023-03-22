@@ -1,0 +1,53 @@
+{
+  "titles": ["TRAE EL INCIENSO DE TU ALMA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "237" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Trae el incienso de tu alma, ",
+        "trae el perfume de tu ser, ",
+        "pues es Jesús el que reclama",
+        "todo tu amor, tu juventud.",
+        "Ven a rendirte aquí a sus plantas,",
+        "ven a entregarle el corazón;",
+        "en cambio de tus negras faltas",
+        "Él te dará la salvación."
+      ],
+      "c1": [
+        "Ven, que hoy te llama, quien ama a tu alma,",
+        "y quien por ella sufrió en la cruz;",
+        "y desde ahora te da su Gloria,",
+        "si a Cristo rindes tu juventud.",
+        "Al invocarle sentirás algo",
+        "que llena tu alma, tu corazón,",
+        "es nueva vida que en ti es vertida,",
+        "como experiencia de salvación."
+      ],
+      "v2": [
+        "Somos felices los que un día",
+        "nos acercamos al Señor;",
+        "hoy nos conduce y Él nos guía",
+        "por el sendero de su amor.",
+        "Aún seguiremos adelante,",
+        "así invitando a juventud",
+        "que deje el mundo y se levante",
+        "para el encuentro con Jesús."
+      ],
+      "v3": [
+        "Es muy precioso estar en Cristo,",
+        "en el servicio de Jesús,",
+        "y que el cristiano esté listo",
+        "para impartirle de su Luz.",
+        "Cumple con gozo y da el mensaje",
+        "para que vengan al Señor;",
+        "aunque te encuentres en oleaje,",
+        "no le des tregua al tentador."
+      ]
+    }
+  ],
+  "versions": []
+}

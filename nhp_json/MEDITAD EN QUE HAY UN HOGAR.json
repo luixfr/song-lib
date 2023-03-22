@@ -1,0 +1,37 @@
+{
+  "titles": ["MEDITAD EN QUE HAY UN HOGAR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "444" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Meditad en que hay un hogar, ",
+        "en la margen del río de luz, ",
+        "donde van para siempre a gozar, ",
+        "los creyentes en Cristo Jesús."
+      ],
+      "c1": [
+        "Más allá, más allá, ",
+        "meditad en que hay un hogar. ",
+        "Más allá, más allá, más allá, ",
+        "en la margen del río de luz."
+      ],
+      "v2": [
+        "Meditad en que amigos tenéis, ",
+        "de los cuales marchamos en pos; ",
+        "y pensad en que al fin los veréis, ",
+        "en el alto Palacio de Dios."
+      ],
+      "v3": [
+        "En que mora Jesús, meditad, ",
+        "donde seres que amamos están; ",
+        "y a la Patria bendita volad, ",
+        "sin angustias, temores, ni afán."
+      ]
+    }
+  ],
+  "versions": []
+}

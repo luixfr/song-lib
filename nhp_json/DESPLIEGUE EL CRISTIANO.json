@@ -1,0 +1,49 @@
+{
+  "titles": ["DESPLIEGUE EL CRISTIANO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "313" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "Despliegue el cristiano su santa bandera,",
+        "Y muéstrela ufano del mundo a la faz. ",
+        "¡Soldados valientes, el triunfo os espera! ",
+        "Seguid vuestra lucha constante y tenaz."
+      ],
+      "c1": [
+        "Cristo nos guía, es nuestro Jefa, ",
+        "y con nosotros siempre estará; ",
+        "nada temamos, Él nos alienta, ",
+        "ya la victoria llevarnos podrá."
+      ],
+      "v2": [
+        "Despliegue el cristiano su santa bandera, ",
+        "domine baluartes y almenas a mil; ",
+        "Biblia bendita conquiste doquiera ",
+        "yante ella se incline la turba gentil."
+      ],
+      "v3": [
+        "Despliegue el cristiano su santa bandera",
+        "y luzca en el frente de audaz torreón; ",
+        "el monte y la villa, la hermosa pradera, ",
+        "contemplen ondeando tan bello pendón."
+      ],
+      "v4": [
+        "Despliegue el cristiano su santa bandera,",
+        "predique a los pueblos el Libro Inmortal;",
+        "presente a los hombres la luz verdadera, ",
+        "que vierte ese claro, luciente Fanal."
+      ],
+      "v5": [
+        "Despliegue el cristiano su santa bandera,",
+        "y muéstrese bravo, batiéndose fiel; ",
+        "para él no habrá fosos, para él no hay barreras,",
+        "que lucha a su lado el Divino Emmanuel."
+      ]
+    }
+  ],
+  "versions": []
+}

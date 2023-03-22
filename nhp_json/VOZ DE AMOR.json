@@ -1,0 +1,45 @@
+{
+  "titles": ["VOZ DE AMOR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "471" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "v1": [
+        "Voz de amor y de clemencia ",
+        "en el gólgota sonó,",
+        "y al oírla con violencia,",
+        "al calvario retumbó:",
+        "/:“Consumado es:/”,",
+        "fue la voz que Cristo dio."
+      ],
+      "v2": [
+        "Voz de escarnio y de ironía ",
+        "vil pronuncia el hombre audaz;",
+        "mientras cristo en su agonía ",
+        "hace al sol nublar su faz.",
+        "/:“Consumado es”:/,",
+        "fue la voz del Dios veraz."
+      ],
+      "v3": [
+        "Entre angustias y dolores,",
+        "sin amparo se encontró",
+        "el Señor de los señores,",
+        "el que al débil amparó.",
+        "/:“consumado es”:/",
+        "y su Espíritu entregó."
+      ],
+      "v4": [
+        "Ya el infierno está vencido",
+        "y la muerte sin horror,",
+        "para el hombre redimido",
+        "que confía en su Señor.",
+        "/:“Consumado es”:/",
+        "el rescate del amor."
+      ]
+    }
+  ],
+  "versions": []
+}

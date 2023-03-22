@@ -1,0 +1,49 @@
+{
+  "titles": ["YA TENGO GRANDE GOZO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "200" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v1", "v3", "v4", "v5", "v6", "v7"],
+      "v1": [
+        "Mi vida en el pecado la quise mejorar,",
+        "mas paz para mi alma, no pude yo encontrar;",
+        "en Cristo ya he hallado un precioso Salvador,",
+        "profundo y sublime es su amor."
+      ],
+      "v3": [
+        "Jesús a mí me ama, por Él yo salvo soy,",
+        "y como me ha salvado, te puede a ti salvar.",
+        "Su sangre derramada, nos puede aquí guardar,",
+        "de toda maldad y pecar."
+      ],
+      "v4": [
+        "Si aquí me condenare mi propio corazón,",
+        "la Santa Biblia dice: “Mayor es nuestro Dios”;",
+        "por su infinita gracia borró ya mi maldad,",
+        "alabo su grande bondad."
+      ],
+      "v5": [
+        "Conmigo Cristo mora en hermosa comunión",
+        "la gracia me rodea, me da su protección,",
+        "Afanes no los tengo, porque Él me cuidará,",
+        "mi vida segura ya está."
+      ],
+      "v6": [
+        "Si el mundo me persigue, y si en mi derredor,",
+        "el diablo está rugiendo, no les tendré temor;",
+        "de Cristo es la victoria y es nuestra aquí también,",
+        "con Él sí triunfamos, Amén,"
+      ],
+      "v7": [
+        "Alegre y muy gozoso, voy a mi dulce hogar,",
+        "y en su seno hermoso yo voy a descansar;",
+        "y mientras peregrino, de gozo he de cantar,",
+        "y a Cristo Jesús alabar."
+      ]
+    }
+  ],
+  "versions": []
+}

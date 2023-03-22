@@ -1,0 +1,35 @@
+{
+  "titles": ["VAGABA YO EN OSCURIDAD"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "199" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Vagaba yo en obscuridad, hasta que vi a Jesús;",
+        "mas por su amor y su Verdad me amaneció la Luz."
+      ],
+      "c1": [
+        "Gozo y Luz hay en mi alma hoy,",
+        "gozo y Luz hay, ya que salvo soy;",
+        "desde que a Jesús vi ya su lado fui,",
+        "he sentido el gozo de su amor en mí."
+      ],
+      "v2": [
+        "Las nubes y la tempestad no encubren a Jesús,",
+        "y en medio de la obscuridad yo gozo en su Luz."
+      ],
+      "v3": [
+        "Andando en la Luz de Dios encuentro plena paz;",
+        "voy adelante sin temor, dejando el mundo atrás."
+      ],
+      "v4": [
+        "Veréle pronto, tal cual es: raudal de pura Luz;",
+        "y eternamente gozaré a causa de su Cruz."
+      ]
+    }
+  ],
+  "versions": []
+}

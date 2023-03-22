@@ -1,0 +1,37 @@
+{
+  "titles": ["AUNQUE LA FURIOSA TEMPESTAD"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "115" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Aunque la furiosa tempestad,",
+        "amenace ruina sin piedad:",
+        "Yo tendré con Dios seguridad,",
+        "fiando en Jesús."
+      ],
+      "c1": [
+        "Confiando sólo en Jesús,",
+        "sé que su Promesa cumplirá.",
+        "Fiando sólo en Jesús,",
+        "El me salvará."
+      ],
+      "v2": [
+        "Penas y dolor podré tener,",
+        "que congojas causen a mi ser;",
+        "sobre todo yo podré vencer ,",
+        "fiando en Jesús."
+      ],
+      "v3": [
+        "Otras esperanzas pasarán,",
+        "otros goces, sí, fenecerán;",
+        "mi esperanza y gozo durarán,",
+        "fiando en Jesús."
+      ]
+    }
+  ],
+  "versions": []
+}

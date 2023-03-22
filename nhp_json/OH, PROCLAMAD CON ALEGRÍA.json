@@ -1,0 +1,43 @@
+{
+  "titles": ["OH, PROCLAMAD CON ALEGRÍA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "389" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v1", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "No desfallezcas, no desmayes, ",
+        "Él viene en gloria. ",
+        "Asoma luz del sol que raya, ",
+        "que pronto aparecerá."
+      ],
+      "c1": [
+        "¡Oh! Anuncia la historia: ",
+        "El Salvador en plena gloria, ",
+        "en triunfo y victoria, ",
+        "al mundo pronto volverá."
+      ],
+      "v3": [
+        "Orad con fe y esperanza, ",
+        "Él viene en gloria, ",
+        "Señor, tu pueblo no descansa, ",
+        "en vela te aguardará."
+      ],
+      "v4": [
+        "Mirad que fiel a su promesa, ",
+        "Él viene en gloria. ",
+        "No sea te deje en gran sorpresa; ",
+        "veloz, Jesús regresará."
+      ],
+      "v5": [
+        "¡Oh! Dad al Rey la bienvenida, ",
+        "Él viene en gloria. ",
+        "Espérale con luz prendida; ",
+        "Jesús en gloria reinará."
+      ]
+    }
+  ],
+  "versions": []
+}

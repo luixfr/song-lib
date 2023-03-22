@@ -1,0 +1,31 @@
+{
+  "titles": ["YO SÓLO ESPERO ESE DÍA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "395" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "v1": [
+        "Yo sólo espero ese día cuando Cristo volverá;",
+        "yo sólo espero ese día cuando Cristo volverá;",
+        "afán y todo trabajo para mí terminarán; ",
+        "cuando Cristo venga, a su reino me llevará."
+      ],
+      "v2": [
+        "Ya no me importa que el mundo me desprecie por doquier ",
+        "Ya no soy más de este mundo, soy del reino Celestial. ",
+        "Yo sólo espero ese día, cuando me levantaré de la ",
+        "tumba fría con un cuerpo ya inmortal."
+      ],
+      "v3": [
+        "Entonces allí triunfante y victorioso estaré, ",
+        "a mi Señor Jesucristo cara a cara le veré. ",
+        "Allí no habrá más tristezas, ni trabajos para mí;",
+        "con los redimidos al Cordero alabaré."
+      ]
+    }
+  ],
+  "versions": []
+}

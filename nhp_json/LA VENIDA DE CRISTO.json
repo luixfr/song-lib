@@ -1,0 +1,43 @@
+{
+  "titles": ["LA VENIDA DE CRISTO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "388" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "La venida de Cristo se acerca, ",
+        "pronto viene su Iglesia a llevar. ",
+        "No durmamos, estemos alerta. ",
+        "¡Vigilad, vigilad, vigilad!"
+      ],
+      "c1": [
+        "Pronto viene Jesús a llevarnos ",
+        "a la hermosa mansión celestial. ",
+        "Pronto viene Jesús a la tierra, ",
+        "a llevarnos con Él a gozar."
+      ],
+      "v2": [
+        "Si queremos que Cristo nos lleve ",
+        "a los cielos con Él a reinar, ",
+        "no seamos jamás negligentes, ",
+        "¡trabajad, trabajad, trabajad!"
+      ],
+      "v3": [
+        "Arreglemos, estemos a cuenta ",
+        "con Jesús, el Cordero inmortal. ",
+        "Del que ofende tengamos clemencia, ",
+        "¡perdonad, perdonad, perdonad!"
+      ],
+      "v4": [
+        "Perdonando Jesús nos perdona, ",
+        "ya los cielos nos lleva a gozar; ",
+        "ganaremos también la corona. ",
+        "¡Vigilad, trabajad, perdonad!"
+      ]
+    }
+  ],
+  "versions": []
+}

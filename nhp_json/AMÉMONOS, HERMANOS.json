@@ -1,0 +1,49 @@
+{
+  "titles": ["AMÉMONOS, HERMANOS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "195" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "v1": [
+        "Amémonos, hermanos,",
+        "con tierno y puro amor;",
+        "que un solo Cuerpo somos,",
+        "y nuestro Padre es Dios."
+      ],
+      "v2": [
+        "Amémonos, hermanos,",
+        "lo quiere el Salvador,",
+        "que su Preciosa Sangre",
+        "por todos derramó."
+      ],
+      "v3": [
+        "Amémonos, hermanos,",
+        "en dulce comunión;",
+        "y paz y afecto y gracia",
+        "dará el Consolador."
+      ],
+      "v4": [
+        "Amémonos, hermanos,",
+        "y en nuestra Santa Unión,",
+        "no existan asperezas",
+        "ni discordante voz."
+      ],
+      "v5": [
+        "Amémonos, hermanos,",
+        "y al mundo pecador,",
+        "mostremos cómo viven",
+        "los que salvados son."
+      ],
+      "v6": [
+        "Amémonos, hermanos,",
+        "con todo el corazón;",
+        "lo ordena el Dios y Padre,",
+        "su leyes Ley de amor."
+      ]
+    }
+  ],
+  "versions": []
+}

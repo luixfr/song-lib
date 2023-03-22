@@ -1,0 +1,37 @@
+{
+  "titles": ["LAS MUJERES CRISTIANAS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "191" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Las mujeres cristianas trabajan",
+        "con amor, con paciencia y con fe;",
+        "mejorar el hogar solo buscan",
+        "impetrando de Dios el poder."
+      ],
+      "c1": [
+        "Nuestra fe triunfara,",
+        "expresada en trabajo tenaz;",
+        "el amor unirá",
+        "nuestra almas en grato solaz."
+      ],
+      "v2": [
+        "Con tesoros de amor en el alma;",
+        "con potencia incansable en el bien,",
+        "halle Gracia Divina y sea sabia",
+        "cada madre al cumplir su deber."
+      ],
+      "v3": [
+        "Extendidos los brazos formemos,",
+        "dar constancia y valor noble unión;",
+        "trabajando y cantando elevemos",
+        "nuestro ser, el hogar, la Nación."
+      ]
+    }
+  ],
+  "versions": []
+}

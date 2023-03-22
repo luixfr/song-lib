@@ -1,0 +1,37 @@
+{
+  "titles": ["HACIA EL SEPULCRO CAMINAN"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "472" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Hacia el sepulcro caminan con afán,",
+        "unas mujeres piadosas, a buscar",
+        "el cuerpo de su maestro, que murió.",
+        "Van con amor a embalsamar al que partió."
+      ],
+      "c1": [
+        "¿Porque buscáis, al que resucito?",
+        "Aquí no esta, la tumba ya dejo.",
+        "Id a decir a los que tanto amo:",
+        "Jesucristo, a la muerte cruel venció."
+      ],
+      "v2": [
+        "La Magdalena, llorando se acerco",
+        "al jardinero del huerto y pregunto:",
+        "¿a donde fue conducido mi señor?",
+        "yo quiero ir a disfrutar su gran amor."
+      ],
+      "v3": [
+        "Ángeles mil en los cielos, cantan hoy",
+        "al Salvador de los hombres, que venció.",
+        "Ya no hay sepulcro que pueda retener",
+        "al que creyó en el Señor, que al fin triunfo."
+      ]
+    }
+  ],
+  "versions": []
+}

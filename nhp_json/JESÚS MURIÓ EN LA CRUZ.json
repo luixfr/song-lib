@@ -1,0 +1,49 @@
+{
+  "titles": ["JESÚS MURIÓ EN LA CRUZ"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "465" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "Jesús murió en la cruz, ",
+        "Por mí y por ti murió;",
+        "Mostrando así su luz",
+        "Por todos padeció."
+      ],
+      "c1": [
+        "Bendito dios de amor, ",
+        "su vida le entrego;",
+        "salvando al pecador,",
+        "mis culpas el pago."
+      ],
+      "v2": [
+        "Acepta, oh pecador",
+        "A Cristo, el Redentor;",
+        "aprecia su favor;",
+        "dale todo tu amor."
+      ],
+      "v3": [
+        "No hay con que pagar",
+        "a Cristo, el Señor;",
+        "pues solo hay que guardar,",
+        "su palabra con amor."
+      ],
+      "v4": [
+        "Deja la ingratitud,",
+        "se fiel al salvador;",
+        "con toda prontitud",
+        "rechaza al tentador."
+      ],
+      "v5": [
+        "Ayúdame señor,",
+        "a hacer tu voluntad;",
+        "que siga tu verdad,",
+        "hasta tu gloria entrar."
+      ]
+    }
+  ],
+  "versions": []
+}

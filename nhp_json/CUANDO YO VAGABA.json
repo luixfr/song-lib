@@ -1,0 +1,42 @@
+{
+  "titles": ["CUANDO YO VAGABA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "404" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1"],
+      "v1": [
+        "Cuando yo vagaba en las tinieblas de maldad,",
+        "Era todo angustia y ansiedad; ",
+        "Pues en lo profundo de la realidad, ",
+        "Todo en este mundo es vanidad. ",
+        "Pero hallé aliciente luego ",
+        "al saber de un Salvador, ",
+        "Y ahora toda angustia y ansiedad ",
+        "terminaron por su amor."
+      ],
+      "c1": [
+        "¡Soy feliz con Jesús! ",
+        "Mi buen Redentor, ",
+        "pues su grande bondad ",
+        "me brindó su amor. ",
+        "Ven a Él pecador, ",
+        "y descansarás ",
+        "de toda tu angustia, ",
+        "Pues en Cristo hay paz."
+      ],
+      "v2": [
+        "Esta es  la experiencia de todo mortal ",
+        "y que nadie puede refutar, ",
+        "que cuando ignoramos lo que es la Verdad,                                                        todo está basado en falsedad. ",
+        "Mas el Evangelio Santo ",
+        "nos mostró la gran Virtud ",
+        "y ahora todo es vida de felicidad ",
+        "a los Pies de mi Señor."
+      ]
+    }
+  ],
+  "versions": []
+}

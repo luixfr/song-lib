@@ -1,0 +1,37 @@
+{
+  "titles": ["CRISTO, EL MÉDICO DEL ALMA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "242" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Cristo, el médico del alma es,",
+        "sabe bien la prueba en que te ves;",
+        "luchas que has tenido en oración,",
+        "todo sabe bien tu Salvador."
+      ],
+      "c1": [
+        "Culpas y pecados Él quitó",
+        "por su Sangre, que en la cruz vertió.",
+        "Alma, que en pecado atada estás,",
+        "ven a Cristo y libertad tendrás."
+      ],
+      "v2": [
+        "Ola embravecida Él calmará,",
+        "Alma hambrienta Cristo saciará.",
+        "En Jesús, el pobre pecador",
+        "hallará un grande Salvador."
+      ],
+      "v3": [
+        "Pecador que buscas salvación,",
+        "Cristo, el médico, te da perdón; ",
+        "con su Diestra, siempre te guiará",
+        "y a los cielos Él te llevará."
+      ]
+    }
+  ],
+  "versions": []
+}

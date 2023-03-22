@@ -1,0 +1,49 @@
+{
+  "titles": ["NADA SÉ SOBRE EL FUTURO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "62" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Nada sé sobre el futuro,",
+        "desconozco lo que habrá;",
+        "es probable que las nubes,",
+        "mi luz vengan a opacar.",
+        "Nada temo del futuro,",
+        "pues Jesús conmigo está;",
+        "yo le sigo decidido,",
+        "pues ÉI sabe lo que habrá."
+      ],
+      "c1": [
+        "Muchas cosas no comprendo,",
+        "del mañana con su afan;",
+        "mas un dulce amigo tengo,",
+        "que mi mano sostendrá."
+      ],
+      "v2": [
+        "Mi sendero es más brillante,",
+        "cuando gozo de su amor;",
+        "más ligeras son mis cargas,",
+        "cuando voy a  mi Señor.",
+        "Cuando Ilegue a las mansiones,",
+        "que en la gloria preparó,",
+        "ya no más tendré temores,",
+        "desengaños ni dolor."
+      ],
+      "v3": [
+        "Nada sé sobre el futuro,",
+        "desconozco lo que habrá;",
+        "mas si Él cuida de las aves,",
+        "Él también me cuidará.",
+        "Y al andar por mi camino,",
+        "en la prueba o tempestad,",
+        "sé que Cristo irá conmigo,",
+        "sé que guarda su bondad."
+      ]
+    }
+  ],
+  "versions": []
+}

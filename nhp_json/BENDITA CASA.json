@@ -1,0 +1,43 @@
+{
+  "titles": ["BENDITA CASA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "221" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Bendita Casa, Casa de Dios,",
+        "a ti venimos para elevar",
+        "nuestras plegarias, nuestra oración,",
+        "al Trono Excelso del Dios de amor."
+      ],
+      "c1": [
+        "Agradecidos de corazón,",
+        "gracias te damos, bendito Dios,",
+        "porque escuchaste la petición,",
+        "por esta Casa, que es de oración."
+      ],
+      "v2": [
+        "Bendita Casa, que en tu interior",
+        "se dan las Nuevas de salvación;",
+        "el que con alma se entregue a Dios,",
+        "nueva creatura será desde hoy."
+      ],
+      "v3": [
+        "Bendita Casa, Casa de amor ,",
+        "tú en nuestro gozo o en la aflicción,",
+        "bendices siempre nuestra reunión,",
+        "simbolizando la Santa Sión."
+      ],
+      "v4": [
+        "En esta Casa, dirá mi Dios:",
+        "\"Pondré mis Ojos, mi Corazón;",
+        "el que pidiere con devoción,",
+        "tendrá del Cielo contestación\"."
+      ]
+    }
+  ],
+  "versions": []
+}

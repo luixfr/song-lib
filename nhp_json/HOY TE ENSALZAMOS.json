@@ -1,0 +1,68 @@
+{
+  "titles": ["HOY TE ENSALZAMOS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "244" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": [
+        "v1",
+        "c1",
+        "v2",
+        "c1",
+        "v3",
+        "c1",
+        "v4",
+        "c1",
+        "v5",
+        "c1",
+        "v6",
+        "c1"
+      ],
+      "v1": [
+        "Hoy te ensalzamos, ¡Oh Dios de piedad!,",
+        "porque nos diste plena libertad,",
+        "dando  a tu Hijo a la humanidad;",
+        "el que creyere tendrá su bondad."
+      ],
+      "c1": [
+        "Ven, pecador, ven, pecador,",
+        "Cristo te da la libertad;",
+        "no te detengas, ven a Él",
+        "y hoy la tendrás."
+      ],
+      "v2": [
+        "Hoy proclamamos a la humanidad",
+        "que Cristo ofrece plena Libertad;",
+        "a los cautivos que tiene Satán,",
+        "vengan a Cristo y libres serán."
+      ],
+      "v3": [
+        "“¡Hoy es el día de la libertad!”",
+        "Gritan los hombre con muy grande afán,",
+        "sin darse cuenta que presos están;",
+        "“pobres y ricos perdidos serán”."
+      ],
+      "v4": [
+        "Los que gozamos de la libertad,",
+        "las Buenas Nuevas debemos llevar:",
+        "que en Jesucristo está la Verdad;",
+        "Él regenera por su gran bondad."
+      ],
+      "v5": [
+        "Cristo, el Caudillo de la libertad,",
+        "pendón glorioso con gozo alzad;",
+        "nuestra bandera, también tricolor",
+        "reverenciemos en todo lugar."
+      ],
+      "v6": [
+        "Blanco es pureza, el rojo es amor,",
+        "verde esperanza, que es Cristo el Señor;",
+        "son tres colores de grande valor;",
+        "rindamos todos, honores y amor."
+      ]
+    }
+  ],
+  "versions": []
+}

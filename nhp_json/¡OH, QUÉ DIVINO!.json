@@ -1,0 +1,47 @@
+{
+  "titles": ["¡OH, QUÉ DIVINO!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "141" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["c1", "v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "c1": [
+        "¡Oh, qué Divino, Divino, Divino!",
+        "Es mi Jesús, el Sapiente Rabino."
+      ],
+      "v1": [
+        "Todo lo sabe ÉL,",
+        "todo lo puede Él;",
+        "lo puedes consultar ,",
+        "y sin nada pagar ."
+      ],
+      "v2": [
+        "Él conoce tu mal,",
+        "y lo puede quitar.",
+        "Dile tu padecer,",
+        "Él es Dios de Poder."
+      ],
+      "v3": [
+        "Mira tu condición,",
+        "es toda perdición;",
+        "y hoy nuestro Dios te ve,",
+        "lleno de compasión."
+      ],
+      "v4": [
+        "No lo rechaces, ¡No!",
+        "Es tu oportunidad.",
+        "Lleno estás de impiedad,",
+        "y Él te puede limpiar."
+      ],
+      "v5": [
+        "Ven pecador a Él,",
+        "Él es mi Salvador;",
+        "y como me salvó,",
+        "te quiere a ti salvar."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,49 @@
+{
+  "titles": ["HASTA AQUÍ NOS AYUDÓ JEHOVÁ"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "53" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "Alcemos las manos oh pueblo singular",
+        "miremos al cielo, que alla esta Jehová.",
+        "sigamos luchando, que el nos ayudara,",
+        "sigamos luchando, que el triunfo nos dará."
+      ],
+      "c1": [
+        "Oh, Señor, afirma el corazón",
+        "que tu pueblo pueda soportar;",
+        "que nos libres de la tentación,",
+        "y hasta la gloria eterna entrar."
+      ],
+      "v2": [
+        "El cielo y la tierra, como también la mar, ",
+        "son cosas inmensas que dios pudo afirmar;",
+        "nosotros sin fuerzas para poder luchar.",
+        "mas Cristo nos dice, que el nos puede ayudar."
+      ],
+      "v3": [
+        "Los grandes lamentos del pueblo del Señor,",
+        "parecen que dicen que dios ya nos dejo.",
+        "las santas escrituras nos aclaran con verdad,",
+        "diciendo que Cristo, has aquí nos ayudo."
+      ],
+      "v4": [
+        "El sol y la luna, los astros y demás,",
+        "ya cantan la gloria del Padre celestial;",
+        "nosotros, como obra de mano divina,",
+        "cantemos por siempre el cantico gradual."
+      ],
+      "v5": [
+        "¡Oh, Padre Divino, atiende por bondad!",
+        "A éste, tu pueblo, que eleva el corazón.",
+        "Por tu Hijo Jesucristo, danos más santidad,",
+        "tu Espíritu Santo nos de su bendición."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,43 @@
+{
+  "titles": ["MI SALVADOR EN SU BONDAD"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "418" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Mi Salvador, en su bondad, ",
+        "al mundo malo descendió; ",
+        "y de hondo abismo de maldad, ",
+        "Él mi alma levantó."
+      ],
+      "c1": [
+        "Seguridad me dio Jesús, ",
+        "cuando su Mano me tendió; ",
+        "estando en sombra, a plena Luz, ",
+        "en su bondad me levantó."
+      ],
+      "v2": [
+        "Su Voz constante resistí, ",
+        "aunque Él amante me llamó; ",
+        "mas su Palabra recibí, ",
+        "y fiel me levantó."
+      ],
+      "v3": [
+        "Tortura cruel sufrió por mí, ",
+        "cuando la Cruz Él escaló; ",
+        "tan sólo así salvado fui ",
+        "y así me levantó."
+      ],
+      "v4": [
+        "Que soy feliz, yo bien lo sé, ",
+        "con esta vida que Él me dio; ",
+        "mas, no comprendo aún por qué",
+        "Jesús me levantó."
+      ]
+    }
+  ],
+  "versions": []
+}

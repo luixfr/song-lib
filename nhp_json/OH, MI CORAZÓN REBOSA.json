@@ -1,0 +1,39 @@
+{
+  "titles": ["OH, MI CORAZÓN REBOSA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "448" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "voy subiendo do corona me espera; ",
+        "voy subiendo en bella luz, ",
+        "voy subiendo con Jesús; ",
+        "voy subiendo a mi Celeste hogar; ",
+        "me voy con Cristo a mi Celeste hogar."
+      ],
+      "c1": [
+        "Voy subiendo al cielo en áurea escalera,",
+        "voy subiendo do corona me espera; ",
+        "voy subiendo en bella luz, ",
+        "voy subiendo con Jesús; ",
+        "alabanzas cantaré a Dios allá."
+      ],
+      "v2": [
+        "Cada día quiero amarle más constante, ",
+        "cada día quiero serle a Él más leal; ",
+        "ayudado por su gracia que, abundante,",
+        "nos concede nuestro Padre Celestial."
+      ],
+      "v3": [
+        "Hallo gran placer llevando a pecadores; ",
+        "pobres, ricos, de cualquiera condición;",
+        "a Jesús, que en cruenta Cruz sufrió dolores,",
+        "para dar a todos plena salvación."
+      ]
+    }
+  ],
+  "versions": []
+}

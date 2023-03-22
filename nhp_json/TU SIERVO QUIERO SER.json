@@ -1,0 +1,51 @@
+{
+  "titles": ["TU SIERVO QUIERO SER"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "336" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c2"],
+      "v1": [
+        "Jesús tu Siervo quiero ser, ",
+        "siempre a tu lado caminar; ",
+        "que de tu Mano pueda yo ",
+        "valiente siempre continuar. ",
+        "Que siempre en mí pueda existir, la sed ardiente de anunciar, ",
+        "que sólo Tú puede salvar ",
+        "al mundo de la falsedad."
+      ],
+      "c1": [
+        "Llena mi vida de amor ",
+        "para las almas, oh, Señor, ",
+        "lléname de la vocación ",
+        "Que da la vida sin temor. ",
+        "Tú sabes todo, mi Señor, ",
+        "que te amo, Tú Jo sabes bien. ",
+        "Oh, no importa que por amarte en este mundo muera yo."
+      ],
+      "v2": [
+        "Si acaso miras mi Señor, ",
+        "que por mi débil corazón ",
+        "que por mi carne y las angustias",
+        "de este mundo pecador. ",
+        "Si por el tiempo y el hastío, ",
+        "si por las brumas del dolor, ",
+        "mi alma quiera olvidarse ",
+        "de tu Divino y gran amor."
+      ],
+      "c2": [
+        "Cuando quisiera engañarme ",
+        "falso enemigo de tu amor, ",
+        "cuando la vanidad quisiera ",
+        "ahogarme en muerte y en dolor, ",
+        "recuérdame tu inmenso amor; ",
+        "no te separes, mi Señor; ",
+        "porque Tú venciste al mundo ",
+        "porque Tú vives, mi Señor."
+      ]
+    }
+  ],
+  "versions": []
+}

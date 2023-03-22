@@ -1,0 +1,49 @@
+{
+  "titles": ["DONDEQUIERA QUE VAYAMOS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "408" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "Dondequiera que vayamos, ",
+        "demos testimonio fiel ",
+        "de que Cristo nos salvó, ",
+        "en nosotros vean a Él."
+      ],
+      "c1": [
+        "Hazme fiel, Señor Jesús, ",
+        "no permitas que haga mal; ",
+        "es mejor seguir tu luz ",
+        "y  tu gloria celestial."
+      ],
+      "v2": [
+        "Mira cuántos ojos ven ",
+        "si caminas bien o mal; ",
+        "si deshonras a tu Dios, ",
+        "o le sirves en verdad."
+      ],
+      "v3": [
+        "Deja la malicia, pues, ",
+        "ponte recto en el Señor, ",
+        "Y a Satán dale un revés ",
+        "con Poder del Salvador."
+      ],
+      "v4": [
+        "Tu lealtad hará callar ",
+        "al que piensa mal de ti; ",
+        "da tu vida a consagrar ",
+        "al Señor, que está por ti."
+      ],
+      "v5": [
+        "Si no puedes predicar, ",
+        "sí puedes obedecer, ",
+        "y así manifestar ",
+        "que Jesús es tu placer."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,44 @@
+{
+  "titles": ["DAD GLORIA A DIOS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "14" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "Dad gloria a Dios por su bondad,",
+        "decid sus glorias con canción;",
+        "sus escogidos, tributad",
+        "con gratitud y adoración."
+      ],
+      "c1": ["/:Al Señor alabad", "y jubilosos demos loor:/"],
+      "v2": [
+        "Jesús, su pueblo por salvar,",
+        "portentos grandes obrará;",
+        "su rica Gracia ha de dar",
+        "y en su presencia vivirá."
+      ],
+      "v3": [
+        "Su Santo Nombre ha de ser,",
+        "por todos conocido bien;",
+        "El es el juez y, con poder",
+        "su Gracia nos dará también."
+      ],
+      "v4": [
+        "Los dioses de oro sordos son,",
+        "son mudos y no pueden ver;",
+        "y los que les dan adoración,",
+        "cual ellos, van a perecer."
+      ],
+      "v5": [
+        "¡Oh, santa Iglesia de Jesús!",
+        "Su Gracia debes anunciar,",
+        "Él mora en ti, Él es tu luz;",
+        "sus glorias debes proclamar ."
+      ]
+    }
+  ],
+  "versions": []
+}

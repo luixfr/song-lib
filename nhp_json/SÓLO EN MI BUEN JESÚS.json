@@ -1,0 +1,35 @@
+{
+  "titles": ["SÓLO EN MI BUEN JESÚS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "249" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1"],
+      "v1": [
+        "Sólo en mi buen Jesús hay perdón,",
+        "sólo en mi buen Jesús hay libertad;",
+        "la que a sus Plantas luego así se adquiere,",
+        "con fe y oración a Dios."
+      ],
+      "c1": [
+        "Sólo en mi Cristo hay descanso,",
+        "sólo en mi Cristo hay amor ,",
+        "porque es la Fuente que nunca",
+        "puede agotar su favor .",
+        "¡Oh, libertad tan preciosa!",
+        "Que nos ha dado el Señor;",
+        "ahora el alma rebosa,",
+        "porque nos dio su perdón."
+      ],
+      "v2": [
+        "¡Qué grande bendición del Señor!",
+        "Poder, gozar por Él la libertad, ",
+        "pues Él nos redimió por su amor, ",
+        "nos dio a conocer su gran Verdad."
+      ]
+    }
+  ],
+  "versions": []
+}

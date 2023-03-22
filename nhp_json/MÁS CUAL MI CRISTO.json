@@ -1,0 +1,37 @@
+{
+  "titles": ["MÁS CUAL MI CRISTO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "153" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Más cual mi Cristo, quiero siempre ser,",
+        "más mansedumbre, más benignidad.",
+        "Celo en servirle, fidelidad mostrar,",
+        "más consagrado a la Obra que me da."
+      ],
+      "c1": [
+        "Toma mi ser, tan sólo tuyo es,",
+        "toma mi ser, lo doy, Señor, a Ti.",
+        "Mi corazón, imploro limpies, sí;",
+        "tenme, soy tuyo, por la eternidad."
+      ],
+      "v2": [
+        "Más cual mi Cristo, es mi oración,",
+        "más fuerza tenga, más resignación;",
+        "más serio siempre, más espiritual,",
+        "a los perdidos traerlos al altar ."
+      ],
+      "v3": [
+        "Más cual mi Cristo, más profunda fe,",
+        "de su cariño, grande compasión;",
+        "cual Él paciente, humilde y veraz,",
+        "es mi anhelo cual Cristo aquí andar."
+      ]
+    }
+  ],
+  "versions": []
+}

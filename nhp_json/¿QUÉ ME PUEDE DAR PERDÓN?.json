@@ -1,0 +1,29 @@
+{
+  "titles": ["¿QUÉ ME PUEDE DAR PERDÓN?"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "210" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v1", "c1"],
+      "v1": [
+        "Cantaré junto a sus Pies, sólo de Jesús la Sangre,",
+        "El Cordero digno es; sólo de Jesús la Sangre."
+      ],
+      "c1": [
+        "Precioso es el raudal, que limpia todo mal;",
+        "no hay otro manantial; sólo de Jesús la Sangre."
+      ],
+      "v2": [
+        "Fue el rescate eficaz, sólo de Jesús la Sangre.",
+        "Trajo santidad y paz, sólo de Jesús la Sangre"
+      ],
+      "v3": [
+        "Veo para mi salud, sólo de Jesús la Sangre.",
+        "Tiene de sanar virtud, sólo de Jesús la Sangre"
+      ]
+    }
+  ],
+  "versions": []
+}

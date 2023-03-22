@@ -1,0 +1,36 @@
+{
+  "titles": ["MADRE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "273" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "v1": [
+        "Madre, en mis tristezas me consolaste",
+        "con la dulzura de tu cariño",
+        "que es tan inmenso.",
+        "Con toda el alma me consolaste,",
+        "con ese amor que en mi vida",
+        "es incomparable."
+      ],
+      "v2": [
+        "¡Madre! hoy te ofrecemos nuestro cariño,",
+        "pues nos forjaste con tu ternura",
+        "y alma de armiño.",
+        "Nos enseñaste a amar a Cristo,",
+        "con ese amor con que en tu vida",
+        "siempre le has servido."
+      ],
+      "v3": [
+        "¡Madre! hoy te rendimos nuestro homenaje,",
+        "en este día, agradecidos, te recordamos.",
+        "Dios te bendiga, oh, dulce madre.",
+        "Con todo amor",
+        "venimos juntos hoya cantarte."
+      ]
+    }
+  ],
+  "versions": []
+}

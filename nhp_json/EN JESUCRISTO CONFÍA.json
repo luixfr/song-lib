@@ -1,0 +1,48 @@
+{
+  "titles": ["EN JESUCRISTO CONFÍA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "124" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "En Jesucristo confía, no más:",
+        "Pon tu carga en Jesús.",
+        "Paz y socorro de El obtendrás,",
+        "pon tu carga en Jesús."
+      ],
+      "c1": [
+        "Pon tu carga en Jesús, y dile tu cruel dolor:",
+        "En Cristo tu Amigo, tendrás un abrigo.",
+        "¡Oh, pon tu carga en Jesús!"
+      ],
+      "v2": [
+        "Paz redentora tu alma tendrá, ",
+        "Pon tu carga en Jesús.",
+        "De inquietudes te libertará, ",
+        "Pon tu carga en Jesús."
+      ],
+      "v3": [
+        "De los conflicto no huyas jamás, ",
+        "Pon tu carga en Jesús.",
+        "En el desierto no busques la paz, ",
+        "Pon tu carga en Jesús."
+      ],
+      "v4": [
+        "¿Males te asaltan doquier, pecador?, ",
+        "Pon tu carga en Jesús.",
+        "¿Vas ya cansado de pena y dolor?, ",
+        "Pon tu carga en Jesús."
+      ],
+      "v5": [
+        "Cristo podrá disipar tu temor, ",
+        "Pon tu carga en Jesús.",
+        "A los devotos des da gran valor, ",
+        "Pon tu carga en Jesús."
+      ]
+    }
+  ],
+  "versions": []
+}

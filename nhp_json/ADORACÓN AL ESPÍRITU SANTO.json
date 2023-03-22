@@ -1,0 +1,37 @@
+{
+  "titles": ["ADORACÓN AL ESPÍRITU SANTO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "3" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "¡Oh, Espíritu Santo! Paráclito Divino,",
+        "Tú eres Dios de los dioses, eres Dios Uno y Trino.",
+        "Los cielos te adoran, los astros también,",
+        "y todos los mundos, al oir tu Palabra, exclaman: Amén."
+      ],
+      "c1": [
+        "Adórote yo, mi Dios eternal",
+        "recibe mi canto, acepta mi amor:",
+        "Espíritu Santo, Hijo Sacrosanto",
+        "Padre Celestial."
+      ],
+      "v2": [
+        "Fuente inagotable, Manantial de la Vida,",
+        "Bondad insondable para el alma perdida;",
+        "es dulce tu Nombre, el de Tu Deidad :",
+        "Espíritu Santo, el Hijo y el Padre, ¡Santa Trinidad!"
+      ],
+      "v3": [
+        "Mil bellas estrellas te rinden homenaje",
+        "ya tus Pies benditos ardientes cintilan;",
+        "los ángeles claman tu anuencia Divina",
+        "y los querubines, batiendo sus alas, te adoran también."
+      ]
+    }
+  ],
+  "versions": []
+}

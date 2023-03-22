@@ -1,0 +1,43 @@
+{
+  "titles": ["¡OH, QUÉ AMIGO...!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "351" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "v1": [
+        "¡Oh, que amigo nos es Cristo!",
+        "el llevo nuestro dolor.",
+        "Y nos manda que llevemos",
+        "todo a Dios en oración",
+        "¿Vive el hombre desprovisto",
+        "de paz, gozo y santo amor?",
+        "Esto es porque no llevamos",
+        "todo a Dios en oración."
+      ],
+      "v2": [
+        "¿Vives débil y cargado",
+        "de cuidados y temor?",
+        "a Jesús, Refugio Eterno",
+        "dile todo en oración.",
+        "¿Te desprecian tus amigos?",
+        "Cuéntaselo en oración",
+        "en sus brazos amorosos,",
+        "paz tendrá tu corazón."
+      ],
+      "v3": [
+        "Jesucristo es nuestro Amigo,",
+        "de eso pruebas Él nos dio,",
+        "al sufrir el cruel castigo",
+        "que el culpable mereció.",
+        "Y su pueblo redimido",
+        "hallará seguridad,",
+        "fiando en este Amigo Eterno",
+        "y esperando en su bondad."
+      ]
+    }
+  ],
+  "versions": []
+}

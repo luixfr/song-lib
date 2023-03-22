@@ -1,0 +1,43 @@
+{
+  "titles": ["NO HALLO CÓMO AGRADAR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "214" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "No hallo cómo agradar a Jesucristo.",
+        "¡Quisiera darle una cosa que sea mía!",
+        "aun el aire que respiro, no es mío;",
+        "mas alma, cuerpo y corazón te doy, Jesús."
+      ],
+      "c1": [
+        "Gracias a Ti, Señor Jesús",
+        "por tu bendita salvación.",
+        "Hoy, pues, te doy mi corazón,",
+        "para que quites de él la vana ilusión."
+      ],
+      "v2": [
+        "Yo sé que Tú de mí no apartas tus miradas,",
+        "me vez moverme como un triste gusanillo;",
+        "buscaba gloria en la tierra y no la hallaba,",
+        "mas ahora tengo yo mi Gloria sólo en Ti."
+      ],
+      "v3": [
+        "Son dos caminos que nos muestra tu Palabra:",
+        "uno es angosto y la puerta es estrecha;",
+        "otro es muy ancho, mas conduce al abismo;",
+        "la Senda angosta, mi Jesús, yo seguiré."
+      ],
+      "v4": [
+        "No tardes, pues, Señor Jesús tu obra en mi alma,",
+        "que cuando vengas Tú, yo pueda estar listo;",
+        "ayúdame a velar y orar constantemente,",
+        "para ser libre de la gran tribulación."
+      ]
+    }
+  ],
+  "versions": []
+}

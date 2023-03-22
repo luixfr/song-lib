@@ -1,0 +1,43 @@
+{
+  "titles": ["LA GLORIA DE CRISTO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "26" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "La gloria de Cristo, el Señor, cantaré,",
+        "pues llena mi vida de gozo y de paz;",
+        "callar los favores que de Él alcancé,",
+        "mi labio no puede jamás."
+      ],
+      "c1": [
+        "Es todo bondad para mí,",
+        "con Él nada puedo desear ,",
+        "pues todos mis altos deseos aquí,",
+        "tan sólo Ellos puede llenar."
+      ],
+      "v2": [
+        "En horas de angustia, conmigo Él está,",
+        "y puedo escuchar su dulcísima Voz,",
+        "que me habla y su paz inefable me da,",
+        "la paz infinita de Dios."
+      ],
+      "v3": [
+        "Si a rudos conflictos me mira que voy,",
+        "me deja hasta el fin a mi solo luchar;",
+        "mas pronto, si ve que cediendo ya estoy,",
+        "socorro me viene' a prestar ."
+      ],
+      "v4": [
+        "También cuando gozo lo miro Itegar",
+        "y entonces mi dicha la aumenta el Señor;",
+        "ya llena mi copa, la veo rebosar",
+        "con todo sus Dones de amor."
+      ]
+    }
+  ],
+  "versions": []
+}

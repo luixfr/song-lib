@@ -1,0 +1,43 @@
+{
+  "titles": ["DULCE MELODÍA DIVINA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "17" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Dulce melodía, Divina,",
+        "es el Nombre de Jesús;",
+        "Nombre Celestial,",
+        "que llena el corazón;",
+        "Nombre que al mortal",
+        "da salvación."
+      ],
+      "c1": [
+        "¡Cristo! ¡Cristo! ¡Mi Jesús!",
+        "Siempre, siempre te amaré.",
+        "Guíame con tu hermosa luz",
+        "y feliz seré."
+      ],
+      "v2": [
+        "En la senda de mi vida,",
+        "guárdame cerca de Ti;",
+        "que tu excelso Nombre,",
+        "pleno de virtud,",
+        "siempre esté en mis labios,",
+        "¡Oh, Jesús!"
+      ],
+      "v3": [
+        "Yo amo el Nombre de Jesús,",
+        "Él es todo para mí;",
+        "por eso yo siento gozo,",
+        "paz, salud.",
+        "¡Cómo experimento",
+        "gran quietud!"
+      ]
+    }
+  ],
+  "versions": []
+}

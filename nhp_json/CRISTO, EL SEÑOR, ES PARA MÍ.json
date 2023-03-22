@@ -1,0 +1,37 @@
+{
+  "titles": ["CRISTO, EL SEÑOR, ES PARA MÍ"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "119" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "v1": [
+        "Cristo, e! Señor, es para mí, consuelo, dicha y",
+        "paz. En El tan sólo encuentro yo, descanso, amor,",
+        "solaz. Si en mis tristezas voy a Él,",
+        "/:hallo un Amigo siempre fiel:/, en Jesús."
+      ],
+      "v2": [
+        "En mis conflictos Con el mar, no hay uno cual",
+        "Jesús, que pueda darme protección, sostén,",
+        "poder y luz. Yendo conmigo el Salvador,",
+        "/:ya nada puede el tentador:/, contra mí."
+      ],
+      "v3": [
+        "Vida de paz, de gozo y luz encuentro en mi",
+        "Señor. Herencia eterna que me da su",
+        "Incomparable amor. Nada en el mundo igualará,",
+        "/: a lo que en Cristo encontrará:/ el mortal."
+      ],
+      "v4": [
+        "Gloria sin fin tributaré, gozoso a mi Jesús,",
+        "quien vida tal me aseguró, muriendo en",
+        "cruenta cruz. Y por los siglos mi canción",
+        "/:ensalzará su salvación:/ sin igual."
+      ]
+    }
+  ],
+  "versions": []
+}

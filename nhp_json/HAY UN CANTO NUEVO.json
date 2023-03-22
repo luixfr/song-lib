@@ -1,0 +1,49 @@
+{
+  "titles": ["HAY UN CANTO NUEVO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "21" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "Hay un canto nuevo en mi ser",
+        "es la voz de mi Jesús",
+        "que me dice ven a descansar",
+        "tu paz conquiste en la cruz"
+      ],
+      "c1": [
+        "Cristo, Cristo, Cristo",
+        "nombre sin igual",
+        "llena siempre mi alma",
+        "de esa nota celestial"
+      ],
+      "v2": [
+        "Naufrago en pecado me encontré",
+        "sin paz en mi corazón",
+        "mas en Cristo mi Señor halle",
+        "dulce paz y protección"
+      ],
+      "v3": [
+        "Tengo de su Gracia celestial",
+        "bajo sus alas de amor",
+        "riquezas que fluyen a raudal",
+        "desde el trono del Señor"
+      ],
+      "v4": [
+        "Por las aguan hondas me llevo",
+        "pruebas en mi senda halle",
+        "por sendero áspero me guio",
+        "mas sus huellas seguiré."
+      ],
+      "v5": [
+        "Cristo en las nubes volverá",
+        "bajo el bello cielo azul",
+        "el entonces mi alma llevara",
+        "a vivir en gloria y luz."
+      ]
+    }
+  ],
+  "versions": []
+}

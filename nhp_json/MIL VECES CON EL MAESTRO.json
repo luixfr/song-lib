@@ -1,0 +1,41 @@
+{
+  "titles": ["MIL VECES CON EL MAESTRO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "31" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Mil veces con el Maestro,",
+        "en santa comunión.",
+        "Escucho los acentos",
+        "de hermosa agrupación."
+      ],
+      "c1": [
+        "¡Aleluya, Amén!, ¡Aleluya, Amén!",
+        "¡Aleluya, Amén!, Amén, Amén."
+      ],
+      "v2": [
+        "De aquellos que sufrieron",
+        "sed, hambre y dolor ,",
+        "mas hoy glorificados",
+        "están con el Señor ."
+      ],
+      "v3": [
+        "Escucho los acentos",
+        "del canto sin igual,",
+        "y mi alma al punto se une",
+        "al Coro Celestial."
+      ],
+      "v4": [
+        "Unido estoy con ellos,",
+        "ahora por la fe,",
+        "mas pronto, frente al Trono,",
+        "con ellos cantaré."
+      ]
+    }
+  ],
+  "versions": []
+}

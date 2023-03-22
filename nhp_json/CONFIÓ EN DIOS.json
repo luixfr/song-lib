@@ -1,0 +1,43 @@
+{
+  "titles": ["CONFIÓ EN DIOS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "118" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Confío en Dios, doquiera que yo esté:",
+        "En tierra o mar, en calma o tempestad.",
+        "De día en día, cuanto venga a mí,",
+        "mi Padre siempre velará por mí."
+      ],
+      "c1": [
+        "Confío en Dios, yo sé Él ve por mí,",
+        "en alta cumbre o en rugiente mar.",
+        "Mi alma en El segura está,",
+        "mi Padre siempre velará por mí."
+      ],
+      "v2": [
+        "La rosa es un objeto de su amor,",
+        "El guía el ave que en su vuelo va.",
+        "Seguro estoy que piensa Él en mí,",
+        "mi Padre siempre velará por mí."
+      ],
+      "v3": [
+        "Confío en Dios, aun entre fieras mil,",
+        "en la prisión o en duro batallar,",
+        "en gloria, fama o en fuego vil,",
+        "mi Padre siempre velará por mí."
+      ],
+      "v4": [
+        "En valle obscuro o en profundidad,",
+        "el buen Pastor, su oveja guiara,",
+        "con gran bondad hacia el hogar ,",
+        "mi Padre siempre velará por mí."
+      ]
+    }
+  ],
+  "versions": []
+}

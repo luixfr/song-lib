@@ -1,0 +1,43 @@
+{
+  "titles": ["UN DÍA CRISTO VOLVERÁ"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "391" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Un día Cristo volverá, ",
+        "al ascender lo prometió; ",
+        "del mismo modo volverá, ",
+        "y su pueblo ha de ver al Rey Jesús."
+      ],
+      "c1": [
+        "Muy pronto, sí, Jesús vendrá, ",
+        "y alegre le verá su pueblo; ",
+        "en vela todos deberán estar ",
+        "para poderle mirar."
+      ],
+      "v2": [
+        "Los mensajeros del Señor ",
+        "afirman que Jesús vendrá, ",
+        "y el Espíritu de Dios ",
+        "las promesas de la Biblia nos abrió."
+      ],
+      "v3": [
+        "¡Oh, gloria sin comparación ",
+        "será mirar a nuestro Rey!",
+        "Su Rostro hermoso brillará, ",
+        "eclipsando el fulgor del mismo sol."
+      ],
+      "v4": [
+        "¡Oh, bienvenido, Rey Jesús! ",
+        "Tu Iglesia ya esperando está ",
+        "y vana no será la fe. ",
+        "Nuestra dicha es, Señor, que Tú vendrás."
+      ]
+    }
+  ],
+  "versions": []
+}

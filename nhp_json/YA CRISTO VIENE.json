@@ -1,0 +1,35 @@
+{
+  "titles": ["YA CRISTO VIENE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "393" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Ya Cristo viene a llevarme ",
+        "a una Patria mejor; ",
+        "antes Él vino a salvarme, ",
+        "pues era un vil pecador."
+      ],
+      "c1": [
+        "Tierra bendita de promisión; ",
+        "siento al pensarlo gran bendición."
+      ],
+      "v2": [
+        "Hoy, con fervor y con gozo,",
+        "vengo a cantar al Señor; ",
+        "porque ya me ha preparado,",
+        "¡Qué maravilla de amor!"
+      ],
+      "v3": [
+        "Aquella tierra lejana ",
+        "pronto mis ojos verán; ",
+        "pruebas, pesares y luchas, ",
+        "por siempre terminarán."
+      ]
+    }
+  ],
+  "versions": []
+}

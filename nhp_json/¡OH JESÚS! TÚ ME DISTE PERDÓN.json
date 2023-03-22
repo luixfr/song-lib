@@ -1,0 +1,43 @@
+{
+  "titles": ["¡OH JESÚS! TÚ ME DISTE PERDÓN"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "419" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "¡Oh, Jesús! Tú me diste perdón, ",
+        "perfumaste mi ser con tu amor; ",
+        "la fragancia del valle Sarón, ",
+        "se desborda hoy en mi corazón."
+      ],
+      "c1": [
+        "Eres Tú mi eterno Dios, ",
+        "mi excelso Rey, mi Redentor; ",
+        "Divino amor, mi Amigo fiel, ",
+        "mi inspiración, mi Salvador."
+      ],
+      "v2": [
+        "Cuánto tiempo tu Voz resistí ",
+        "y el anhelo de mi alma apagué; ",
+        "pero, viendo que me iba a morir, ",
+        "con dolor yo te dije: “Pequé”."
+      ],
+      "v3": [
+        "Yo te adoro, benigno Jesús, ",
+        "con amor yo te quiero seguir. ",
+        "¡Cuánta dicha disfruto yo en Ti! ",
+        "¡Quiero siempre Contigo vivir!"
+      ],
+      "v4": [
+        "En  vergel oloroso ya estoy, ",
+        "donde el lirio despide su olor. ",
+        "Y la Rosa del valle Sarón ",
+        "dulcifica mi vida de amor."
+      ]
+    }
+  ],
+  "versions": []
+}

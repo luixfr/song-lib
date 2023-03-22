@@ -1,0 +1,51 @@
+{
+  "titles": ["JESUCRISTO ES DIOS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "24" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "/:Jesucristo es Dios:/",
+        "por todos los siglos,.",
+        "/:Sigue siempre a El:/",
+        "El está contigo.",
+        "/:Tú le sentirás:/",
+        "en tu corazón.",
+        "/:Ríndete a sus pies:/",
+        "pues tendrás perdón."
+      ],
+      "c1": [
+        "/:Él aquí está:/",
+        "aunque no lo ves.",
+        "/:Déjalo entrar:/",
+        "en tu corazón."
+      ],
+      "v2": [
+        "Ten confianza en Él,",
+        "sin dudar jamás,",
+        "todo en Él vencemos.",
+        "Si quieres vencer,",
+        "ríndete a los pies",
+        "de Jesús, tu Dueño.",
+        "/:\"Pues, aquí estoy\":/",
+        "te dice Jesús.",
+        "/:\"Pues, soy para Ti\":/",
+        "dile tú también."
+      ],
+      "v3": [
+        "Pues Él siempre es fiel,",
+        "no te dejará",
+        "nuestro Jesucristo.",
+        "No te alejarás,",
+        "tú le amarás en toda tu vid.",
+        "/:Que felicidad:/",
+        "se alcanza en El.",
+        "Yo la siento en mí."
+      ]
+    }
+  ],
+  "versions": []
+}

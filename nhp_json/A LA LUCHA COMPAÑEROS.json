@@ -1,0 +1,37 @@
+{
+  "titles": ["A LA LUCHA COMPAÑEROS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "428" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "A la lucha, compañeros, sin cesar marchad;",
+        "Cristo es nuestro Jefe, jamás cejaremos; ",
+        "pues nuestro Maestro la victoria nos dará, ",
+        "fieles yendo hasta el final."
+      ],
+      "c1": [
+        "Marchad, marchad, luchando hasta el morir,",
+        "que Cristo, el Rey, a nuestro lado está; ",
+        "luchad, luchad, hasta el triunfo alcanzar, ",
+        "si el son de la trompeta oís."
+      ],
+      "v2": [
+        "¡Oh, Soldados del Maestro, que en la brega estáis,",
+        "sed valientes siempre en la ruda lucha, ",
+        "que Jesús, el Capitán, a nuestro lado va, ",
+        "dándonos de su Poder!"
+      ],
+      "v3": [
+        "Habrá pruebas, habrá luchas y enemigos mil, ",
+        "mas si somos fieles, venceremos todo, ",
+        "a Jesús sigamos, Él es nuestro Paladín ",
+        "y al triunfo nos llevará."
+      ]
+    }
+  ],
+  "versions": []
+}

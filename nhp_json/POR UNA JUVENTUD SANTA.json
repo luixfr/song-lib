@@ -1,0 +1,43 @@
+{
+  "titles": ["POR UNA JUVENTUD SANTA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "234" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "/:Por una Juventud Santa:/",
+        "Podemos alcanzar",
+        "el cielo y adorar ",
+        "al Dios y Salvador Santo."
+      ],
+      "c1": [
+        "El padre nos oirá en el Cielo,",
+        "el Hijo nos verá en su amor",
+        "y el Santo Espíritu en su Fuego",
+        "nos purificará, nos santificará."
+      ],
+      "v2": [
+        "/:Por una Juventud Santa:/",
+        "Los ángeles vendrán",
+        "y unidos cantarán:",
+        "“Por una Juventud Santa”."
+      ],
+      "v3": [
+        "/:Por una Juventud Santa:/",
+        "Podemos alcanzar",
+        "al mundo en su impiedad,",
+        "trayéndolo al Señor Santo."
+      ],
+      "v4": [
+        "/:Por una Juventud Santa:/",
+        "La Iglesia elevará",
+        "plegaria por bondad",
+        "al Trono del Señor Santo."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,36 @@
+{
+  "titles": ["JEHOVÁ ES MI PASTOR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "131" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Jehová es mi Pastor, me apacienta con amor,",
+        "en sus pastos delicados paceré,",
+        "descansando sin temor al abrigo del Señor ,",
+        "de las aguas de reposo beberé."
+      ],
+      "c1": [
+        "El Señor, me pastorea, nada aquí me faltará.",
+        "Junto a Él caminaré, en su brazo confiaré.",
+        "Nada del amor de Dios me apartará."
+      ],
+      "v2": [
+        "Mi Pastor me guardará, siempre me confortará,",
+        "por las sendas de justicia, me guiará.",
+        "En el tiempo del olor, me será Consolador,",
+        "en mi corazón su paz infundirá."
+      ],
+      "v3": [
+        "¡Oh, cuán fiel es mi Pastor! ¡Cuán constante es",
+        "su Amor! Que mi copa rebosando siempre está.",
+        "Cuando en valle obscuro esté, mal ninguno",
+        "temeré. Ya la casa de mi Dios iré a morar."
+      ]
+    }
+  ],
+  "versions": []
+}

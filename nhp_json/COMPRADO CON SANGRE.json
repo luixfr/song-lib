@@ -1,0 +1,46 @@
+{
+  "titles": ["COMPRADO CON SANGRE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "402" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "Comprado con Sangre por Cristo,                                                                        con gozo al Cielo yo voy; ",
+        "librado por Gracia infinita, ",
+        "ya sé que su hijo yo soy."
+      ],
+      "c1": [
+        "/: Lo se: / comprado con sangre yo soy",
+        "/: Lo se: / con Cristo al cielo yo voy."
+      ],
+      "v2": [
+        "Soy libre de pena y culpa",
+        "su gozo el me hace sentir;",
+        "Él llena de gracia mi alma,",
+        "con Él es tan dulce vivir."
+      ],
+      "v3": [
+        "En Cristo yo siempre medito",
+        "y nunca lo puedo olvidar",
+        "callar sus favores no quiero,",
+        "voy siempre a Jesús alabar."
+      ],
+      "v4": [
+        "Seguro se que la belleza",
+        "del gran Rey yo voy a mirar",
+        "ahora me guarda y me guía,",
+        "y siempre me quiere ayudar."
+      ],
+      "v5": [
+        "Yo se que me espera corona,",
+        "la cual a los fieles dará,",
+        "Jesús, Salvador, en el Cielo;",
+        "mi alma con El estará."
+      ]
+    }
+  ],
+  "versions": []
+}

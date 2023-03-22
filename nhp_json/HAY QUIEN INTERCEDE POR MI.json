@@ -1,0 +1,41 @@
+{
+  "titles": ["HAY QUIEN INTERCEDE POR MI"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "224" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Hay quien intercede por mí en la Gloria,",
+        "Jesús, el amante, benigno Pastor;",
+        "Él guarda mi alma con tierno cuidado.",
+        "¿Quisieras hacerle tu Rey y Señor?"
+      ],
+      "c1": [
+        "Por ti estoy rogando, por ti estoy rogando,",
+        "por ti estoy rogando, orando por ti."
+      ],
+      "v2": [
+        "Un Padre yo tengo que me ha concedido",
+        "confianza segura, que el mundo no da;",
+        "y pronto ha de darme Mansión en los Cielos,",
+        "y quiero que tú me acompañes allá."
+      ],
+      "v3": [
+        "Con níveos ropajes yo habré de vestirme,",
+        "luciente de gloria en Célico Edén.",
+        "¡Pudiera yo verte en la Gloria ataviado",
+        "con esos vestidos preciosos también!"
+      ],
+      "v4": [
+        "Y cuando los tengas, dirás la historia",
+        "que Cristo, mi Amigo, es tuyo también,",
+        "y ruego que Cristo os lleve a la Gloria,",
+        "os dé níveas ropas y un Célico Edén."
+      ]
+    }
+  ],
+  "versions": []
+}

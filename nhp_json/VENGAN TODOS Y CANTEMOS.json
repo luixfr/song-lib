@@ -1,0 +1,45 @@
+{
+  "titles": ["VENGAN TODOS Y CANTEMOS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "41" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Vengan todos y cantemos,",
+        "y con gozo alabemos",
+        "al Señor, al Señor .",
+        "y testigos le seremos,",
+        "su Evangelio prediquemos",
+        "y su amor y su amor."
+      ],
+      "c1": [
+        "Voy al cielo, ¡Aleluya!",
+        "Es mi anhelo, ¡Aleluya!",
+        "Voy al cielo, voy al cielo.",
+        "Voy al cielo, ¡Aleluya!",
+        "Es ml anhelo, ¡Aleluya!",
+        "Voy al cielo con mí Señor."
+      ],
+      "v2": [
+        "Si a Jesús pertenecemos",
+        "y su Espíritu tenemos,",
+        "y su amor y su amor.",
+        "En su viña trabajemos",
+        "y unidos estaremos",
+        "con valor, con valor."
+      ],
+      "v3": [
+        "Mantengamos la esperanza,",
+        "y cantemos alabanza",
+        "al Señor, al Señor.",
+        "Dio rescate a nuestras vidas,",
+        "ya teniéndolas perdidas",
+        "en dolor, en dolor."
+      ]
+    }
+  ],
+  "versions": []
+}

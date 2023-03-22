@@ -1,0 +1,41 @@
+{
+  "titles": ["SOY SOLDADO DE CRISTO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "332" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v1", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Palabra de Dios es la espada de la fe,",
+        "que me ayuda a pelear por Jesús, el Salvador.",
+        "Lucharé, triunfaré, con las huestes del Señor",
+        "me verás hoy peleando con valor."
+      ],
+      "c1": [
+        "Oid la voz de Cristo que nos llama:",
+        "“A la batalla, a la batalla”. ",
+        "Oid la voz de Cristo que nos dice: ",
+        "“¿Quiénes van hoy a pelear?” ",
+        "Yo soy soldado de Jesucristo ",
+        "y por fe la lucha venceré. ",
+        "Yo soy soldado de Jesucristo, ",
+        "y victoria y triunfo obtendré."
+      ],
+      "v3": [
+        "¿No quisieras venir y seguir al Salvador,",
+        "y pelear hoy por Ella batalla de la fe? ",
+        "Si eres fiel al Señor, la corona te dará ",
+        "y con El gozarás felicidad."
+      ],
+      "v4": [
+        "Pronto, yo bien lo sé, la batalla cesará",
+        "y con Cristo Jesús reinaremos más allá.",
+        "Oh, qué dicha indecible será con Él vivir,",
+        "donde no hay más tristezas que sufrir."
+      ]
+    }
+  ],
+  "versions": []
+}

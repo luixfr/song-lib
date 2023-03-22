@@ -1,0 +1,48 @@
+{
+  "titles": ["N LA CIUDAD DE BELÉN"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "284" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "En la ciudad de Belén",
+        "nació el Niñito Jesús,",
+        "el que es la Luz de los hombres",
+        "y de nuestras almas el gran Redentor.",
+        "Herodes le persiguió,",
+        "pues él no quiso creer,",
+        "mas un ángel les guió",
+        "y María, la Virgen, le pudo esconder."
+      ],
+      "c1": [
+        "¡Oh, qué riqueza es creerle!",
+        "¡Oh, qué dicha es amarle!",
+        "Ven a Él, pecador, te salvará."
+      ],
+      "v2": [
+        "Un ángel fue el que anunció",
+        "en los campos de Belén;",
+        "los magos vieron la estrella",
+        "y ella los guiaba hasta el Niño Jesús.",
+        "Creció en plena santidad,",
+        "y humilde, así se encontró",
+        "el Dios de gran Majestad;",
+        "Él con su pobreza nos enriqueció."
+      ],
+      "v3": [
+        "Fue grande el amor de Dios,",
+        "que al mundo quiso entregar",
+        "a su Unigénito Hijo,",
+        "para rescatarnos de la perdición.",
+        "Por Cristo yo recibí",
+        "por gracia, la salvación.",
+        "Cuando su voz yo oí,",
+        "Él limpió las manchas de mi corazón."
+      ]
+    }
+  ],
+  "versions": []
+}

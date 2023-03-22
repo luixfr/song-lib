@@ -1,0 +1,37 @@
+{
+  "titles": ["ALLÁ EN LA MAR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "397" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Allá en la mar abyecta del pecado, ",
+        "mi vida entre sus olas se extravié; ",
+        "y frágil, cual endémica barquilla, ",
+        "por varias ocasiones zozobró."
+      ],
+      "c1": [
+        "Mas plugo a la Divina Providencia ",
+        "y el faro en lontananza me mostró, ",
+        "/: el Puerto de refugio en evidencia, ",
+        "que en Cristo mi alma absorta contempló:/"
+      ],
+      "v2": [
+        "Allá en la mar inmensa embravecida,",
+        "mi pobre embarcación se aventuró, ",
+        "ya impulso de huracán, enloquecida,",
+        "en densa oscuridad se sumergió."
+      ],
+      "v3": [
+        "Allá en las aventuras de esa vida ",
+        "sufrí los acicates del error, ",
+        "y mi alma sin timón iba perdida, ",
+        "sin Dios, sin esperanza y sin amor."
+      ]
+    }
+  ],
+  "versions": []
+}

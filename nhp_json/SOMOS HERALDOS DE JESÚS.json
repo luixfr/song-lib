@@ -1,0 +1,37 @@
+{
+  "titles": ["SOMOS HERALDOS DE JESÚS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "81" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v1", "c1", "v2", "c1"],
+      "v1": [
+        "¡Pentecostés! ¡Pentecostés!",
+        "Es el lema de esta Iglesia del Señor.",
+        "¡Pentecostés! ¡Pentecostés!",
+        "Es un Fuego Celestial consumidor.",
+        "Acércate, buen lidiador",
+        "a las Plantas de Jesús bautizado ,",
+        "y llenará hoy de fulgor",
+        "este templo vivo, que es tu corazón."
+      ],
+      "c1": [
+        "Ríndete hoy, déjale entrar,",
+        "es tu Creador, quiere llenar tu corazón."
+      ],
+      "v2": [
+        "Grande placer es recibir",
+        "Él candente Fuego Purificador,",
+        "Él da poder, da convicción,",
+        "El da gozo, paz, consuelo hasta el morir.",
+        "Le alabarás, le servirás,",
+        "cual testigo fuerte y grande de su amor .",
+        "Acércate, buen lidiador,",
+        "no desprecies el Bautismo del Señor."
+      ]
+    }
+  ],
+  "versions": []
+}

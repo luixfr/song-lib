@@ -1,0 +1,47 @@
+{
+  "titles": ["VE, VE, OH, SIÓN"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "308" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "Ve, ve, oh Sion, tu gran destino cumple",
+        "que Dios es luz, al mundo proclamad;",
+        "que el Hacedor de las naciones, quiere",
+        "que nadie muera en densa oscuridad."
+      ],
+      "c1": [
+        "¡Alegres nuevas al mundo dad:",
+        "nuevas de redención, de amor y libertad!."
+      ],
+      "v2": [
+        "Ve cuantos miles, yacen todavía",
+        "en las oscuras cárceles del mal;",
+        "ignoran que de Cristo la agonía,",
+        "fue para darles vida celestial."
+      ],
+      "v3": [
+        "Es tu deber que salves de la muerte",
+        "las almas por la cuales el murió;",
+        "sé fiel, sino tendrás que ser culpable",
+        "de que se pierda lo que Dios gano."
+      ],
+      "v4": [
+        "Ve, di a toda tribu, pueblo y lengua",
+        "que el Dios en que vivimos es amor;",
+        "que en la tierra ha muerto, porque tenga",
+        "todo mortal la vida en el Señor."
+      ],
+      "v5": [
+        "Tus hijos manda con el gran mensaje,",
+        "con tu dinero impulso a ellos da;",
+        "en oración sustenta fiel sus almas",
+        "y cuando gastes, Cristo pagará."
+      ]
+    }
+  ],
+  "versions": []
+}

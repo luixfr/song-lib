@@ -1,0 +1,43 @@
+{
+  "titles": ["LIBRO SANTO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "92" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "v1": [
+        "Libro Santo por Dios inspirado,",
+        "manantial de Verdades eternas",
+        "has venido a romper las cadenas",
+        "del pecado, ignorancia y temor.",
+        "Tu nos hablas de Regias Mansiones,",
+        "de un destino feliz mas allá;",
+        "manifiesto a la vida nos pones, ",
+        "lo que al Santo su Dios le dará."
+      ],
+      "v2": [
+        "Es perfecto el Mandato Divino, ",
+        "rectamente encamina a las almas,",
+        "al pequeño, a quien Tú tanto amas,",
+        "tus preceptos lo hacen crecer.",
+        "paz y gozo perfecto le has dado, ",
+        "al mortal en tus aguas bebió;",
+        "galardón inmortal ha logrado,",
+        "el que fiel tu mandato guardo."
+      ],
+      "v3": [
+        "Sigue siempre brillando en el mundo,",
+        "que millones tu luz desconocen,",
+        "y a fin que tu influencia ellos gocen;",
+        "en el mundo te hare circular.",
+        "¡Dios Bendito, despeja mi mente",
+        "para ver tu Perfecta Verdad.",
+        "Haz la guarde por siempre obediente",
+        "alabando tu excelsa bondad!"
+      ]
+    }
+  ],
+  "versions": []
+}

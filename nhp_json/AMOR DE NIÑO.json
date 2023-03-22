@@ -1,0 +1,37 @@
+{
+  "titles": ["AMOR DE NIÑO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "211" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Hay un mes que yo amo",
+        "con amor de niño,",
+        "es el mes de Mayo",
+        "en que yo he nacido."
+      ],
+      "c1": [
+        "¡Mayo de ensueños mil, tus arreboles!",
+        "Hacen fulgir de luz tus bellas flores;",
+        "de fragancia sin fin es tu floresta.",
+        "Maravilloso Mayo, mes de fiesta!"
+      ],
+      "v2": [
+        "En el día veintiuno",
+        "de este mes precioso, ",
+        "plugo a Dios traerme ",
+        "y en ello me gozo."
+      ],
+      "v3": [
+        "Así hoy lo celebro ",
+        "con los mil amados, ",
+        "y juntos cantamos",
+        "a este mes que yo amo."
+      ]
+    }
+  ],
+  "versions": []
+}

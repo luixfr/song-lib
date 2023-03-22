@@ -1,0 +1,53 @@
+{
+  "titles": ["¡OH, PATRIA!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "355" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "v1": [
+        "¡Oh, Patria! Patria nuestra,",
+        "te rendimos hoy, ",
+        "justo homenaje ",
+        "de nuestro corazón ",
+        "Llevamos en el pecho ",
+        "honda gratitud; ",
+        "pues Dios nos dio en tus héroes",
+        "¡Bella libertad!"
+      ],
+      "v2": [
+        "La Patria es el legado ",
+        "de nuestra heredad, ",
+        "sagrado y que estimula ",
+        "nuestra humanidad; ",
+        "hoy como ciudadanos ",
+        "redimidos ya, ",
+        "sabemos estimarla ",
+        "y honrarla en verdad."
+      ],
+      "v3": [
+        "¡Oh! Patria, Patria santa, ",
+        "eres para nos, ",
+        "legado portentoso ",
+        "de nuestro buen Dios; ",
+        "por eso celebramos ",
+        "hoy con devoción, ",
+        "la fecha memorable ",
+        "de liberación."
+      ],
+      "v4": [
+        "Unidos celebremos ",
+        "esta libertad, ",
+        "que fue complementada ",
+        "para eternidad, ",
+        "pues Cristo en su Evangelio ",
+        "ya nos declaró ",
+        "ser súbditos del Reino ",
+        "y Patria Celestial."
+      ]
+    }
+  ],
+  "versions": []
+}

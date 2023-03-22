@@ -1,0 +1,37 @@
+{
+  "titles": ["TE SEGUIRÉ"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "334" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Te seguiré Señor por doquier,",
+        "dando el Mensaje de tu amor.",
+        "Promulgaré tu Grande Poder,",
+        "te seguiré mi buen Salvador."
+      ],
+      "c1": [
+        "Te seguiré doquier ",
+        "y buscaré al vil pecador. ",
+        "Si Tú me ayudas, yo venceré;",
+        "fiel te seré, mi buen Salvador."
+      ],
+      "v2": [
+        "Dame tu ayuda, dame poder ",
+        "y toda duda podré vencer, ",
+        "y dejaré ya todo por Ti, ",
+        "te seguiré, mi buen Salvador."
+      ],
+      "v3": [
+        "Haz que sea fiel en esta labor; ",
+        "no me permitas mire hacia atrás. ",
+        "Yo dejaré todo por tu amor ",
+        "y la victoria Tú me darás."
+      ]
+    }
+  ],
+  "versions": []
+}

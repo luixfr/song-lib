@@ -1,0 +1,47 @@
+{
+  "titles": ["CANTARE A JESÚS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "8" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Cantaré a Jesús, de mi alma Rey;",
+        "al Rey de gloria ensalzaré.",
+        "Trajo al mundo paz yal mortal buena voluntad.",
+        "Alegres nuevas doquiera proclamad."
+      ],
+      "c1": [
+        "Yo soy feliz en mi Cristo,",
+        "porque El mi alma salvó.",
+        "Ángeles cantan alegres,",
+        "por cuantos El redimió.",
+        "¡Oh, cuán hermosa es la vida!",
+        "Dulce, serena, de fe.",
+        "Soy peregrino en la tierra,",
+        "mas ando con Cristo, de mi alma Rey."
+      ],
+      "v2": [
+        "En la cruz del Calvario por mí sufrió,",
+        "así la amarga copa bebió;",
+        "y al expirar, el sol de luto se cubrió,",
+        "mas, vencedor, el Señor resucitó."
+      ],
+      "v3": [
+        "Ascendió a la gloria, mi Salvador,",
+        "por mí intercede con tierno amor;",
+        "pronto volverá con sus santos, para reinar.",
+        "¡Dicha indecible será con El morar!"
+      ],
+      "v4": [
+        "¿Qué será en aquella Mansión de luz",
+        "al ver el rostro de mi Jesús;",
+        "y con Él gozar las grandezas que allí habrá,",
+        "y los placeres que el fiel disfrutará?"
+      ]
+    }
+  ],
+  "versions": []
+}

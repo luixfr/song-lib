@@ -1,0 +1,24 @@
+{
+  "titles": ["EN JESÚS MI ESPERANZA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "123" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v1", "v2", "v1"],
+      "v1": [
+        "con amor entrañable fije",
+        "y así el alma quedo consolada,",
+        "porque en el mis venturas halle."
+      ],
+      "v2": [
+        "Yo sufrí mil pesares del mundo,",
+        "yo las dichas del alma perdí;",
+        "era acíbar mi llanto profundo,",
+        "era inmenso el dolor que sentí."
+      ]
+    }
+  ],
+  "versions": []
+}

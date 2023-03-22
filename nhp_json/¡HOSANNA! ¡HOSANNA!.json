@@ -1,0 +1,18 @@
+{
+  "titles": ["¡HOSANNA! ¡HOSANNA!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "22" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v1", "v1"],
+      "v1": [
+        "todo honor, todo honor;",
+        "a Dios rindamos todo honor,",
+        "ahora y siempre, Amén."
+      ]
+    }
+  ],
+  "versions": []
+}

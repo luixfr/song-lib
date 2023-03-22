@@ -1,0 +1,66 @@
+{
+  "titles": ["DE DIFERENTES PUEBLOS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "164" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": [
+        "v1",
+        "c1",
+        "v2",
+        "c1",
+        "v3",
+        "c1",
+        "v4",
+        "c1",
+        "v5",
+        "c2"
+      ],
+      "v1": [
+        "De diferentes pueblos hoy hemos venido,",
+        "y revestidos de un gran amor,",
+        "a nuestra grande Conferencia en este Templo,",
+        "donde un aprisco ya hay del Señor."
+      ],
+      "c1": [
+        "¡Gran Conferencia! Cristo concede",
+        "al Movimiento Pentecostés.",
+        "Llenos de Fuego, llenos de aliento,",
+        "terminaremos en esta vez."
+      ],
+      "v2": [
+        "Esta preciosa y muy grande Conferencia,",
+        "con diligencia, prestos llevad",
+        "hasta las Plantas bendecidas del Maestro,",
+        "y Él con clemencia la aprobará."
+      ],
+      "v3": [
+        "Hoy esta Iglesia, que con Cristo va triunfando,",
+        "viene implorando la Dirección",
+        "de nuestro Guía, que es el Espíritu Santo:",
+        "¡Danos ayuda e iluminación!"
+      ],
+      "v4": [
+        "Cristo resuelve para siempre los problemas,",
+        "quita las penas y la aflicción.",
+        "No retrocedas, pues que tienes tu custodia",
+        "en Jesucristo, nuestro Señor."
+      ],
+      "v5": [
+        "Nunca desmayes, pueblo grande y predilecto,",
+        "sigue perfecto en tu Comisión;",
+        "que todo esfuerzo denodado y diligente,",
+        "tiene su pago: ¡gran galardón!"
+      ],
+      "c2": [
+        "¡Bendito sea! ¡Sí! ¡Sea bendito!",
+        "El que nos une con gran amor.",
+        "¡Démosle honra! ¡Démosle gloria!,",
+        "Cristo bendijo nuestra reunión."
+      ]
+    }
+  ],
+  "versions": []
+}

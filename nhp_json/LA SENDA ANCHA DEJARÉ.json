@@ -1,0 +1,36 @@
+{
+  "titles": ["LA SENDA ANCHA DEJARÉ"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "152" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "La senda ancha dejaré,",
+        "yo quiero por la angosta andar ,",
+        "y muchos no sabrán por qué,",
+        "mas voy a mi Celeste hogar."
+      ],
+      "c1": [
+        "/:No puede el mundo ser mi hogar:/",
+        "En gloria tengo mi Mansión;",
+        "no puede el mundo ser mi hogar."
+      ],
+      "v2": [
+        "Algunos quieren verme ir,",
+        "por el sendero de maldad ;",
+        "oír no puedo su llamar,",
+        "pues voy a mi Celeste hogar."
+      ],
+      "v3": [
+        "Oh, ven conmigo, pecador,",
+        "y sigue en pos del salvador!",
+        "¿Por que no quieres tu buscar",
+        "la hermosa Tierra más allá?"
+      ]
+    }
+  ],
+  "versions": []
+}

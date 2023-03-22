@@ -1,0 +1,43 @@
+{
+  "titles": ["SOMOS SOLDADOS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "356" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Somos soldados de Cristo el Señor,",
+        "proseguimos al blanco; ",
+        "pero nacimos en este País, ",
+        "y aquí tenemos Patria."
+      ],
+      "c1": [
+        "Nuestro lema es: Lealtad; ",
+        "amamos libertad, ",
+        "que el gran Rey no legó ",
+        "en mil héroes que Él dio."
+      ],
+      "v2": [
+        "También tenemos Patria más allá,",
+        "en donde el Rey es Cristo; ",
+        "pero, entre tanto que estamos aquí,",
+        "¡México es Patria nuestra!"
+      ],
+      "v3": [
+        "Somos felices en doble porción, ",
+        "tenemos doble Patria, ",
+        "y hoy proclamamos la gran libertad: ",
+        "¡En verdad somos libres!"
+      ],
+      "v4": [
+        "Son nuestras armas preciosas en Dios",
+        "y muy excepcionales, ",
+        "porque en lugar de causar mortandad,",
+        "dan vida a los mortales."
+      ]
+    }
+  ],
+  "versions": []
+}

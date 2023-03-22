@@ -1,0 +1,43 @@
+{
+  "titles": ["EN EL MONTE CALVARIO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "462" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "En el monte Calvario estaba una Cruz,",
+        "emblema de afrenta y dolor.",
+        "¡Oh, yo amo a Jesús, quien murió en la Cruz",
+        "por salvar al más vil pecador!"
+      ],
+      "c1": [
+        "¡Oh! Yo siempre amaré a Jesús,",
+        "en sus triunfos mi gloria será.",
+        "Y algún día, en vez de una cruz,",
+        "mi corona Jesús me dará."
+      ],
+      "v2": [
+        "Y aunque el mundo desprecie la Cruz de Jesús,",
+        "para mí tiene suma atracción.",
+        "Pues en ella llevó el Cordero de Dios,",
+        "de mi alma la condenación."
+      ],
+      "v3": [
+        "En la cruz de Jesús, do su Sangre vertió,",
+        "hermosura contemplo sin par.",
+        "Pues en ella triunfante a la muerte venció,",
+        "y mi ser pudo santificar."
+      ],
+      "v4": [
+        "Yo seré siempre fiel en seguir a Jesús,",
+        "sus desprecios con Él llevaré.",
+        "Y algún día feliz, con los santos en luz,",
+        "para siempre su gloria veré."
+      ]
+    }
+  ],
+  "versions": []
+}

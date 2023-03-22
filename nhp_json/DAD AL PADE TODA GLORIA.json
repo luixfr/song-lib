@@ -1,0 +1,42 @@
+{
+  "titles": ["DAD AL PADE TODA GLORIA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "13" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c2"],
+      "v1": [
+        "Dad al padre toda gloria,",
+        "dal al hijo todo honor,",
+        "y al Espíritu Divino, alabanzas de loor."
+      ],
+      "c1": [
+        "Adoradle, adoradle,",
+        "adorad al Salvador;",
+        "tributadle toda gloria,",
+        "pueblo suyo, por su grande amor."
+      ],
+      "v2": [
+        "Adoradle, ¡oh, iglesia!",
+        "por Jesús, tu Redentor;",
+        "rescatada por su Gracia,",
+        "libre por su grande Amor."
+      ],
+      "v3": [
+        "Entonadle un canto nuevo,",
+        "huestes libres del Señor;",
+        "tierra, cielos, mar y luna,",
+        "gloria dan al Trino Dios."
+      ],
+      "c2": [
+        "Yo te adoro, yo te aodro",
+        "yo te adoro, buen Jesús;",
+        "yo te adoro reverente,",
+        "¡oh, Cordero Santo de mi Dios!"
+      ]
+    }
+  ],
+  "versions": []
+}

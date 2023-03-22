@@ -1,0 +1,52 @@
+{
+  "titles": ["¡OH, BIBLIA PRECIOSA!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "93" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "¡Oh, Biblia preciosa!",
+        "Excelsa Revelación;",
+        "me enseñas gloriosa,",
+        "el camino de salvación.",
+        "Tus bellas Palabras",
+        "son bálsamo al corazón;",
+        "tus sabios consejos",
+        "me orientan para ir a Sión."
+      ],
+      "c1": [
+        "Faro de Luz, bello fanal,",
+        "esparce doquier tu fulgor.",
+        "Oasis de vida eternal,",
+        "hazme oír la Voz del Señor.",
+        "¡Biblia preciosa!",
+        "Alumbra mi vida,",
+        "sí, por la senda de amor."
+      ],
+      "v2": [
+        "Antorcha Divina,",
+        "Lumbrera de la Verdad,",
+        "Bendita Doctrina,",
+        "Manantial de toda bondad.",
+        "Tus bellas Palabras,",
+        "son más dulces que la miel.",
+        "¡Oh, Biblia preciosa,",
+        "Tesoro de mi Emmanuel!"
+      ],
+      "v3": [
+        "El alma abatida",
+        "encuentra en Ti solaz;",
+        "Tú eres la Vida,",
+        "raudal de bendita paz.",
+        "¡Oh, Biblia preciosa!",
+        "Herencia eternal,",
+        "me hablas gloriosa",
+        "del buen Padre Celestial."
+      ]
+    }
+  ],
+  "versions": []
+}

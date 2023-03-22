@@ -1,0 +1,43 @@
+{
+  "titles": ["¡TAN DULCE EL NOMBRE DE JESÚS!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "38" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Tan dulce el Nombre de Jesús,",
+        "sus bellas notas al cantar,",
+        "que mi alma llena al proclamar",
+        "¡el Nombre de Jesús!"
+      ],
+      "c1": [
+        "¡Cristo, oh, qué dulce es!",
+        "¡Cristo, para siempre es!",
+        "¡Cristo, yo te aclamaré",
+        "por siempre! ¡oh, mi Cristo!"
+      ],
+      "v2": [
+        "Adoro el Nombre de Jesús;",
+        "jamás me faltará su amor;",
+        "y pone aparte mi dolor ,",
+        "¡el Nombre de Jesús!"
+      ],
+      "v3": [
+        "Tan puro el Nombre de Jesús,",
+        "que mi pesar pudo quitar",
+        "y grata paz a mi alma dar,",
+        "¡el Nombre de Jesús!"
+      ],
+      "v4": [
+        "El dulce Nombre de Jesús,",
+        "por siempre quiero alabar;",
+        "y todos deben ensalzar ,",
+        "¡el Nombre de Jesús!"
+      ]
+    }
+  ],
+  "versions": []
+}

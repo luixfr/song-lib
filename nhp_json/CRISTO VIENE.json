@@ -1,0 +1,54 @@
+{
+  "titles": ["CRISTO VIENE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "385" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": [
+        "v1",
+        "c1",
+        "v2",
+        "c1",
+        "v3",
+        "c1",
+        "v4",
+        "c1",
+        "v5",
+        "c1",
+        "v6",
+        "c1"
+      ],
+      "v1": [
+        "Cristo viene, Cristo viene, la trompeta sonará,",
+        "y en majestad y gloria todo el mundo lo verá."
+      ],
+      "c1": [
+        "Nuestro vaso sea lleno de Aceite celestial",
+        "y con Cristo entraremos en su Reino eternal."
+      ],
+      "v2": [
+        "¡Oh, hermano! ¿Estás listo para ir con el Señor?",
+        "¿Vives tú por Jesucristo? ¿Permaneces en su amor?"
+      ],
+      "v3": [
+        "El pecado no te engañe a seguir al mundo infiel,",
+        "pues su paga es la muerte en eterna perdición."
+      ],
+      "v4": [
+        "Si te llamas tú cristiano, y no tienes conversión,",
+        "Jesucristo bien lo sabe, te dará condenación."
+      ],
+      "v5": [
+        "El que espera está gozoso, bienaventurado es,",
+        "y en la gloria coronado con Jesús será feliz."
+      ],
+      "v6": [
+        "¡Guíame, oh, Jesucristo! Para que te siga fiel,",
+        "y triunfante llegue al cielo, al descanso eternal."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,43 @@
+{
+  "titles": ["¡OH, CUÁN DULCE!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "140" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "¡Oh, cuán dulce es fiar en Cristo",
+        "y entregarse todo a Él;",
+        "esperar en sus promesas,",
+        "y en sus sendas serle fiel!"
+      ],
+      "c1": [
+        "¡Jesucristo, Jesucristo!",
+        "Ya tu amor probaste en mí;",
+        "¡Jesucristo, Jesucristo!",
+        "Siempre quiero fiar en Ti."
+      ],
+      "v2": [
+        "Es muy dulce fiar en Cristo",
+        "y cumplir su voluntad,",
+        "no dudando su Palabra,",
+        "que es la Luz y la Verdad."
+      ],
+      "v3": [
+        "Siempre es grato fiar en Cristo,",
+        "cuando busca el corazón,",
+        "los tesoros celestiales,",
+        "de la paz y del perdón."
+      ],
+      "v4": [
+        "Siempre en Ti, confiar yo quiero,",
+        "mi precioso Salvador.",
+        "En la ida y en la muerte,",
+        "protección me dé tu amor."
+      ]
+    }
+  ],
+  "versions": []
+}

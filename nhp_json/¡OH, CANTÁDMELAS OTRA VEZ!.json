@@ -1,0 +1,43 @@
+{
+  "titles": ["¡OH, CANTÁDMELAS OTRA VEZ!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "94" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "v1": [
+        "¡Oh, cantádmelas otra vez!",
+        "Bellas Palabras de Vida;",
+        "hallo en Ellas mi gozo y luz,",
+        "bellas Palabras de Vida.",
+        "¡sí, de Luz y Vida!",
+        "Son sostén y Guía;",
+        "/:¡Qué bellas son, qué bellas son!",
+        "Bellas Palabras de Vida:/"
+      ],
+      "v2": [
+        "Jesucristo a todos da",
+        "bellas Palabras de Vida;",
+        "hoy escúchalas pecador ,",
+        "bellas Palabras de Vida.",
+        "Bondadoso te salva,",
+        "y al Cielo te llama.",
+        "/: ¡Qué bellas son, qué bellas son!",
+        "Bellas Palabras de Vida:/"
+      ],
+      "v3": [
+        "Grato el cántico sonará,",
+        "bellas Palabras de Vida;",
+        "tus pecados perdonará,",
+        "bellas Palabras de Vida.",
+        "¡sí, de Luz y Vida!",
+        "Son sostén y guía.",
+        "/:¡Qué bellas son, qué bellas son!",
+        "Bellas Palabras de Vida:/"
+      ]
+    }
+  ],
+  "versions": []
+}

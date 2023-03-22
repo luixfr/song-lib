@@ -1,0 +1,40 @@
+{
+  "titles": ["I VIDA EFÍMERA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "445" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1"],
+      "v1": [
+        "Mi vida efímera a su fin, ",
+        "más se desliza con paz; ",
+        "porque con Cristo se vive feliz, ",
+        "en su Regazo de amor. ",
+        "Y aunque la muerte me acecha falaz,",
+        "yo no le tengo temor; ",
+        "estando en Cristo, mi Rey y Señor,",
+        "“Aunque muera, viviré”."
+      ],
+      "c1": [
+        "Es esta vida de lucha tenaz, ",
+        "en que se sufre la cruel decepción;",
+        "propios y extraños lacerando van,",
+        "¡pero muy pronto allá en el cielo,",
+        "con Jesucristo terminarán!"
+      ],
+      "v2": [
+        "Es Jesucristo la Resurrección, ",
+        "Él a la muerte venció; ",
+        "y esta esperanza es la que abrigo yo, ",
+        "desde que Él me rescató.    ",
+        "Su dicho es fiel, su decir es veraz: ",
+        "“¡Aunque mueras, vivirás!” ",
+        "“¡Lágrimas todas Jesús limpiará,",
+        "y ya no habrá mas dolor”."
+      ]
+    }
+  ],
+  "versions": []
+}

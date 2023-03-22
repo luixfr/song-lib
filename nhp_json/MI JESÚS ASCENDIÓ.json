@@ -1,0 +1,44 @@
+{
+  "titles": ["MI JESÚS ASCENDIÓ"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "374" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Mi Jesús ascendió a morar,",
+        "a la Patria que Él fue a preparar,",
+        "y sentado a la diestra está",
+        "del Padre por la eternidad."
+      ],
+      "c1": [
+        "Cristo ascendió para reinar,",
+        "con los ángeles está:",
+        "Intercediendo por nosotros desde allí,",
+        "ha de venir aquí a levantar su grey,",
+        "porque nosotros somos de Él."
+      ],
+      "v2": [
+        "Tú eres la Fuente de amor, ",
+        "prometiste que estando Tú allí,",
+        "enviarías al Consolador,",
+        "a morar con nosotros aquí."
+      ],
+      "v3": [
+        "Tú hiciste a los cojos andar,",
+        "a los sordos hiciste oír,",
+        "y los mudos pudieron hablar,",
+        "diste vista a los ciegos aquí."
+      ],
+      "v4": [
+        "Hoy te damos las gracias a Ti,",
+        "por la grande manifestación,",
+        "pues Tú eres quien sana aquí,",
+        "y el que das a las almas perdón."
+      ]
+    }
+  ],
+  "versions": []
+}

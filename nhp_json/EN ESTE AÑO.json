@@ -1,0 +1,38 @@
+{
+  "titles": ["EN ESTE AÑO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "59" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "v1": [
+        "En este año que comienza",
+        "y que a Ti hemos consagrado,",
+        "a este grupo de tus hijos,",
+        "hasta aquí los has guardado.",
+        "Nuestro corazón rebosa",
+        "siempre de felicidad",
+        "/:al darte las gracias:/",
+        "Por tu gran bondad.",
+        "Nos guardaste fieles,",
+        "nos guardaste sanos,",
+        "por un año mas."
+      ],
+      "v2": [
+        "Gracias por este año nuevo,",
+        "muchas gracias, Cristo amado,",
+        "por las ricas bendiciones",
+        "que Tú nos has prodigado.",
+        "No hay palabras que bien expresen",
+        "el gozo que Tú nos das.",
+        "/:Siempre agradecidos:/",
+        "Por tu gran bondad.",
+        "¡Aleluya a Cristo! ¡Aleluya a Cristo",
+        "por la eternidad!"
+      ]
+    }
+  ],
+  "versions": []
+}

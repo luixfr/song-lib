@@ -1,0 +1,37 @@
+{
+  "titles": ["¿DE PESAR ESTÁS RODEADO?"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "342" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v1", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "En las penas, en el duelo, ",
+        "que tu alma sufrirá, ",
+        "en Jesús tendrás consuelo, ",
+        "Él tus penas calmará."
+      ],
+      "c1": [
+        "Sigue orando, sigue orando, ",
+        "aunque ruja la tempestad; ",
+        "el Señor está velando, ",
+        "te dará la tranquilidad."
+      ],
+      "v3": [
+        "Al Señor tu voz eleva, ",
+        "ye a Dios con gran fervor; ",
+        "Él de penas te releva, ",
+        "y mitiga tu dolor."
+      ],
+      "v4": [
+        "¿Tarda Dios en contestarte?",
+        "Sigue orando sin cesar. ",
+        "Pronta ayuda puede darte,",
+        "tu oración al contestar."
+      ]
+    }
+  ],
+  "versions": []
+}

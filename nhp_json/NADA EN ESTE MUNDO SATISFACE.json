@@ -1,0 +1,53 @@
+{
+  "titles": ["NADA EN ESTE MUNDO SATISFACE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "155" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "v1": [
+        "Nada en este mundo satisface,",
+        "como Cristo, mi buen Salvador .",
+        "Nada da a mi corazón descanso,",
+        "sino sólo su precioso amor.",
+        "y si todo el mundo fuera mío,",
+        "no tendría para mí valor;",
+        "porque el gozo mundanal no llena,",
+        "no da paz, cual Cristo mi Señor."
+      ],
+      "v2": [
+        "Si tuviera yo riquezas grandes,",
+        "mucha fama, gloria y grande honor;",
+        "mas si no tuviera la esperanza",
+        "de otra vida mucho más mejor;",
+        "si tuviera todo, menos Cristo",
+        "y su amor, que le llevó a la cruz;",
+        "¡Oh! ¿Por dónde aquí en este mundo",
+        "hallaría yo la paz y luz?"
+      ],
+      "v3": [
+        "¡Oh, que falso es todo en este mundo!",
+        "Sin Jesús no hay nada de valor .",
+        "Sin Jesús no hay gozo y vida eterna,",
+        "mas eterna noche y gran dolor .",
+        "Si pudiera yo vivir sin Cristo,",
+        "¡Qué terror morir en la maldad!",
+        "¡Sin Jesús, en sombra de la muerte,",
+        "sin Jesús por larga eternidad!"
+      ],
+      "v4": [
+        "¡Oh, qué dicha y gozo me da Cristo!",
+        "Él me sana ya de mi dolor,",
+        "todo mi pecado me perdona,",
+        "me corona de su gran favor .",
+        "Si yo tengo a Cristo, sólo a Cristo,",
+        "y en todo el mund9 nada más:",
+        "todos mis deseos Ellos llena,",
+        "y en la gloria yo veré su Faz."
+      ]
+    }
+  ],
+  "versions": []
+}

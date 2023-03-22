@@ -1,0 +1,43 @@
+{
+  "titles": ["JUBILOSAS NUESTRAS VOCES"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "102" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Jubilosas nuestras voces, ",
+        "elevemos con fervor,",
+        "para dar la bienvenida ",
+        "a los Siervos del Señor."
+      ],
+      "c1": [
+        "¡Bienvenidos! Bienvenidos! ",
+        "Adalides de Jehová:",
+        "Parabienes no fingidos, la ",
+        "congregación os da."
+      ],
+      "v2": [
+        "Bienvenidos los campeones",
+        "de la Fe y la Verdad,",
+        "a quien nuestros corazones",
+        "hoy les brindan su amistad."
+      ],
+      "v3": [
+        "Bienvenidos los soldados de las ",
+        "huestes de Jesús,",
+        "los que luchan denodados por el ",
+        "triunfo de la Luz."
+      ],
+      "v4": [
+        "Uno solo es nuestro anhelo,",
+        "trabajemos con tesón",
+        "por hacer que el Rey del cielo",
+        "reine en cada corazón."
+      ]
+    }
+  ],
+  "versions": []
+}

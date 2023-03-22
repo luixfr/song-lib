@@ -1,0 +1,43 @@
+{
+  "titles": ["LA ALEGRE PRIMAVERA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "230" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "La alegre primavera los campos ya vistió,",
+        "su alfombra en la pradera de flores matizó.",
+        "El mundo es un gran campo, cada alma es una",
+        "flor, debemos por lo tanto segarlas para Dios."
+      ],
+      "c1": [
+        "Como la primavera así es la Juventud,",
+        "debemos de ofrecerla rendírsela a Jesús;",
+        "y Él nos dará su Reino si vamos con amor,",
+        "llevando su Evangelio a todo pecador."
+      ],
+      "v2": [
+        "Las aguas cristalinas que riegan la Creación,",
+        "saltando cantarinas, nos dan una lección,",
+        "llevando Agua Viva a cada corazón,",
+        "que limpia, que da vida, que salva y da perdón."
+      ],
+      "v3": [
+        "Las aves también trinan, elevan su canción;",
+        "los astros allá arriba se, encienden para Dios.",
+        "Las almas redimidas que tienen salvación,",
+        "un día estarán unidas cantando redención."
+      ],
+      "v4": [
+        "Seguemos muchas flores, que el tiempo se llegó,",
+        "y sean los corazones la ofrenda para Dios;",
+        "que al fin de la carrera de nuestra juventud,",
+        "la eterna primavera nos brindará Jesús."
+      ]
+    }
+  ],
+  "versions": []
+}

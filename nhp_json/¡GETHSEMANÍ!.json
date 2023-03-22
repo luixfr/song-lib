@@ -1,0 +1,43 @@
+{
+  "titles": ["¡GETHSEMANÍ!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "457" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Orando al padre este Jesús,",
+        "Sufriendo esta en Getsemaní",
+        "Y en su rostro refulgente",
+        "sudor de sangre hallareis."
+      ],
+      "c1": [
+        "¡Getsemaní!, hondo recuerdo",
+        "¡Getsemaní!, lugar hermoso",
+        "Allí contemplo, arrodillado",
+        "Al hijo eterno de mi dios."
+      ],
+      "v2": [
+        "El alma de mi buen Jesús,",
+        "Hasta la muerte, triste esta",
+        "Bebiendo el cáliz de amargura.",
+        "para salvar al pecador."
+      ],
+      "v3": [
+        "En el pretorio tiene paz,",
+        "Aun azotado con furor",
+        "Y de espinas la corona",
+        "Ciñe en la frente mi Jesús."
+      ],
+      "v4": [
+        "Ya le clavaron en la cruz,",
+        "Vedle sangrando, pecador",
+        "Por tus maldades ha sufrido",
+        "Cruel ignominia y gran dolor."
+      ]
+    }
+  ],
+  "versions": []
+}

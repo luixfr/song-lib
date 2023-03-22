@@ -1,0 +1,43 @@
+{
+  "titles": ["AL CIELO VUELEN"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "5" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Al cielo vuelen los ecos santos,",
+        "que arranco alegre de mi laúd;",
+        "al cielo vuelen mis dulces cantos,",
+        "mis dulces cantos de gratitud."
+      ],
+      "c1": [
+        "¡Alza tu canto, oh, lengua mía!",
+        "¡Alza tu canto, mi corazón!",
+        "Llénese el alma de alegría,",
+        "con alegría de devoción."
+      ],
+      "v2": [
+        "Ya siento el fuego de los amores,",
+        "de los amores del grato Edén;",
+        "ya no me acosan aquí dolores,",
+        "porque contemplo á Jerusalem."
+      ],
+      "v3": [
+        "Padre, en tu regia, santa morada,",
+        "donde la dicha no tiene fin:",
+        "allí mi Patria miro esmaltada,",
+        "de bellas flores de tu jardín."
+      ],
+      "v4": [
+        "¡Oh! Padre, impárteme tu consuelo",
+        "nada en la tierra yo espero ya,",
+        "y haz que pueda entrar al cielo,",
+        "donde tan sólo mi dicha está."
+      ]
+    }
+  ],
+  "versions": []
+}

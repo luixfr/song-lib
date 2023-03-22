@@ -1,0 +1,43 @@
+{
+  "titles": ["CREO EN LA BIBLIA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "84" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Creo en la Biblia, El libro redentor,",
+        "pues de Jesucristo, muestra el dulce amor.",
+        "Todos mis pecados ya borrados son.",
+        "paz y gozo tengo en mi corazón."
+      ],
+      "c1": [
+        "Creo en la Biblia, Libro de mi Dios,",
+        "música del cielo, para mi es su Voz.",
+        "Muéstrame el camino y me trae dulce paz.",
+        "Hallo en la Biblia todo mi solaz."
+      ],
+      "v2": [
+        "Creo en la Biblia, enséñame a cantar,",
+        "cantos de victoria y de su amor sin par,",
+        "Suaves melodías tengo en mi alma hoy,",
+        "porque redimido por la sangre estoy."
+      ],
+      "v3": [
+        "En la Santa Biblia encuentro santidad,",
+        "dadivas de Cristo, y su voluntad.",
+        "todos los que buscan plena salvación,",
+        "hallaran en Cristo esta bendición."
+      ],
+      "v4": [
+        "Hoy la Biblia oigamos, mostrando a los demás,",
+        "el amor de Cristo y su inmensa paz;",
+        "pues la vida nuestra, libre de maldad, ",
+        "honrará el Divino Libro de Verdad."
+      ]
+    }
+  ],
+  "versions": []
+}

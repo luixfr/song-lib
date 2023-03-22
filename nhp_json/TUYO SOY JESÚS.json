@@ -1,0 +1,43 @@
+{
+  "titles": ["TUYO SOY JESÚS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "112" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Tuyo soy, Jesús, ya escuche la Voz",
+        "de tu amor hablándome aquí;",
+        "mas anhelo en ala de fe subir,",
+        "y mas cerca estar de Ti."
+      ],
+      "c1": [
+        "Aun mas cerca, cerca de tu Cruz,",
+        "llevame ¡Oh Salvador!",
+        "aun mas cerca, cerca de tu Cruz,",
+        "llevame, oh, buen pastor."
+      ],
+      "v2": [
+        "A seguirte a Ti, me consagro hoy,",
+        "constreñido por tu amor;",
+        "y mi espiritu, alma y cuerpo doy,",
+        "por servirte, mi Señor."
+      ],
+      "v3": [
+        "¡Oh, cuan pura y santa delicia es",
+        "de tu comunión gozar:",
+        "y Contigo hablar y tu dulce Voz",
+        "cada día escuchar!"
+      ],
+      "v4": [
+        "De tu grande amor, no comprenderé",
+        "cual es la profundidad",
+        "hasta que Contigo, Jesús, este",
+        "en gloriosa eternidad."
+      ]
+    }
+  ],
+  "versions": []
+}

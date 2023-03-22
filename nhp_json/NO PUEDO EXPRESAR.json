@@ -1,0 +1,41 @@
+{
+  "titles": ["NO PUEDO EXPRESAR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "215" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "v1": [
+        "No puedo expresar la dulce emoción",
+        "que vino a llenar a mi corazón;",
+        "creí solo estar y fui en oración,",
+        "y sentí que estaba ¡Muy cerca de Dios!",
+        "Muy cerca de Dios, muy cerca de Dios."
+      ],
+      "v2": [
+        "Él vino a mi ser, lo puedo sentir,",
+        "muy cerca de Él me sentí feliz.",
+        "Lloré de placer y dije, Señor:",
+        "¡Oh, cerca, más cerca quiero estar de Ti!",
+        "Quiero estar de Ti, quiero estar de Ti."
+      ],
+      "v3": [
+        "Y pude escuchar con himnos también,",
+        "que Él me guardará si le sirvo fiel.",
+        "Lo glorifiqué, ¡Oh, qué bendición!",
+        "Es estar muy cerca, i muy cerca de Dios!",
+        "Muy cerca de Dios, muy cerca de Dios."
+      ],
+      "v4": [
+        "Si quieres tener tan gran bendición,",
+        "ríndete a sus pies, sí, de corazón.",
+        "Sentirás arder con Fuego de amor",
+        "y estarás muy cerca, ¡muy cerca de Dios!",
+        "Muy cerca de Dios, muy cerca de Dios."
+      ]
+    }
+  ],
+  "versions": []
+}

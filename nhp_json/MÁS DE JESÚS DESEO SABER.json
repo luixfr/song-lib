@@ -1,0 +1,43 @@
+{
+  "titles": ["MÁS DE JESÚS DESEO SABER"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "154" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Más de Jesús deseo saber,",
+        "más de su gracia y poder,",
+        "más de su salvación gozar,",
+        "más de su dulce amor gustar."
+      ],
+      "c1": [
+        "Más quiero amarle,",
+        "más quiero honrarle,",
+        "más de su salvación gozar ,",
+        "más de su dulce amor gustar ."
+      ],
+      "v2": [
+        "Más quiero a Jesús seguir,",
+        "más de su santa ley cumplir,",
+        "más de su voluntad saber,",
+        "más de su Espíritu tener."
+      ],
+      "v3": [
+        "Más de Jesús, más oración,",
+        "más cerca estar en comunión,",
+        "más su Palabra meditar,",
+        "más sus promesas alcanzar."
+      ],
+      "v4": [
+        "Más de Jesús allá veré,",
+        "más semejante a Él seré,",
+        "más de su gloria he de gozar,",
+        "más de su gran nombre alabar."
+      ]
+    }
+  ],
+  "versions": []
+}

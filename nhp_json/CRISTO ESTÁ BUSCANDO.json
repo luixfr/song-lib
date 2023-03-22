@@ -1,0 +1,42 @@
+{
+  "titles": ["CRISTO ESTÁ BUSCANDO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "311" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Cristo está buscando Obreros hoy",
+        "que quieran ir con El. ",
+        "¿Quien dirá: “Señor, contigo voy,",
+        "yo quiero serte fiel?”"
+      ],
+      "c1": [
+        "¡Oh, Señor, es mucha la labor ",
+        "y Obreros faltan ya! ",
+        "Danos luz, ardiente fe y valor, ",
+        "y Obreros siempre habrá!"
+      ],
+      "v2": [
+        "Cristo quiere Mensajeros hoy, ",
+        "que anuncien su Verdad. ",
+        "¿Quién dirá: “Señor, yo listo estoy,",
+        "haré tu Voluntad?”"
+      ],
+      "v3": [
+        "Hay lugar si quieres trabajar, ",
+        "de Cristo en la labor; ",
+        "puedes de su gloria al mundo hablar, de su bondad y amor."
+      ],
+      "v4": [
+        "¿Vives ya salvado por Jesús? ",
+        "¿Su amor conoces ya? ",
+        "¡Habla, pues, anuncia que en la Luz",
+        "de Cristo vives ya!"
+      ]
+    }
+  ],
+  "versions": []
+}

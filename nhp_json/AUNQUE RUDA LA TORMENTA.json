@@ -1,0 +1,44 @@
+{
+  "titles": ["AUNQUE RUDA LA TORMENTA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "362" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Aunque ruda la tormenta ",
+        "se desata en derredor, ",
+        "al amparo de la Roca salvo estoy,",
+        "Aunque el cielo esté sombrío, ",
+        "no me invadirá el temor, ",
+        "que al amparo de la Roca salvo estoy."
+      ],
+      "c1": [
+        "Al amparo de la Roca salvo estoy,",
+        "al amparo de la Roca salvo estoy.",
+        "Si a mi lado está el Señor, ",
+        "no tendré ningún temor. ",
+        "Al amparo de la Roca salvo estoy."
+      ],
+      "v2": [
+        "Cuando ruge el mar furioso ",
+        "y agitado está el turbión, ",
+        "al amparo de la Roca salvo estoy.",
+        "En el puerto de refugio ",
+        "y velando en oración. ",
+        "Al amparo de la Roca salvo estoy."
+      ],
+      "v3": [
+        "Con ternura Dios me cuida,",
+        "del peligro y del dolor; ",
+        "al amparo de la Roca salvo estoy.",
+        "Él mis penas dulcifica, ",
+        "soy objeto de su amor. ",
+        "Al amparo de la Roca salvo estoy."
+      ]
+    }
+  ],
+  "versions": []
+}

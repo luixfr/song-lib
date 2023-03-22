@@ -1,0 +1,43 @@
+{
+  "titles": ["EN UNA CRUZ"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "44" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "En una cruz de cruel dolor",
+        "pendiente a Cristo contemple",
+        "perdido entonces me mire",
+        "¡Divino amor!, ¡Divino amor!"
+      ],
+      "c1": [
+        "¡Divino amor!, ¡Divino amor!",
+        "tu gran poder me conquisto",
+        "será de ti mi corazón",
+        "¡Divino amor!, ¡Divino amor!"
+      ],
+      "v2": [
+        "Tu me miraste buen Señor",
+        "ardiendo en santa compasión",
+        "tu acento fue de salvación",
+        "¡Divino amor!, ¡Divino amor!"
+      ],
+      "v3": [
+        "Prodigo anduve en mal y error",
+        "del dulce hogar errante fui",
+        "tu eterno amor, fue en pos de mi",
+        "¡Divino amor!, ¡Divino amor!"
+      ],
+      "v4": [
+        "No mas rebelde, mi Señor",
+        "ni vil esclavo habré de ser",
+        "Acógeme en tu gran poder",
+        "¡Divino amor!, ¡Divino amor!"
+      ]
+    }
+  ],
+  "versions": []
+}

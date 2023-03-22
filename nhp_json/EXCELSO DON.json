@@ -1,0 +1,43 @@
+{
+  "titles": ["EXCELSO DON"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "78" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Excelso Don Consolador,",
+        "domina ya en mi corazón.",
+        "Enciéndeme con santo ardor,",
+        "con tu Divina Bendición."
+      ],
+      "c1": [
+        "Excelso Don, de mi Señor;",
+        "Promesa de su gran Poder .",
+        "Invade hoy mi corazón,",
+        "enciéndeme con Fuego de Pentecostés."
+      ],
+      "v2": [
+        "Tu imagen puedes renovar,",
+        "y en lenguas te bendeciré.",
+        "Con gran fervor podré hablar",
+        "y por doquier te anunciaré."
+      ],
+      "v3": [
+        "Hoy te imploramos, ¡oh, Señor!",
+        "Que llenes todo corazón.",
+        "y los tesoros de tu amor",
+        "gocemos por tu Santa Unción."
+      ],
+      "v4": [
+        "Toda miseria Él cambió",
+        "en gran fervor y santo amor I",
+        "cuando con Fuego nos envió",
+        "el gran y fiel Consolador."
+      ]
+    }
+  ],
+  "versions": []
+}

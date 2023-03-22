@@ -1,0 +1,37 @@
+{
+  "titles": ["EN GÓLGOTA JESÚS MURIÓ"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "438" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "En Gólgota Jesús murió, victoria allí ganó; ",
+        "de mis delitos y maldad, Él ya me libertó. ",
+        "Y libre del pecado, pena, culpa, juicio aquí,",
+        "me llevará a su Gloria Eterna allí."
+      ],
+      "c1": [
+        "Al cielo yo iré, a Cristo allí veré, ",
+        "Hogar de paz, do reina eterna luz; ",
+        "su luz es el Señor, allí no habrá dolor. ",
+        "¡Hermano mío, allí te quiero ver!"
+      ],
+      "v2": [
+        "En las pisadas de Jesús ya voy a eterna luz; ",
+        "mis lágrimas enjuga, Él me libra de dolor. ",
+        "En sendas escarpadas, Él me guarda por su amor.",
+        "¡Que dulce es caminar con mi Señor!"
+      ],
+      "v3": [
+        "Mi hogar está en el cielo, mi bandera es el amor; ",
+        "en arras de mi herencia ya su Espíritu me dio.",
+        "Mi provisión es la Palabra Santa del Señor;",
+        "por gracia voy a mi Celeste hogar."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,41 @@
+{
+  "titles": ["ES INDISPENSABLE TRABAJAR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "316" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Es indispensable trabajar",
+        "con tesón, con lealtad;",
+        "somos los Heraldos del Señor",
+        "que nos dio redención."
+      ],
+      "c1": [
+        "Vamos al campo, la mies es mucha,",
+        "Obreros faltan ya; ",
+        "rogad al Padre porque nos mande",
+        "Obreros de verdad. ",
+        "Se encuentra el mundo abandonado,",
+        "¡Ay! Pobre humanidad; ",
+        "es el rebaño que anda perdido",
+        "y necesita al buen Pastor."
+      ],
+      "v2": [
+        "Pregonemos todos al igual: ",
+        "¡Salvación! ¡Sanidad!",
+        "Que en la Cruz bendita de Jesús",
+        "hallará el pecador."
+      ],
+      "v3": [
+        "Es esta Doctrina de poder,",
+        "¡Celestial, eternal!, ",
+        "que será a la pobre humanidad",
+        "manantial de bondad."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,30 @@
+{
+  "titles": ["SIENTO MUCHO GOZO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "198" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Siento mucho gozo en mi corazón.",
+        "gloria a Jesucristo por su redención."
+      ],
+      "c1": ["Bendito sea por su grande amor", "pues Él me liberto."],
+      "v2": [
+        "He dejado el mundo  con su falsedad",
+        "por seguir a Cristo, pues es la verdad."
+      ],
+      "v3": [
+        "Cristo en un momento la salud me dio,",
+        "mis enfermedades todas Él llevo."
+      ],
+      "v4": [
+        "Nada ofrece el mundo sino perdición;",
+        "solamente en Cristo hay gran salvación."
+      ]
+    }
+  ],
+  "versions": []
+}

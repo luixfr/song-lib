@@ -1,0 +1,43 @@
+{
+  "titles": ["VAMOS MARCHANDO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "220" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Vamos marchando siempre adelante,",
+        "Cristo nos guía con gran amor;",
+        "Con su Potencia somos triunfantes,",
+        "venciendo siempre al tentador."
+      ],
+      "c1": [
+        "Fidelidad, esfuerzo y santidad,",
+        "es lo que pide Dios, de su Iglesia hoy.",
+        "Seamos leales sirviéndole en verdad,",
+        "que Cristo prometió eterno galardón."
+      ],
+      "v2": [
+        "Vamos marchando siempre unidos,",
+        "es el deseo del Salvador;",
+        "y así por Cristo bien sostenidos,",
+        "ya hemos tenido gran bendición."
+      ],
+      "v3": [
+        "Vamos marchando a la victoria,",
+        "pues es la meta de aquel que cree;",
+        "hasta llegar a la eterna gloria.",
+        "¡Dios nos sostenga siempre en la fe!"
+      ],
+      "v4": [
+        "Vamos marchando siempre contentos,",
+        "pues con nosotros Cristo está;",
+        "sus maravillas y sus portentos",
+        "prueban su eterna fidelidad."
+      ]
+    }
+  ],
+  "versions": []
+}

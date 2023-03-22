@@ -1,0 +1,40 @@
+{
+  "titles": ["SOBRE EL TUMULTUOSO RUIDO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "328" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Sobre el tumultuoso ruido mundanal, ",
+        "se oye el llamamiento de Cristo a trabajar. ",
+        "¡De Cristo oíd la Voz!"
+      ],
+      "c1": [
+        "La Voz de Cristo os ordena, las nuevas llevad;",
+        "con el glorioso Evangelio, el mundo alumbrad.",
+        "Entre nosotros, doquier estemos, ",
+        "será nuestro Rey. Marchemos, pues, resueltos,",
+        "con valor, sí, con valor y fe."
+      ],
+      "v2": [
+        "De lejanas tierras nos llaman sin cesar ",
+        "almas oprimidas, su yugo a destrozar. ",
+        "¡De Cristo oíd la Voz!"
+      ],
+      "v3": [
+        "Es la mies muy grande, obreros faltan ya. ",
+        "¿Quién al llamamiento de Cristo, acudirá? ",
+        "¡De Cristo oíd la Voz!"
+      ],
+      "v4": [
+        "“Id por todo el mundo”, la orden Cristo da.",
+        "Id, y el Evangelio a todos anunciad. ",
+        "¡De Cristo oíd la Voz!"
+      ]
+    }
+  ],
+  "versions": []
+}

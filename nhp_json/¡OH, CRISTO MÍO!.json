@@ -1,0 +1,36 @@
+{
+  "titles": ["¡OH, CRISTO MÍO!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "110" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "¡Oh! Cristo mío, eres Tú mi Amigo Fiel.",
+        "Seguro amparo sólo en Ti tendré.",
+        "En mis aflicciones, buen Jesús, iré a Ti",
+        "y consuelo y dicha, me darás, ¡oh, si!"
+      ],
+      "c1": [
+        "Cristo, ven más cerca,",
+        "paz perfecta en mi alma pon;",
+        "cerca, sí, más cerca de mi corazón."
+      ],
+      "v2": [
+        "Cuando en la noche vea yo estrellas mil,",
+        "tu Voz hermosa pueda mi alma oír .",
+        "Haz que yo medite en tu tierno y dulce amor",
+        "y que yo te alabe lleno de fervor."
+      ],
+      "v3": [
+        "Cuando esta vida tenga yo que abandonar,",
+        "corona hermosa Tú me ceñirás",
+        "y con dulce canto tu bondad alabaré",
+        "y en Mansión de gloria siempre moraré."
+      ]
+    }
+  ],
+  "versions": []
+}

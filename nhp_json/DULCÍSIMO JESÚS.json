@@ -1,0 +1,37 @@
+{
+  "titles": ["DULCÍSIMO JESÚS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "376" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Dulcísimo Jesús, tu sangre es vida",
+        "Y en la comunión salud;",
+        "permíteme libar con fe de vida",
+        "el bálsamo a mi corazón."
+      ],
+      "c1": [
+        "Escúchame, Señor, contesta mi clamor,",
+        "es mucha mi necesidad;",
+        "concédeme comer con temor tuyo",
+        "el pan que te simbolizo."
+      ],
+      "v2": [
+        "La muerte del Señor hasta que venga,",
+        "es el anuncio excepcional,",
+        "que corresponde a todo aquel que tenga",
+        "en si este grande memorial."
+      ],
+      "v3": [
+        "La iglesia del Señor privilegiada",
+        "en esta participación;",
+        "la Santa Cena es cual la fiel llamada",
+        "para su consagración."
+      ]
+    }
+  ],
+  "versions": []
+}

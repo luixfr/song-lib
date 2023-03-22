@@ -1,0 +1,43 @@
+{
+  "titles": ["DE TAL MANERA MI JESÚS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "43" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "De tal manera mi Jesús me amó,",
+        "que al mundo descendió.",
+        "Por mis pecados y culpas murió,",
+        "tan grande fue su amor."
+      ],
+      "c1": [
+        "Yo sé que Cristo me ama",
+        "con profundo amor.",
+        "Yo también quiero amarle",
+        "con sincero amor."
+      ],
+      "v2": [
+        "Yo despreciaba  su gracia y bondad,",
+        "viviendo en perdición;",
+        "mas con ternura y paciencia, Jesús",
+        "vino a mi corazón."
+      ],
+      "v3": [
+        "Dicha indecible y consuelo sin par,",
+        "encuentro yo en Él.",
+        "Es mi delicia su Nombre alabar",
+        "en todo serle fiel."
+      ],
+      "v4": [
+        "Ya es mi anhelo vivir por Jesús,",
+        "hacer su Voluntad;",
+        "Él me conduce por sendas de luz,",
+        "reposo a mi alma da."
+      ]
+    }
+  ],
+  "versions": []
+}

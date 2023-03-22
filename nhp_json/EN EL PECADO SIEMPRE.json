@@ -1,0 +1,37 @@
+{
+  "titles": ["EN EL PECADO SIEMPRE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "202" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "En el pecado siempre vagué yo sin Jesús,",
+        "hasta que por su gracia me amaneció la luz.",
+        "Y desde que soy salvo, no temo nada aquí,",
+        "pues hoy yo siento un cambio, Él es mi todo aquí."
+      ],
+      "c1": [
+        "Él es mi todo aquí, Él me salvó a mí.",
+        "Su paz, su amor, ha puesto en mi alma, bien lo sé",
+        "Él es mi todo aquí, me guarda por la fe.",
+        "Oh, gloria sea a su Nombre, Él es mi todo aquí."
+      ],
+      "v2": [
+        "Ya nunca más yo quiero seguir pecando aquí;",
+        "me trae consuelo y gozo mi amado Redentor.",
+        "Jesús me satisface con su divino amor,",
+        "con Sangre me ha comprado, Él es mi todo aquí."
+      ],
+      "v3": [
+        "Hoy quiero yo decirte la historia de la cruz:",
+        "Ya puedes tú ser salvo creyendo en Jesús.",
+        "¡Oh, ven! Jesús te llama: \"Venid, venid a Mí\",",
+        "Él puede hoy salvarte y ser tu todo aquí."
+      ]
+    }
+  ],
+  "versions": []
+}

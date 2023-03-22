@@ -1,0 +1,43 @@
+{
+  "titles": ["SOY FELIZ EN EL SERVICIO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "330" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Soy en el servicio de mi Rey, ",
+        "soy feliz en su servicio; ",
+        "nada iguala a todo el gozo que hallo en Él",
+        "y a la gloria de su amor."
+      ],
+      "c1": [
+        "Al servicio de mi Rey ",
+        "y a sus órdenes estoy; ",
+        "agradarle siempre anhelo,",
+        "soy feliz doquier yo voy."
+      ],
+      "v2": [
+        "Soy feliz en el servido de mi Rey, ",
+        "soy feliz en su servicio; ",
+        "no habrá sombra que obscurezca su Poder",
+        "y la paz que tengo en El."
+      ],
+      "v3": [
+        "Soy feliz en el servicio de mi Rey, ",
+        "soy feliz en su servicio; ",
+        "de su Diestra yo por siempre me asiré",
+        "al venir la tentación."
+      ],
+      "v4": [
+        "Soy feliz en el servicio de mi Rey, ",
+        "soy feliz en su servicio ",
+        "aunque tenga ruda lucha que emprender, ",
+        "Él al triunfo me guiará."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,37 @@
+{
+  "titles": ["¿QUIERES SER SALVO?"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "247" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "¿Quieres ser salvo de toda maldad?",
+        "Tan sólo hay Poder en mí Jesús.",
+        "¿Quieres vivir y gozar santidad?",
+        "Tan sólo hay Poder en Jesús."
+      ],
+      "c1": [
+        "Hay Poder, Poder, sin igual Poder,",
+        "en Jesús, quien murió.",
+        "Hay Poder, Poder, sin igual poder,",
+        "en la Sangre que Él vertió."
+      ],
+      "v2": [
+        "¿Quieres ser libre de orgullo y pasión?",
+        "Tan sólo hay Poder en mi Jesús.",
+        "¿Quieres vencer toda cruel tentación?",
+        "Tan sólo hay Poder en Jesús."
+      ],
+      "v3": [
+        "¿Quieres servir a tu Rey y Señor?",
+        "Tan sólo hay Poder en mi Jesús.",
+        "Ven, y ser salvo podrás en su amor,",
+        "tan sólo hay Poder en Jesús."
+      ]
+    }
+  ],
+  "versions": []
+}

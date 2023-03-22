@@ -1,0 +1,37 @@
+{
+  "titles": ["ESTE BENDITO GRUPO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "190" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Este bendito Grupo Doctrinal Femenil",
+        "de hermanitas en Cristo, venimos hasta aquí;",
+        "queremos cantar loor y gloria al Señor,",
+        "cantando este himno, glorificando a nuestro Dios."
+      ],
+      "c1": [
+        "Sublime y gran Señor, ¡Cuán grande es tu amor!",
+        "Por tantas enseñanzas que aprendimos de Ti,",
+        "en tu camino santo todo es felicidad,",
+        "tranquilidad, cariño, dulce gozo y tierna paz."
+      ],
+      "v2": [
+        "Muy felices estamos, sí, por esta bondad,",
+        "por tantas bendiciones que siempre Tú nos das.",
+        "Gozo y más gozo eterno, cantándote Señor,",
+        "con paz suprema, siempre alegrando el corazón."
+      ],
+      "v3": [
+        "Este precioso canto, sólo va para Ti;",
+        "desde tu excelsa gloria escúchalo ¡Oh, Jesús!",
+        "Rindiéndote tributo, Señor, que estás aquí,",
+        "te alabamos y adoramos con fervor."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,43 @@
+{
+  "titles": ["MIENTRAS VIVA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "179" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Mientras viva en este mundo,",
+        "enemigos doquiera yo tendré;",
+        "al Señor estoy pidiendo:",
+        "En la lucha, ¡auméntame la fe!"
+      ],
+      "c1": [
+        "Señor, auméntame fe, sí, auméntame la fe,",
+        "y a cualquier enemigo venceré.",
+        "Señor, auméntame la fe, sí, auméntame la fe.",
+        "¡Oh, mi Cristo, Tú lo puedes hacer!"
+      ],
+      "v2": [
+        "Este mundo no me quiere",
+        "Eso no me podrá desalentar.",
+        "El Señor lo ha vencido",
+        "Él su Gracia me da para triunfar."
+      ],
+      "v3": [
+        "Satanás, nuestro enemigo,",
+        "al Señor Jesucristo se acercó;",
+        "si se acerca a mí, pues sigo",
+        "el Camino que Cristo nos marcó."
+      ],
+      "v4": [
+        "Enemigos poderosos,",
+        "nuestra ruina procuran sin cesar;",
+        "el Señor, dice: ¡No temas!",
+        "Yo contigo por siempre voy a estar."
+      ]
+    }
+  ],
+  "versions": []
+}

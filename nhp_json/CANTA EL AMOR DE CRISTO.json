@@ -1,0 +1,37 @@
+{
+  "titles": ["CANTA EL AMOR DE CRISTO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "10" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Canta el amor de Cristo, el inefable Don,",
+        "que Dios al mundo ha dado para su salvación;",
+        "de su preciosa Sangre, que Él vertió en la cruz,",
+        "para darnos perdón, gozo, paz y luz."
+      ],
+      "c1": [
+        "Cristo murió por todos, para su salvación,",
+        "con Dios así los hombres reconciliados son;",
+        "abierto es el camino al trono celestial;",
+        "libre está la entrada para ti y mí."
+      ],
+      "v2": [
+        "Canta a los afligidos, que sufren gran dolor;",
+        "a todos los perdidos, cántales de su amor.",
+        "A todos los cautivos anuncia libertad;",
+        "a todo el mundo, hoy, su amor proclamad."
+      ],
+      "v3": [
+        "Canta en la noche obscura, Cristo contigo va;",
+        "canta temprano y tarde, El fortaleza da.",
+        "Canta a Dios alabanzas, por su infinito amor.",
+        "Canta, sí, canta siempre al Salvador."
+      ]
+    }
+  ],
+  "versions": []
+}

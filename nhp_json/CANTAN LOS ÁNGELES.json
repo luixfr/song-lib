@@ -1,0 +1,43 @@
+{
+  "titles": ["CANTAN LOS ÁNGELES"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "384" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Cantan los ángeles con dulce voz,",
+        "canten los hombres con sonora voz: ",
+        "Cristo vendrá, nuestro Rey vencedor,",
+        "Cristo vendrá otra vez."
+      ],
+      "c1": [
+        "¡Viene otra vez, viene otra vez! ",
+        "En gloria viene al mundo otra vez. ",
+        "¡Viene otra vez, viene otra vez! ",
+        "Él viene pronto a reinar!"
+      ],
+      "v2": [
+        "Ved en la tierra, los aires y el mar,",
+        "grandes señales cumpliéndose ya;",
+        "todo indicando que pronto vendrá",
+        "nuestro glorioso Señor."
+      ],
+      "v3": [
+        "Todos los muertos en Cristo, saldrán ",
+        "de sus sepulcros y alegres irán, ",
+        "para encontrar a su Rey vencedor. ",
+        "Cristo vendrá otra vez."
+      ],
+      "v4": [
+        "¡Ven en las nubes, oh, buen Salvador! ",
+        "¡Ven a la tierra, glorioso Señor! ",
+        "¡Ven, que tu Iglesia te espera, Jesús! ",
+        "Cristo vendrá otra vez."
+      ]
+    }
+  ],
+  "versions": []
+}

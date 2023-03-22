@@ -1,0 +1,42 @@
+{
+  "titles": ["AYER, ¡QUÉ TERRIBLE AYER!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "399" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1"],
+      "v1": [
+        "¡Ayer, qué terrible ayer! ",
+        "Cuán amarga hiel apuré mi vida. ",
+        "Mas hoy, ¡cuán feliz yo soy!",
+        "El Señor Jesús ya sanó la herida. ",
+        "Estoy en bendita paz ",
+        "y no anhelo más, gozando la calma; ",
+        "pues es cual panal de miel ",
+        "el oasis de amor donde liba mi alma."
+      ],
+      "c1": [
+        "¿Por qué no corresponder ",
+        "con servicio fiel ",
+        "al que lo demanda? ",
+        "Sabiendo que el Amo es Él,",
+        "y que es Emmanuel, ",
+        "y que conmigo anda."
+      ],
+      "v2": [
+        "Amor, ¡qué sublime amor! ",
+        "Lleno de candor recibió mi vida. ",
+        "Señor, mi buen Salvador, el buen Redentor",
+        "de mi alma perdida. ",
+        "En Ti, mi Señor Jesús, ",
+        "encontré la Luz que alumbró mi senda,",
+        "y vi tu bendita cruz, ",
+        "holocausto fiel. ",
+        "¡Sacrosanta Ofrenda!"
+      ]
+    }
+  ],
+  "versions": []
+}

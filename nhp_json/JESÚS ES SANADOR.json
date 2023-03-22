@@ -1,0 +1,37 @@
+{
+  "titles": ["JESÚS ES SANADOR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "372" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Jesús es Sanador y Doctor Celestial, ",
+        "y del sepulcro mil veces rescató, ",
+        "a los que, por su Sangre, su vida redimió, ",
+        "y no hay amor mejor que el de Dios."
+      ],
+      "c1": [
+        "Jesús es Medicina a todo cristiano ",
+        "que sólo deposita en Él su confianza;",
+        "Él da la salvación, también la sanidad,",
+        "pues es el mismo por la eternidad."
+      ],
+      "v2": [
+        "Si sufres en la vida, consuelo te da, ",
+        "y su cariño te colmará de bien, ",
+        "pues Él es el Camino, el Bien y la Verdad, ",
+        "y Él con su Poder sana también."
+      ],
+      "v3": [
+        "Mejor es que confiemos en Cristo Jesús,",
+        "cuando amargura embargue el corazón.",
+        "Él, es la fortaleza, es gracia y es la Luz,",
+        "y Él nos colmará de bendición."
+      ]
+    }
+  ],
+  "versions": []
+}

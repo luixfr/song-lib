@@ -1,0 +1,50 @@
+{
+  "titles": ["NO HAY AMOR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "48" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c2"],
+      "v1": [
+        "No hay amor como el del cielo,",
+        "en el cual se ve a Jesús:",
+        "Abnegado al grado extremo,",
+        "escalando cruenta cruz.",
+        "¡Sublime amor!"
+      ],
+      "v2": [
+        "Amor de Dios inigualable,",
+        "Amor del Padre Celestial;",
+        "que ha dado a su Hijo muy amado",
+        "para salvar al pecador.",
+        "¡Sublime amor!"
+      ],
+      "c1": [
+        "Los ángeles lo cantan en el Cielo,",
+        "querubes lo pregonan con fervor;",
+        "y todas esas huestes celestiales,",
+        "en coro cantan todos de ese Amor,",
+        "¡Don sin igual!"
+      ],
+      "v3": [
+        "Amor de Dios inigualable,",
+        "Amor del Padre Celestial;",
+        "que ha dado a su Hijo muy amado,",
+        "para salvar al pecador.",
+        "¡Sublime amor!"
+      ],
+      "c2": [
+        "También en nuestras almas redimidas,",
+        "el cántico que realza, es de ese amor.",
+        "Pues todo en esta tierra en sus gemidos,",
+        "consuelo en ese amor le da el Señor",
+        "¡En cruenta cruz!",
+        "¡Amor del cielo! ¡inigualable!",
+        "¡Don inefable! ¡Amor de Dios!"
+      ]
+    }
+  ],
+  "versions": []
+}

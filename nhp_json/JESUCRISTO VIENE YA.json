@@ -1,0 +1,48 @@
+{
+  "titles": ["JESUCRISTO VIENE YA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "387" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "Jesucristo viene ya ",
+        "no hay más tiempo que perder, pues su iglesia llevará ",
+        "con su excelso poder."
+      ],
+      "c1": [
+        "Frente a frente con Jesús ",
+        "todos hemos de estar; ",
+        "que Él nos halle en su luz, ",
+        "para así con Él morar."
+      ],
+      "v2": [
+        "Hoy pensemos cómo estar ",
+        "cuando venga el Salvador, ",
+        "a su Iglesia a levantar. ",
+        "¡Gloria a Cristo, mi Señor!"
+      ],
+      "v3": [
+        "Deja las maldades, sí, ",
+        "ponte a cuentas con Jesús; ",
+        "por su Sangre carmesí ",
+        "hoy te limpia mi Jesús."
+      ],
+      "v4": [
+        "Nuestro encuentro es veraz, ",
+        "nadie dude que así es; ",
+        "a mi Cristo tu verás, ",
+        "si en Él pones tu interés."
+      ],
+      "v5": [
+        "Ahora haz tu decisión ",
+        "que la hora llegará; ",
+        "no te alcance destrucción, ",
+        "busca gloria en Cristo ya."
+      ]
+    }
+  ],
+  "versions": []
+}

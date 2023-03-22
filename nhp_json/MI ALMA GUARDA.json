@@ -1,0 +1,74 @@
+{
+  "titles": ["MI ALMA GUARDA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "134" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": [
+        "v1",
+        "c1",
+        "v2",
+        "c1",
+        "v3",
+        "c1",
+        "v4",
+        "c1",
+        "v5",
+        "c1",
+        "v6",
+        "c2"
+      ],
+      "v1": [
+        "Mi alma guarda de pecar,",
+        "bajo tu Sangre, mi Jesús;",
+        "y borra toda mi maldad,",
+        "bajo de aquel raudal."
+      ],
+      "c1": [
+        "Bajo tu Sangre, mi Jesús,",
+        "bajo la Sangre de tu cruz;",
+        "siempre bajo de aquel raudal,",
+        "guárdame, buen Jesús."
+      ],
+      "v2": [
+        "¡Mi único refugio es:",
+        "Bajo tu Sangre, mi Jesús.",
+        "Mas plena redención me das,",
+        "bajo de aquel raudal."
+      ],
+      "v3": [
+        "¡Oh, lléname con tu Poder ,",
+        "bajo tu Sangre, mi Jesús.",
+        "Enséñame a obedecer ,",
+        "bajo de aquel raudal!"
+      ],
+      "v4": [
+        "Hermosa paz hay en mi ser,",
+        "bajo tu Sangre, mi Jesús.",
+        "Tus dones mucho gozo dan,",
+        "bajo de aquel raudal."
+      ],
+      "v5": [
+        "Me guías con tu Espíritu,",
+        "bajo tu Sangre, mi Jesús.",
+        "Me guardas siempre en tu virtud,",
+        "bajo de aquel raudal."
+      ],
+      "v6": [
+        "Si tus pecados, grandes son,",
+        "bajo la Sangre de Jesús,",
+        "en Cristo alcanzarás perdón,",
+        "bajo de aquel raudal."
+      ],
+      "c2": [
+        "¡Fuente preciosa de amor,",
+        "de las heridas del Señor!",
+        "Hay bastante Poder allí,",
+        "para salvarte a ti."
+      ]
+    }
+  ],
+  "versions": []
+}

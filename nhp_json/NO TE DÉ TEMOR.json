@@ -1,0 +1,49 @@
+{
+  "titles": ["NO TE DÉ TEMOR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "431" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "¡No te dé temor hablar de Cristo!",
+        "Haz que brille en ti la Luz. ",
+        "Al que te salvó confiesa siempre;",
+        "todos debes a Jesús."
+      ],
+      "c1": [
+        "No te dé temor, no te dé temor.",
+        "Nunca, nunca, nunca. ",
+        "Es tu amante Salvador, ",
+        "nunca, pues, te dé temor."
+      ],
+      "v2": [
+        "¡No te dé temor hacer por",
+        "Cristo cuanto de tu parte está! ",
+        "Obra con amor, con fe y constancia;",
+        "tus trabajos premiará."
+      ],
+      "v3": [
+        "¡No te dé temor sufrir por Cristo ",
+        "los reproches o el dolor! ",
+        "Sufre con amor tus pruebas todas, ",
+        "cual sufrió tu Salvador."
+      ],
+      "v4": [
+        "¡No te dé temor vivir por Cristo",
+        "esa vida que Él te da!",
+        "Si tan sólo en Él por siempre fiares",
+        "Él con bien te sacará."
+      ],
+      "v5": [
+        "¡No te de temor  morir por Cristo! ",
+        "Vía, Verdad y Vida es El; ",
+        "Él te llevará con su ternura, ",
+        "a su célico vergel."
+      ]
+    }
+  ],
+  "versions": []
+}

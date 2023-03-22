@@ -1,0 +1,42 @@
+{
+  "titles": ["EN CRISTO FELIZ ES MI ALMA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "196" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "En Cristo feliz es mi alma,",
+        "precioso es su Celeste Don,",
+        "su Voz me devuelve la calma,",
+        "su Faz me anticipa el perdón."
+      ],
+      "c1": [
+        "/:Yo soy feliz en Él:/",
+        "El gozo y la paz inundan mi ser,",
+        "pues yo soy feliz en Él."
+      ],
+      "v2": [
+        "Mucho antes que yo, Él buscóme;",
+        "me atrajo a su amado redil;",
+        "de amor en sus Brazos Ilevóme,",
+        "do hay dichas y encantos a mil."
+      ],
+      "v3": [
+        "Su amor Paternal me circunda,",
+        "su Gracia conforta mi ser,",
+        "su Espíritu Santo me inunda",
+        "de un noble y extraño Poder."
+      ],
+      "v4": [
+        "A Él seré un día semejante,",
+        "dejando este cuerpo mortal;",
+        "y mientras discípulo amante,",
+        "ser quiero hasta el día final."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,43 @@
+{
+  "titles": ["¡OH, GLORIA INENARRABLE!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "289" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "v1": [
+        "¡Oh gloria inenarrable! ¡Prodigio sin segundo!",
+        "¡Dios mismo viene al mundo naciendo de mujer!",
+        "Y vemos en sus brazos al seno recogido,",
+        "cual Niño desvalido, de cielo y tierra el Rey."
+      ],
+      "v2": [
+        "¡Venid, gentes y pueblos! ¡Venid con gozo santo!",
+        "No os cause mudo espanto la densa lobreguez,",
+        "pues brotan de esta noche divinas claridades,",
+        "que todas las edades verán resplandecer."
+      ],
+      "v3": [
+        "Venid, que al nacimiento del Niño dulce y tierno",
+        "se estremeció el infierno, se conturbó Luzbel;",
+        "y coros celestiales, cantando el nacimiento,",
+        "con jubiloso acento, nos llaman a Belén."
+      ],
+      "v4": [
+        "¡Oh, Célico Monarca que tan sin pompa vienes,",
+        "aunque en tus Manos tienes de todo el orbe el ser!",
+        "¡Que siempre nos inspire, tu santo nacimiento,",
+        "feliz desprendimiento, modestia y sencillez!"
+      ],
+      "v5": [
+        "Así, al humilde y pobre levanta y beatifica,",
+        "así, al orgullo indica su ciega insensatez,",
+        "así, rebaja el precio de las mundanas glorias,",
+        "sus dichas ilusorias, su efímero oropel."
+      ]
+    }
+  ],
+  "versions": []
+}

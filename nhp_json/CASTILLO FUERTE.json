@@ -1,0 +1,57 @@
+{
+  "titles": ["CASTILLO FUERTE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "116" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "v1": [
+        "Castillo fuerte es nuestro Dios,",
+        "defensa y buen escudo.",
+        "Con su poder nos librará",
+        "en este trance agudo.",
+        "Con furia y con afán,",
+        "acósanos Satán.",
+        "Por armas deja ver:",
+        "Astucia y gran poder,",
+        "cual él no hay en la tierra."
+      ],
+      "v2": [
+        "Nuestro valor es nada aquí,",
+        "con él todo es perdido;",
+        "mas por nosotros pugnará,",
+        "de Dios el Escogido.",
+        "¿Sabéis, quién es? ¡Jesús!",
+        "El que venció en la cruz,",
+        "Señor de Sabaoth,",
+        "y pues, El sólo es Dios,",
+        "El triunfa en la batalla."
+      ],
+      "v3": [
+        "Aun si están demonios mil,",
+        "prontos a devorarnos;",
+        "no temeremos, porque Dios",
+        "sabrá aún prosperarnos.",
+        "Que muestre su vigor,",
+        "Satán y su furor.",
+        "Dañarnos no podrá,",
+        "pues condenado es ya",
+        "por la Palabra Santa."
+      ],
+      "v4": [
+        "Sin destruirla, dejarán",
+        "aún mal de su grado,",
+        "esta Palabra del Señor,",
+        "Él lucha a nuestro lado.",
+        "Que lleven con furor,",
+        "los bienes, vida, honor,",
+        "los hijos, la mujer...",
+        "Todo ha de perecer...",
+        "De Dios el reino queda."
+      ]
+    }
+  ],
+  "versions": []
+}

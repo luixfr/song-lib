@@ -1,0 +1,37 @@
+{
+  "titles": ["OIGO DECIR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "449" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Oigo decir que más allá hay un lugar, ",
+        "donde el creyente para siempre puede morar;",
+        "donde ni muerte, ni pesar habrá jamás,",
+        "pero allá con el Señor es todo solaz."
+      ],
+      "c1": [
+        "Allá quiero estar, allá quiero estar,",
+        "ver a mi Salvador y con El morar.",
+        "Allá quiero estar, allá quiero estar",
+        "y alabanzas a Jesús allí entonar."
+      ],
+      "v2": [
+        "No dejaré de proclamar que mi Jesús ",
+        "por pecadores ya murió en cruenta Cruz.",
+        "Calma dará al peregrino en tempestad;",
+        "canto por duelo le dará en su gran bondad."
+      ],
+      "v3": [
+        "Si tengo pruebas cantaré feliz aquí, ",
+        "porque yo sé que voy a ver a Cristo allí,",
+        "donde por siempre con fervor yo cantaré;",
+        "canto de redención allí yo entonaré."
+      ]
+    }
+  ],
+  "versions": []
+}

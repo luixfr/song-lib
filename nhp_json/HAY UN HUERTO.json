@@ -1,0 +1,38 @@
+{
+  "titles": ["HAY UN HUERTO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "347" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Hay un huerto do Cristo me espera,",
+        "hay un sitio de consolación. ",
+        "¡Cuán radiante es la Luz de su Presencia!",
+        "En el huerto de dulce oración."
+      ],
+      "c1": [
+        "¡Oh, qué hermoso es el huerto de oración! ",
+        "Cuando a solas estoy con mi Señor, ",
+        "Y se alienta en mí la fe, ",
+        "en presencia de mi Rey ",
+        "Oh, qué hermoso es el huerto de oración!"
+      ],
+      "v2": [
+        "Hay un huerto do Cristo me acoge, ",
+        "junto a fi a gozar en comunión; ",
+        "siempre escucho su Voz tan amorosa,",
+        "en el huerto de dulce oración."
+      ],
+      "v3": [
+        "Hay un huerto do Cristo te invita, ",
+        "para darte pureza y perdón; ",
+        "ven a Él, y a sus Plantas pon tus cargas,",
+        "en el huerto de dulce oración."
+      ]
+    }
+  ],
+  "versions": []
+}

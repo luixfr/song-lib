@@ -1,0 +1,42 @@
+{
+  "titles": ["ES JESÚS EL MEJOR AMIGO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "129" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Es Jesús el mejor Amigo",
+        "cuando triste o tentado estés",
+        "colmara de bendición, tu transido corazón",
+        "¡Es Jesús el mejor amigo!"
+      ],
+      "c1": [
+        "/: ¡Es Jesús el mejor amigo :/",
+        "el tus suplicas oirá, y tu carga llevara",
+        "¡Es Jesús el mejor amigo!"
+      ],
+      "v2": [
+        "En Jesús, fiel amigo encuentro,",
+        "paz perfecta, Él a mi alma da, apoyado",
+        "en Él estoy, sin temor mi ser le doy,",
+        "¡Es Jesús el mejor amigo!"
+      ],
+      "v3": [
+        "Aunque ande en algún peligro,",
+        "o en sombra de muerte este: Ningún mal",
+        "me alcanzara, pues Jesús me amparara, ",
+        "¡Es Jesús el mejor amigo!"
+      ],
+      "v4": [
+        "Cuando estemos al fin reunidos",
+        "con los redimidos mas allá: Cantaremos",
+        "con fervor en presencia del Señor, ",
+        "¡Es Jesús el mejor amigo!"
+      ]
+    }
+  ],
+  "versions": []
+}

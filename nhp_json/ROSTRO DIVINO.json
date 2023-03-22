@@ -1,0 +1,43 @@
+{
+  "titles": ["ROSTRO DIVINO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "467" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "v1": [
+        "Rostro divino, ensangrentado,",
+        "Cuerpo llagado por nuestro bien;",
+        "calma, benigno, justos enojos;",
+        "Lloren los ojos que así te ven."
+      ],
+      "v2": [
+        "Manos preciosas tan lastimadas",
+        "Por mi clavadas en una cruz;",
+        "En este valle, sean mi guía",
+        "Y mi alegría, mi norte y luz."
+      ],
+      "v3": [
+        "Bello costado, en cuya herida",
+        "Halla su vida la humanidad;",
+        "Fuente amorosa de un Dios clemente,",
+        "Voz elocuente de caridad."
+      ],
+      "v4": [
+        "Tus pies heridos, cristo paciente,",
+        "Yo indiferente los taladre;",
+        "Y arrepentido, hoy que te adoro,",
+        "Tu gracia imploro señor, peque."
+      ],
+      "v5": [
+        "Crucificado en un madero,",
+        "Manso cordero, mueres por mi;",
+        "Por eso el alma, triste, llorosa,",
+        "Suspira ansiosa, señor, por ti."
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,37 @@
+{
+  "titles": ["¡LOOR A TI, MI DIOS!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "28" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "v1": [
+        "¡Loor a Ti, mi Dios, loor a Ti!",
+        "Lo grande de tu amor es para mí.",
+        "Me diste un Salvador, Cristo Jesús.",
+        "¡Loor a Ti, Señor, loor a Ti!"
+      ],
+      "v2": [
+        "¡Gloria a mi Salvador, Cristo Jesús!",
+        "Él es el Pan de Vida para mí.",
+        "Su vida dio por mí allí en la Cruz.",
+        "¡Loor a Ti, Señor, loor a Ti!"
+      ],
+      "v3": [
+        "Hazme vivir, Señor, cerca de Ti;",
+        "la deuda de tu amor la siento en mí.",
+        "Te entrego a Ti mi ser, mi corazón.",
+        "¡Loor a Ti, Señor, loor a Ti!"
+      ],
+      "v4": [
+        "Quiero ser limpio hoy de mi maldad;",
+        "acudo a Ti, Jesús, tal como soy.",
+        "\"Ven a mí\", dices Tú, con tierno amor.",
+        "¡Loor a Ti, Señor, loor a Ti!"
+      ]
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,73 @@
+{
+  "titles": ["NOS VEREMOS EN EL RÍO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "447" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": [
+        "v1",
+        "c1",
+        "v2",
+        "c1",
+        "v3",
+        "c1",
+        "v4",
+        "c1",
+        "v5",
+        "c1",
+        "v6",
+        "c1",
+        "v7",
+        "c1"
+      ],
+      "v1": [
+        "¿Nos veremos en el río, ",
+        "cuyas aguas argentinas ",
+        "nacen puras, cristalinas, ",
+        "bajo el Trono de nuestro Señor?"
+      ],
+      "c1": [
+        "¡Oh, sí, nos congregaremos,                                                                                  de ese río a la ribera, ",
+        "de la vida verdadera, ",
+        "que nace del Trono de Dios!"
+      ],
+      "v2": [
+        "Es las márgenes del río, ",
+        "que frecuentan serafines ",
+        "y embellecen, querubines, ",
+        "nos da dicha eterna el Señor."
+      ],
+      "v3": [
+        "El vergel que riega el río, ",
+        "de Jesús es la Morada; ",
+        "el mal, nunca tiene entrada,",
+        "porque allí sólo reina el Señor."
+      ],
+      "v4": [
+        "Antes de llegar al río, ",
+        "nuestra carga dejaremos; ",
+        "libres todos entraremos ",
+        "por la Gracia de nuestro Señor."
+      ],
+      "v5": [
+        "En la margen de aquel río                                                                                      crece el Árbol de la Vida ",
+        "y a toda alma adolorida ",
+        "dan sus hojas eterna salud."
+      ],
+      "v6": [
+        "Tiene faz risueña el río, ",
+        "pues la de Jesús refleja, ",
+        "la que de su grey aleja ",
+        "todo mal, sí, la muerte y dolor."
+      ],
+      "v7": [
+        "Nos veremos en el río, ",
+        "nuestro viaje concluyendo,                                                                                    suaves cánticos oyendo ",
+        "de los salvos que alaban a Dios."
+      ]
+    }
+  ],
+  "versions": []
+}

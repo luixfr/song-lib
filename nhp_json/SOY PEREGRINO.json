@@ -1,0 +1,45 @@
+{
+  "titles": ["SOY PEREGRINO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "452" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c2"],
+      "v1": [
+        "Soy peregrino, soy extranjero, ",
+        "/: sólo un tiempo vivo aquí: /",
+        "No me detengas, quiero seguir ",
+        "venciendo firme la tempestad. ",
+        "No tiene el mundo la paz que busco",
+        "y anhelo ya llegar ",
+        "a mi patria celestial. ",
+        "Sí, anhelo, ¡cómo anhelo ya llegar!"
+      ],
+      "c1": [
+        "Allí no hay llanto, no hay más dolor,",
+        "no hay más pecado, ni existe muerte.",
+        "Soy peregrino, soy extranjero; ",
+        "sólo un tiempo, sólo un tiempo vivo aquí."
+      ],
+      "v2": [
+        "Aquella patria feliz contempló. ",
+        "/: Siempre brilla el sol allí:/",
+        "En esta tierra triste y obscura ",
+        "el gran peligro me acecha siempre.",
+        "Pastor Divino, sólo te pido ",
+        "que me guíes siempre Tú, ",
+        "que me guíes siempre Tú, ",
+        "que me guíes, que me guíes siempre Tú."
+      ],
+      "c2": [
+        "Para estar listo a tu encuentro, ",
+        "hasta que viva contigo siempre; ",
+        "Pastor Divino, sólo te pido ",
+        "que me guíes, queme guíes siempre Tú."
+      ]
+    }
+  ],
+  "versions": []
+}

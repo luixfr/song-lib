@@ -1,0 +1,43 @@
+{
+  "titles": ["ES SOLEMNE ESTE MOMENTO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "60" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "v1": [
+        "Es solemne este momento",
+        "ya expirando el año está.",
+        "/:Raudo como el pensamiento,",
+        "lo que resta pasará:/"
+      ],
+      "v2": [
+        "Débil soplo es la existencia,",
+        "breve, efímera cual flor;",
+        "/:Y tan sólo tiene ciencia,",
+        "quien da al tiempo su valor:/"
+      ],
+      "v3": [
+        "Nombre, fama, imperio, gloria.",
+        "Nada humano queda en pie;",
+        "/: Sólo dura la victoria",
+        "Que se alcanza por la fe:/"
+      ],
+      "v4": [
+        "¡Necio el hombre que hallar quiere,",
+        "paz y bien del mundo en pos!",
+        "¡ Ay del mísero que muere,",
+        "sin hallar su paz en Dios!:/"
+      ],
+      "v5": [
+        "Por Jesús es bienvenida",
+        "la insondable eternidad.",
+        "/: Sólo allí la vida es vida.",
+        "Esperad, velad y orad:/"
+      ]
+    }
+  ],
+  "versions": []
+}

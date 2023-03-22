@@ -1,0 +1,43 @@
+{
+  "titles": ["ERES MI SALVADOR DIVINO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "126" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Eres mi Salvador Divino,",
+        "Fuente de toda bendición;",
+        "Eres el Ser bello y prístino,",
+        "digno de toda adoración."
+      ],
+      "c1": [
+        "En Ti, mi corazón se alegra,",
+        "pues debo a ti mi salvación;",
+        "Eres el todo de mi vida,",
+        "y amarte quiero mas y mas."
+      ],
+      "v2": [
+        "Eres la roca inamovible,",
+        "Roca de eterna salvación;",
+        "Cristo Jesús, tu dulce nombre,",
+        "eres también el Emmanuel."
+      ],
+      "v3": [
+        "Eres refugio al desvalido,",
+        "Faro al que extraviado va;",
+        "eres el Guía que nos conduce",
+        "a donde el Padre Celestial."
+      ],
+      "v4": [
+        "Eres de juventud mi anhelo,",
+        "Séoslo también de senectud;",
+        "hasta que al emprender el vuelo",
+        "goce tu amor en plenitud."
+      ]
+    }
+  ],
+  "versions": []
+}

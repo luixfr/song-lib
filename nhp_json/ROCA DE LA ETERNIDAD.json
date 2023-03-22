@@ -1,0 +1,34 @@
+{
+  "titles": ["ROCA DE LA ETERNIDAD"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "142" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "v1": [
+        "Roca de la eternidad, fuiste abierta para mí.",
+        "Sé mi escondedero fiel, ",
+        "sólo encuentro paz en Ti",
+        "Rico, limpio manantial, en el cual lavado fui."
+      ],
+      "v2": [
+        "Aunque fuese siempre fiel,",
+        "aunque llore sin cesar,",
+        "del pecado no podré justificación lograr;",
+        "sólo en Ti teniendo fe,",
+        "deuda tal podré pagar."
+      ],
+      "v3": [
+        "Mientras tenga que vivir, ",
+        "mi último suspiro al dar,",
+        "cuando vaya a responder ",
+        "en tu augusto tribunal,",
+        "sé mi escondedero fiel, ",
+        "Roca de la eternidad."
+      ]
+    }
+  ],
+  "versions": []
+}

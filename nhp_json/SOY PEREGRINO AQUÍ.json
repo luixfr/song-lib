@@ -1,0 +1,37 @@
+{
+  "titles": ["SOY PEREGRINO AQUÍ"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "331" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Soy peregrino aquí, mi Hogar lejano está,",
+        "en la mansión de luz, eterna paz y amor.",
+        "Embajador yo soy del reino celestial, ",
+        "en os negocios de mi Rey."
+      ],
+      "c1": [
+        "Este mensaje fiel oíd, ",
+        "Que dijo ya celeste voz: ",
+        "-Reconciliaos ya- dice el Señor y Rey. ",
+        "¡Reconciliaos hoy con Dios!"
+      ],
+      "v2": [
+        "Que del pecado vil arrepentidos ya, ",
+        "han de reinar con Él los que obedientes son;",
+        "es el mensaje fiel que debo proclamar",
+        "en los negocios de mi Rey."
+      ],
+      "v3": [
+        "Mi Hogar más bello es que el Valle de Sarón; ",
+        "Eterno gozo y paz reinan por siempre en él. ",
+        "Y allí Jesús dará eterna habitación; ",
+        "es el mensaje de mi Rey."
+      ]
+    }
+  ],
+  "versions": []
+}

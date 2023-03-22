@@ -1,0 +1,44 @@
+{
+  "titles": ["CRISTO BUSCA LIMPIOS CORAZONES"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "310" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Cristo busca limpios corazones, ",
+        "que le sirvan siempre con fidelidad; ",
+        "que a los pecadores insten, fervorosos,",
+        "que se vuelvan del pecado a la Verdad."
+      ],
+      "c1": [
+        "Id a trabajar allá en los campos del Señor,",
+        "que para la siega se presentan blancos hoy.",
+        "Oh, fieles siervos de Dios, ",
+        "a quien debéis todo honor, ",
+        "oid su Voz, salid a trabajar."
+      ],
+      "v2": [
+        "Labios puros Cristo necesita, ",
+        "que con gozo anuncien plena salvación;",
+        "lenguas consagradas sólo a su servicio,",
+        "que proclamen al cautivo redención."
+      ],
+      "v3": [
+        "Cristo busca manos bien dispuestas ",
+        "para trabajar con buena voluntad; ",
+        "siembras ya maduras piden nuestra ayuda,",
+        "las doradas mieses pronto cosechad."
+      ],
+      "v4": [
+        "Vidas santas Cristo necesita ",
+        "que a los pecadores muestren su poder;",
+        "libres de ansiedades, en Jesús confiadas,",
+        "y que pueda de ellas siempre disponer."
+      ]
+    }
+  ],
+  "versions": []
+}

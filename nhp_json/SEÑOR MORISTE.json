@@ -1,0 +1,48 @@
+{
+  "titles": ["SEÑOR MORISTE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "468" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Señor, moriste allí en la cruz ",
+        "Por mis pecados y maldad.",
+        "Sufriste cruel dolor, Señor.",
+        "Tu cuerpo traspasado fue.",
+        "Y al recordar tu cruel dolor,",
+        "Mi alma sufre con pesar.",
+        "Señor,¿con que podré pagar?",
+        "Tu vida la diste por mí."
+      ],
+      "c1": [
+        "Ahora dulce salvación gozo aquí.",
+        "Compraste mi alma, señor.",
+        "¡Oh, Jesús! Grande fue tu amor."
+      ],
+      "v2": [
+        "Y con inmensa gratitud,",
+        "A Ti yo doy todo mi ser,",
+        "Pues lo compraste allí en la cruz.",
+        "¡Glorioso precio tu amor!",
+        "Señor,¿ que ofrenda te daré,",
+        "Si todo diste Tu por mí?",
+        "Acepta hoy mi corazón.",
+        "Te adoro, te alabo Señor."
+      ],
+      "v3": [
+        "Y hoy en santa comunión,",
+        "Recuerdo tu grande dolor",
+        "Y mi alma viene a renovar  ",
+        "Sus votos de sincero amor.",
+        "Ayúdame, Señor Jesús,",
+        "Y viviré en santidad,",
+        "Pues todo te lo debo a ti;",
+        "Tu eres amigo en verdad."
+      ]
+    }
+  ],
+  "versions": []
+}

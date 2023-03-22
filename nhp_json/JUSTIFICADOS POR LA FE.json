@@ -1,0 +1,43 @@
+{
+  "titles": ["JUSTIFICADOS POR LA FE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "178" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Justificados por la fe,",
+        "tenemos paz con nuestro Dios,",
+        "por medio del Señor Jesús,",
+        "nuestro bendito Salvador."
+      ],
+      "c1": [
+        "Si andamos en la Luz de Dios,",
+        "tendremos santa comunión;",
+        "limpio en la Sangre de Jesús,",
+        "será, si, nuestro corazón."
+      ],
+      "v2": [
+        "Santificados por la fe,",
+        "perfeccionados en amor,",
+        "con Fuego de Pentecostés,",
+        "que echa fuera el temor."
+      ],
+      "v3": [
+        "Guardados siempre por la fe,",
+        "triunfamos en tribulación;",
+        "aun cuando la pequeña grey,",
+        "padezca más persecución."
+      ],
+      "v4": [
+        "Por fe los justos vivirán,",
+        "por fe andando en la Luz.",
+        "Por fe, al mundo vencerán,",
+        "por fe en la Sangre de Jesús."
+      ]
+    }
+  ],
+  "versions": []
+}

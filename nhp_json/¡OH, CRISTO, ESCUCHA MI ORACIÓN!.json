@@ -1,0 +1,49 @@
+{
+  "titles": ["¡OH, CRISTO, ESCUCHA MI ORACIÓN!"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "349" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "¡Oh, Cristo, escucha mi oración!",
+        "Atiende a mi clamor. Sólo en Ti refugio tendré.",
+        "Al desmayar mi corazón, ",
+        "a Ti vendré Señor; sólo en Ti refugio tendré."
+      ],
+      "c1": [
+        "¡Oh, llévame a la roca más alta que yo! ",
+        "¡Llévame, Señor! Yo te seguiré. ",
+        "¡Oh, llévame a la roca más alta que yo!",
+        "Sólo en Ti refugio tendré."
+      ],
+      "v2": [
+        "Si lejos en la tierra voy, ",
+        "temiendo a la ansiedad, sólo en Ti refugio tendré.",
+        "Pensar podré que siempre estoy ",
+        "seguro en tu bondad; sólo en Ti refugio tendré."
+      ],
+      "v3": [
+        "Mi fuerte torre encuentro en Ti, ",
+        "que protección me da; sólo en Ti refugio tendré. ",
+        "No puede nada contra mí ",
+        "el que acechando está sólo en Ti refugio tendré."
+      ],
+      "v4": [
+        "En tu presencia habitaré ",
+        "sin duelo ni temor; sólo en Ti refugio tendré. ",
+        "En mí yo siempre sentiré ",
+        "el ala de tu amor; sólo en Ti refugio tendré."
+      ],
+      "v5": [
+        "Así, Señor, alabaré ",
+        "tu Nombre sin cesar. Sólo en Ti refugio tendré.",
+        "Y a tus altares siempre iré ",
+        "mis votos a pagar; sólo en Ti refugio tendré."
+      ]
+    }
+  ],
+  "versions": []
+}

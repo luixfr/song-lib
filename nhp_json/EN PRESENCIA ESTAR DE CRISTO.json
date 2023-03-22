@@ -1,0 +1,37 @@
+{
+  "titles": ["EN PRESENCIA ESTAR DE CRISTO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "440" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v1", "c1", "v4", "c1"],
+      "v1": [
+        "¡Cuánto gozo habrá con Cristo, ",
+        "cuando no haya más dolor, ",
+        "cuando cesen los peligros ",
+        "y ya estemos en su amor!"
+      ],
+      "c1": [
+        "¡Cara a cara quiero verle, ",
+        "más allá del cielo azul! ",
+        "¡Cara a cara en plena gloria, ",
+        "he de ver a mi Jesús!"
+      ],
+      "v2": [
+        "Sólo tras oscuro velo,",
+        "hoy lo puedo aquí mirar, ",
+        "mas ya pronto viene el día, ",
+        "que su gloria ha de mostrar."
+      ],
+      "v4": [
+        "Cara a cara. ¡Cuán glorioso ",
+        "ha de ser así vivir! ",
+        "¡Ver el Rostro de quien quiso ",
+        "nuestras almas redimir!"
+      ]
+    }
+  ],
+  "versions": []
+}

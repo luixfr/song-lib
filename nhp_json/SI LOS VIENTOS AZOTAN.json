@@ -1,0 +1,35 @@
+{
+  "titles": ["SI LOS VIENTOS AZOTAN"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "144" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Si los vientos azotan mi barquilla en el mar,",
+        "todo vuelve a la Paz, cuando veo su Faz."
+      ],
+      "c1": [
+        "Cuando veo su Faz, su sonriente Faz,",
+        "toda prueba se va, cuando veo su Faz.",
+        "Él me imparte su amor y me da dulce paz,",
+        "cuando veo de Él su sonriente Faz."
+      ],
+      "v2": [
+        "Cuando en prueba o dolor yo me siento caer,",
+        "El me infunde valor, cuando veo su Faz."
+      ],
+      "v3": [
+        "Aunque el mundo no tenga lugar para mí,",
+        "muy feliz soy aquí, cuando veo su Faz."
+      ],
+      "v4": [
+        "Algún día llegaré a mi hogar Celestial,",
+        "y por siempre veré su sonriente Faz."
+      ]
+    }
+  ],
+  "versions": []
+}

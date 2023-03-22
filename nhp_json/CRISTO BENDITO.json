@@ -1,0 +1,25 @@
+{
+  "titles": ["CRISTO BENDITO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "296" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "v1": [
+        "Cristo bendito, yo, pobre niño,",
+        "por tu cariño me llego a Ti;",
+        "para rogarte humildemente,",
+        "tengas, clemente, piedad de mí ."
+      ],
+      "v2": [
+        "Quiero a tus Plantas, con alegría,",
+        "sentarme un día donde Tú estás.",
+        "¡Oh, Cristo mío! Quiero buscarte,",
+        "anhelo amarte cada vez más."
+      ]
+    }
+  ],
+  "versions": []
+}

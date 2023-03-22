@@ -1,0 +1,31 @@
+{
+  "titles": ["CERCA DE TI SEÑOR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "104" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "v1": [
+        "Cerca de Ti, Señor, quiero morar;",
+        "tu grande y tierno Amor, quiero gozar .",
+        "llena mi pobre ser, limpia mi corazón,",
+        "hazme tu Rostro ver en comunión."
+      ],
+      "v2": [
+        "Pasos inciertos doy, el sol se va;",
+        "mas si Contigo estoy, no temo ya.",
+        "Himnos de gratitud fervientes cantaré,",
+        "y fiel a Ti, Jesús, siempre seré."
+      ],
+      "v3": [
+        "Día feliz veré, creyendo en Ti,",
+        "en que yo habitaré, cerca de Ti.",
+        "Mi voz alabará tu dulce Nombre allí,",
+        "y mi alma gozará cerca de Ti."
+      ]
+    }
+  ],
+  "versions": []
+}

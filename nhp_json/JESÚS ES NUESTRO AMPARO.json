@@ -1,0 +1,40 @@
+{
+  "titles": ["JESÚS ES NUESTRO AMPARO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "259" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Jesús es nuestro amparo",
+        "y dulce Consejero,",
+        "es Príncipe de paz,",
+        "Dios fuerte, Padre Eternal."
+      ],
+      "c1": [
+        "Es victoria en todas nuestras luchas",
+        "y Consuelo en nuestras aflicciones;",
+        "Él es Dios, Salvador ,",
+        "Es refugio de los pecadores.",
+        "Si probarlo tú quieres ahora,",
+        "ven contrito y rendido a sus Plantas",
+        "Él te oirá, te verá y tus cuitas Él quitará."
+      ],
+      "v2": [
+        "Jesús es buen Pastor,",
+        "mi amigo incomparable;",
+        "en Él seguro estoy,",
+        "porque Él es Fuente de amor."
+      ],
+      "v3": [
+        "La roca de Horeb",
+        "aún hoy fluye viva",
+        "para saciar la sed;",
+        "ven, pecador, a beber."
+      ]
+    }
+  ],
+  "versions": []
+}

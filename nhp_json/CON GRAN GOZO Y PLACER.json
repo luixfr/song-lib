@@ -1,0 +1,51 @@
+{
+  "titles": ["CON GRAN GOZO Y PLACER"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "100" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Con gran gozo y placer,",
+        "nos volvemos hoya ver, ",
+        "nuestras manos otra vez",
+        "Estrechamos.",
+        "Se contenta el corazón,",
+        "Ensanchándose de amor. ",
+        "Todos a una voz, a Dios",
+        "¡Gracias damos!"
+      ],
+      "c1": [
+        "¡Bienvenido! ¡Bienvenido!",
+        "Los hermanos hoy aquí,",
+        "nos gozamos en decir:",
+        "¡Bienvenido! ¡Bienvenido!",
+        "Al volvernos a reunir,",
+        "¡Bienvenido!"
+      ],
+      "v2": [
+        "Hasta aquí Dios te ayudó,",
+        "ni un momento te dejó",
+        "ya nosotros te volvió.",
+        "¡Bienvenido!",
+        "El Señor te acompañó,",
+        "su Presencia te amparó,",
+        "del peligro te guardó,",
+        "¡Bienvenido!"
+      ],
+      "v3": [
+        "Dios nos guarde en este amor,",
+        "para que de corazón,",
+        "consagrados al Señor ,",
+        "le alabemos",
+        "en la eterna reunión,",
+        "do no habrá separación,",
+        "ni tristeza, ni aflicción,",
+        "¡Bienvenido!"
+      ]
+    }
+  ],
+  "versions": []
+}

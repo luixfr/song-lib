@@ -1,0 +1,49 @@
+{
+  "titles": ["GLORIA A TI JESÚS DIVINO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "19" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5", "c1"],
+      "v1": [
+        "Gloria a ti Jesús divino,",
+        "Gloria a ti por tus bondades",
+        "Gloria eterna a tus piedades",
+        "Querido salvador."
+      ],
+      "c1": [
+        "Gloria, gloria, aleluya",
+        "Gloria, gloria, aleluya",
+        "Gloria, gloria, aleluya",
+        "A nuestro salvador."
+      ],
+      "v2": [
+        "Tu me amaste con ternura",
+        "y por mi en la cruz moriste;",
+        "con ternura me quisiste;",
+        "querido Salvador."
+      ],
+      "v3": [
+        "Tengo fe solo en tu muerte,",
+        "pues con ella me salvaste;",
+        "vida eterna me compraste,",
+        "querido Salvador."
+      ],
+      "v4": [
+        "Te veremos en el cielo,",
+        "a vivir contigo iremos;",
+        "tu presencia gozaremos;",
+        "querido Salvador."
+      ],
+      "v5": [
+        "Ten valor, valor cristiano,",
+        "Cristo es tu mejor amigo;",
+        "Él te llevara consigo;",
+        "Jesús es tu Señor."
+      ]
+    }
+  ],
+  "versions": []
+}

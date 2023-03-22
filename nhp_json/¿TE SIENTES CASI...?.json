@@ -1,0 +1,31 @@
+{
+  "titles": ["¿TE SIENTES CASI...?"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "270" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "v1": [
+        "¿Te sientes casi resuelto ya?",
+        "¿Te falta poco para creer?",
+        "Pues, ¿por qué dices a Jesucristo:",
+        "“Hoy no, mañana te seguiré\""
+      ],
+      "v2": [
+        "¿Te sientes casi resuelto ya?",
+        "Pues vence el casi, a Cristo ven,",
+        "que hoy es el tiempo, pero mañana",
+        "sobrado tarde pudiera ser."
+      ],
+      "v3": [
+        "Sabe que el casi no es de valor",
+        "en la Presencia del Justo Juez,",
+        "¡Ay del que muere casi creyendo!",
+        "¡Completamente perdido es!"
+      ]
+    }
+  ],
+  "versions": []
+}

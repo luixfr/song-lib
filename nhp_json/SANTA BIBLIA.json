@@ -1,0 +1,45 @@
+{
+  "titles": ["SANTA BIBLIA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "96" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "v1": [
+        "¡Santa Biblia! para mí,",
+        "eres un tesoro aquí.",
+        "Tú contienes con Verdad,",
+        "la Divina Voluntad.",
+        "Tú me dices lo que soy,",
+        "de quién vine ya quién voy."
+      ],
+      "v2": [
+        "Tú reprendes mi dudar,",
+        "Tú me exhortas si n cesar.",
+        "Eres faro que a mi pié,",
+        "va guiando por la fe,",
+        "a las fuentes del amor;",
+        "del bendito Salvador."
+      ],
+      "v3": [
+        "Eres infalible Voz",
+        "del Espíritu de Dios,",
+        "que vigor al alma da,",
+        "cuando en aflicción está.",
+        "Tú me enseñas a triunfar",
+        "de la muerte y el pecar."
+      ],
+      "v4": [
+        "Por Tu Santa Letra sé,",
+        "que con Cristo reinaré;",
+        "yo que tan indigno soy,",
+        "por tu Luz al Cielo voy.",
+        "¡Santa Biblia! para mí,",
+        "¡eres un Tesoro aquí!"
+      ]
+    }
+  ],
+  "versions": []
+}

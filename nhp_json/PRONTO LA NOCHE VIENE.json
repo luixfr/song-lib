@@ -1,0 +1,37 @@
+{
+  "titles": ["PRONTO LA NOCHE VIENE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "325" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "v1": [
+        "Pronto la noche viene; tiempo es de trabajar;",
+        "los que lucháis por Cristo, no hay que descansar,",
+        "cuando la vida es sueño, gozo, vigor, salud",
+        "y es la mañana hermosa de la juventud."
+      ],
+      "v2": [
+        "Pronto la noche viene, tiempo es de trabajar; ",
+        "para ganar al mundo hay que batallar; ",
+        "cuando la vida alcanza toda su esplendidez,",
+        "cuando es el medio día de la madurez."
+      ],
+      "v3": [
+        "Pronto la noche viene, tiempo es de trabajar; ",
+        "si el pecador perece idlo a rescatar. ",
+        "Aun a la edad proyecta, débil y sin salud;",
+        "aun a la misma tarde de la senectud."
+      ],
+      "v4": [
+        "Pronto la noche viene. ¡Listos a trabajar!",
+        "¡Listos! Que muchas almas hay que rescatar,",
+        "¿Quién de la vida el día puede desperdiciar? ",
+        "“Viene la noche, y nadie podrá trabajar”."
+      ]
+    }
+  ],
+  "versions": []
+}

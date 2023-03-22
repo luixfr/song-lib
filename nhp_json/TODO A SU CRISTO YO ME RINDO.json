@@ -1,0 +1,36 @@
+{
+  "titles": ["TODO A SU CRISTO YO ME RINDO"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "162" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "Todo a Cristo yo me rindo,",
+        "con el fin de serle fiel;",
+        "para siempre quiero amarle,",
+        "y agradarle sólo a Él."
+      ],
+      "c1": [
+        "Yo me rindo a Él, yo me rindo a Él;",
+        "todo a Cristo yo me entrego.",
+        "quiero serle fiel."
+      ],
+      "v2": [
+        "Todo a Cristo yo me rindo,",
+        "a sus pies postrado estoy;",
+        "los placeres he dejado,",
+        "y le sigo desde hoy."
+      ],
+      "v3": [
+        "Todo a Cristo yo me rindo,",
+        "sí, de todo corazón;",
+        "yo le entrego alma y cuerpo,",
+        "busco hoy su Santa Unción."
+      ]
+    }
+  ],
+  "versions": []
+}

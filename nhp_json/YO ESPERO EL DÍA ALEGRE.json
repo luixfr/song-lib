@@ -1,0 +1,37 @@
+{
+  "titles": ["YO ESPERO EL DÍA ALEGRE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "394" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v1", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "La venida de Jesús, será el remedio del dolor ",
+        "que aflige siempre a este pobre mundo pecador.",
+        "Toda lágrima se enjugará por nuestro Salvador,",
+        "cuando Cristo venga al mundo otra vez."
+      ],
+      "c1": [
+        "¡Oh! Jesús vendrá al mundo otra vez. (gloria a Él).",
+        "Sí, Jesús vendrá al mundo otra vez. (Aleluya).",
+        "Le veremos en las nubes con los ángeles de luz,",
+        "cuando Cristo venga al mundo otra vez."
+      ],
+      "v3": [
+        "Llegarán los santos a Sión con gozo eternal",
+        "y en todo el Santo Monte nada daña ni hace mal, ",
+        "pues conocerán a Dios entonces, todos por igual, ",
+        "cuando Cristo venga al mundo otra vez."
+      ],
+      "v4": [
+        "El pecado, pena y muerte, en este mundo cesarán ",
+        "mártires y santos con Jesús por siempre reinarán.",
+        "Cada alma gozará de paz perfecta, sin afán, ",
+        "cuando Cristo venga al mundo otra vez."
+      ]
+    }
+  ],
+  "versions": []
+}

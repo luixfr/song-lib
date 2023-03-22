@@ -1,0 +1,43 @@
+{
+  "titles": ["YA SEA EN EL VALLE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "338" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1"],
+      "v1": [
+        "Ya sea en el valle, do el peligro esté, ",
+        "o que en la luz gloriosa de paz habite yo;",
+        "a mi Jesús diré: “Tu Voluntad haré”. ",
+        "Si Cristo me guía, doquiera yo iré."
+      ],
+      "c1": [
+        "Si Cristo conmigo va, yo iré; ",
+        "yo no temeré, con gozo iré, conmigo va.",
+        "Es grato servir a Jesús, llevar la Cruz, ",
+        "si Cristo conmigo va, yo iré."
+      ],
+      "v2": [
+        "Si al desierto quiere Jesús que vaya yo ",
+        "llevando Buenas Nuevas de santa salvación;",
+        "si allí en dura lid, mi campo señaló, ",
+        "a Cristo yo sigo sin más dilación."
+      ],
+      "v3": [
+        "Aunque mi parte sea mi dura cruz llevar,",
+        "diré a mis hermanos también su gran Poder;",
+        "contento quedaré, mi luz haré brillar. ",
+        "¡Testigo de Cristo, doquiera yo iré!"
+      ],
+      "v4": [
+        "La Voluntad de Cristo yo quiero obedecer,",
+        "pues en la Santa Biblia encuentro mi saber.",
+        "Y con su gran Poder al mundo venceré;",
+        "si Él va conmigo, doquiera yo iré."
+      ]
+    }
+  ],
+  "versions": []
+}

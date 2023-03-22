@@ -1,0 +1,37 @@
+{
+  "titles": ["ALABARTE HEMOS"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "82" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1"],
+      "v1": [
+        "Alabarte hemos, ¡Oh, Jehová!",
+        "Por tu palabra.",
+        "Fuente es de todo bien",
+        "para tu pueblo.",
+        "Recibe alto tributo",
+        "que te rendimos hoy,",
+        "acepta la alabanza de nuestro corazón."
+      ],
+      "c1": [
+        "Alabarte hemos, alabarte hemos,",
+        "alabarte hemos /:por tu bondad:/ y amor.",
+        "Es tu Palabra a nuestra boca miel;",
+        "Tus Estatutos, vida al corazón;",
+        "concédenos libarla hasta el morir",
+        "y deleitarnos con tus Dichos hoy."
+      ],
+      "v2": [
+        "Adorarte hemos, ¡oh, Jehová!",
+        "Rey de la gloria.",
+        "Tu Libro es eternal, Divina historia.",
+        "Es fuente inagotable de tu Divino amor,",
+        "precioso testimonio de Cristo el Salvador."
+      ]
+    }
+  ],
+  "versions": []
+}

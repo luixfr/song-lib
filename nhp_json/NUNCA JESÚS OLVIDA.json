@@ -1,0 +1,31 @@
+{
+  "titles": ["NUNCA JESÚS OLVIDA"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "139" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1"],
+      "v1": [
+        "Nunca Jesús olvida",
+        "a aquel que le busca en su angustia,",
+        "porque es Señor de señores,",
+        "es el Rey de reyes, es el Redentor."
+      ],
+      "c1": [
+        "Hoy quiere Cristo, tu corazón,",
+        "no le rechaces, tu pecador .",
+        "Ven, ven a ÉI, te dar salvación,",
+        "ven, ven a El, te recibe con amor."
+      ],
+      "v2": [
+        "Solo en Jesús se encuentra",
+        "la paz eternal y Divina,",
+        "que da el sustento del alma",
+        "y que dignifica luego al corazón."
+      ]
+    }
+  ],
+  "versions": []
+}

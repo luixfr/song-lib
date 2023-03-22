@@ -1,0 +1,43 @@
+{
+  "titles": ["HOY AL PUEBLO DEL SEÑOR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "61" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "v1": [
+        "Hoy al pueblo del Señor",
+        "deseamos felicidad,",
+        "en el año que principia",
+        "y que Dios nos quiso dar.",
+        "Por la Gracia ,que nos dio",
+        "en Jesús el Salvador ,",
+        "¡oh, gloria, gloria dad al Padre!",
+        "Pues Él nos confortó con su Amor ."
+      ],
+      "v2": [
+        "Gracia y grande bendición,",
+        "pedimos a nuestro Dios,",
+        "en este año que principia,",
+        "Por la gracia de su amor.",
+        "Que Dios con Su gran poder",
+        "nos dé más felicidad.",
+        "¡Oh, gloria, gloria dad a Cristo!",
+        "Pues El ya nos mostró su bondad."
+      ],
+      "v3": [
+        "Que su bendición nos dé,",
+        "pediremos con fervor",
+        "y que aumente nuestra fe,",
+        "por su gracia y por su amor.",
+        "¡Gloria sea a nuestro Dios!",
+        "Hoy decimos con fervor.",
+        "¡Oh, gloria al Trino Dios, Perfecto!",
+        "Con gran amor rindamos loor."
+      ]
+    }
+  ],
+  "versions": []
+}

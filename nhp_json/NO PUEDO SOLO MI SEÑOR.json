@@ -1,0 +1,30 @@
+{
+  "titles": ["NO PUEDO SOLO MI SEÑOR"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "322" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1"],
+      "v1": [
+        "No puedo solo, mi Señor, ",
+        "obedecer tu dulce voz, ",
+        "Porque yo sé que débil soy; ",
+        "No puedo solo mi Señor."
+      ],
+      "c1": [
+        "Pero yo quiero ver de tu gloria la eternidad; ",
+        "Quiero ser uno más de los que tengan de tu paz.",
+        "/: Dame tu mano y fiel por tu camino iré:/"
+      ],
+      "v2": [
+        "Obedecerte mi Señor,",
+        "Será en mí ser el grande honor.",
+        "Dame más fe, dame tu luz",
+        "Porque soy débil mi Jesús."
+      ]
+    }
+  ],
+  "versions": []
+}

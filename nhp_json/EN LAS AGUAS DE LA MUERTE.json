@@ -1,0 +1,43 @@
+{
+  "titles": ["EN LAS AGUAS DE LA MUERTE"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "68" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "v1": [
+        "En las aguas de la muerte,",
+        "sumergido fue Jesús;",
+        "mas su Amor no fue apagado",
+        "por sus penas en la cruz.",
+        "Levantóse de la tumba,",
+        "sus cadenas quebrantó.",
+        "y triunfante y victorioso",
+        "a los cielos ascendió."
+      ],
+      "v2": [
+        "En las aguas del bautismo,",
+        "hoy confieso yo mi fe;",
+        "Jesucristo me ha salvado,",
+        "y en su amor me gozaré,",
+        "en las aguas humillantes,",
+        "a Jesús siguiendo estoy;",
+        "desde ahora para el mundo",
+        "y el pecado, muerto soy."
+      ],
+      "v3": [
+        "Yo que estoy crucificado,",
+        "¿Cómo más podré pecar?",
+        "Ya que soy resucitado,",
+        "santa vida he de llevar.",
+        "Son las aguas del bautismo,",
+        "mi señal de salvación;",
+        "y yo quiero consagrarme,",
+        "al que obró mi redención."
+      ]
+    }
+  ],
+  "versions": []
+}

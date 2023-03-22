@@ -1,0 +1,35 @@
+{
+  "titles": ["ESTAD POR CRISTO FIRMES"],
+  "autors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "192" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1"],
+      "v1": [
+        "¡Estad por Cristo firmes, soldados de la Cruz!",
+        "Alzad hoy la bandera en Nombre de Jesús.",
+        "Es nuestra la victoria, con Él por Capitán,",
+        "Por Él serán vencidas las huestes de Satán."
+      ],
+      "c1": [
+        "Estad hoy firmes, soldados de la Cruz. Alzad",
+        "hoy la Bandera, alzad la en Nombre de Jesús."
+      ],
+      "v2": [
+        "¡Estad, por Cristo firmes!, os llama a la lid.",
+        "¡Con El, pues a la lucha, soldados todos, id!",
+        "Probad que sois valientes, luchando contra el mal.",
+        "Es fuerte el enemigo, mas Cristo es sin igual."
+      ],
+      "v3": [
+        "¡Estad por Cristo firmes!, las fuerzas son de Él;",
+        "el brazo de los hombres es débil y es infiel.",
+        "Vestíos la armadura, velad en oración;",
+        "deberes y peligros demandan gran tesón."
+      ]
+    }
+  ],
+  "versions": []
+}
