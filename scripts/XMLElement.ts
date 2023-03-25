@@ -60,7 +60,10 @@ export class XMLElement {
     let attributes = "";
     if (this.attributes) {
       attributes = this.attributes.reduce(
-        (acc, attr) => acc + `${attr.attribute}="${attr.value}"`,
+        (acc, attr, index) =>
+          acc +
+          `${attr.attribute}="${attr.value}"` +
+          (index == this.attributes.length - 1 ? "" : " "),
         ""
       );
     }
