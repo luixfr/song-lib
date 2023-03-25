@@ -3,25 +3,24 @@ import { XMLElement } from "./XMLElement";
 fetchSongs();
 function fetchSongs() {
   const dir = __dirname + "/../nhp_json/";
-  const dist = __dirname + "../nhp_openlyrcs/";
+  const dist = __dirname + "/../nhp_openlyrics/";
 
-  const songs = fs.readdirSync(dir);
-  let firstSong = fs.readFileSync(dir + "/" + songs[0], "utf8");
-  let song = JSON.parse(firstSong);
-  createOpenLyrcs(song);
-
-  /*let openLyrcsSongs = songs.map((jsonSong) => {
+  const files = fs.readdirSync(dir);
+  files.map((file) => {
+    let jsonSong = fs.readFileSync(dir + "/" + file, "utf8");
     let song = JSON.parse(jsonSong);
-    createOpenLyrcs(song);
-  });*/
+    let openLyricsSong = createOpenLyrcs(song);
+    console.log("saving:", file);
+    fs.writeFileSync(dist + file.replace(".json", "") + ".xml", openLyricsSong);
+  });
 }
 
-function createOpenLyrcs(song: Song) {
+function createOpenLyrcs(song: Song): string {
   let openLyrcsSong = new XMLElement("song");
   let attributes: Attributes[] = [
     { attribute: "xmlns", value: "http://openlyrics.info/namespace/2009/song" },
     { attribute: "version", value: "0.8" },
-    { attribute: "createdIn", value: "OpenLP 1.9.0" },
+    { attribute: "createdIn", value: "toOpenLyrics" },
   ];
   openLyrcsSong.addAttributes(attributes);
 
@@ -76,5 +75,8 @@ function createOpenLyrcs(song: Song) {
 
   openLyrcsSong.addChild(properties);
   openLyrcsSong.addChild(lyrics);
-  console.log(openLyrcsSong.getXMLElement());
+
+  return (
+    '<?xml version="1.0" encoding="UTF-8"?>' + openLyrcsSong.getXMLElement()
+  );
 }
