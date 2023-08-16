@@ -1,0 +1,44 @@
+{
+  "titles": ["Santo Espíritu Dirige"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "161" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Santo Espíritu, dirige,",
+          "Tú mis pasos al Señor,",
+          "y haz que humilde, guarde siempre",
+          "los Mandatos de su amor."
+        ],
+        "c1": [
+          "Dime, Dime cómo consagrar",
+          "todo al Padre de bondad.",
+          "Dime, dime cómo hacer su Voluntad."
+        ],
+        "v2": [
+          "Dime, cómo ser sumiso",
+          "y entregar mi entero ser;",
+          "goces y tesoros vanos,",
+          "todo siempre aborrecer ."
+        ],
+        "v3": [
+          "Dime, cómo al ser probado,",
+          "debo siempre en Él confiar ,",
+          "y aunque sufra en agonía,",
+          "nunca de Él desesperar."
+        ],
+        "v4": [
+          "Dime, cómo obedecerle,",
+          "aunque a veces mi razón,",
+          "no comprenda sus designios,",
+          "ni halle pronta explicación."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

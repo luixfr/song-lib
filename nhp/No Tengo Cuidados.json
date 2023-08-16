@@ -1,0 +1,45 @@
+{
+  "titles": ["No Tengo Cuidados"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "180" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "No tengo cuidados, ni tengo temor",
+          "de lo que me espera aquí;",
+          "confío tan sólo en mi buen Salvador,",
+          "el cual cuida siempre de mí."
+        ],
+        "c1": [
+          "Vivo por fe en mi Salvador,",
+          "no temeré, es fiel mi Señor.",
+          "En la dura lid, nunca me dejará;",
+          "yo vivo por fe, El me guardará."
+        ],
+        "v2": [
+          "Vendrán tempestades, lo sé yo muy bien,",
+          "la fuerza del sol faltará;",
+          "amigos dejarme, lo pueden también,",
+          "Jesús siempre me sostendrá."
+        ],
+        "v3": [
+          "El Dios que aún viste el lirio aquí,",
+          "sustenta también al gorrión;",
+          "Jamás puede desampararme a mí,",
+          "su hijo soy por adopción."
+        ],
+        "v4": [
+          "Un día vendrá otra vez el Señor,",
+          "al cielo Él nos llevará;",
+          "allí cesarán el afán y el temor,",
+          "y Dios todo dominará."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

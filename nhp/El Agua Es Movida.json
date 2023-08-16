@@ -1,0 +1,33 @@
+{
+  "titles": ["El Agua Es Movida"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "371" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "El agua es movida, limpiante raudal, ",
+          "y fuente de gracia que sana tu mal. ",
+          "Ven con tu desgracia, miseria y pesar; ",
+          "el agua es movida, ¿no quieres entrar?"
+        ],
+        "v2": [
+          "El agua es movida en gran plenitud; ",
+          "la fuente de Gracia hoy trae salud. ",
+          "¿Por qué, pues, demoras? Te puede salvar. ",
+          "El agua es movida, ¿no quieres entrar?"
+        ],
+        "v3": [
+          "El agua es movida ¿cuánto esperarás? ",
+          "Es grande el peligro si vacilarás, ",
+          "tu miedo, tus dudas, hoy debes dejar. ",
+          "El agua es movida, ¿no quieres entrar?"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

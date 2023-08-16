@@ -1,0 +1,39 @@
+{
+  "titles": ["¡Oh, Bondad Tan Infinita!"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "49" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Oh bondad tan infinita,",
+          "hacia el mundo pecador,",
+          "Dios en Cristo revelando",
+          "su eternal y santo amor."
+        ],
+        "c1": [
+          "Es Jesús para mi,",
+          "la esperanza de salud,",
+          "solo en el hallare",
+          "la divina plenitud."
+        ],
+        "v2": [
+          "Como el vasto firmamento,",
+          "como el insondable mar,",
+          "es la gracia salvadora,",
+          "Que Jesús al alma da."
+        ],
+        "v3": [
+          "Aunque fueren tus pecados,",
+          "rojos como el carmesí",
+          "en el rio del calvario,",
+          "hay limpieza para ti."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

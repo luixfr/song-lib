@@ -1,0 +1,52 @@
+{
+  "titles": ["Empero Sin Fe"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "177" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Empero sin fe es imposible",
+          "agradar a Jehová;",
+          "porque es menester",
+          "que el que se allega",
+          "/:crea que le hay:/",
+          "y recibirá."
+        ],
+        "c1": [
+          "Somos testigos de su amor ,",
+          "como ha guardado a su grey,",
+          "porque la Iglesia es del Señor",
+          "y nadie la podrá vencer.",
+          "/:Sigue adelante Iglesia fiel,",
+          "y vencerás y vencerás:/"
+        ],
+        "v2": [
+          "-¿Por qué me decís: Señor, Señor,",
+          "y no hacéis mi Voluntad?",
+          "Ya no me améis sólo de labios,",
+          "sino en verdad, con integridad,",
+          "dice el Salvador."
+        ],
+        "v3": [
+          "-No podéis servir a dos señores-,",
+          "así dice el Salvador.",
+          "Servid al Señor hasta la muerte,",
+          "/:no nos dejará:/",
+          "pues lo prometió."
+        ],
+        "v4": [
+          "Ministros del Rey, apacentad",
+          "a la grey del Salvador,",
+          "que Premio dará, según la obra,",
+          "cuando volverá para levantar",
+          "a su Iglesia fiel."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

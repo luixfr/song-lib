@@ -1,0 +1,40 @@
+{
+  "titles": ["En La Noche Los Pastores Velan"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "283" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "En la noche los pastores",
+          "a sus ovejitas velan. ",
+          "Ángeles del cielo alaban, ",
+          "ángeles del cielo cantan. ",
+          "Pastorcitos id,",
+          "pastorcitos ya."
+        ],
+        "c1": ["/:A adorar al Niño:/", "/:Que en Belén está:/"],
+        "v2": [
+          "Del oriente, reyes magos",
+          "siguen la brillante estrella,",
+          "quieren ofrecer regalos,",
+          "traen ricos aguinaldos.",
+          "Magos, oh, venid,",
+          "magos, oh, llegad."
+        ],
+        "v3": [
+          "Con alegre reverencia",
+          "en la bella noche buena,",
+          "os cristianos hoy alaban,",
+          "los cristianos todos cantan:",
+          "Pueblos, oh venid,",
+          "pueblos, oh llegad."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

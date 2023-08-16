@@ -1,0 +1,33 @@
+{
+  "titles": ["De La Vida En El Turbión"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "430" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "¡Se un héroe!, ten confianza en el señor",
+          "¡Se un héroe!, el te ampara bienhechor.",
+          "ld, soldados, a pelear con indómito valor,",
+          "hasta el triunfo conquistar. ¡Se un héroe!"
+        ],
+        "v2": [
+          "Hay contrarios por doquier, ¡se un héroe!",
+          "Mas con cristo, ¿a que temer? se un héroe",
+          "Batallando sin ceder, entre luz y oscuridad,",
+          "lucha fiel por la verdad. ¡Se un Héroe!"
+        ],
+        "v3": [
+          "Si a tu hermano vez caer, ¡Se un héroe!",
+          "Vive presto al bien hacer, ¡Se un héroe!",
+          "Por Jesús, es tu deber su palabra proclamar.",
+          "sus bondades alabar, ¡Se un héroe!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

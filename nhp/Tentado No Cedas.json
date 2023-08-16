@@ -1,0 +1,39 @@
+{
+  "titles": ["Tentado No Cedas"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "365" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Tentado no cedas, ceder es pecar; ",
+          "es digno y más noble luchar y triunfar. ",
+          "¡Valor, pues, cristiano! Domina tu mal; ",
+          "Dios puede librarte de asalto mortal."
+        ],
+        "c1": [
+          "En Jesús, pues, confía; ",
+          "en sus Brazos tu alma, ",
+          "bailará dulce calma, ",
+          "Él te hará vencedor."
+        ],
+        "v2": [
+          "Evita el pecado, procura agradar ",
+          "a Dios, a quien debes por siempre ensalzar;",
+          "no manche tus labios impúdica voz,",
+          "preserva tu vida de ofensas a Dios."
+        ],
+        "v3": [
+          "Amante, benigno y enérgico sé; ",
+          "en Cristo, tu Amigo, pon toda tu fe;",
+          "veraz sea tu dicho, de Dios es tu ser;",
+          "corona te espera y vas a vencer."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

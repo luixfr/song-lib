@@ -1,0 +1,37 @@
+{
+  "titles": ["No Hay Cual Jesús"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "137" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v1", "c1", "v3", "c1", "v4", "c1", "v5"],
+      "lyric": {
+        "v1": [
+          "No hay otro Amigo tan santo y digno, /:no lo hay:/",
+          "Pero a la vez es humilde y tierno; otro no hay cual Jesús"
+        ],
+        "c1": [
+          "Conoce todas nuestras luchas,",
+          "y sólo Él nos sostendrá.",
+          "No hay cual Jesús otro fiel Amigo,",
+          "/:no lo hay:/"
+        ],
+        "v3": [
+          "No hay un instante que nos olvide, /:no lo hay:/",
+          "Ni hay noche oscura que no nos cuide, /:no la hay:/"
+        ],
+        "v4": [
+          "¿Cuándo es infiel el Pastor Divino?, /:ni una vez:/",
+          "¿Cuándo rechaza a los pecadores?, /:ni una vez:/"
+        ],
+        "v5": [
+          "¿Hay otra Dádiva como Cristo?, /: no la hay:/",
+          "Ha prometido Él estar conmigo, /:hasta el fín:/"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

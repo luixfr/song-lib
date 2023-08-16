@@ -1,0 +1,34 @@
+{
+  "titles": ["Ven, ¡oh, Pródigio!"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "359" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Ven, ¡oh, pródigo! Ven sin tardar; te llama Dios. ",
+          "Óyele llamando, Llamándote a ti. ",
+          "Tu, que vagas errante, escucha su tierna Voz,",
+          "escucha su Voz de amor."
+        ],
+        "c1": ["/:Llamando por ti, perdido pródigo ven:/"],
+        "v2": [
+          "Con paciencia y ternura te llama ven a Él. ",
+          "Óyele llamando, llamándote a ti. ",
+          "Mientras El te llama, ven, no seas infiel. ",
+          "Escucha su Voz de amor."
+        ],
+        "v3": [
+          "De tu Padre en la casa abundancia hay de pan. ",
+          "Óyele llamando, Llamándote a ti. ",
+          "Ya la mesa esta lista; la bienvenida dan. ",
+          "Escucha su Voz de amor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

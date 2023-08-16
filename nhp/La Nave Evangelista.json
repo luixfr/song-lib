@@ -1,0 +1,45 @@
+{
+  "titles": ["La Nave Evangelista"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "174" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "La Nave Evangelista, boga, boga,",
+          "la Nave Evangelista, boga rumbo a Canaán.",
+          "El que embarcarse quiera, quiera, quiera,",
+          "el que embarcarse quiera, bienvenido sí, será."
+        ],
+        "c1": [
+          "\"Gloria en las alturas\",",
+          "los de a bordo cantan dulcemente.",
+          "\"Gloria en las alturas\",",
+          "a nuestro Capitán."
+        ],
+        "v2": [
+          "Ya miles arribaron, arribaron;",
+          "ya miles arribaron hacia el Puerto siglos ha.",
+          "Ya miles van surcando, van surcando;",
+          "ya miles van surcando el embravecido mar."
+        ],
+        "v3": [
+          "Con viento en popa vuelan, vuelan, vuelan",
+          "con viento en popa vuelan hasta aquel Gloria Hogar.",
+          "Alegres voces cantan, cantan, cantan;",
+          "alegres voces cantan himnos de felicidad."
+        ],
+        "v4": [
+          "A bordo ven conmigo, ven conmigo;",
+          "a bordo ven conmigo, tú cansado de pecar .",
+          "Tendrás descanso pronto, pronto, pronto;",
+          "tendrás descanso pronto en aquel feliz Hogar."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

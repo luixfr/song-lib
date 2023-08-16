@@ -1,0 +1,45 @@
+{
+  "titles": ["Cantare La Maravilla"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "9" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Cantaré la maravilla,",
+          "que Jesús murió por mí;",
+          "cómo allá en el Calvario",
+          "dio su Sangre carmesí."
+        ],
+        "c1": [
+          "Cantaré la bella historia",
+          "de Jesús, mi Salvador ,",
+          "y con santos en la Gloria,",
+          "a Jesús daré loor."
+        ],
+        "v2": [
+          "Cristo vino a rescatarme,",
+          "vil, perdido, me encontró;",
+          "con su mano fiel y tierna,",
+          "al redil El me llevó."
+        ],
+        "v3": [
+          "Mis heridas y dolores,",
+          "el Señor Jesús sanó;",
+          "del pecado y los temores,",
+          "su Poder me libertó."
+        ],
+        "v4": [
+          "En el río de la muerte,",
+          "el Señor me guardará;",
+          "es su amor tan fiel y fuerte,",
+          "que jamás me dejará."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

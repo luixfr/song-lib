@@ -1,0 +1,46 @@
+{
+  "titles": ["Yo Me Siento Hoy Gozoso"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "454" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Yo me siento hoy gozoso, porque Cristo me salvó. ",
+          "Su Palabra me hace ver que es la verdad. ",
+          "Pero quiero conocerle y escuchar su tierna Voz. ",
+          "¡Oh! Yo quiero ver a Cristo más allá."
+        ],
+        "c1": [
+          "Oh, yo quiero ver a Cristo más allá,",
+          "en aquella hermosísima Ciudad. ",
+          "En su Trono allá en la Gloria, ",
+          "donde siempre cante así. ",
+          "¡Oh! Yo quiero ver a Cristo más allá."
+        ],
+        "v2": [
+          "Si yo sé, Jesús me guía y no me dejará caer,",
+          "mientras haga su bendita, Voluntad. ",
+          "Y me dice que no tema, El conmigo siempre está.",
+          "¡Oh! Yo quiero ver a Cristo más allá."
+        ],
+        "v3": [
+          "Contaré la grande historia, de su amor yo hablaré, ",
+          "anunciando que Jesús vino a salvar. ",
+          "En la cruenta cruz ha muerto, ya pagado todo está.",
+          "¡Oh! Yo quiero ver a Cristo más allá."
+        ],
+        "v4": [
+          "Cuando estemos en el cielo, en la gran Jerusalén, ",
+          "do las calles de oro puro todas son: ",
+          "cuando cante con los santos la canción de redención.",
+          "¡Oh! Yo quiero ver a Cristo más allá."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

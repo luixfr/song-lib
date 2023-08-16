@@ -1,0 +1,43 @@
+{
+  "titles": ["Adorad Al Padre"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "2" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "¡Adorad al Padre, por su grande Amor!",
+          "¡Adorad al Hijo, que nos redimió!",
+          "¡Adorad al Santo Purificador!",
+          "Porque es Dios Divino, porque es Uno y Trino,",
+          "porque El sólo es digno de la adoración."
+        ],
+        "c1": [
+          "Porque es Dios eterno,",
+          "porque siempre es bueno,",
+          "Porque de Él sea Ileno nuestro corazón.",
+          "Asi nuestra vida, por El redimida,",
+          "a El le sea rendida con adoración."
+        ],
+        "v2": [
+          "¡Adoradle cielos, dadle todo honor!",
+          "¡Adoradle estrellas con bello fulgor!",
+          "¡Adoradle Tierra, toda la Creación!",
+          "Porque es Dios Divino, porque es Uno y Trino,",
+          "porque El sólo es digno de la adoración."
+        ],
+        "v3": [
+          "¡Adoradle PuebIos, rendidle loor!",
+          "¡Adoradle siervos, que escucháis su voz!",
+          "¡Adoradle aquellos, que salvados sois!",
+          "Porque es Dios Divino, porque es Uno y Trino,",
+          "porque El sólo es digno de la adoración."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

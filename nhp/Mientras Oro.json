@@ -1,0 +1,40 @@
+{
+  "titles": ["Mientras Oro"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "260" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Mientras oro y mientras ruego,",
+          "mientras sientes convicción,",
+          "mientras Dios derrama el Fuego,",
+          "ven, amigo, a Cristo Ven."
+        ],
+        "c1": ["/:/:Ven a Él, ven a Él:/", "Dale hoy tu corazón:/"],
+        "v2": [
+          "Has vagado en este mundo",
+          "sin tranquilidad, sin, paz; .",
+          "vuelve a Dios y en Él confiado,",
+          "salvo y feliz serás."
+        ],
+        "v3": [
+          "Si en tu vida has fracasado",
+          "y tu alma triste está,",
+          "cree, en Cristo y tu pecado,",
+          "hoy Él mismo borrará."
+        ],
+        "v4": [
+          "Ven a Cristo, Él te espera,",
+          "no te tardes pecador;",
+          "en sus Brazos Él quisiera",
+          "recibirte con amor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

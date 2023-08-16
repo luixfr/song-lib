@@ -1,0 +1,40 @@
+{
+  "titles": ["Unid Los Cantos"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "103" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Unid los cantos, todos los santos",
+          "con dulce voz; con reverencia,",
+          "porque en presencia estáis de Dios."
+        ],
+        "c1": [
+          "¡Bienvenidos seáis hermanos,",
+          "en el Nombre bendito de Dios!",
+          "Hoy reunidos nos gozamos,",
+          "al saber que nos une su amor.",
+          "Damos gracias por ser salvos,",
+          "y en nuestra alma hay gran gratitud,",
+          "porque sólo Jesús, nos da vida y salud",
+          "y la gloria, al que lleve su cruz."
+        ],
+        "v2": [
+          "Todo cristiano ama a su hermano",
+          "de corazón. No ve fronteras,",
+          "va por la tierra sembrando amor."
+        ],
+        "v3": [
+          "Muy pronto unidos, los escogidos",
+          "verán a Dios. Allá en:- el cielo,",
+          "tendrán el premio dé su labor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

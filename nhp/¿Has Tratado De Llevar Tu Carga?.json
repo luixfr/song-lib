@@ -1,0 +1,38 @@
+{
+  "titles": ["¿Has Tratado De Llevar Tu Carga?"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "130" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "¿Has tratado de llevar tu carga, sólo tú,",
+          "sólo tú? -No sabiendo que tendrás ayuda,",
+          "si acudieres al Señor Jesús."
+        ],
+        "c1": [
+          "Si tengo cargas que sólo debo llevar,",
+          "paciente las alzo y acudo a mi Señor.",
+          "Si tengo cruces que nadie puede cargar,",
+          "su ayuda siempre mi Señor, me presta con amor ."
+        ],
+        "v2": [
+          "Nunca olvides que al Calvario, ",
+          "sólo fue Jesús,",
+          "fue Jesús, para darte salvación y vida,",
+          "cuando solo sucumbió en la cruz."
+        ],
+        "v3": [
+          "Sólo en Cristo protección, ",
+          "y ayuda, hallarás,",
+          "hallarás. Lleva siempre a Él tus cargas todas,",
+          "que a ninguno rechazó jamás."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

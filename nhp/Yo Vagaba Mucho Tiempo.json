@@ -1,0 +1,42 @@
+{
+  "titles": ["Yo Vagaba Mucho Tiempo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "250" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Yo vagaba mucho tiempo en el error,",
+          "agobiado en el pecado y el temor;",
+          "cuando vi al Salvador,",
+          "y escuché su tierna Voz",
+          "mi Jesús me hizo libre por su amor."
+        ],
+        "c1": [
+          "Libre estoy, libre estoy,",
+          "por la gracia de Jesús, libre estoy.",
+          "Libre estoy, libre estoy,",
+          "¡Aleluya, por la fe, libre estoy!"
+        ],
+        "v2": [
+          "Yo vagaba mucho tiempo en el error,",
+          "sin pensar en el amor del Salvador;",
+          "yo vagaba más y más",
+          "lejos de mi Redentor",
+          "¡Mas ahora por su muerte libre estoy!"
+        ],
+        "v3": [
+          "Yo vagaba mucho tiempo en el error,",
+          "mas ahora quiero andar con mi Señor;",
+          "quiero oir su tierna Voz,",
+          "y seguirle siempre en pos.",
+          "¡Gloria, gloria a nuestro buen Pastor!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

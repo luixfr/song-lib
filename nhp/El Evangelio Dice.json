@@ -1,0 +1,39 @@
+{
+  "titles": ["El Evangelio Dice"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "171" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "El Evangelio dice que el Salvador murió,",
+          "y por los pecadores su Vida El entregó;",
+          "mas en el tercer día Jesús resucitó,",
+          "y con victoria grande la muerte así venció."
+        ],
+        "v2": [
+          "Consigo trajo Vida, paz e inmortalidad,",
+          "a todo el que le acepte como su Salvador .",
+          "\"Ya muerto fui\", -El dice-, \"mas vivo y viviré\".",
+          "\"Las almas del infierno al diablo arrebaté\"."
+        ],
+        "v3": [
+          "Y hoy está en medio del pueblo del Señor,",
+          "y por el Evangelio anunciamos su amor.",
+          "Con Brazos siempre abiertos invita el Salvador:",
+          "\"Venid, oh pecadores\", \"venid a descansar\"."
+        ],
+        "v4": [
+          "A Ti también te invita, perdón te quiere dar.",
+          "La Sangre de su Vida, te puede hoy limpiar",
+          "y darte Nueva Vida, que siempre durará",
+          "¡Acepta hoy a Cristo, y Él te salvará!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

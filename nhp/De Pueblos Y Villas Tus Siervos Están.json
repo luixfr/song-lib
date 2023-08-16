@@ -1,0 +1,43 @@
+{
+  "titles": ["De Pueblos Y Villas Tus Siervos Están"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "165" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "De pueblos y villas tus Siervos están,",
+          "todos han venido a conferenciar ,",
+          "con sus corazones henchidos de amor .",
+          "Que sepan hoy tu Voluntad."
+        ],
+        "c1": [
+          "Siervos oíd, habla Jehová,",
+          "Siervos venid, Dios aquí está.",
+          "Todos unid la voluntad",
+          "y el Dios de amor bendecirá.",
+          "Un solo amor y una fe,",
+          "sólo un Señor aquí esté.",
+          "Oh, Dios, ven aquí",
+          "a guiarnos Tú."
+        ],
+        "v2": [
+          "Las mieses maduras traen a tu Altar,",
+          "humildes presentes que Tú aceptarás;",
+          "también sus cuidados, congojas y afán,",
+          "de hinojos vienen a entregar."
+        ],
+        "v3": [
+          "Escucha sus ruegos y dales favor ,",
+          "que sepan que eres un Dios de bondad;",
+          "que salgan henchidos de un nuevo vigor ,",
+          "y al fin cumplan tu Voluntad."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

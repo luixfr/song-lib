@@ -1,0 +1,39 @@
+{
+  "titles": ["Jesús Está Buscando"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "317" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v1", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Nos cercan las tinieblas densas de error,",
+          "vamos sobre abismos hondos de maldad,",
+          "y para destruirlas, llama el Salvador ",
+          "muchos voluntarios que amen la Verdad."
+        ],
+        "c1": [
+          "De Cristo voluntario tú puedes ser, ",
+          "otros ya se alistan, hazlo tú. ",
+          "Cristo es nuestro Jefe, no hay por qué temer.",
+          "¿Quieres ser un voluntario de Jesús?"
+        ],
+        "v3": [
+          "La lucha es contra el vicio, la pobreza, el mal,",
+          "contra la ignorancia de la Ley de Dios;",
+          "es una campaña que no tiene igual. ",
+          "¿Quieres ir a ella de Jesús en pos?"
+        ],
+        "v4": [
+          "El triunfo significa que domine el bien,",
+          "que los hombres se amen y que la Verdad",
+          "reine en las conciencias, siendo su sostén;",
+          "y ha de ser, si ayudas, una realidad."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

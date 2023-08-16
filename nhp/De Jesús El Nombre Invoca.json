@@ -1,0 +1,39 @@
+{
+  "titles": ["De Jesús El Nombre Invoca"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "15" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "De Jesús el Nombre invoca,",
+          "búscale con vivo afán;",
+          "dulce hará tu amarga copa,",
+          "tus pesares cesarán."
+        ],
+        "c1": [
+          "Suave luz, manantial",
+          "de esperanza, fe y amor;",
+          "Sumo bien, celestial, ",
+          "es Jesús, el Salvador."
+        ],
+        "v2": [
+          "De Jesús el Nombre adora,",
+          "que te sirva de broquel; ",
+          "alma débil, perturbada,",
+          "hallarás asilo en Él."
+        ],
+        "v3": [
+          "De Jesús el Nombre ensalza,",
+          "cuyo sin igual Poder,",
+          "de sepulcro nos levanta,",
+          "renovando nuestro ser."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

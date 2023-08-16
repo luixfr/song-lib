@@ -1,0 +1,39 @@
+{
+  "titles": ["\"Miepi\" Venturoso"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "279" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v1"],
+      "lyric": {
+        "v1": [
+          "¡Sigue firme! ¡Sigue fuerte!",
+          "Tu Candente Manantial,",
+          "derramando hasta la muerte",
+          "el Poder Pentecostal."
+        ],
+        "c1": [
+          "¡Adelante! ¡No desmayes!",
+          "¡Adelante! ¡Luchador!",
+          "Somos Uno todos juntos,",
+          "con Jesús, nuestro Señor."
+        ],
+        "v2": [
+          "MIEPI, MIEPI, MIEPI venturoso,",
+          "tu misión es siempre batallar;",
+          "mas con cristo, grande y poderoso,",
+          "todo el tiempo tienes que triunfar ."
+        ],
+        "v3": [
+          "MIEPI, MIEPI, MIEPI venturoso,",
+          "es tu brega noble y de verdad,",
+          "pues tu norma: “Todos una cosa”,",
+          "satisface a Cristo en su ansiedad."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

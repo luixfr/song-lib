@@ -1,0 +1,40 @@
+{
+  "titles": ["Busca, Hermano, La Promesa"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "73" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Busca, hermano, la Promesa del bendito",
+          "Salvador. La Promesa que El nos dio.",
+          "Que su Espíritu enviaría, el Señor lo prometió",
+          "a su pueblo, que El compró."
+        ],
+        "c1": [
+          "Llenará tu corazón a derramarse.",
+          "El Señor te lo mandó:",
+          "Trae tu vaso, tráelo hoy.",
+          "Llenará tu corazón a derramarse,",
+          "con su Espíritu y Poder."
+        ],
+        "v2": [
+          "Trae tu alma, cuerpo y todo, a los Pies",
+          "del Salvador, es la sola condición.",
+          "Y en consagración completa, el Trono",
+          "del Señor, busca hoy su Bendición."
+        ],
+        "v3": [
+          "Como fuente que derrama para siempre su Virtud,",
+          "es la Gracia del Señor .",
+          "Y conforme a su Promesa, El dará su plenitud,",
+          "y una fuente tú serás."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

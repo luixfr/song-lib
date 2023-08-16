@@ -1,0 +1,33 @@
+{
+  "titles": ["Yo Escucho Buen Jesús"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "360" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Yo escucho, buen Jesús, tu dulce Voz de amor,",
+          "que desde el árbol de la Cruz, invita al pecador.",
+          "Yo soy pecador, nada hay bueno en mí; ",
+          "ser objeto de tu amor deseo, y vengo a Ti."
+        ],
+        "v2": [
+          "Tú ofreces el perdón de toda iniquidad, ",
+          "si el llanto inunda el corazón, que acude a tu piedad.",
+          "Yo soy pecador, ten de mi piedad; ",
+          "dame llanto de dolor y borra mi maldad."
+        ],
+        "v3": [
+          "Tu ofreces aumentar la fe del que creyó, ",
+          "y gracia sobre gracia dar a quien en Ti espero.",
+          "Creo en Ti, Señor; sólo espero en Ti; ",
+          "dame tu infinito amor; pues basta para mí."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

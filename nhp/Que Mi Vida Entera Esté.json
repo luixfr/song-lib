@@ -1,0 +1,51 @@
+{
+  "titles": ["Que Mi Vida Entera Esté"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "159" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5"],
+      "lyric": {
+        "v1": [
+          "Que mi vida entera esté",
+          "consagrada a Ti, Señor;",
+          "que a mis manos pueda guiar",
+          "el impulso de tu amor."
+        ],
+        "c1": [
+          "Lávame en tu Sangre, Salvador,",
+          "límpiame de toda mi maldad.",
+          "Traigo a Ti mi vida, para ser, Señor,",
+          "¡Tuya por la eternidad!"
+        ],
+        "v2": [
+          "Que mis pies, tan sólo en pos",
+          "de lo santo puedan ir;",
+          "y que a Ti, Señor, mi Voz",
+          "se complazca en bendecir."
+        ],
+        "v3": [
+          "Que mi tiempo todo esté",
+          "consagrado a tu loor,",
+          "que mis labios al hablar,",
+          "hablen sólo de tu amor ."
+        ],
+        "v4": [
+          "Toma, ¡Oh Dios!, mi voluntad,",
+          "y hazla tuya nada más;",
+          "toma, sí, mi corazón,",
+          "por tu Trono lo tendrás."
+        ],
+        "v5": [
+          "Toma Tú, mi amor que hoy,",
+          "a tus Pies vengo a poner;",
+          "toma todo lo que soy,",
+          "¡Todo tuyo quiero ser!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

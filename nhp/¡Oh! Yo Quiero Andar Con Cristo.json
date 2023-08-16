@@ -1,0 +1,51 @@
+{
+  "titles": ["¡Oh! Yo Quiero Andar Con Cristo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "307" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Oh Yo quiero andar con Cristo, ",
+          "Quiero oír su tierna Voz, ",
+          "meditar en su Palabra ",
+          "y cumplir su voluntad. ",
+          "Consagrar a Él mi vida, ",
+          "mis dolores y afán; ",
+          "y algún día con mi Cristo ",
+          "gozaré la claridad."
+        ],
+        "c1": [
+          "¡Oh, sí, yo quiero andar con Cristo! ",
+          "¡Oh, sí, yo quiero vivir por Cristo! ",
+          "¡Oh, sí, yo quiero morir por Cristo! ",
+          "Quiero serle un testigo fiel."
+        ],
+        "v2": [
+          "¡Oh! Yo quiero andar con Cristo, ",
+          "Él es mi Ejemplo Fiel; ",
+          "en la Biblia yo lo leo, ",
+          "y yo sé que es la Verdad. ",
+          "Cristo era Santo en todo, ",
+          "el Cordero de la Cruz ",
+          "y yo anhelo ser cristiano, ",
+          "seguidor de mi Jesús."
+        ],
+        "v3": [
+          "Oh! Yo quiero andar con Cristo, ",
+          "de mi senda Él es la Luz, ",
+          "dejaré el perverso mundo ",
+          "para ir al Salvador. ",
+          "Este mundo nada ofrece,",
+          "Cristo ofrece salvación;",
+          "Y es mi única esperanza,",
+          "Vida Eterna hallar con Dios."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

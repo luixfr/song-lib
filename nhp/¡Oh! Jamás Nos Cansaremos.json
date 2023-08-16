@@ -1,0 +1,45 @@
+{
+  "titles": ["¡Oh! Jamás Nos Cansaremos"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "32" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "¡Oh! jamás nos cansaremos de la gran canción",
+          "¡Loores a Dios, Aleluya!",
+          "Por la fe la cantaremos con el corazón.",
+          "¡Loores a Dios, Aleluya!"
+        ],
+        "c1": [
+          "A los hijos del Señor, pertenece el cantar,",
+          "pues vendrá el Salvador y nos arrebatará.",
+          "Del Palacio Celestial, gozaremos más allá.",
+          "¡Loores a Dios, Aleluya!"
+        ],
+        "v2": [
+          "¡Oh! La indecible gloria del Divino amor.",
+          "¡Loores a Dios, Aleluya!",
+          "Que en sus alas lleva el alma con el Salvador,",
+          "¡Loores a Dios, Aleluya!"
+        ],
+        "v3": [
+          "¡Que vistosos son los ángeles morando en luz!",
+          "¡Loores a Dios, Aleluya!",
+          "Más lucientes los creyentes, al venir Jesús.",
+          "¡Loores a Dios, Aleluya!"
+        ],
+        "v4": [
+          "¡Coronados en la Gloria con el Salvador!",
+          "¡Loores a Dios, Aleluya!",
+          "Cantaremos alabanzas del Divino Amor.",
+          "¡Loores a Dios, Aleluya!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

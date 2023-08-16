@@ -1,0 +1,47 @@
+{
+  "titles": ["Vuelve, ¡oh, Paloma Celestial!"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "65" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "Vuelve, ¡oh, Paloma Celestial! Vuelve,",
+          "dulce Mensajera de descanso.",
+          "Aborrezco los pecados que te hieren,",
+          "los que te alejaron de mi pecho."
+        ],
+        "v2": [
+          "Mira, ¡oh, Amigo sin igual! Mira,",
+          "la nostalgia que circunda mi existencia.",
+          "Aborrezco los pecados que te hieren,",
+          "los que te alejaron de mi pecho."
+        ],
+        "v3": [
+          "Oye ¡Mensajero de Verdad! Oye,",
+          "los gemidos lastimeros de mi alma.",
+          "Aborrezco los pecados que te hieren,",
+          "los que te alejaron de mi pecho."
+        ],
+        "v4": [
+          "Quiero ¡Santo Espíritu de Dios! Quiero,",
+          "que tu fuego llene hoy mi corazón.",
+          "Aborrezco los pecados que te hieren,",
+          "los que te alejaron de mi pecho."
+        ],
+        "v5": [
+          "Vuelve, ¡Oh, Paloma Celestial! Vuelve,",
+          "dulce Mensajera de descanso.",
+          "Pertenezco a tus dominios plenamente,",
+          "haz en mi de nuevo habitación.",
+          "¡Aborrezco los pecados que te hieren!",
+          "Los que te alejaron de mi corazón. ¡Vuelve!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

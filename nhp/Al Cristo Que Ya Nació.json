@@ -1,0 +1,43 @@
+{
+  "titles": ["Al Cristo Que Ya Nació"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "281" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2"],
+      "lyric": {
+        "v1": [
+          "Al Cristo que ya nació en Belén,",
+          "hoy ángeles cantad;",
+          "al Hijo de Dios al Sumo Bien,",
+          "pastores adorad.",
+          "Los cielos proclaman la salud",
+          "al pobre pecador.",
+          "Alzad canción de gratitud",
+          "al gran Creador."
+        ],
+        "c1": [
+          "¡Nació Jesús, nació Jesús!",
+          "Reposa dulcemente",
+          "en brazo maternal.",
+          "¡Nació Jesús, nació Jesús!",
+          "Cantad, cantad hosannas",
+          "al Rey Celestial."
+        ],
+        "v2": [
+          "Pastores cuidaban su redil",
+          "en campos de Judá.",
+          "de pronto en el cielo huestes mil",
+          "la Buena Nueva dan.",
+          "Bajaron a ver al Redentor",
+          "nacido en humildad;",
+          "de voces diéronle loor",
+          "con su cantar."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,63 @@
+{
+  "titles": ["¡Dios Eterno!"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "58" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7", "v8"],
+      "lyric": {
+        "v1": [
+          "¡Dios eterno! en tu presencia,",
+          "minutos los siglos son,",
+          "y un segundo, la existencia",
+          "de cada generación."
+        ],
+        "v2": [
+          "Mas el hombre, que a tu lado",
+          "Ansía volar con fe.",
+          "En su curso prolongado,",
+          "¡cuán lentos los años ve!"
+        ],
+        "v3": [
+          "Llena el año que hoy empieza,",
+          "de Gracia y de santidad",
+          "y cólmalo con largueza,",
+          "de paz y felicidad."
+        ],
+        "v4": [
+          "Pío las faltas perdona",
+          "de nuestra amada Nación.",
+          "y sus esfuerzos corona",
+          "de ventura y bendición."
+        ],
+        "v5": [
+          "Elígela por morada,",
+          "brille en ella la virtud.",
+          "Y tu Palabra Sagrada,",
+          "resuene de Norte a Sur. ."
+        ],
+        "v6": [
+          "Haz que se conserve pura",
+          "En nuestras almas la fe;",
+          "y de su senda segura,",
+          "Jamás se deslice el pié."
+        ],
+        "v7": [
+          "Visita nuestras familias",
+          "y bendice nuestro hogar;",
+          "si Tú, Señor, nos auxilias,",
+          "nada nos podrá faltar."
+        ],
+        "v8": [
+          "Doquier te venere el hombre",
+          "y te sirva haciendo el bien.",
+          "Y ensalce tu Augusto Nombre,",
+          "por siglos sin fin. Amén."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

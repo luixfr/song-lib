@@ -1,0 +1,39 @@
+{
+  "titles": ["Juventud Cristiana"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "229" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Juventud Cristiana, ¡Noble juventud!",
+          "Si te guardas salva, vas recta a Jesús.",
+          "Cumple tus deberes, sé por siempre fiel,",
+          "y será tu meta: hasta llegar con Él."
+        ],
+        "c1": [
+          "Noble Juventud, brillando como el sol,",
+          "radiante de salud, predicando al buen Pastor .",
+          "Noble juventud, sigue siempre esa senda fiel",
+          "y al final coronada serás a las Plantas del Señor Jesús."
+        ],
+        "v2": [
+          "La Doctrina Santa debes conservar ,",
+          "allegando almas a la cristiandad.",
+          "Háblales de Cristo, de su gran bondad,",
+          "cuéntales su Vida, predica su Verdad."
+        ],
+        "v3": [
+          "“Id por todo el mundo”, manda nuestro Dios,",
+          "“cuenta mi Evangelio a todo pecador”.",
+          "Salva almas perdidas, tráelas a Jesús;",
+          "serán agradecidas a ti, noble juventud."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

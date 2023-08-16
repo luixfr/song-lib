@@ -1,0 +1,47 @@
+{
+  "titles": ["Feliz Momento"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "107" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Feliz momento, en que escogí",
+          "servirte, mi Señor y Dios;",
+          "preciso es que mi gozo en Ti,",
+          "lo muestre hoy con obra y voz."
+        ],
+        "c1": [
+          "¡Soy feliz! ¡Soy feliz!",
+          "Y en su favor me gozaré.",
+          "En libertad y luz me vi,",
+          "cuando triunfó en mí la fe;",
+          "y el raudal carmesí,",
+          "salud de mi alma enferma fue."
+        ],
+        "v2": [
+          "¡Pasó! Mi gran deber cumplí;",
+          "de Cristo soy y mío es Él.",
+          "Me atrajo, con placer seguí; ",
+          "su voz conoce todo fiel."
+        ],
+        "v3": [
+          "Reposa, débil corazón;",
+          "a tus contiendas pon ya fin.",
+          "Hallé más noble posesión",
+          "y parte en superior festín."
+        ],
+        "v4": [
+          "Solemne voto, ofrenda, flor,",
+          "que al cielo santo consagré;",
+          "hoy sé mi prenda de honor,",
+          "después testigo de mi fe."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,36 @@
+{
+  "titles": ["¡Noche De Paz!"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "288" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "¡Noche de paz, noche de amor!",
+          "Todo duerme en derredor,",
+          "entre los astros que esparcen su luz",
+          "bella, anunciando al Niñito Jesús.",
+          "/:Brilla la estrella de paz:/"
+        ],
+        "v2": [
+          "¡Noche de paz, noche de amor!",
+          "Oye humilde el fiel pastor",
+          "coros celestes que anuncian salud,",
+          "gracias y glorias en gran plenitud.",
+          "/:Por nuestro buen Redentor:/"
+        ],
+        "v3": [
+          "¡Noche de paz, noche de amor!",
+          "ved qué bello resplandor",
+          "luce en el Rostro del Niño Jesús;",
+          "en el pesebre, del mundo la Luz.",
+          "/:Astro de eterno fulgor:/"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,45 @@
+{
+  "titles": ["Prometí Aceptar Tu Palabra"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "158" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Prometí aceptar tu Palabra,",
+          "desafiar toda vil tentación,",
+          "entregarme de lleno a tu obra;",
+          "porque en ella encontré salvación."
+        ],
+        "c1": [
+          "Padre nuestro que estás en los cielos,",
+          "en la tierra y en todo lugar,",
+          "danos hoy nuestro pan cotidiano,",
+          "y en nosotros ven pronto a reinar."
+        ],
+        "v2": [
+          "Me propongo a servir en tu viña,",
+          "útil ser en tus manos, Señor.",
+          "Hazme fiel y valiente en la lucha,",
+          "no permitas que caiga en error."
+        ],
+        "v3": [
+          "Yo fui vil pecador, lo comprendo,",
+          "mi vivir fue muy lejos de Ti;",
+          "mas perdonas pecados horrendos,",
+          "si en verdad acudimos a Ti."
+        ],
+        "v4": [
+          "Pecador, si tú quieres ser salvo",
+          "y en tu vida un cambio sentir:",
+          "Rinde hoy mismo tu ser, tu existencia,",
+          "a tu Dueño y Rey, Cristo Jesús."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,39 @@
+{
+  "titles": ["Por Mi Señor Jesús"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "466" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Por mi señor Jesús,",
+          "Tuve mi salvación;",
+          "Es el amor y la Luz",
+          "Del pueblo de Israel."
+        ],
+        "c1": [
+          "Él se dio en sacrificio",
+          "Por nuestros pecados;",
+          "Grande fue el suplico,",
+          "Y el mundo no comprendió."
+        ],
+        "v2": [
+          "Él en la cruz murió",
+          "Por nuestra redención.",
+          "Se sangre amor mostró ",
+          "Hacia nuestro corazón."
+        ],
+        "v3": [
+          "En su misericordia",
+          "Él nos llamó a la luz,",
+          "por que es fuente de Gracia,",
+          "mi  grande y buen Jesús."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

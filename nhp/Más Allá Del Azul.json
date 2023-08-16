@@ -1,0 +1,39 @@
+{
+  "titles": ["Más Allá Del Azul"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "187" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "A Ti, Dios y Señor de señores,",
+          "a Ti venimos hoya cantar,",
+          "por tu gracia y tantos favores,",
+          "que a tu siervo siempre le darás."
+        ],
+        "c1": [
+          "Más allá del azul",
+          "firmamento se encuentra mi Dios,",
+          "Él será tu sostén",
+          "y tu guía hasta eterna mansión."
+        ],
+        "v2": [
+          "Si en tu vida tú sufres y lloras,",
+          "sigue siempre tu senda hasta el fin,",
+          "que Jesús cambiará tus dolores,",
+          "por un gozo eterno allí."
+        ],
+        "v3": [
+          "Bendiciones y grandes promesas",
+          "tiene Cristo el Señor para Ti .",
+          "y hoy rogamos te dé de su gracia",
+          "y te guarde por siempre hasta el fin."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

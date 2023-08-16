@@ -1,0 +1,61 @@
+{
+  "titles": ["El Evangelio"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "170" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "El Evangelio de Poder,",
+          "anuncia al mundo pecador,",
+          "que Cristo cambia nuestro ser,",
+          "da nueva vida y da perdón.",
+          "Hoy se predica por doquier,",
+          "como una gracia o un favor,",
+          "el que lo acepta salvo es,",
+          "si arrepentido busca a Dios."
+        ],
+        "c1": [
+          "Un Cristo vivo rige a Él,",
+          "que guía a su pueblo con amor,",
+          "hasta la Nueva Jerusalem.",
+          "Gloria a tu Nombre, Salvador!"
+        ],
+        "v2": [
+          "Es la Doctrina de Jesús,",
+          "el vivo ejemplo que Él nos dio;",
+          "ahí nos dice que es la Luz",
+          "que en las tinieblas alumbró.",
+          "Él dio su Vida en la cruz,",
+          "por redimir al pecador.",
+          "Hoy se nos brinda esta virtud,",
+          "como una dádiva de Dios."
+        ],
+        "v3": [
+          "El Evangelio de Poder,",
+          "trae un Mensaje alentador,",
+          "que nos acerca por la Fe",
+          "hasta las Plantas del Señor.",
+          "Testigos son de esta Verdad,",
+          "los que han sentido en su interior",
+          "aquel amor, aquella paz,",
+          "que sólo da la salvación."
+        ],
+        "v4": [
+          "El Evangelio de Poder,",
+          "sigue adelante arrollador;",
+          "nadie podrá contra él,",
+          "porque es Potencia de mi Dios.",
+          "y pronto el Mundo podrá ver",
+          "lo que le espera en realidad:",
+          "Si acepta a Cristo, eterno bien;",
+          "si no, una horrenda eternidad."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

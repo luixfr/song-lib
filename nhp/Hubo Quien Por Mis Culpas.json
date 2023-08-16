@@ -1,0 +1,39 @@
+{
+  "titles": ["Hubo Quien Por Mis Culpas"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "463" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Hubo quien por mis culpas muriera en la cruz,",
+          "Aun indigno y vil como soy;",
+          "Soy feliz, pues su sangre vertió mi Jesús",
+          "Y con Ella mis culpas borró."
+        ],
+        "c1": [
+          "Mis pecados llevó en la Cruz, do murió",
+          "El sublime, el tierno Jesús.",
+          "Los desprecios sufrió y mi alma salvó,",
+          "Él cambio mis tinieblas en la luz."
+        ],
+        "v2": [
+          "Es el tierno y amante, cual nadie fue,",
+          "Pues convierte al infiel corazón;",
+          "Y por esa paciencia y ternura yo sé,",
+          "Que soy libre de condenación."
+        ],
+        "v3": [
+          "Es mi anhelo constante a Cristo seguir;",
+          "Mi camino su ejemplo marcó,",
+          "Y por darme la vida El quiso morir;",
+          "En su cruz mi pecado clavó."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

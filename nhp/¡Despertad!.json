@@ -1,0 +1,55 @@
+{
+  "titles": ["¡Despertad!"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "66" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "¡Despertad, despertad, oh, Cristianos!",
+          "Vuestro sueño funesto dejad,",
+          "que el cruel enemigo os acecha,",
+          "y cautivos os quiere llevar.",
+          "Despertad, las tinieblas pasaron,",
+          "de la noche no sois hijos Ya;",
+          "que lo sois de la Luz y de día,",
+          "y tenéis el deber de luchar."
+        ],
+        "v2": [
+          "Despertad y bruñid vuestras armas,",
+          "vuestros lomos ceñid de Verdad,",
+          "y calzad vuestros pies, aprestados",
+          "con el Santo Evangelio de Paz.",
+          "Basta ya de profundas tinieblas,",
+          "basta ya de pereza mortal;",
+          "revestid, revestid vuestro pecho,",
+          "con la cota de fe y caridad."
+        ],
+        "v3": [
+          "La gloriosa armadura de Cristo,",
+          "acudid con anhelo a tomar,",
+          "confiando que el dardo enemigo,",
+          "no la puede romper ni pasar.",
+          "¡Oh, Cristianos, antorcha del mundo!",
+          "De esperanza el yelmo tomad,",
+          "embrazad de la Fe el escudo",
+          "y sin miedo corred a luchar."
+        ],
+        "v4": [
+          "No temáis, pues de Dios revestidos,",
+          "¿Qué enemigo venceros podrá,",
+          "si tomáis por espada la Biblia,",
+          "la Palabra de Dios de Verdad?",
+          "En la cruz hallaréis la bandera",
+          "en Jesús hallaréis Capitán,",
+          "en el Cielo obtendréis la corona.",
+          "¡A luchar, a luchar, a luchar!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

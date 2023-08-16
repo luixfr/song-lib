@@ -1,0 +1,43 @@
+{
+  "titles": ["Tierna Canciones"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "40" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2"],
+      "lyric": {
+        "v1": [
+          "Tiernas canciones alzad al Señor",
+          "himnos que lleven del alma la fe",
+          "y hablen muy alto del fervido amor",
+          "que hay en el pecho del hombre que cree",
+          "vengan trayendo ferviente canción",
+          "niños y ancianos, de Dios, al altar",
+          "traigan a Él su corazón",
+          "único don que podrá aceptar."
+        ],
+        "c1": [
+          "/:Cielo y tierra canten",
+          "Al Señor de las naciones:/",
+          "y los hombres todos",
+          "con alegres corazones",
+          "sirvan al Señor",
+          "que vida y paz siempre les da."
+        ],
+        "v2": [
+          "Él es la fuente de toda bondad",
+          "Él es la vida la luz y el calor",
+          "solo el nos libra de cruel ansiedad",
+          "solo el aleja del alma el dolor",
+          "digno, es por tanto, que el hombre le de",
+          "gloria y honor, que resuenen doquier",
+          "vamos a Él, llenos de fe",
+          "nos salvara con su gran poder."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

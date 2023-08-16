@@ -1,0 +1,55 @@
+{
+  "titles": ["Tienes Que Ser Ejemplo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "425" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Tienes que ser ejemplo, ¡sí!, ",
+          "como Cristo lo demanda; ",
+          "mostrando amor, fe y caridad, ",
+          "para con todo redimido. ",
+          "Y Dios tendrá piedad de ti ",
+          "cuando tú clames en la angustia,",
+          "la cual vendrá para probar ",
+          "a todo aquel que es redimido."
+        ],
+        "v2": [
+          "Tienes que ser ejemplo, ¡sí!, ",
+          "como Cristo lo demanda; ",
+          "que seamos luz, limpios también,",
+          "nuestros vestidos siempre blancos,",
+          "en santidad, conversación, ",
+          "que es propio de fieles cristianos.",
+          "“Velad y orad sin desmayar”, ",
+          "Cristo nos dice en su Palabra."
+        ],
+        "v3": [
+          "Tienes que ser ejemplo, ¡sí!, ",
+          "como Cristo lo demanda; ",
+          "venciendo siempre en oración,",
+          "pues es el arma del cristiano. ",
+          "Sin desmayar para triunfar, ",
+          "sobre las huestes del maligno ",
+          "serás feliz en tu Señor ",
+          "y vivirás eternamente."
+        ],
+        "v4": [
+          "Tienes que ser ejemplos ¡sí!, ",
+          "como Cristo lo demanda; ",
+          "mostrando siempre con temor,",
+          "firmeza y fe en su Palabra. ",
+          "Perseverad en la Unidad, ",
+          "con celo de Espíritu Santo. ",
+          "Marchad, marchad hasta llegar",
+          "a la Ciudad o Patria Santa."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

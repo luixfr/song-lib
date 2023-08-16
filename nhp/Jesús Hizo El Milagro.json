@@ -1,0 +1,49 @@
+{
+  "titles": ["Jesús Hizo El Milagro"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "417" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Jesús hizo el milagro en mi dolor, ",
+          "lo mitigó con fuego de su amor. ",
+          "De todo corazón y gratitud,",
+          "yo quiero ser testigo fiel. ",
+          "Gracias te doy, Señor, de corazón, ",
+          "porque en mi padecer me acerco a Ti;",
+          "porque eres mi Señor, ",
+          "mi gran Libertador; ",
+          "porque eres mi Jesús, ",
+          "mi eterno Redentor."
+        ],
+        "v2": [
+          "Qué hermoso es esperar en mi Jesús,",
+          "el dulce Consejero y Salvador; ",
+          "mis labios testifican de su Luz, ",
+          "que es Fuego Sacrosanto de su amor.",
+          "Si vienes a Jesús, ¡oh, pecador!, ",
+          "encontrarás la dicha y la salud, ",
+          "porque es la salvación ",
+          "que nos brindó su amor. ",
+          "¡Cuán dulce es su bondad!, ",
+          "que transformó mi ser."
+        ],
+        "v3": [
+          "Él trae en mis tristezas dulce paz, ",
+          "si voy a El rendido en oración; ",
+          "la eterna comunión que hay en El, ",
+          "para vivir me da más convicción. ",
+          "Es una eterna dicha y gran solaz, ",
+          "poder gozar feliz de su perdón. ",
+          "Escondedero fiel que nos lleva hasta Sión.",
+          "¡Divina excelsitud que trajo su Pasión!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

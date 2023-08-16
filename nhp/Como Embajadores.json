@@ -1,0 +1,55 @@
+{
+  "titles": ["Como Embajadores"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "223" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Como Embajadores",
+          "que somos del Señor Jesús,",
+          "queremos prepararnos",
+          "pues ya vivimos en la Luz.",
+          "Al Instituto amado",
+          "estamos prestos a ingresar ,",
+          "para ser Adalides y Soldados,",
+          "de Cristo Jesús."
+        ],
+        "c1": [
+          "Marchemos, Obreros,",
+          "a cumplir con la Misión,",
+          "que Cristo nos dejara",
+          "hasta llegar a Sión.",
+          "Estemos alertas",
+          "para ser fieles a Dios,",
+          "y contra el enemigo,",
+          "que ruge en derredor."
+        ],
+        "v2": [
+          "Con todo entusiasmo",
+          "venimos hoya asimilar,",
+          "las grandes Enseñanzas",
+          "que Cristo nos preparará.",
+          "Él colma nuestra arma ",
+          "de grande satisfacción, ",
+          "nos da la Corona",
+          "y un célico galardón."
+        ],
+        "v3": [
+          "Con gozo y alegría",
+          "servimos al Señor Jesús,",
+          "pues que la Santa Biblia",
+          "nos muestra nuestra gran Misión.",
+          "Somos los estudiantes",
+          "que vamos con todo valor;",
+          "llevaremos a las almas",
+          "Buenas Nuevas de Salvación."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

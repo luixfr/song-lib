@@ -1,0 +1,40 @@
+{
+  "titles": ["Gozándome Yo Voy"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "441" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Gozándome yo voy para aquel hogar,",
+          "/: caminando: /",
+          "Yo siempre no me quiero ahí quedar.",
+          "Caminando para aquel hogar."
+        ],
+        "c1": [
+          "/: Caminando: / Para aquel hogar, donde está Jesús",
+          "/: Caminando: / De la Mano del Señor Jesús."
+        ],
+        "v2": [
+          "Dejando yo este mundo, con gozo voy /: caminando: / ",
+          "Jesús ha prometido: “Contigo estoy”. ",
+          "Caminando para aquel hogar."
+        ],
+        "v3": [
+          "Yo quiero pecadores también llevar, /: caminando: / ",
+          "Pues Cristo quiere a todos aquí salvar. ",
+          "Caminando para aquel hogar."
+        ],
+        "v4": [
+          "Entonces yo a Cristo feliz veré, /: en la gloria:/",
+          "Por siempre con los santos le alabaré, ",
+          "en aquel hermoso y bello hogar."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

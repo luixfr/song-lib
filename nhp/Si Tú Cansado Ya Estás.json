@@ -1,0 +1,45 @@
+{
+  "titles": ["Si Tú Cansado Ya Estás"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "269" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Si tú cansado ya estás de pecar,",
+          "acepta el perdón de Jesús.",
+          "Si vida nueva quisieres hallar,",
+          "acepta el perdón de Jesús."
+        ],
+        "c1": [
+          "No más pecar, ven a Él,",
+          "su amor te muestra en la Cruz;",
+          "es tiempo no seas infiel,",
+          "acepta el perdón de Jesús."
+        ],
+        "v2": [
+          "Si vida pura tú quieres tener,",
+          "acepta el perdón. de Jesús;",
+          "Él es la Fuente que limpia tu ser,",
+          "acepta el perdón de Jesús."
+        ],
+        "v3": [
+          "Si tú no puedes tus luchas calmar,",
+          "acepta el perdón de Jesús;",
+          "Si tus anhelos no puedes colmar,",
+          "acepta el perdón de Jesús."
+        ],
+        "v4": [
+          "Si con los santos te quieres unir,",
+          "acepta el perdón de Jesús;",
+          "y si a los Cielos aspiras a ir,",
+          "acepta el perdón de Jesús."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

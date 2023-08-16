@@ -1,0 +1,41 @@
+{
+  "titles": ["Por Fe En Jesús"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "209" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Por fe en Jesús, el Salvador,",
+          "se hace salvo el pecador;",
+          "sin merecer tan rico Don,",
+          "recibe plena Salvación."
+        ],
+        "c1": [
+          "¡Oh, excelsa Gracia del amor!",
+          "Que Dios perdona al pecador,",
+          "si presto está a confesar",
+          "sus culpas y en Jesús confiar.",
+          "No hay otro autor de Salvación.",
+          "pues Cristo obró la redención."
+        ],
+        "v2": [
+          "La vida antigua ya pasó,",
+          "y todo nuevo se tornó.",
+          "Aquí cual peregrino es,",
+          "hogar con Dios tendrá después."
+        ],
+        "v3": [
+          "Aun cuando él nada tenga aquí,",
+          "su gran Herencia tiene, sí;",
+          "arriba en gloria con Jesús,",
+          "quién le ha salvado por su cruz."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -2,18 +2,20 @@ import fs from "fs";
 import { XMLElement, Attribute } from "xml-element";
 fetchSongs();
 function fetchSongs() {
-  const dir = __dirname + "/../coros_json/";
-  const dist = __dirname + "/../coros_openlyrics/";
+  const dir = __dirname + "/../nhp/";
+  const dist = __dirname + "/../nhp_openlyrics/";
 
   const files = fs.readdirSync(dir);
   files.map((file: string) => {
+    console.log("reading:", file);
+
     let jsonSong = fs.readFileSync(dir + "/" + file, "utf8");
     let song:Song = JSON.parse(jsonSong);
     let openLyricsSong = createOpenLyrcs(song);
 
-    let fileName = `Coro ${song.songbooks[0].number}: ${file.replace(".json", "")}`.toUpperCase()
+    let fileName = `nhp ${song.songbooks[0].number}: ${file.replace(".json", "")}`.toUpperCase()
     console.log("saving:", fileName);
-    fs.writeFileSync(dist + file + ".xml", openLyricsSong);
+    fs.writeFileSync(dist + fileName + ".xml", openLyricsSong);
   });
 }
 

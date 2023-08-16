@@ -1,0 +1,37 @@
+{
+  "titles": ["Yo Hallé Un Fiel Amigo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "145" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Yo hallé un fiel Amigo para siempre,",
+          "más que hermano, padre o madre es El.",
+          "Más que plata o que oro o que cobre,",
+          "es de todos, Jesucristo, el más fiel."
+        ],
+        "c1": [
+          "/: Sólo Cristo, sólo Cristo,",
+          "es el Lirio de los Valles, mi Jesús:/"
+        ],
+        "v2": [
+          "De Sarón, Él es la Rosa tan fragante,",
+          "y del Valle, el Lirio puro es Él.",
+          "En el alma quebrantada y tan triste,",
+          "sus olores de amor exhala Él."
+        ],
+        "v3": [
+          "Es Jesús benigno, tierno, compasivo,",
+          "lento en ira, grande en perdonar;",
+          "Él levanta con amor al abatido,",
+          "sólo Jesucristo sabe cómo amar."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,39 @@
+{
+  "titles": ["Ni Oro Ni Plata"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "207" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v1", "c1", "v1"],
+      "lyric": {
+        "v1": [
+          "Ni oro ni plata me han redimido,",
+          "entrada a los Cielos jamás pueden dar .",
+          "La Sangre de Cristo ya fue mi rescate,",
+          "tan sólo por Ella Él me pudo comprar."
+        ],
+        "c1": [
+          "Me redimió, más no con plata,",
+          "me compró el Salvador.",
+          "Con oro no, mas con su Sangre,",
+          "grande precio de su amor."
+        ],
+        "v2": [
+          "Ni oro ni plata me han redimido,",
+          "para ello mi culpa grandísima fue.",
+          "La Sangre de Cristo ya fue mi rescate,",
+          "tan sólo por Ella perdón yo hallé."
+        ],
+        "v3": [
+          "Ni oro ni plata me han redimido,",
+          "estando alejado en pecado atroz.",
+          "La Sangre de Cristo ya fue mi rescate",
+          "¡Amor tan sublime y precioso de Dios!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

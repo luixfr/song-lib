@@ -1,0 +1,45 @@
+{
+  "titles": ["Dulce Oraión"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "343" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Dulce oración, dulce oración,",
+          "de toda influencia mundanal,",
+          "elevas tú mi corazón ",
+          "al tierno Padre Celestial. ",
+          "¡Oh!, cuántas veces tuve en ti",
+          "auxilio en ruda tentación, ",
+          "y cuántos bienes recibí, ",
+          "mediante ti, dulce oración."
+        ],
+        "v2": [
+          "Dulce oración, dulce oración, ",
+          "al Trono excelsa de bondad, ",
+          "tú llevarás mi petición, ",
+          "a Dios, que escucha con piedad.",
+          "Por fe espero recibir ",
+          "la serán Divina bendición ",
+          "y siempre a mi Señor servir,",
+          "por tu virtud, dulce oración."
+        ],
+        "v3": [
+          "Dulce oración, dulce oración,",
+          "que aliento y gozo al alma das;",
+          "en esta tierra de aflicción ",
+          "consuelo siempre me serás. ",
+          "Hasta el momento en que veré ",
+          "francas las puertas de Sión, ",
+          "entonces me despediré, ",
+          "feliz, de ti, dulce oración."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

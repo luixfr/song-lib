@@ -1,0 +1,39 @@
+{
+  "titles": ["¡Oh, Padre Bendito!"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "50" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "¡Oh, Padre bendito, cuán grande és tu amor!",
+          "Mis negros delitos tu Sangre borró.",
+          "El día en que contrito imploré tu perdón,",
+          "sentí que fui limpio de mi corazón."
+        ],
+        "c1": [
+          "En tu plan Divino yo estaba contado,",
+          "de ser redimido, por siempre salvado.",
+          "Tan solo por gracia, porque no era digno,",
+          "ya que en el pecado yo estaba perdido."
+        ],
+        "v2": [
+          "Desde que he nacido en tu santa fe,",
+          "un cambio he sentido en todo mi ser.",
+          "En mí se ha cumplido tu Palabra Fiel,",
+          "pues he comprendido que he vuelto a nacer ."
+        ],
+        "v3": [
+          "Tú has prometido muy pronto volver,",
+          "llevarme Contigo al Paraíso aquel.",
+          "Do Tú por los siglos serás nuestro Rey,",
+          "con tus escogidos también yo estaré."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

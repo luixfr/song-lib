@@ -1,0 +1,53 @@
+{
+  "titles": ["Miepi Querido"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "55" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "MIEPI querido, MIEPI de Dios:",
+          "Cristo es tu Amigo, ve de Él en pos.",
+          "Sus alabanzas tú entonarás,",
+          "por El tú gozas dicha y solaz.",
+          "y pronto viene tu Redentor ,",
+          "Él te previene, /:dale loor:/"
+        ],
+        "c1": [
+          "Y mientras eso llega y mientras eso es",
+          "y mientras viene Cristo al mundo otra vez:",
+          "Tú sigue prosperando y que en tu madurez,",
+          "arda siempre el Fuego de Pentecostés"
+        ],
+        "v2": [
+          "Aniversario del MIEPI es hoy,",
+          "un testimonio de gran valor .",
+          "lIeva a Cristo hoy tu canción,",
+          "Él es tu guía, es tu Señor.",
+          "Ya viene pronto y te dará ",
+          "la recompensa /:de tu labor:/"
+        ],
+        "v3": [
+          "Cristo es la esencia de tu misión,",
+          "y de ello tienes satisfacción.",
+          "Nada te arredra, contigo El va,",
+          "mi Jesucristo, el gran Jehová.",
+          "Cristo es tu Jefe, Él te guiará",
+          "y hasta el cielo /:te llevará:/"
+        ],
+        "v4": [
+          "MIEPI bendito, Dios es tu Autor,",
+          "y siempre gozas de su favor.",
+          "Cuantas proezas tú contarás,",
+          "de maravillas lleno tú estás.",
+          "y pronto viene nuestro Señor,",
+          "y dicha eterna /:disfrutarás:/"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

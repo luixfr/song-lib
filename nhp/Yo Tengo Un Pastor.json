@@ -1,0 +1,46 @@
+{
+  "titles": ["Yo Tengo Un Pastor"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "146" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Yo tengo un Pastor sublime",
+          "a la Diestra del Padre Creador.",
+          "Su brazo gentil, redime",
+          "del pecado al más vil pecador."
+        ],
+        "c1": [
+          "Mi Buen Pastor, tu cayado me guiará.",
+          "Mi Buen Pastor, con tu amor me sostendrás.",
+          "Mi Buen Pastor, nada mi alma temerá.",
+          "Aunque en valle de sombra de muerte yo esté,",
+          "sé conmigo, y seguro estaré."
+        ],
+        "v2": [
+          "Perdiendo una oveja un día,",
+          "de su trono a la tierra bajó;",
+          "y hallándola ya perdida,",
+          "por salvarla, su vida entregó."
+        ],
+        "v3": [
+          "Acaso perdido, errante,",
+          "sin Pastor vives hoy pecador;",
+          "si oyeres su voz amante,",
+          "ven, entrégale tu corazón."
+        ],
+        "v4": [
+          "Yo tenso un Pastor que vive,",
+          "en el cielo a la Diestra de Dios;",
+          "su Vista mis pasos sigue",
+          "y dirige mi senda su Voz."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

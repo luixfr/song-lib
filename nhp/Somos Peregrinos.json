@@ -1,0 +1,35 @@
+{
+  "titles": ["Somos Peregrinos"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "451" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2"],
+      "lyric": {
+        "v1": [
+          "Somos peregrinos, vamos de paso, ",
+          "éste es el camino a la eternidad; ",
+          "es inevitable, es Ley Divina, ",
+          "está establecido que hemos de partir."
+        ],
+        "c1": [
+          "Pero en Jesús tenemos ",
+          "promesas de esperanza, ",
+          "pues resucitaremos ",
+          "en aquel día postrero. ",
+          "/: Los que se van, primero; ",
+          "los que se queden, después:/"
+        ],
+        "v2": [
+          "No somos de este mundo, “vamos de paso”,",
+          "el valle de la muerte inevitable es; ",
+          "y este tremendo trance hay que pasarlo,",
+          "pues que nuestra vida “cual la hierba es”."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

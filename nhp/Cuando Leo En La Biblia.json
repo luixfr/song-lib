@@ -1,0 +1,57 @@
+{
+  "titles": ["Cuando Leo En La Biblia"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "297" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "Cuando leo en la Biblia, cómo llama Jesús",
+          "y bendice a los niños con amor,",
+          "yo también quisiera estar,",
+          "y con ellos descansar",
+          "en los brazos del tierno Salvador ."
+        ],
+        "v2": [
+          "Ver quisiera sus Manos sobre mi reposar ,",
+          "cariñosos abrazos de Él sentir;",
+          "sus miradas disfrutar,",
+          "las palabras escuchar:",
+          "“A los niños dejad a Mí venir”."
+        ],
+        "v3": [
+          "Mas aun a su estrado en oración puedo ir",
+          "y también de su amor participar;",
+          "pues si aquí buscarle sé,",
+          "le veré y le escuchare",
+          "en el Reino que Él fue a preparar."
+        ],
+        "v4": [
+          "Los que son redimidos y salvados por Él,",
+          "al Cordero celebran inmortal;",
+          "allí voces mil y mil",
+          "se oyen del coro infantil,",
+          "porque es de ellos el Reino Celestial."
+        ],
+        "v5": [
+          "¡Cuántos hay que no saben de esta bella Mansión .",
+          "y no quieren a Cristo recibir!",
+          "Les quisiera yo mostrar",
+          "que para ellos hay lugar",
+          "en el cielo, do los convida a ir."
+        ],
+        "v6": [
+          "Yo espero aquel día venturoso, sin fin,",
+          "el más grande, el más lucido, el mejor ,",
+          "cuando de cualquier Nación,",
+          "niños mil, sin distinción,",
+          "a los Brazos acudan del Señor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

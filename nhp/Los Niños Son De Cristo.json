@@ -1,0 +1,33 @@
+{
+  "titles": ["Los Niños Son De Cristo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "301" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2"],
+      "lyric": {
+        "v1": [
+          "Los niños son de Cristo lo dice el Señor;",
+          "Por su Palabra Santa, les da su dirección",
+          "Que siempre estemos prestos para glorificar,",
+          "su Nombre a cada paso y por la eternidad."
+        ],
+        "c1": [
+          "Señor, te pedimos nos des mas te tu amor,",
+          "nos hagas niños fieles, nos des tu dirección.",
+          "Que siempre estemos prestos para glorificar",
+          "tu Nombre a cada paso y por la eternidad."
+        ],
+        "v2": [
+          "El Reino de los cielos es nuestra Mansión,",
+          "en donde moraremos, con Cristo el Salvador.",
+          "Debemos consagrarnos a Cristo, el Redentor",
+          "pues Él nos ha comprado por su santo amor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

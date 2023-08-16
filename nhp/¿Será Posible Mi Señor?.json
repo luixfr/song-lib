@@ -1,0 +1,37 @@
+{
+  "titles": ["¿Será Posible Mi Señor?"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "432" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "¿Será posible, mi Señor, que me avergüence yo de Ti?",
+          "¿De Ti, Señor, mi Salvador, 9ue ángeles adoran hoy?",
+          "¿Avergonzarme de Jesús, mi único Amigo fiel?",
+          "¡No, mi Señor! Te adoro hoy, Eterno Rey, mi Salvador."
+        ],
+        "c1": [
+          "¡No, mi Señor! Te adoro hoy, eterno Rey, mi Salvador.",
+          "Te seguiré, te alabaré, te ensalzaré, mi Salvador."
+        ],
+        "v2": [
+          "¿Avergonzarme de Jesús? Cuando mi culpa por lavar",
+          "no tenga bienes que pedir, ni alma tenga que salvar",
+          "Orgullo tengo en confesar  que mi confianza pongo en ti.",
+          "Será mi gloria que Jesús, no se avergüence, no de mi."
+        ],
+        "v3": [
+          "¿Avergonzarme  de Jesús? de tierra y mar es el Creador ",
+          "¿Del Unigénito de Dios, del Rey de gloria, mi Señor,",
+          "de mi Señor, que volverá con diez mil ángeles de luz",
+          "No, mi Señor, doy todo a Ti; me llenas con tu clara Luz."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

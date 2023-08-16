@@ -1,0 +1,45 @@
+{
+  "titles": ["Jesús Es El Caudillo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "217" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Jesús es el Caudillo Glorioso y Eternal, que",
+          "encauza nuestras luchas al triunfo sobre el mal;",
+          "y en pos de sus Pendones seguimos con lealtad,",
+          "seguros de que el triunfo será de la Verdad."
+        ],
+        "c1": [
+          "Sólo seguimos al Señor Jesús;",
+          "pertenecemos solamente a Él;",
+          "somos Heraldos de la Excelsa Cruz",
+          "y Él nos reserva Celestial laurel."
+        ],
+        "v2": [
+          "Ya libres Él nos hizo al precio de su amor,",
+          "salvando nuestras almas del mal y del error;",
+          "por eso somos fuertes, y vamos a vencer ,",
+          "que alienta nuestro pecho la fe, que da el poder."
+        ],
+        "v3": [
+          "En Luz de Eterna Vida, que sólo en Él ardió,",
+          "rompiendo nuestras sombras. Jesús se reveló;",
+          "y al dar a nuestras almas Divina claridad,",
+          "la Senda para siempre marcó de la Verdad."
+        ],
+        "v4": [
+          "Si Cristo es nuestro Jefe, vayamos a Él en pos;",
+          "si Él sólo es el Maestro, oigamos hoy su Voz.",
+          "Y al darle fervorosos el pensamiento, el ser,",
+          "pidamos que este mundo se rinda a su poder."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

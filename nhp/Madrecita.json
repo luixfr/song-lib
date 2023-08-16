@@ -1,0 +1,45 @@
+{
+  "titles": ["Madrecita"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "274" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "lyric": {
+        "v1": [
+          "Madrecita linda, madrecita santa,",
+          "con grande alegría y santo fervor;",
+          "en este gran día mi alma te canta,",
+          "te ofrece alabanza, te ofrece su amor."
+        ],
+        "v2": [
+          "Es santo el motivo que mueve al tributo,",
+          "esencia y cariño que tu alma sembró;",
+          "la planta regaste y has visto su fruto,",
+          "amor que tu vida sencilla compró."
+        ],
+        "v3": [
+          "¿Qué más puedo darte, si más te mereces?",
+          "Los grandes tesoros no pueden pagar",
+          "cariño tan santo, brindado con creces,",
+          "que el martirio y llanto no logren apagar."
+        ],
+        "v4": [
+          "Mi Dios tan precioso te dé de sus bienes,",
+          "de gracia te llene, te inunde su amor;",
+          "de joyas un día corone tus sienes,",
+          "pues lo que has sembrado pagará el Señor."
+        ],
+        "v5": [
+          "Sencillo presente te ofrecen tus hijos,",
+          "tus hijos que te aman, que te aman en verdad.",
+          "Y esperan después que mamá corrija",
+          "y también consuele en la soledad."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

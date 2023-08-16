@@ -1,0 +1,34 @@
+{
+  "titles": ["La Cruz No Será Más Pesada"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "204" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "La Gracia de Dios me bastará,",
+          "su Ayuda jamás me faltará;",
+          "consolado por su amor,",
+          "que echa fuera mi temor,",
+          "confiaré en mi Señor."
+        ],
+        "v2": [
+          "Mi cáliz nunca es tan amargo",
+          "como el de Getsemaní;",
+          "en mis días más apurados,",
+          "no se apartara Dios de mí."
+        ],
+        "v3": [
+          "La luz de su Rostro me alumbra",
+          "en el tiempo de aflicción;",
+          "y mi alma gozosa vislumbra",
+          "el Palacio de mi Dios."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

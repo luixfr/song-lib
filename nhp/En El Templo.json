@@ -1,0 +1,39 @@
+{
+  "titles": ["En El Templo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "298" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "En el Templo se encontraba",
+          "un niñito muy feliz,",
+          "y sus padres lo buscaban",
+          "con angustia y con amor."
+        ],
+        "c1": [
+          "Ese Niño era Cristo",
+          "en el Templo del buen Dios",
+          "y su rostro reflejaba",
+          "de los cielos el fulgor."
+        ],
+        "v2": [
+          "Ese Niño enseñaba",
+          "a los sabios la Verdad;",
+          "les hablaba de su Obra",
+          "y del Padre Celestial."
+        ],
+        "v3": [
+          "En el Templo se encontraba",
+          "Jesucristo, el Salvador;",
+          "anunciando a los hombres",
+          "la Divina Salvación."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

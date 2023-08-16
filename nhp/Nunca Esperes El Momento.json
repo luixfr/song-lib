@@ -1,0 +1,38 @@
+{
+  "titles": ["Nunca Esperes El Momento"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "323" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Nunca esperes el momento de una grande acción,",
+          "Que pueda lejos ir tu luz; ",
+          "de la vida a los pequeños actos da atención; ",
+          "brilla en el sitio donde estés."
+        ],
+        "c1": [
+          "/:“Brilla en el sitio donde esté”:/",
+          "Puedes con tu luz algún perdido rescatar; ",
+          "brilla en el sitio donde estés."
+        ],
+        "v2": [
+          "Puedes en tu cielo alguna nube disipar, ",
+          "haz a un lado tu egoísmo cruel; ",
+          "aunque sólo un corazón pudieres consolar",
+          "brilla en el sitio donde estés."
+        ],
+        "v3": [
+          "Puede tu talento alguna cosa descubrir, ",
+          "do tu luz podrá resplandecer; ",
+          "de tu mano el Pan de Vida puede aquí venir;",
+          "brilla en el sitio donde estés."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

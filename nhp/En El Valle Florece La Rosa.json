@@ -1,0 +1,51 @@
+{
+  "titles": ["En El Valle Florece La Rosa"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "106" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5"],
+      "lyric": {
+        "v1": [
+          "En el valle florece la Rosa,",
+          "la más bella del valle Sarón. ",
+          "y la vida en Jesús es hermosa,",
+          "si se acepta con el corazón."
+        ],
+        "c1": [
+          "Yo estaré con Jesús en el cielo,",
+          "do por siempre su Rostro veré;",
+          "con los santos, en sus alabanzas,",
+          "con mi canto también me uniré."
+        ],
+        "v2": [
+          "En el valle florece la Rosa,",
+          "Es hermosa y trasciende su olor;",
+          "como el alma que en Cristo reposa,",
+          "y ha encontrado la fuente de amor ."
+        ],
+        "v3": [
+          "En el valle florece la Rosa,",
+          "y embellece a los campos do está.",
+          "La Palabra de Cristo es hermosa,",
+          "en el alma que la acepta ya."
+        ],
+        "v4": [
+          "Si es hermosa la rosa del campo,",
+          "que hermoseada por tiempos está.",
+          "Cuándo más es la vida de Cristo,",
+          "que Él ofrece por la eternidad."
+        ],
+        "v5": [
+          "Es Jesús la promesa divina,",
+          "es la Rosa más bella que el sol;",
+          "es la Rosa de toda la Iglesia,",
+          "que le sirve con el corazón."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

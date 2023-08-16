@@ -1,0 +1,45 @@
+{
+  "titles": ["Marché Ya De Egipto"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "30" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Marché ya de Egipto a la tierra de Canaán,",
+          "Mi Salvador me guiaba con mano de poder.",
+          "Él me dio victoria sobre fuego y mar,",
+          "y cuando fui salvado, ya pude jubilar."
+        ],
+        "c1": [
+          "Y en Egipto, ya no me busquen más,",
+          "porque habito ya en tierra de Canaán.",
+          "Y en Egipto, ya no me busquen más,",
+          "porque habito ya en tierra de Canaán."
+        ],
+        "v2": [
+          "Mi amor lo puse en Él y al blanco yo miré,",
+          "andando en su camino, mi Canaán anhelé;",
+          "allí me dio herencia, en su fidelidad;",
+          "ya canto ¡Aleluya! ¡Qué grande libertad!"
+        ],
+        "v3": [
+          "Anduve sobre montes, a Escol me bajé,",
+          "en donde; uvas, higos, granadas, encontré.",
+          "Miel y leche mana la tierra de Canaán,",
+          "y nunca más a Egipto deseo regresar."
+        ],
+        "v4": [
+          "Mi corazón rebosa hoy de gozo y paz,",
+          "y debo alabarle por cada día más.",
+          "Estoy marchando firme al celeste hogar,",
+          "y pronto allí llevado, iré a reposar."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

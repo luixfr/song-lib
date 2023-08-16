@@ -1,0 +1,45 @@
+{
+  "titles": ["Alguna Vez Ya No Estaré"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "434" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Alguna vez, ya no estaré ",
+          "en mi lugar en esta grey; ",
+          "más, ¡cuán feliz despertaré ",
+          "en el palacio de mi Rey!"
+        ],
+        "c1": [
+          "Yo le veré y en, dulce amor ",
+          "iré a vivir con El allí. ",
+          "Y le diré: “Mi buen Señor, ",
+          "por gracia yo salvado fui”."
+        ],
+        "v2": [
+          "Alguna vez, la muerte atroz ",
+          "vendrá, mas cuándo? No lo sé. ",
+          "Pero esto sé: con mi buen Dios, ",
+          "un sitio yo feliz tendré."
+        ],
+        "v3": [
+          "Alguna vez, yo, como el sol, ",
+          "mi ocaso y fin tendré también. ",
+          "Mas me dirá mi buen Señor: ",
+          "“Mi siervo fiel, Conmigo ven”"
+        ],
+        "v4": [
+          "El día feliz espero yo, ",
+          "con mi candil ardiendo ya; ",
+          "las puertas me abrirá el Señor ",
+          "y mi alma a Él con gozo irá."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

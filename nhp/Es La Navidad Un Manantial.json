@@ -1,0 +1,52 @@
+{
+  "titles": ["Es La Navidad Un Manantial"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "286" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Es la Navidad un manantial",
+          "que derrama gozo sin igual,",
+          "es torrente de paz y de amor;",
+          "es que al mundo nace un Salvador.",
+          "Es de Dios la Buena Voluntad,",
+          "para con los hombres, ¡gran bondad!",
+          "De millares de ángeles el son,",
+          "anunciando eterna redención."
+        ],
+        "c1": [
+          "Es el nacimiento sacrosanto,",
+          "por Obra del Espíritu Santo; ",
+          "Es la Dádiva del Padre Santo",
+          "para el abatido pecador,",
+          "para salvación del malhechor."
+        ],
+        "v2": [
+          "Es la Navidad Faro de Luz,",
+          "para un mundo en densa obscuridad,",
+          "el Advenimiento del Señor,",
+          "manifestación del Dios de amor.",
+          "“He aquí que os ha nacido hoy",
+          "y las Nuevas de gran gozo os doy;",
+          "es en la ciudad del Rey David",
+          "donde nace al pueblo un Salvador”."
+        ],
+        "v3": [
+          "El espíritu de Navidad",
+          "ingerido en nuestro corazón;",
+          "Es Espíritu de adoración",
+          "al que nace Niño, pero es Dios.",
+          "Es el Cumplimiento Celestial",
+          "de Promesa grande, Divinal;",
+          "es Mensaje de gracia eternal,",
+          "que en Jesús el Padre nos legó."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

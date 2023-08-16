@@ -1,0 +1,50 @@
+{
+  "titles": ["Si Al Cruel Enemigo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "267" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5"],
+      "lyric": {
+        "v1": [
+          "Si al cruel enemigo temes combatir ,",
+          "si la duda agobia siempre tu existir,",
+          "que la hermosa Luz de Dios fulgure en ti",
+          "y serás feliz así."
+        ],
+        "c1": [
+          "/:¡Deja penetrar la Luz de Dios!:/",
+          "Que la hermosa Luz de Dios fulgure en ti",
+          "y serás feliz así."
+        ],
+        "v2": [
+          "Si tu fe en Jesús muy flaca y débil es,",
+          "si Dios no contesta tu ferviente prez;",
+          "que la hermosa Luz de Dios fulgure en ti",
+          "y serás feliz así."
+        ],
+        "v3": [
+          "Si feliz el Cielo anhelas alcanzar ,",
+          "y del mal y las tinieblas escapar,",
+          "que la hermosa Luz de Dios fulgure en ti",
+          "y serás feliz así."
+        ],
+        "v4": [
+          "Si anduviéremos en Luz, Divina Luz,",
+          "limpios nos hará la Sangre de Jesús;",
+          "claridad tendremos en el corazón,",
+          "si vivimos en la Luz."
+        ],
+        "v5": [
+          "Si el Espíritu de Dios, Consolador i",
+          "Luz del Cielo, trae Divino resplandor;",
+          "cuando tenga entrada Él en tu corazón,",
+          "Él será tu eterna Luz."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

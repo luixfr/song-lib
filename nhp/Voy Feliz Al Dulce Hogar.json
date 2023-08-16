@@ -1,0 +1,39 @@
+{
+  "titles": ["Voy Feliz Al Dulce Hogar"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "453" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Voy feliz al dulce hogar por fe en Jesús,",
+          "mientras lucho por traer, almas a la Luz;",
+          "dardos encendidos mil vienen contra mí,",
+          "mas yo sé, por la fe, venceré aquí."
+        ],
+        "c1": [
+          "¡Oh, si quiero verle, ver al salvador!",
+          "Quiero ver su rostro lleno de amor,",
+          "En aquel gran día yo he de cantar:",
+          "Ya paso todo afán, todo mi pesar."
+        ],
+        "v2": [
+          "En las olas del turbión, Cristo guardará",
+          "mi barquilla y guiara hasta el puerto allá;",
+          "yo tranquilo puedo estar, mi Piloto es Él,",
+          "es mi Rey, tengo fe, se que Él es fiel."
+        ],
+        "v3": [
+          "En servir al salvador por los valles voy,",
+          "donde muchas sombras hay, mas seguro estoy;",
+          "muchos triunfos obtendré, nunca faltará",
+          "mi Jesús, es la Luz, Él me sostendrá."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

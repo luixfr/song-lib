@@ -1,0 +1,45 @@
+{
+  "titles": ["Puedo Oír Tu Voz Llamando"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "157" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Puedo oír tu Voz llamando",
+          "con acento cariñoso;",
+          "puedo oír tu llamamiento:",
+          "Trae tu cruz y ven en pos de Mí."
+        ],
+        "c1": [
+          "Seguiré do Tú me guíes,",
+          "si tu Mano me conduce;",
+          "Salvador, seguirte quiero,",
+          "dondequiera fiel te seguiré."
+        ],
+        "v2": [
+          "Yo te seguiré en el huerto,",
+          "por la senda dolorosa;",
+          "y al seguirte siempre alegre,",
+          "sufriré Contigo, mi Jesús."
+        ],
+        "v3": [
+          "Sufriré por Ti, Maestro,",
+          "si tu Gracia me sostiene;",
+          "y si Tú irás conmigo,",
+          "moriré Contigo, mi Jesús."
+        ],
+        "v4": [
+          "Me darás la Gracia y gloria,",
+          "y me sostendrás por siempre.",
+          "Cada hora yo te quiero,",
+          "y por siempre Tú me guiarás."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

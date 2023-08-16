@@ -1,0 +1,55 @@
+{
+  "titles": ["Perdón, Señor, Perdón"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "63" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Perdón, Señor, perdón.",
+          "Confieso que he pecado;",
+          "mas Tú eres Salvador y Rey,",
+          "y a Ti ya me he entregado.",
+          "Confieso mi egoísmo,",
+          "confieso mi maldad,",
+          "por eso hoy te pido:",
+          "Perdón, Señor, piedad."
+        ],
+        "v2": [
+          "Confieso que del fango,",
+          "del vicio y la miseria;",
+          "he sido siempre esclavo,",
+          "porque ignorado me eras.",
+          "Por eso voy confiado,",
+          "te digo Redentor:",
+          "Perdona mis pecados",
+          "y guárdame en tu amor ."
+        ],
+        "v3": [
+          "Perdona la ambición",
+          "que siempre yo he tenido,",
+          "deseando en mi Interior",
+          "todo lo prohibido.",
+          "Perdona de mi mente,",
+          "lo que he pensado mal",
+          "y hoy haz que sólo piense,",
+          "Señor, en tu bondad."
+        ],
+        "v4": [
+          "Perdona de mi pecho,",
+          "la mísera pasión,",
+          "y enciende un fuego inmenso,",
+          "de mística oración.",
+          "Perdón, Señor y Gracia,",
+          "para este pecador,",
+          "que lleno de confianza,",
+          "expirará en tu amor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

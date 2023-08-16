@@ -1,0 +1,39 @@
+{
+  "titles": ["Oigo La Voz Del Buen Pastor"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "324" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Oigo la Voz del Buen Pastor ",
+          "en espantosa soledad;",
+          "llama al cordero que, en temor ",
+          "vaga en la densa oscuridad."
+        ],
+        "c1": [
+          "Llama aún con bondad, ",
+          "quiere darte libertad.",
+          "Ven a Mí, con amor ",
+          "dice Cristo el Salvador."
+        ],
+        "v2": [
+          "¿Quién ayudar quiere a Jesús,",
+          "a los perdidos a buscar?",
+          "Difunda por doquier la Luz ",
+          "del Evangelio a predicar."
+        ],
+        "v3": [
+          "Triste desierto el mundo es, ",
+          "rodeado de peligros mil; ",
+          "ven, dice Cristo, a la mies;",
+          "traed mis ovejas al redil."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

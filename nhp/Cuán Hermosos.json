@@ -1,0 +1,53 @@
+{
+  "titles": ["Cuán Hermosos"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "86" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Cuan hermosos son tus dichos,",
+          "me deleito siempre en ellos,",
+          "/:Mi sublime Salvador:/",
+          "Tus consejos son de vida",
+          "son consuelo al entendido",
+          "/:Nos dan toda bendición:/."
+        ],
+        "c1": [
+          "Nuestra Biblia es inspirada",
+          "por Espíritu de Dios;",
+          "y así es glorificada",
+          "por el pueblo del Señor."
+        ],
+        "v2": [
+          "No hay consejos tan sagrados",
+          "que conduzcan a lo bueno",
+          "/:Solo el Libro de mi Dios:/",
+          "Nos transforma plenamente,",
+          "nos llena de bendiciones,",
+          "/:porque es Palabra de Dios:/."
+        ],
+        "v3": [
+          "Tu que escuchas buen amigo,",
+          "no desprecies los consejos",
+          "/:De mi Cristo y buen Jesús:/",
+          "En las Santas Escrituras",
+          "encontramos la historia",
+          "/:Del eterno Salvador:/."
+        ],
+        "v4": [
+          "Jesucristo vino al mundo",
+          "a invitarnos a su gloria",
+          "/:La Biblia lo dice así:/",
+          "Si vivimos sus consejos",
+          "gozaremos para siempre",
+          "/:con Jesús nuestro Señor:/."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

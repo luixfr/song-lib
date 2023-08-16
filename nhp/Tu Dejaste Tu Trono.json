@@ -1,0 +1,45 @@
+{
+  "titles": ["Tu Dejaste Tu Trono"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "293" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Tú dejaste tu Trono y Corona por mí,",
+          "al venir a Belén a nacer;",
+          "mas a Ti no fue dado el entrar al mesón,",
+          "y en pesebre te hicieron nacer."
+        ],
+        "c1": [
+          "Ven a mi corazón, ¡Oh Cristo!,",
+          "pues en él hay lugar para Ti.",
+          "Ven a mi corazón, ¡Oh Cristo!, ven,",
+          "pues en él hay lugar para ti."
+        ],
+        "v2": [
+          "Alabanzas celestes los ángeles dan",
+          "en que rinden al Verbo loor;",
+          "mas humilde viniste a la tierra, Señor,",
+          "a dar vida al más vi i pecador."
+        ],
+        "v3": [
+          "Siempre pueden las zorras sus cuevas tener",
+          "y las aves sus nidos también;",
+          "mas el Hijo del Hombre no tuvo un lugar",
+          "en el cual reclinara su sien."
+        ],
+        "v4": [
+          "Tú viniste, Señor, con tu gran bendición,",
+          "para dar libertad y salud;",
+          "mas con odio y desprecio te hicieron morir,",
+          "aunque vieron tu amor y Virtud."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

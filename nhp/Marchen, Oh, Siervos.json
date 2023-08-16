@@ -1,0 +1,41 @@
+{
+  "titles": ["Marchen, Oh, Siervos"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "320" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2"],
+      "lyric": {
+        "v1": [
+          "Marchen, oh, Siervos de Dios, ",
+          "para luchar con el Señor; ",
+          "marchen con fuego y con fe, ",
+          "contra las huestes de Satán. ",
+          "Marchen, oh, Siervos de Dios, ",
+          "para llegar con bella Luz; ",
+          "marchen, oh, Siervos, ",
+          "para triunfar con el Señor."
+        ],
+        "c1": [
+          "Felicidad deseamos con grande gozo,",
+          "Cuando esforzados marchen con el Señor; ",
+          "siempre triunfar les vemos en su carrera, ",
+          "porque el Señor les llena de bendición."
+        ],
+        "v2": [
+          "Sigan venciendo en la lid ",
+          "como soldados de Jesús, ",
+          "como pelea un adalid, ",
+          "contra el maligno tentador. ",
+          "Sigan venciendo a la par",
+          "con fortaleza del Señor. ",
+          "Sigan en triunfo",
+          "al fiel y grande Redentor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

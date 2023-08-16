@@ -1,0 +1,63 @@
+{
+  "titles": ["Por La Inefable Luz"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "33" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "Por la inefable luz del día,",
+          "que tanto alegra el corazón,",
+          "al despertarnos diariamente,",
+          "cuando admiramos el fulgor",
+          "de una alborada rubia y bella,",
+          "gracias sean dadas a mi Dios."
+        ],
+        "v2": [
+          "Por el aroma de las flores,",
+          "en cuyas galas de color,",
+          "vemos la mano omnipotente,",
+          "cuyo pincel las matizo;",
+          "por tantas, tantas maravillas",
+          "gracias sean dadas a mi Dios."
+        ],
+        "v3": [
+          "Por ese pan de cada día,",
+          "que el nos concede con amor,",
+          "infatigable, bueno y santo,",
+          "a todo ser de la creación;",
+          "por ese pan que nos da vida",
+          "gracias sean dadas a mi Dios."
+        ],
+        "v4": [
+          "Y por el techo que nos cubre",
+          "y por su santa bendición",
+          "y por la vida de mis padres,",
+          "que me arrullaron con amor",
+          "por tantas dadivas preciosas",
+          "gracias sean dadas a mi Dios."
+        ],
+        "v5": [
+          "Por esa chispa milagrosa,",
+          "de inteligencia que el nos dio,",
+          "para pensar en lo infinito,",
+          "con alas bellas de amor;",
+          "por ese exelso privilegio,",
+          "gracias sean dadas a mi Dios."
+        ],
+        "v6": [
+          "Por esa dicha tan insigne,",
+          "que en su piedad nos dispenso,",
+          "mandando a su hijo sacrosanto,",
+          "a consumar la redención",
+          "de los humanos pecadores.",
+          "gracias sean dadas a mi Dios."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

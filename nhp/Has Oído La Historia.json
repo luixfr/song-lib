@@ -1,0 +1,45 @@
+{
+  "titles": ["Has Oído La Historia"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "45" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "¿Has oído la historia de Cristo,",
+          "dulce historia de gracia y de amor?",
+          "Cuando débil y pobre y caído,",
+          "redimido me vi del dolor."
+        ],
+        "c1": [
+          "¡Su inmenso amor, yo cierto estoy,",
+          "Jamás su igual tener podrá.",
+          "a su fulgor, en la vida voy,",
+          "y el cielo así, en mi alma va!"
+        ],
+        "v2": [
+          "Has oído que dijo a las gentes:",
+          "“los cansados venid hasta mi”",
+          "vine a Él y sentí que al instante,",
+          "de su amor el objeto yo fui."
+        ],
+        "v3": [
+          "Has oido de aquellos que ciegos,",
+          "a sus ojos el dioles la luz o tambien, ",
+          "cuando estaba en las sombras,",
+          "a la luz me llevo mi Jesús."
+        ],
+        "v4": [
+          "Has oído el mar tempestuoso",
+          "que el Señor con su voz aquieto",
+          "tu sabrás que las rudas tormentas,",
+          "de mi vida el Señor ya calmo."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

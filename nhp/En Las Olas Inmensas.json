@@ -1,0 +1,39 @@
+{
+  "titles": ["En Las Olas Inmensas"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "344" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "En las olas inmensas de embravecido mar,",
+          "que asaltan de mi alma, la pobre embarcación,",
+          "de rodillas a Cristo, clamé y el huracán ",
+          "deshecho fue al instante a la Voz de Dios."
+        ],
+        "c1": [
+          "Es Cristo la Roca, el Ancla de mi fe; ",
+          "los males, lamentos y ayes de temor, ",
+          "terminarán por siempre con mi Supremo Rey; ",
+          "es Jesucristo mi refugio."
+        ],
+        "v2": [
+          "Me guarda de peligros, de pruebas, de dolor, ",
+          "Él manda que los vientos no agiten tempestad; ",
+          "los mares se detienen la ola reposó, ",
+          "y en Cristo fijo el ancla, confiando más."
+        ],
+        "v3": [
+          "Mi dulce Salvador, sí, mi hermoso Amigo y Dios, ",
+          "que libra de tristezas y aleja amarga hiel; ",
+          "por fe yo iré al Cielo, Mansión deL Ser de amor,",
+          "la Fuente inagotable de dicha y bien."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

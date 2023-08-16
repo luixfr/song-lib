@@ -1,0 +1,41 @@
+{
+  "titles": ["La Juventud Cristiana"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "231" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "c2"],
+      "lyric": {
+        "v1": [
+          "La juventud cristiana luz debe difundir,",
+          "y en medio de la obscuridad ha de refulgir.",
+          "Densas tinieblas tratarán de opacar su Luz,",
+          "pero un Dínamo Celestial hallará en la Cruz."
+        ],
+        "c1": [
+          "Brilla, juventud, haz brillar tu Luz, ",
+          "eres un fanal, del Señor Jesús."
+        ],
+        "v2": [
+          "La juventud antorcha es, lumbre espiritual;",
+          "y su misión es alumbrar en la obscuridad.",
+          "es el Dínamo Celestial de la juventud;",
+          "Cristo Jesús, nuestro Señor, Luz, Poder, Virtud!"
+        ],
+        "v3": [
+          "La Juventud resistirá siempre a la maldad,",
+          "y con la ayuda de Jehová siempre vencerá.",
+          "El enemigo atacará con furia tenaz,",
+          "pero en el Nombre de Jesús: ¡Huye Satanás!"
+        ],
+        "c2": [
+          "¡Marcha, juventud! Todo lo podrás,",
+          "en Cristo Jesús fuerza encontrarás."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

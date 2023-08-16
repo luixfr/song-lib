@@ -1,0 +1,39 @@
+{
+  "titles": ["La Hora Llegó Al Fin"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "168" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "La hora llegó al fin, de separarnos ya;",
+          "cada uno a proseguir la lucha contra el mal.",
+          "Por todo el mundo id, del Evangelio hablad,",
+          "este es el Mandamiento que el Señor os da."
+        ],
+        "c1": [
+          "Si no nos vemos más, en este mundo infiel,",
+          "tal vez la negra noche sorprenda a nuestro ser.",
+          "Será en la claridad de un nuevo amanecer,",
+          "cuando con Cristo unidos nos veamos otra vez."
+        ],
+        "v2": [
+          "Llevemos por doquier las Nuevas de bondad,",
+          "que el mundo pueda ver que amamos de verdad.",
+          "Venciendo con el bien al que nos diere mal.",
+          "así cumplir la Ley que nuestro Señor da."
+        ],
+        "v3": [
+          "Salgamos a cumplir la más Santa Misión,",
+          "que el mundo pueda oír que Cristo da perdón.",
+          "y sea nuestro sentir servirle con amor ,",
+          "trayendo a su redil a todo pecador."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

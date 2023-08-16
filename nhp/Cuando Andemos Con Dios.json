@@ -1,0 +1,37 @@
+{
+  "titles": ["Cuando Andemos Con Dios"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "149" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Cuando andemos con Dios, escuchando su Voz,",
+          "nuestra senda florida será.",
+          "Si acatamos su ley, Él será nuestro Rey,",
+          "y con Él reinaremos allá."
+        ],
+        "c1": [
+          "Obedecer, cumple a nuestro deber.",
+          "Si queréis ser felices, debéis obedecer."
+        ],
+        "v2": [
+          "Cuando Cristo murió, nuestro llanto enjugó;",
+          "proclamarle debemos doquier.",
+          "Gozarás del amor, de tu Rey y Señor,",
+          "si obediente le quieres tú ser."
+        ],
+        "v3": [
+          "No podremos probar sus delicias sin par,",
+          "si seguimos mundano el placer.",
+          "Obtendremos su amor y el Divino favor,",
+          "si sus leyes queremos hacer."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

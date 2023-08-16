@@ -1,0 +1,45 @@
+{
+  "titles": ["Aquí Estoy A Tus Plantas"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "396" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Aquí estoy a tus plantas, Señor, ",
+          "soy objeto de tu inmenso amor; ",
+          "nada te puedo ofrecer, ",
+          "sólo traigo mi contrito corazón. ",
+          "Sólo Tú, divino Salvador, ",
+          "me libraste de la perdición ",
+          "dando tu vida, también tu Sangre ",
+          "para mostrarme la grandeza de tu amor."
+        ],
+        "v2": [
+          "Pero hoy que soy a Ti deudor ",
+          "y que sé jamás podré pagar, ",
+          "quiero servirte, Señor, ",
+          "y es mi vida la ofrenda de mi amor.",
+          "Quiero fiel caminar con Jesús, ",
+          "cargaré esta gloriosa cruz, ",
+          "y aunque sufra de noche y día, ",
+          "en mi agonía clamaré a Ti, Señor."
+        ],
+        "v3": [
+          "Caminando en pos de Ti, Señor, ",
+          "cruzaré la senda del dolor, ",
+          "yen mis horas de aflicción, ",
+          "sólo Cristo puede darme protección. ",
+          "Las espinas herirán mi pie, ",
+          "los desprecios minarán mi fe, ",
+          "pero mi alma será guardada ",
+          "bao la Sangre de Jesús, quien la compró."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

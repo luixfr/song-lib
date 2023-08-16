@@ -1,0 +1,45 @@
+{
+  "titles": [
+    "¡Hosanna! ¡hosanna!"
+  ],
+  "authors": [
+    "Autor desconocido"
+  ],
+  "languages": [
+    "spanish"
+  ],
+  "songbooks": [
+    {
+      "name": "Nuestos Himnos Predilectos",
+      "number": "22"
+    }
+  ],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": [
+        "v1",
+        "v1",
+        "v1"
+      ],
+      "lyric": {
+        "v1": [
+          "¡Hosanna! ¡Hosanna! ¡Hosanna!",
+          "En cielo y tierra, es del Señor,",
+          "la gloria y potestad,",
+          "y nos circunda con su amor",
+          "la Excelsa Trinidad.",
+          "Alzad, pues, himnos de loor,",
+          "que es grato al Sumo Bien;",
+          "y a Dios rindamos todo honor",
+          "ahora y siempre, Amén.",
+          "A Dios rindamos todo honor,",
+          "todo honor, todo honor;",
+          "a Dios rindamos todo honor,",
+          "ahora y siempre, Amén."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

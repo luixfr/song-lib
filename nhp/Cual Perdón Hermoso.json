@@ -1,0 +1,44 @@
+{
+  "titles": ["Cual Perdón Hermoso"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "312" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Cual pendón hermoso, despleguemos hoy",
+          "la bandera de la Cruz, ",
+          "la Verdad del Evangelio, el blasón ",
+          "del soldado de Jesús."
+        ],
+        "c1": [
+          "/:Adelante:/ En pos de nuestro Salvador.",
+          "Con plena fe en nuestro Rey. ",
+          "¡Adelante con valor!"
+        ],
+        "v2": [
+          "Prediquemos siempre lo que dice Dios ",
+          "de la Sangre de Jesús: ",
+          "Cómo limpia del pecado al mortal, ",
+          "y le compra la salud."
+        ],
+        "v3": [
+          "En el mundo proclamemos con fervor ",
+          "esta historia de la Cruz; ",
+          "bendigamos sin cesar al Redentor, ",
+          "que nos dio su paz y luz."
+        ],
+        "v4": [
+          "el cielo nuestro cántico será: ",
+          "¡Aleluya a Jesús! ",
+          "Nuestro corazón allí rebosará ",
+          "de amor y gratitud."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

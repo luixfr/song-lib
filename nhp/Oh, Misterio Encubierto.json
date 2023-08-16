@@ -1,0 +1,49 @@
+{
+  "titles": ["Oh, Misterio Encubierto"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "80" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5"],
+      "lyric": {
+        "v1": [
+          "Oh, misterio encubierto en la sombras de la ley,",
+          "que el gran Dios en el desierto dio al pueblo de Israel. Con relámpagos y truenos y entre nubes",
+          "y el clarín, dio la Ley para su pueblo en el monte Sinaí."
+        ],
+        "c1": [
+          "Dios, Fuego consumidor",
+          "Dios, Llama de Santo amor",
+          "Dios, llena de vivo ardor a cada corazón."
+        ],
+        "v2": [
+          "Ya las sombras se acabaron, ya resplandeció la luz,",
+          "al venir el fuego santo prometido por JESÚS.",
+          "En el Aposento Alto, en el gran Pentecostés",
+          "vino el Espíritu santo con señales de poder."
+        ],
+        "v3": [
+          "Con divinos resplandores ya la santa Luz brillo,",
+          "y del cielo los fulgores, a los santos alumbro. Fue",
+          "el estruendo como viento, el que al fuego, precedió.",
+          "Ciento veinte en el momento, el Señor los bautizo."
+        ],
+        "v4": [
+          "Con su Espíritu Divino, que a los fieles prometió,",
+          "lenguas de Divino Fuego, por señal Jesús les dio.",
+          "y hablaron otras lenguas con señales de poder",
+          "y alabaron en Espíritu al Dios vivo de Israel."
+        ],
+        "v5": [
+          "Ya la Antigua Ley escrita abolida se quedo,",
+          "por la nueva ley de vida que en el corazón grabo,",
+          "el Espíritu, que es Vida, \tque del cielo descendió,",
+          "las almas que esperaban, con su fuego bautizo."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

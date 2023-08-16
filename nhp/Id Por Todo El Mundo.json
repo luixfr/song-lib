@@ -1,0 +1,21 @@
+{
+  "titles": ["Id Por Todo El Mundo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "70" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v1", "v1"],
+      "lyric": {
+        "v1": [
+          "Cómo son bautizadas por su fe;",
+          "es complemento santo",
+          "de plena salvación,",
+          "y así lo testifican ante Dios."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

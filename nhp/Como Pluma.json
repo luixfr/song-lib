@@ -1,0 +1,35 @@
+{
+  "titles": ["Como Pluma"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "401" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2"],
+      "lyric": {
+        "v1": [
+          "Como pluma que en el viento, ",
+          "no llevando dirección, ",
+          "así fue mi pensamiento, ",
+          "así fue mi corazón. ",
+          "Pero ahora que en mí siento ",
+          "esta grande salvación, ",
+          "es que he hallado lo perfecto, ",
+          "lo Divino de tu amor."
+        ],
+        "v2": [
+          "Mientras andaba perdido, ",
+          "me has cuidado Tú, Señor; ",
+          "me llamabas como niño, ",
+          "como a todo pecador. ",
+          "Pero, ahora, aquí rendido, ",
+          "yo te doy mi corazón; ",
+          "quiero siempre estar Contigo, ",
+          "al amparo de tu amor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

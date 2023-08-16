@@ -1,0 +1,39 @@
+{
+  "titles": ["Sólo A Ti, Dios Y Señor"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "37" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Sólo a Ti, Dios y Señor, /: adoramos:/",
+          "y la gloria y el honor /:tributamos:/",
+          "Sólo a Cristo, nuestra luz, /:acudimos:/",
+          "Por su muerte en la cruz /:revivimos:/"
+        ],
+        "v2": [
+          "Un Espíritu, no más /:nos gobierna:/",
+          "y con El, Señor, nos das /:paz eterna:/",
+          "Él es Fuego Celestial, /:cuya Ilama:/",
+          "En amor, que es sin igual, /:nos inflama:/"
+        ],
+        "v3": [
+          "Disfrutamos tu favor /:solamente:/",
+          "Por Jesús, fuente de amor /:permanente:/",
+          "Sólo El nos libertó /:de la muerte:/",
+          "Sólo Él se declaró: /: nuestro fuerte:/"
+        ],
+        "v4": [
+          "Sólo tú, oh, gran Creador, /:Dios eterno:/",
+          "Nos libraste del furor /:del infierno:/",
+          "y por esto con placer /:proclamamos:/",
+          "Que tan sólo en tu poder /:confiamos:/"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,41 @@
+{
+  "titles": ["Marcha, Oh, Siervo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "186" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2"],
+      "lyric": {
+        "v1": [
+          "Marcha, oh, siervo de Dios,",
+          "Para luchar con el Señor;",
+          "marcha con fuego y con fe",
+          "contra las huestes de Satán.",
+          "Marcha, oh, siervo de Dios",
+          "y ve esparciendo bella luz.",
+          "Marcha, oh, siervo,",
+          "para triunfar con el Señor."
+        ],
+        "c1": [
+          "Felicidades deseamos con grande gozo,",
+          "al que esforzado marcha con el Señor;",
+          "siempre triunfar le vemos en su carrera,",
+          "siendo su vida entera grande bendición."
+        ],
+        "v2": [
+          "Sigue valiente en la lid",
+          "como soldado de Jesús,",
+          "como pelea un adalid",
+          "contra el maligno tentador .",
+          "Sigue venciendo a la par",
+          "con fortaleza del Señor .",
+          "Sigue en el triunfo",
+          "de Cristo, grande Redentor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

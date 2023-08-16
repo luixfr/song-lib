@@ -1,0 +1,37 @@
+{
+  "titles": ["El Gran Día Viene"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "239" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "El gran día viene, muy pronto viene,",
+          "el gran día del juicio final,",
+          "cuando justos y malos el Gran Juez apartará;",
+          "esperemos el juicio final."
+        ],
+        "c1": [
+          "/:¿Estás listo?:/ La trompeta ya da la señal.",
+          "¿Estás listo, esperando el juicio final?"
+        ],
+        "v2": [
+          "Día triste viene, muy pronto viene,",
+          "el gran día del juicio final,",
+          "cuando el pueblo rebelde reprobado allí será;",
+          "esperemos el juicio final."
+        ],
+        "v3": [
+          "El gran día viene, muy pronto viene,",
+          "Cuando Cristo vendrá en poder;",
+          "mas el gozo lo sienten los amados del Señor;",
+          "esperemos a nuestro Señor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

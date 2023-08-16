@@ -1,0 +1,39 @@
+{
+  "titles": ["Jamás Olvidaré"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "89" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Jamás olvidaré mi Biblia,",
+          "porque es regalo de mi Dios.",
+          "Mis penas siempre las alivia",
+          "y quita todo mi dolor."
+        ],
+        "c1": [
+          "¡Oh, Libro Incomparable!",
+          "Me llenas de felicidad.",
+          "Tu Poder insuperable,",
+          "es para la eternidad."
+        ],
+        "v2": [
+          "No hay otro Libro que se iguale,",
+          "al Libro eterno del Señor.",
+          "Es de valor incalculable,",
+          "pues es Inspiración del Redentor."
+        ],
+        "v3": [
+          "La Biblia es mi deleite,",
+          "lo digo con satisfacción;",
+          "jamás yo la podré olvidar ,",
+          "pues me conduce hasta Sión."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

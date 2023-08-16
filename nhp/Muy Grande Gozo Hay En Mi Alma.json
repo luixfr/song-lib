@@ -1,0 +1,44 @@
+{
+  "titles": ["Muy Grande Gozo Hay En Mi Alma"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "166" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Muy grande gozo hay en mi alma,",
+          "por esta grande Convención,",
+          "que nuestro Dios nos ha concedido,",
+          "y por su santa bendición."
+        ],
+        "c1": [
+          "En esta gran Convención:",
+          "Que el Señor nos ilumine,",
+          "y nos dé su aprobación."
+        ],
+        "v2": [
+          "Unidos todos bien dispuestos",
+          "y en el amor del Salvador:",
+          "Aprenderemos de la Biblia,",
+          "las Enseñanzas del Señor ."
+        ],
+        "v3": [
+          "Con regocijo y alegría",
+          "y en plenitud Pentecostés:",
+          "Disfrutaremos estos días,",
+          "de la Presencia del Señor."
+        ],
+        "v4": [
+          "Que Jesucristo nos ayude,",
+          "en esta su grande labor;",
+          "y que en su Gracia Él nos guíe,",
+          "hasta llegar a su Mansión."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

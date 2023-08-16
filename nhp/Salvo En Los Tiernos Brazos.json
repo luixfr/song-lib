@@ -1,0 +1,37 @@
+{
+  "titles": ["Salvo En Los Tiernos Brazos"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "143" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Salvo en los tiernos brazos, de mi Jesús seré,",
+          "y en su amoroso pecho siempre reposaré.",
+          "Este es, sin duda, el eco de celestial canción,",
+          "que de inefable gozo, llena mi corazón."
+        ],
+        "c1": [
+          "Salvo en los tiernos brazos, de mi Jesús seré,",
+          "y en su amoroso pecho, siempre reposaré."
+        ],
+        "v2": [
+          "De sus amantes brazos, la gran solicitud,",
+          "me libra de tristeza, me libra de inquietud;",
+          "Y si, tal vez, hay pruebas, fáciles pasarás,",
+          "lágrimas, SI vertiere, pronto se enjugaran."
+        ],
+        "v3": [
+          "Y cruzaré la noche lóbrega, si n temor,",
+          "hasta que venga el día de perennal fulgor.",
+          "¡Cuán placentero entonces, con Él será morar,",
+          "y en la mansión de gloria, siempre con El reinar!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

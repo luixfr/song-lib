@@ -1,0 +1,39 @@
+{
+  "titles": ["Sembrador De La Semilla"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "326" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Sembrador de la Semilla, ",
+          "la Semilla del Señor; ",
+          "tu palabra sea sencilla, ",
+          "pero llena del amor."
+        ],
+        "c1": [
+          "Siembra tú en la tierra dura,",
+          "siembra tú en el erial; ",
+          "pues que Cristo te asegura",
+          "recompensa celestial."
+        ],
+        "v2": [
+          "Si el cansancio y la fatiga, ",
+          "agobiaran tu existir, ",
+          "tu esperanza en Cristo anida ",
+          "y por Él has de vivir."
+        ],
+        "v3": [
+          "Sembrador, jamás desmayes,",
+          "siembra, siembra con amor;",
+          "y doquiera que te halles ",
+          "te bendecirá el Señor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,45 @@
+{
+  "titles": ["Todo Ya Os Entregue"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "421" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "c2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Sesenta y cinco mayos celebrando estoy; ",
+          "rodeado de los santos me siento feliz. ",
+          "Aunque yo indigno soy, coronan mi cerviz",
+          "con cánticos y dádivas de amor sin fin."
+        ],
+        "c1": [
+          "Así anhelo llegar y creo lo alcanzaré, ",
+          "solo ayudad me a orar, os lo agradeceré. ",
+          "Y todos los que estáis, allá os quiero ver, ",
+          "para que estemos juntos por la Eternidad."
+        ],
+        "v2": [
+          "Son variedad de edades las que aquí se ven,",
+          "de cinco a los cincuenta la mayoría está; ",
+          "mas ni uno quedará, pues todos seguirán",
+          "el funesto proceso de la mortandad."
+        ],
+        "c2": [
+          "Afirmad vuestros pies, la muerte acechará,",
+          "y aunque fuerte e crees, ella te llegará. ",
+          "Sin Cristo nada es la pobre humanidad, ",
+          "pues sólo Cristo es Roca de la Eternidad."
+        ],
+        "v3": [
+          "Consejo  solamente os puedo prodigar ",
+          "a cada uno de ustedes, pues es mi papel: ",
+          "Hay que perseverar hasta llegar con El! ",
+          "Y oír estas palabras: “Entra siervo fiel”."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,45 @@
+{
+  "titles": ["Dios Os Guarde"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "167" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Dios os guarde en su santo amor,",
+          "hasta el día en que lleguemos,",
+          "a la Patria, do estaremos,",
+          "para siempre con el Salvador."
+        ],
+        "c1": [
+          "Al venir Jesús, nos veremos",
+          "a los Pies de nuestro Salvador;",
+          "reunidos todos, seremos",
+          "un redil con nuestro Buen Pastor."
+        ],
+        "v2": [
+          "Dios os guarde en su santo amor,",
+          "en la senda peligrosa,",
+          "de esta vida tormentosa,",
+          "os conserve en paz y sin temor."
+        ],
+        "v3": [
+          "Dios os guarde en su santo amor,",
+          "os conduzca su bandera,",
+          "y os esfuerce en gran manera",
+          "con su Espíritu Consolador."
+        ],
+        "v4": [
+          "Dios os guarde, en su santo amor,",
+          "con su Gracia Él os sostenga,",
+          "hasta que el Maestro venga",
+          "a fundar su Reino en esplendor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

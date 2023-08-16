@@ -1,0 +1,45 @@
+{
+  "titles": ["Hay Un Tesoro"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "173" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2"],
+      "lyric": {
+        "v1": [
+          "Hay un Tesoro muy apreciado,",
+          "que todo humano debe encontrar;",
+          "pues este mundo tan desdichado,",
+          "sólo trae penas, nunca trae paz.",
+          "Si perseveras en tu desprecio,",
+          "de no aceptarlo, pues sufrirás.",
+          "Cuántas molestias y maleficios,",
+          "por tu ignorancia y tu desidia podrás tener."
+        ],
+        "c1": [
+          "Ese tesoro es Cristo, Fuente de bendición,",
+          "Inestimable Joya que llega al corazón.",
+          "Cambia tu vida entera, norma tu situación;",
+          "después de perdonarte, te da la salvación.",
+          "Búscale y no desmayes, búscale de verdad,",
+          "y al encontrarle, hallarás tesoro en realidad:",
+          "Cosas que no pensabas llegar a realizar,",
+          "resolver tus problemas y obtener dulce paz."
+        ],
+        "v2": [
+          "La Santa Biblia, Libro Sagrado,",
+          "que por Dios mismo se nos legó,",
+          "es el camino más indicado,",
+          "para que hallemos su grande amor.",
+          "Escudriñando, por todos lados",
+          "vemos a Cristo, ¡todo esplendor!",
+          "Siempre dispuesto, tan bondadoso,",
+          "dará el tesoro tan apreciado: ¡La Salvación!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

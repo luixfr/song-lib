@@ -1,0 +1,51 @@
+{
+  "titles": ["Oh, Santísimo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "290" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4", "v5", "v6"],
+      "lyric": {
+        "v1": [
+          "¡Oh santísimo felicísimo,",
+          "grato tiempo de Navidad!",
+          "Cristo, el Prometido, ha por fin venido.",
+          "¡Alegría! ¡Alegría! Cristiandad."
+        ],
+        "v2": [
+          "¡Oh santísimo felicísimo,",
+          "grato tiempo de Navidad!",
+          "Al mortal perdido, Cristo le ha nacido.",
+          "¡Alegría! ¡Alegría! Cristiandad."
+        ],
+        "v3": [
+          "¡Oh santísimo felicísimo,",
+          "grato tiempo de Navidad!",
+          "Coros celestiales, cantan los mortales.",
+          "¡Alegría! ¡Alegría! Cristiandad."
+        ],
+        "v4": [
+          "¡Oh santísimo felicísimo,",
+          "grato tiempo de Navidad!",
+          "Cántanle loores, magos y pastores.",
+          "¡Alegría! ¡Alegría! Cristiandad."
+        ],
+        "v5": [
+          "¡Oh santísimo felicísimo,",
+          "grato tiempo de Navidad!",
+          "Tan Dichosa Nueva, al mortal conmueva.",
+          "¡Alegría! ¡Alegría! Cristiandad."
+        ],
+        "v6": [
+          "¡Oh santísimo felicísimo,",
+          "grato tiempo de Navidad!",
+          "Príncipe del Cielo, danos tu consuelo.",
+          "¡Alegría! ¡Alegría! Cristiandad."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,51 @@
+{
+  "titles": ["Oíd Un Son"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "291" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Oid un son en alta esfera:",
+          "“En los Cielos gloria a Dios,",
+          "y al mortal paz en la tierra”,",
+          "canta la celeste voz.",
+          "Con los cielos alabemos",
+          "al eterno Rey, cantemos",
+          "a Jesús, que es nuestro Bien,",
+          "con el coro de Belén.",
+          "Canta la celeste voz:",
+          "“En los cielos gloria a Dios”."
+        ],
+        "v2": [
+          "El Señor de los señores,",
+          "el Ungido Celestial,",
+          "a salvar los pecadores",
+          "vino al seno virginal.",
+          "Gloria al Verbo encarnado,",
+          "en Humanidad velado;",
+          "gloria al Santo de Israel,",
+          "cuyo Nombre es Emmanuel;",
+          "canta la celeste voz:",
+          "“En los cielos gloria a Dios”."
+        ],
+        "v3": [
+          "Príncipe de paz eterna,",
+          "gloria a Ti, Señor Jesús;",
+          "entregando el alma tierna,",
+          "Tú nos traes vida y luz.",
+          "Has tu Majestad dejado",
+          "y buscarnos te has dignado;",
+          "Para darnos el vivir,",
+          "A la muerte quieres ir;",
+          "Canta la celeste voz:",
+          "“En los cielos gloria a Dios”."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,39 @@
+{
+  "titles": ["Fuerte Es La Oración"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "346" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Fuerte es la oración, es poderosa,",
+          "grande bendición de Jesucristo; ",
+          "ella guardará nuestra esperanza ",
+          "y nos llevará cerca de Dios."
+        ],
+        "c1": [
+          "Póstrate ante Él Dile tu pesar; ",
+          "te responderá, te consolará. ",
+          "Dile tu maldad, grande es su clemencia;",
+          "nunca rechazó Jesús al pobre pecador."
+        ],
+        "v2": [
+          "Dulce es la oración, es deliciosa, ",
+          "es cual refrigerio al corazón, ",
+          "cuando de la vida en sus angustias",
+          "busca el abatido pecador."
+        ],
+        "v3": [
+          "Ven, hermano, dobla tu rodilla, ",
+          "dama con fervor y con gemido, ",
+          "Dios te escuchará por Jesucristo ",
+          "y concederá tu petición."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

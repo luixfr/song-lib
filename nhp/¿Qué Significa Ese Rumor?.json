@@ -1,0 +1,83 @@
+{
+  "titles": ["¿Qué Significa Ese Rumor?"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "456" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": [
+        "v1",
+        "c1",
+        "v2",
+        "c1",
+        "v3",
+        "c1",
+        "v4",
+        "c1",
+        "v5",
+        "c1",
+        "v6"
+      ],
+      "lyric": {
+        "v1": [
+          "¿Qué significa ese rumor?",
+          "¿Qué significa ese tropel?",
+          "¿Quién puede un día y otro así,",
+          "La muchedumbre conmover?",
+          "/: Responde el pueblo en alta voz:",
+          "Pasa Jesús de Nazaret:/"
+        ],
+        "c1": [
+          "¿Quién es, decid, ese Jesús,",
+          "Que manifiesta su poder?",
+          "¿Por qué a su paso, la ciudad",
+          "Se agolpa ansiosa en torno de el?",
+          "/: Lo dice el pueblo, oíd su voz:",
+          "Pasa Jesús de Nazaret:/"
+        ],
+        "v2": [
+          "Jesús quien vino  acá a sufrir",
+          "Angustia, afán, cansancio y sed;",
+          "Y dio consuelo, paz, salud",
+          "A cuantos viera padecer.",
+          "/:por eso alegre, el ciego oyó;",
+          "Pasa Jesús de Nazaret:/"
+        ],
+        "v3": [
+          "Aun hoy viene el buen Jesús",
+          "Dispuesto a hacernos mucho bien",
+          "Y amante llama a nuestro hogar",
+          "Y quiere en el permanecer",
+          "/: Se acerca ya, ¿no oís la voz?",
+          "Pasa Jesús de Nazaret:/"
+        ],
+        "v4": [
+          "Aún hoy viene el buen Jesús",
+          "dispuesto a hacernos mucho bien,",
+          "y amante llama a nuestro hogar",
+          "y quiere en él permanecer.",
+          "/:Se acerca ya, ¿no oís la voz?",
+          "Pasa Jesús de Nazareth:/"
+        ],
+        "v5": [
+          "Los que sufrís tribulación,",
+          "venid, descanso y paz tendréis;",
+          "los que alejados camináis,",
+          "de Dios su gracia poseeréis.",
+          "/:Si sois tentados, he aquí:",
+          "¡Pasa Jesús de Nazareth:/"
+        ],
+        "v6": [
+          "Más si su gracia rechazáis,",
+          "su amor mirando con desdén,",
+          "entristecido marchará",
+          "y en vano luego clamaréis.",
+          "/:-¡Es tarde ya!- dirá la voz:",
+          "¡Pasó Jesús de Nazareth!:/"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

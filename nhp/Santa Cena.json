@@ -1,0 +1,35 @@
+{
+  "titles": ["Santa Cena"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "377" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Santa Cena, para mí eres memorial aquí. ",
+          "Tú me enseñas con verdad el misterio de bondad;",
+          "me recuerdas de la cruz del Cordero, mi Jesús."
+        ],
+        "v2": [
+          "Tú elevas nuestro ser, al angélico placer; ",
+          "tipificas con señal la crucifixión pascual. ",
+          "Comulguemos al tomar de Jesús y su penar."
+        ],
+        "v3": [
+          "Participe el corazón de tu conmemoración. ",
+          "Nos recuerdas del partir de Jesús y su venir. ",
+          "Eres tú nuestra señal, de su pacto divinal."
+        ],
+        "v4": [
+          "Como sello del amor del divino Redentor,",
+          "volveremos a tomar y con Cristo disfrutar ",
+          "de la Cena del Señor, prenda fiel del viador."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

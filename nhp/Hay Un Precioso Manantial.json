@@ -1,0 +1,36 @@
+{
+  "titles": ["Hay Un Precioso Manantial"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "416" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Hay un precioso Manantial de Sangre de Emmanuel,",
+          "que purifica a cada cual, que se sumerge en Él."
+        ],
+        "c1": [
+          "Sí, salvo soy, sí, salvo soy /:Sí salvo soy:/ ",
+          "//:Por la Sangre de Cristo mi Señor://",
+          "Por la Sangre de Jesús."
+        ],
+        "v2": [
+          "El malhechor se convirtió, pendiente de una cruz. ",
+          "El vio la Fuente y se lavó, creyendo en Jesús."
+        ],
+        "v3": [
+          "Y yo también, mi pobre ser allí logré lavar.",
+          "Ia gloria de su gran Poder, me gozo en ensalzar."
+        ],
+        "v4": [
+          "¡Eterna Fuente Carmesí! ¡Raudal de puro amor. ",
+          "Se lavará por siempre en Ti el pueblo del Señor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,39 @@
+{
+  "titles": ["Me Hirió El Pecado"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "205" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "/:En la cruz:/ do primero vi la luz",
+          "y las manchas de mi alma yo lavé.",
+          "Fue allí por fe, do vi a Jesús,",
+          "y siempre feliz con Él seré."
+        ],
+        "v2": [
+          "Sobre una Cruz, mi buen Señor",
+          "su Sangre derramó,",
+          "por este pobre pecador,",
+          "a quien así salvo."
+        ],
+        "v3": [
+          "Venció la muerte con Poder,",
+          "y al cielo se exaltó.",
+          "Confiar en Él es mi placer,",
+          "morir no temo yo."
+        ],
+        "v4": [
+          "Aunque Él se fue, solo no estoy,",
+          "mandó al Consolador,",
+          "Divino Espíritu, que hoy",
+          "me da perfecto amor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

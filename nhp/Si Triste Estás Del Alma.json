@@ -1,0 +1,49 @@
+{
+  "titles": ["Si Triste Estás Del Alma"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "248" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Si triste estás del alma",
+          "y esclavo eres del mal,",
+          "tan sólo Cristo te ama,",
+          "te quiere libertar."
+        ],
+        "c1": [
+          "Libertad! ¡Libertad! ¡Libertad!",
+          "Sólo se halla creyendo en Jesús;",
+          "y si libre nos hace en verdad,",
+          "a Él la gloria, a Él gratitud.",
+          "¡Libertad! ¡Libertad! ¡Libertad!",
+          "Da a las almas que escuchan su Voz",
+          "y en su Gracia y amor guardará",
+          "como a pueblo escogido de Dios."
+        ],
+        "v2": [
+          "Si vagas por el mundo",
+          "buscando algún ideal,",
+          "tan sólo Cristo es uno",
+          "que puedes aceptar."
+        ],
+        "v3": [
+          "Si quieres en la vida",
+          "sublime gozo y paz,",
+          "tan sólo Cristo brinda",
+          "un dulce bienestar."
+        ],
+        "v4": [
+          "Si quieres ir al Cielo",
+          "y siempre allí gozar,",
+          "tan sólo Cristo, el Verbo,",
+          "te puede allí llevar."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

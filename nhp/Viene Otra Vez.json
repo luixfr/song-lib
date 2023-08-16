@@ -1,0 +1,52 @@
+{
+  "titles": ["Viene Otra Vez"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "392" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Viene otra vez nuestro Salvador. ",
+          "¡Oh, que si fuera hoy! ",
+          "Para reinar con poder y amor, ",
+          "¡Oh, que si fuera hoy! ",
+          "Ya por su esposa viene esta vez, ",
+          "purificada en su grande amor; ",
+          "del mundo por la redondez, ",
+          "¡Oh, que si fuera hoy!"
+        ],
+        "c1": [
+          "¡Gloria! ¡Gloria! Gozo sin fin traerá,",
+          "¡Gloria! ¡Gloria! Al coronarle Rey.",
+          "¡Gloria! ¡Gloria! La senda preparad. ",
+          "¡Gloria! ¡Gloria! Cristo viene otra vez."
+        ],
+        "v2": [
+          "Terminará el poder de Satán; ",
+          "¡Ojalá fuera hoy! ",
+          "No más tristezas aquí verán. ",
+          "¡Ojalá fuera hoy! ",
+          "Todos los muertos en Cristo irán, ",
+          "arrebatados por su Señor. ",
+          "¿Cuándo estas glorias aquí vendrán?",
+          "Ojalá fuera hoy!"
+        ],
+        "v3": [
+          "Fieles y leales nos debe hallar, ",
+          "Si Él viniera hoy. ",
+          "Todos velando con gozo y paz, ",
+          "Si Él viniera hoy. ",
+          "Multiplicadas señales hay: ",
+          "en el oriente se ve el albor, ",
+          "ya más cercano se ve el albor, ",
+          "ya más cercano el tiempo está, ",
+          "¡Ojalá fuera hoy!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

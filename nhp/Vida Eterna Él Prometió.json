@@ -1,0 +1,45 @@
+{
+  "titles": ["Vida Eterna Él Prometió"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "272" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Vida Eterna Él prometió, Él prometió,",
+          "al que en Él, al que en Él quisiera creer;",
+          "y estarás allá con Él,",
+          "porque así fue el anuncio que Él dio."
+        ],
+        "c1": [
+          "Ven a la luz que te da Jesús, que te da Jesús;",
+          "ven a la luz que te da Jesús.",
+          "Y vivirás allá con Él",
+          "Y para siempre tú no moriras."
+        ],
+        "v2": [
+          "¡Aleluya sea a Él, sea a Él!",
+          "Por el amor, por el amor que nos mostró,",
+          "porque no quiso perder ",
+          "lo que el Padre en su Mano le dio."
+        ],
+        "v3": [
+          "Viene el tiempo de aflicción, de aflicción,",
+          "cuando ya, cuando ya no habrá lugar;",
+          "mas ahora el Salvador  ",
+          "ha venido su pueblo a salvar."
+        ],
+        "v4": [
+          "No te tardes pecador, pecador,",
+          "en venir, en venir a tu Señor,",
+          "que mañana llorarás ",
+          "por la pena que impuso tu error."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

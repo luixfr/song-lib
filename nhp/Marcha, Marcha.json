@@ -1,0 +1,49 @@
+{
+  "titles": ["Marcha, Marcha"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "218" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5"],
+      "lyric": {
+        "v1": [
+          "Marcha, marcha un pueblo a un país mejor,",
+          "a una Patria hermosa, donde no hay dolor;",
+          "lleva una bandera, ésta es el amor",
+          "para Él no hay frontera, raza ni color."
+        ],
+        "c1": [
+          "Señor, es tu pueblo, tu pueblo es, Señor,",
+          "va en pos de aquel Reino do impera tu amor."
+        ],
+        "v2": [
+          "Va por escuadrones, cual marchó Israel,",
+          "al cuidado de hombres, como aquel Moisés;",
+          "atraviesa el mundo iOh desierto cruel!",
+          "y enemigos fuertes tiene que vencer."
+        ],
+        "v3": [
+          "Cuando tienen hambre, cuando tienen sed,",
+          "el Maná para ellos la Palabra es; ",
+          "beben de la fuente de vida por fe",
+          "y les guía la gracia cual columna fiel."
+        ],
+        "v4": [
+          "Aquellos cargaron en su Arca la Ley",
+          "conquistaron pueblos con ellos su Rey.",
+          "Hoy es otro emblema cargan una cruz,",
+          "en su alma la llevan con solicitud."
+        ],
+        "v5": [
+          "En fin, redimidos ya pronto estarán,",
+          "cruzando las aguas del río celestial;",
+          "tendrán en Presencia del que nos amó,",
+          "la gloria, la herencia que Él preparó."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

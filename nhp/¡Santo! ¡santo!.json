@@ -1,0 +1,41 @@
+{
+  "titles": ["¡Santo! ¡santo!"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "34" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2"],
+      "lyric": {
+        "v1": [
+          "Santo, santo grande eterno Dios",
+          "con alegría hoy te alabamos",
+          "rey de reyes, grande capitán",
+          "todopoderoso guerrero",
+          "honor y gloria, luz y dominio",
+          "tributaremos todo a ti."
+        ],
+        "c1": [
+          "Santo, santo eres tu Señor",
+          "Dios de las batallas glorioso.",
+          "alabadle cielos, tierra y mar",
+          "toda su iglesia, sus mensajeros",
+          "alabanzas, cantos de loor",
+          "hoy unidos elevaremos.",
+          "juez majestuoso y reverendo",
+          "fuego y vida, eres Señor."
+        ],
+        "v2": [
+          "Rey de siglos, solo santo Dios.",
+          "justo y eterno, incomprensible,",
+          "inmortal, autor de todo bien",
+          "eres tu el anciano de días.",
+          "y para siempre entonaremos",
+          "el canto eterno de redención."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

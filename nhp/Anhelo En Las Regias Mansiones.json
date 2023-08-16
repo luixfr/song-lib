@@ -1,0 +1,45 @@
+{
+  "titles": ["Anhelo En Las Regias Mansiones"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "435" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Anhelo en las regias mansiones morar,",
+          "do reina mi Salvador.",
+          "Escucho los ecos de un dulce cantar,",
+          "de triunfo y de gran loor."
+        ],
+        "c1": [
+          "A mi Supremo Rey alegre cantaré; ",
+          "mis ojos han de ver la playa celestial.",
+          "Feliz y salvo soy, y caminando voy ",
+          "con júbilo a mi eterno hogar."
+        ],
+        "v2": [
+          "Por senda escarpada quizá habré de andar",
+          "el mundo me olvidará; ",
+          "mas en las riberas del límpido mar, ",
+          "los santos me esperan ya."
+        ],
+        "v3": [
+          "Gloriosa esperanza, inefable la paz ",
+          "que siento en mi corazón. ",
+          "¡Cuán dulce es tener comunión y solaz",
+          "con Dios en adoración!"
+        ],
+        "v4": [
+          "Eleva tu vista y contempla a Jesús, ",
+          "sé fiel a tu Rey y Señor. ",
+          "La luz de la faz de mi buen Salvador",
+          "te envuelva en su esplendor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

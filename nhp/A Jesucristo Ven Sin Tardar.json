@@ -1,0 +1,39 @@
+{
+  "titles": ["A Jesucristo Ven Sin Tardar"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "251" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "A Jesucristo ven sin tardar,",
+          "que entre nosotros hoy Él está,",
+          "y te convida con dulce afán,",
+          "tierno, diciendo: “Ven”."
+        ],
+        "c1": [
+          "¡Oh, cuán grata es nuestra reunión!",
+          "Cuando allá, Señor, en tu Mansión,",
+          "Contigo estemos en comunión,",
+          "gozando eterno bien."
+        ],
+        "v2": [
+          "Piensa que Él sólo puede colmar",
+          "tu triste pecho de gozo y paz;",
+          "y porque anhela tu bienestar,",
+          "vuelve a decirte: “Ven”."
+        ],
+        "v3": [
+          "Su voz escucha sin vacilar",
+          "y grato acepta lo que hoy te da;",
+          "tal vez mañana no habrá lugar;",
+          "no te detengas, ven."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

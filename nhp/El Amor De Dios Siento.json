@@ -1,0 +1,45 @@
+{
+  "titles": ["El Amor De Dios Siento"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "18" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "El amor de Dios siento en mi corazón,",
+          "eI amor de Dios, el amor de Dios.",
+          "El me ha dado hoy también su salvación",
+          "gloria a Cristo por su amor ."
+        ],
+        "c1": [
+          "Cristo es mío, mío, gloria sea a Él,",
+          "El me ha dado paz y felicidad,",
+          "Cristo es mío, mío, gloria sea a El,",
+          "mío por la eternidad."
+        ],
+        "v2": [
+          "El ha puesto en mi alma una dulce paz,",
+          "es la santa paz es la paz de Dios;",
+          "y al momento El me da la libertad,",
+          "porque es mío en verdad."
+        ],
+        "v3": [
+          "Él me ha dado gozo y también amor,",
+          "yo lo siento en mi, yo lo siento en mi",
+          "ya El yo quiero siempre serle fiel",
+          "y servirle solo a El."
+        ],
+        "v4": [
+          "Él me guarda siempre, me sostiene fiel,",
+          "porque soy de El, porque soy de El;",
+          "quiero yo también ser muy brillante luz,",
+          "y alabar a mi Jesús."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

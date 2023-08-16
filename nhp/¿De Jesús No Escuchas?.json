@@ -1,0 +1,45 @@
+{
+  "titles": ["¿De Jesús No Escuchas?"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "254" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "¿De Jesús no escuchas tierno llamamiento:",
+          "“Ven a mí pecador”?",
+          "Quiere darte su perdón, paz y contento;",
+          "ven a Él, pecador."
+        ],
+        "c1": [
+          "Te llama con un tierno acento,",
+          "tu vida quiere redimir;",
+          "oye del Señor el tierno llamamiento:",
+          "“Ven a Mí, ven a Mí”."
+        ],
+        "v2": [
+          "De tus penas pronto puedes olvidarte,",
+          "ven a Él, ven a Él;",
+          "porque de ellas Cristo puede alivio darte,",
+          "ven a Él, ven a Él."
+        ],
+        "v3": [
+          "Sólo Él, puede pleno gozo concederte,",
+          "ven a Él, ven a Él;",
+          "en odiosa cruz por ello vio la muerte,",
+          "ven a Él, ven a Él."
+        ],
+        "v4": [
+          "No su Voz de amor escuches con desprecio;",
+          "ven a Él, ven a Él;",
+          "por tu ,salvación, pagó Divino precio;",
+          "ven a Él, ven a Él."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

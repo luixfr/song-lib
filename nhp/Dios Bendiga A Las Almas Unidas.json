@@ -1,0 +1,45 @@
+{
+  "titles": ["Dios Bendiga A Las Almas Unidas"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "275" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3"],
+      "lyric": {
+        "v1": [
+          "Dios bendiga a las almas unidas",
+          "por los lazos de amor sacrosanto,",
+          "y las guarde de todo quebranto",
+          "en el mundo de espinas erial.",
+          "Que el hogar que a formarse comienza",
+          "con la unión de estos dos corazones,",
+          "goce siempre de mil bendiciones",
+          "al amparo del Dios de Israel."
+        ],
+        "v2": [
+          "Que el Señor con su dulce Presencia,",
+          "cariñoso estas bodas presida,",
+          "y conduzca por sendas de vida",
+          "a los que hoy se han jurado lealtad.",
+          "Les recuerde que nada en el mundo",
+          "es eterno, que todo termina;",
+          "y, por tanto, con gracia Divina,",
+          "cifrar deben la dicha en su Dios."
+        ],
+        "v3": [
+          "Que los dos que al altar se aproximan",
+          "a jurarse su fe mutuamente,",
+          "busquen siempre de Dios en la fuente",
+          "el secreto de dicha inmortal.",
+          "Y si acaso de duelo y tristeza ",
+          "se empañasen sus sendas un día,",
+          "en Jesús hallarán dulce guía",
+          "que otra senda les muestre mejor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

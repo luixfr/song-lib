@@ -1,0 +1,30 @@
+{
+  "titles": ["Más Alla Del Sol"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "442" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v1"],
+      "lyric": {
+        "v1": [
+          "A todas las razas del linaje humano, ",
+          "Cristo quiere darles plena salvación. ",
+          "También una casa, no hecha de manos,",
+          "que fue a prepararme a la Santa Sión."
+        ],
+        "c1": [
+          "/:Más allá del sol:/ Yo tengo un hogar,",
+          "hogar, bello hogar, más allá del sol."
+        ],
+        "v2": [
+          "Así por el mundo yo voy caminando,                                                                   de pruebas rodeado y de tentación; ",
+          "pero Jesucristo, que me está probando,",
+          "me llevará salvo hasta su Mansión."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

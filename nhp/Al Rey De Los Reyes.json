@@ -1,0 +1,49 @@
+{
+  "titles": ["Al Rey De Los Reyes"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "6" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Al Rey de los reyes, Jehová, el glorioso,",
+          "cantemos con gozo, en santa comunión;",
+          "con gran reverencia, a El nos lleguemos,",
+          "su Nombre ensalcemos de todo corazón."
+        ],
+        "c1": [
+          "Gozo y paz hay en mi corazón,",
+          "su Gracia me salvó y aseguró mi salvación;",
+          "es mi anhelo a mi Señor servir,",
+          "su voluntad cumplir y para El siempre vivir.",
+          "¡Oh! Gran, dulce esperanza, nos alienta /:para seguir:/,",
+          "la senda que el Maestro nos marcó con su ejemplo",
+          "/:aquí://:Allá:/ en lontananza, al fin de la labor,",
+          "daremos alabanza a nuestro Salvador."
+        ],
+        "v2": [
+          "El Rey de los reyes, Jesús, el amante,",
+          "sublime y triunfante, al mundo volverá;",
+          "con todos sus santos, con alegres cantos,",
+          "su Iglesia, anhelante, a El se unirá."
+        ],
+        "v3": [
+          "Al Santo Espíritu, fiel y bendito,",
+          "¡Oh!, demos bienvenida al Huésped Celestial;",
+          "y con su Presencia, Virtud y Potencia,",
+          "terminarán dolencia, pecado y todo mal."
+        ],
+        "v4": [
+          "Al Dios sólo sabio y Omnipotente,",
+          "den todos reverentes, honor y majestad;",
+          "por tus beneficios, recibe propicio,",
+          "mi humilde servicio, Divina Trinidad."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

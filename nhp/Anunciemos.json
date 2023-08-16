@@ -1,0 +1,45 @@
+{
+  "titles": ["Anunciemos"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "398" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Anunciemos con palabra y testimonio",
+          "es te Nombre sagrado de Jesús; ",
+          "en su Nombre lanzando los demonios,",
+          "clamaremos a Cristo con fervor."
+        ],
+        "c1": [
+          "No es vergüenza honrar a Jesucristo,",
+          "todo mundo le debe de alabar; ",
+          "así fieles debemos esperar; ",
+          "mi Jesús su gloria nos dará."
+        ],
+        "v2": [
+          "Pues los ricos y los sabios necesitan ",
+          "del Dios vivo, que es digno de alabar;",
+          "si los pobres lo honran y bendicen, ",
+          "pues los grandes y fuertes mucho más."
+        ],
+        "v3": [
+          "No tuvimos vergüenza en el pecado,",
+          "en mi Cristo, ¿por qué hemos de tener?",
+          "Anunciemos así a todas las gentes ",
+          "que Jesús es nuestro Salvador, Sanador."
+        ],
+        "v4": [
+          "No importan las burlas que nos hagan,",
+          "cada uno tendrá su galardón. ",
+          "Pues queremos bendición para las almas,",
+          "mi Jesús les dé la salvación."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,45 @@
+{
+  "titles": ["¿Quieres Sobre El Mundo?"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "111" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "¿Quieres sobre el mundo ser un vencedor?",
+          "¿Quieres tú cantar, aun cuando hay dolor?",
+          "¿Quieres ser alegre, cual fiel luchador?",
+          "Guarda el contacto con el Salvador."
+        ],
+        "c1": [
+          "Guarda el contacto con el Salvador,",
+          "luego las tinieblas no te cubrirán;",
+          "por la senda alegre tú caminarás,",
+          "a causa del contacto con el Salvador ."
+        ],
+        "v2": [
+          "En el mundo hay muchos, tristes en pecar ,",
+          "cuyos corazones lloran de pesar;",
+          "dales el Mensaje, no hay que callar ,",
+          "con Dios el contacto debes de guardar."
+        ],
+        "v3": [
+          "¿Quieres tú con Dios la comunión tener",
+          "y su gloria siempre en ti permanecer?",
+          "¡Que el mundo a Cristo pueda en ti hoy ver!",
+          "Guarda el contacto con el Supremo Ser."
+        ],
+        "v4": [
+          "Deja que el Espíritu implante en ti,",
+          "la humildad de Cristo y su santo amor.",
+          "Ora siempre y vela, que Jesús vendrá.",
+          "Guarda el contacto con el Salvador."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

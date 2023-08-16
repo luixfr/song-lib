@@ -1,0 +1,43 @@
+{
+  "titles": ["Firmes Y Adelante"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "193" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Firmes y adelante, huestes de la fe,",
+          "sin temor alguno, que Jesús nos ve.",
+          "Jefe Soberano, Cristo al frente va,",
+          "y la Regia Enseña, tremolando está."
+        ],
+        "c1": [
+          "Firmes y adelante, huestes de la fe,",
+          "sin temor alguno, que Jesús nos ve."
+        ],
+        "v2": [
+          "Al Sagrado Nombre de nuestro Adalid,",
+          "tiembla el enemigo y huye de la lid.",
+          "Nuestra es la victoria, dad a Dios loor,",
+          "y óigalo el averno lleno de pavor."
+        ],
+        "v3": [
+          "Muévase potente la Iglesia de Dios,",
+          "de los ya gloriosos, marchemos en pos;",
+          "somos sólo un Cuerpo y uno es el Señor,",
+          "una es la esperanza y uno nuestro amor."
+        ],
+        "v4": [
+          "Tronos y coronas pueden perecer,",
+          "de Jesús la Iglesia, fiel habrá de ser;",
+          "nada en contra suya prevalecerá, ",
+          "porque la Promesa nunca faltará."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

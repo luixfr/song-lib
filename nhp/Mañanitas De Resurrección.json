@@ -1,0 +1,32 @@
+{
+  "titles": ["Mañanitas De Resurrección"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "473" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v1", "c1", "v2", "c1", "v1"],
+      "lyric": {
+        "v1": [
+          "Que nos ha sido dada por Cristo, salvación.",
+          "¿Dónde está, oh, sepulcro, tu victoria?",
+          "Y ¿dónde esta, oh, muerte, tu aguijón?"
+        ],
+        "c1": [
+          "Hermosa mañanita de resurrección ",
+          "Para el pueblo cristiano, que ama al Señor.",
+          "Cristo ha resucitado, al pecado venció,",
+          "Triunfo sobre la muerte con gran potestad."
+        ],
+        "v2": [
+          "Pueblo, redimido, hoy es día de gran gozo,",
+          "La bendición del Señor está en ti.",
+          "Ahuyenta hoy de tu alma todos tus temores",
+          "Y, como el siervo Pablo, canta loores."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,62 @@
+{
+  "titles": ["Anhelo Yo Oír La Voz"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "83" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Anhelo yo oír la voz",
+          "de mi buen Salvador.",
+          "Sus dichos un banquete son,",
+          "mi verdadera luz;",
+          "cual el maná, a mi alma dan",
+          "dulzura y sostén.",
+          "Consuelo, paz, recibo aquí",
+          "del Maestro de Belén."
+        ],
+        "c1": [
+          "¡Tus Palabras, oh, Jesús!",
+          "¡Tus Palabras, Vida son!",
+          "Me enseñan, alumbran,",
+          "me traen la luz,",
+          "las palabras de Jesús."
+        ],
+        "v2": [
+          "Sí, las palabras de Jesús",
+          "infunden fuerza y fe;",
+          "alejan de mi corazón",
+          "las dudas, yo lo sé.",
+          "la mansedumbre es de Él,",
+          "con El aprenderé.",
+          "Y en la gloria, yo, su amor",
+          "por siempre alabaré."
+        ],
+        "v3": [
+          "En todo tiempo mi Jesús,",
+          "Palabras me tendrá;",
+          "en pruebas, Ellas son mi bien,",
+          "Su Voz me alentará.",
+          "En ellas mi alma tiene paz,",
+          "¿quién la podrá turbar?",
+          "Jesús me ofrece un festín,",
+          "no más podré, desear."
+        ],
+        "v4": [
+          "Lugar no hay, no lo habrá,",
+          "en este mundo, no,",
+          "en que el alma goce paz,",
+          "si esto olvidó.",
+          "Pues su Palabra, Fuente es",
+          "de toda Bendición,",
+          "y medio sólo del Señor",
+          "para la salvación."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

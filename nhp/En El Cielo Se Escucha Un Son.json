@@ -1,0 +1,51 @@
+{
+  "titles": ["En El Cielo Se Escucha Un Son"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "76" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "c2"],
+      "lyric": {
+        "v1": [
+          "En el cielo se escucha un son,",
+          "de querubes que alaban a Dios;",
+          "con arpegios de dulce canción,",
+          "reverentes bendicen a Dios."
+        ],
+        "c1": [
+          "Cantad, cantad al Salvador.",
+          "Cantad, cantad alegremente.",
+          "y Él os dará el Consolador ,",
+          "con Poder y con Gloria esplendente."
+        ],
+        "v2": [
+          "De la tierra elevad oración",
+          "y alabad al Señor con cantar .",
+          "Con amor y con humillación,",
+          "allegaos hoy ante su altar."
+        ],
+        "v3": [
+          "De los cielos pedid con fervor",
+          "este Fuego del Pentecostés;",
+          "que las almas se llenen de amor",
+          "y se vuelvan a la sencillez."
+        ],
+        "v4": [
+          "El Espíritu Santo vendrá,",
+          "como el día de Pentecostés.",
+          "Nuevas lenguas Jesús os dará",
+          "y sus Dones por ÉI obtendréis."
+        ],
+        "c2": [
+          "Divino Padre, manda hoy",
+          "el Fuego Santo prometido.",
+          "Llena, Señor, a mi corazón.",
+          "A tus Plantas lo espero rendido."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

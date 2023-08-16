@@ -1,0 +1,39 @@
+{
+  "titles": ["Dame, Señor, El Espíritu Divino"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "74" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Dame, Señor, el Espíritu Divino,",
+          "Dame, Señor este Fuego Celestial.",
+          "Llena de luz y victoria mi camino,",
+          "Dame, Señor, el Poder Pentecostal."
+        ],
+        "v2": [
+          "Dame, Señor, el Poder que nos inspira;",
+          "tu Santa Gracia, que llena de valor.",
+          "Oye, Señor, los cantares de mi lira,",
+          "que piden hoy Fuego Santo de tu amor ."
+        ],
+        "v3": [
+          "Dame, Señor, esa lluvia deliciosa;",
+          "lluvia de amor, hoy te pido con fervor .",
+          "Cumple hoy en mí tu Verdad maravillosa;",
+          "dame, Señor, ese gran Consolador."
+        ],
+        "v4": [
+          "Vengo, Señor, a tus Plantas humillado;",
+          "vengo, Señor, con mi férvida oración.",
+          "Todo mi ser, sólo a Ti, mi Dios, lo he dado;",
+          "dame, Señor, hoy tu fiel contestación."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,38 @@
+{
+  "titles": ["Por El Mundo Brilla Luz"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "208" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Por el mundo brilla Luz, desde que murió",
+          "Jesús por nosotros, en la Cruz del Calvario.",
+          "Los pecados Él llevó, de la culpa nos libró",
+          "con la Sangre que manó del Calvario."
+        ],
+        "c1": [
+          "/:Por la Sangre:/ Somos redimidos, sí,",
+          "por la Sangre carmesí/:Por la Sangre:/",
+          "por la Sangre de Jesús del Calvario."
+        ],
+        "v2": [
+          "Antes todo fue temor, mas ahora es amor,",
+          "porque comprendo el valor del Calvario.",
+          "Yo viví en perdición, hoy poseo salvación",
+          "por la grande redención del Calvario."
+        ],
+        "v3": [
+          "¿Eres grande pecador? ¡He aquí tu Salvador!",
+          "Tema del predicador: \"El Calvario\".",
+          "Salvación a cada cual que padece por su mal,",
+          "Dios ofrece Gracia tal por la Sangre."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

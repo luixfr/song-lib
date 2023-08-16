@@ -1,0 +1,45 @@
+{
+  "titles": ["Un Cordero Perfecto"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "470" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Un cordero perfecto, demando",
+          "la justicia de dios, según su ley;",
+          "tipo fiel que el genuino consumo,",
+          "en favor de este mundo pecador."
+        ],
+        "c1": [
+          "Fue por mí, fue por ti,",
+          "derramada su sangre Carmesí;",
+          "y su gran sacrificio nos valió:",
+          "¡Expiación! ¡Redención! ¡Salvación!"
+        ],
+        "v2": [
+          "El Cordero de Dios es mi Jesús",
+          "al que dio en sacrificio divinal;",
+          "la Justicia perfecta en el sacio,",
+          "la demanda de ley que condeno."
+        ],
+        "v3": [
+          "Él clavo los pecados en la cruz,",
+          "esa cruz dolorosa, sin igual;",
+          "do su Cuerpo bendito recibió",
+          "cruel castigo, que Él nunca mereció."
+        ],
+        "v4": [
+          "¡Ved su Llaga! Sublime Manantial",
+          "de virtud, de limpieza y de perdón,",
+          "en la cual sumergido el malhechor,",
+          "fue curado de toda su maldad."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

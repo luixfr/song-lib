@@ -1,0 +1,45 @@
+{
+  "titles": ["Mi Redentor Murió"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "206" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Mi Redentor murió en la Cruz,",
+          "por pecadores todo Él pagó.",
+          "Quien le reciba, tendrá la luz;",
+          "ya sus maldades Jesús perdonó."
+        ],
+        "c1": [
+          "Cuando Dios la Sangre ve,",
+          "que su Hijo derramó,",
+          "en la cual el pecador",
+          "se lavó, le verá con favor."
+        ],
+        "v2": [
+          "A los más malos Él salvará,",
+          "como promete, así lo hará.",
+          "En Él confía, ¡Oh pecador!,",
+          "Vida eterna te da el Señor."
+        ],
+        "v3": [
+          "El juicio viene, allí estarás,",
+          "si le rechazas triste saldrás;",
+          "no te detengas, ven a Jesús.",
+          "quien tus pecados llevó en la Cruz."
+        ],
+        "v4": [
+          "¡Que maravilla de gran amor,",
+          "Cristo mostró por el pecador!",
+          "“El que salvo será”",
+          "goces eternos él disfrutará."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

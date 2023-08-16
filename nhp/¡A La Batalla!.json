@@ -1,0 +1,41 @@
+{
+  "titles": ["¡A La Batalla!"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "427" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v1"],
+      "lyric": {
+        "v1": [
+          "¡A la batalla y a la victoria ",
+          "Bajo tan buen General, ",
+          "derrotaremos, ya en seguida,",
+          "todas las fuerzas del mal. ",
+          "Reinos, tronos y aún mundos,",
+          "todos al fin pasarán, ",
+          "mas los amados en Cristo. ",
+          "Vida Eterna tendrán."
+        ],
+        "c1": [
+          "No es la victoria  de los ligeros;",
+          "no es de los fuertes la paz; ",
+          "más de los fieles en Cristo ",
+          "es el eterno solaz."
+        ],
+        "v2": [
+          "¡A la batalla y a la victoria!",
+          "¿Cuál será este buen Rey? ",
+          "¿Cuál es la tropa que así le sigue",
+          "en esta lucha de fe? ",
+          "Es Jehová, el valiente, ",
+          "de los señores Señor; ",
+          "acompañado por todos ",
+          "los que aprecian su amor."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

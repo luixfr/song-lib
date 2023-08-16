@@ -1,0 +1,43 @@
+{
+  "titles": ["¿Luchando Estáis?"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "318" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3"],
+      "lyric": {
+        "v1": [
+          "Luchando estáis? Aún suena la trompeta hoy",
+          "mando a los soldados a la lid. ",
+          "A Jesucristo con valor decid: “Yo voy” ",
+          "Y Él os dirá: “¡Venid, oh, sí, venid!”."
+        ],
+        "c1": [
+          "La lucha sigue, oh, cristianos, ",
+          "y brazo a brazo lucharéis. ",
+          "En Jesucristo seguid confiando ",
+          "y, por la fe en Él, venceréis. ",
+          "La lucha sigue, oh, cristianos, ",
+          "sed fieles y en Jesús confiad. ",
+          "La lucha siempre seguid, hermanos,",
+          "y la victoria esperad."
+        ],
+        "v2": [
+          "¿Luchando estáis, soldados del Señor Jesús? ",
+          "¿Luchando estáis en contra de Satán? ",
+          "Es Jesucristo nuestra fortaleza y luz, ",
+          "y Él también es nuestro Capitán."
+        ],
+        "v3": [
+          "¿Luchando estáis? Confiados en Jesús marchad, ",
+          "haciendo huir al enemigo vil; ",
+          "y Jesucristo, nuestro Jefe amante y fiel, ",
+          "sostén será de todos en la lid."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,0 +1,51 @@
+{
+  "titles": ["En El Ceno De Mi Alma"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "105" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4", "c1", "v5"],
+      "lyric": {
+        "v1": [
+          "En el seno de mi alma, una dulce quietud",
+          "se difunde embargando mi ser;",
+          "una calma infinita que sólo podrán",
+          "los amados de Dios comprender ."
+        ],
+        "c1": [
+          "¡Paz, paz, cuán dulce paz!",
+          "Es aquella que el Padre me da.",
+          "Yo le ruego que inunde por siempre mi ser,",
+          "en sus ondas de amor Celestial."
+        ],
+        "v2": [
+          "¡Qué tesoro yo tengo en la paz que me dio!",
+          "Y en el fondo del arma ha de estar",
+          "tan segura, que nadie quitarla podrá,",
+          "mientras miro los años pasar."
+        ],
+        "v3": [
+          "Esta paz inefable, consuelo me da,",
+          "descansando tan sólo en Jesús;",
+          "y ningunos peligros mi vida tendrá,",
+          "si me siento inundado en su Luz."
+        ],
+        "v4": [
+          "Sin cesar yo medito en aquella Ciudad,",
+          "do el Autor de la paz he de ver ,",
+          "y en que el himno más dulce que allí cantaré,",
+          "al estar con Jesús ha de ser ."
+        ],
+        "v5": [
+          "Alma triste, que en rudo conflicto te ves,",
+          "sola y débil tu senda al seguir;",
+          "haz de Cristo el Amigo, que fiel siempre es,",
+          "¡Y su paz tú podrás recibir!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

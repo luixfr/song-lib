@@ -1,0 +1,55 @@
+{
+  "titles": ["Alabad A Jehova"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "4" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "Alabad a Jehová, porque es bueno;",
+          "su promesa cumplida ya está,",
+          "en las almas de aquí, que quieren",
+          "consagrarse y servirle en verdad.",
+          "Apartados de toda malicia,",
+          "sujetados a la libertad,",
+          "con que Cristo, por su Sacrificio,",
+          "nos libró y nos dio santidad."
+        ],
+        "v2": [
+          "Muy seguros estamos que Cristo,",
+          "por su Sangre las almas limpió;",
+          "de los pueblos que, unidos, estamos,",
+          "dando gloria a su Nombre y honor.",
+          "El bautismo, que ya recibimos",
+          "por mandato de mi Salvador ,",
+          "es la prueba de limpia conciencia,",
+          "presentada a Jehová, nuestro Dios."
+        ],
+        "v3": [
+          "Nicodemo, fue un grande maestro,",
+          "que enseñaba al pueblo de Israel,",
+          "éste vino a Jesús en la noche,",
+          "convencido y queriendo creer.",
+          "y Jesús, conociendo su intento,",
+          "le responde: Si a Dios quieres ver,",
+          "no tan sólo tú te maravilles,",
+          "necesario te es renacer."
+        ],
+        "v4": [
+          "Cristo, en forma de Dios se ha humillado,",
+          "a la tierra del cielo bajó;",
+          "pero hoy El está coronado,",
+          "aunque antes primero sufrió.",
+          "Desde entonces\" a mí me ha salvado,",
+          "y mi deuda por El se pagó;",
+          "en mi vida, jamás he estado",
+          "tan feliz y gozoso, como hoy."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

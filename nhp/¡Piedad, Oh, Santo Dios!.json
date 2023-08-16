@@ -1,0 +1,39 @@
+{
+  "titles": ["¡Piedad, Oh, Santo Dios!"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "64" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "v2", "v3", "v4"],
+      "lyric": {
+        "v1": [
+          "¡Piedad, oh, Santo Dios, Piedad!",
+          "Piedad te implora el corazón.",
+          "¡Oh, lávame de mi maldad!",
+          "Y dame gozo, paz, perdón."
+        ],
+        "v2": [
+          "Mis rebeliones graves son,",
+          "son todas sólo contra Ti,",
+          "mas crea un nuevo corazón",
+          "y un nuevo espíritu en mí."
+        ],
+        "v3": [
+          "No quieres sacrificios más,",
+          "que al humillado corazón;",
+          "mi ofrenda no despreciarás,",
+          "ya que eres todo compasión."
+        ],
+        "v4": [
+          "Sálvame, Dios, con tu Poder,",
+          "que mi esperanza es sólo en Ti. ",
+          "Temblando, aguardo tu querer;",
+          "sé compasivo hacia mí."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

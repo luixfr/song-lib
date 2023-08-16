@@ -1,0 +1,67 @@
+{
+  "titles": ["Somos Un Cuerpo En Cristo"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "424" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": [
+        "v1",
+        "c1",
+        "v2",
+        "c1",
+        "v3",
+        "c1",
+        "v4",
+        "c1",
+        "v5",
+        "c1",
+        "v6"
+      ],
+      "lyric": {
+        "v1": [
+          "Somos un Cuerpo en Cristo con diferente Don,",
+          "Diáconos y Ministros y la Congregación; ",
+          "y si en acuerdo vamos, crece la caridad; ",
+          "solos no nos quedamos, Jehová nos ayudará."
+        ],
+        "c1": [
+          "Todos en uno, amados, todos en comunión: ",
+          "siendo regocijados por esta salvación."
+        ],
+        "v2": [
+          "En este Cuerpo se halla esta repartición: ",
+          "Unos con sanidades; otros exhortación; ",
+          "a otros, dones de lenguas; otros, interpretación; ",
+          "a otros, la profecía; a otros, el doctrinar."
+        ],
+        "v3": [
+          "Aunque este Cuerpo tiene miembros sin distinción, ",
+          "empero todos juntos con diferente acción; ",
+          "Uno se ayuda al otro para poder obrar, ",
+          "para que todo el mundo se pueda evangelizar."
+        ],
+        "v4": [
+          "Este conjunto, en Cristo tiene alimentación, ",
+          "Él es el Gran Obispo de la Congregación; ",
+          "Él es el Arquitecto, que vida al hombre da, ",
+          "luego le llama: “hijo” por la Eternidad."
+        ],
+        "v5": [
+          "Cristo es la Cabeza, Él es el Buen Pastor; ",
+          "de Él vino la Promesa. Cristo es el Redentor",
+          "de toda esta Iglesia que sirve con verdad, ",
+          "que ha amado su Palabra y hoy goza de libertad."
+        ],
+        "v6": [
+          "Somos un solo Cuerpo en el Señor Jesús, ",
+          "ya muertos para el mundo, vivos para el Señor. ",
+          "Seremos levantados en la Resurrección ",
+          "y entraremos triunfantes, cantando a Cristo en Sión."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

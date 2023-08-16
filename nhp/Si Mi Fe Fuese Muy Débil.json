@@ -1,0 +1,36 @@
+{
+  "titles": ["Si Mi Fe Fuese Muy Débil"],
+  "authors": ["Autor desconocido"],
+  "languages": ["spanish"],
+  "songbooks": [{ "name": "Nuestos Himnos Predilectos", "number": "182" }],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": ["v1", "c1", "v2", "c1", "v3", "c1", "v4"],
+      "lyric": {
+        "v1": [
+          "Si mi fe fuese muy débil, Él me sostendrá;",
+          "y si el mal me amenazare, Él me sostendrá."
+        ],
+        "c1": [
+          "Él me sostendrá, Él me sostendrá;",
+          "mi Jesús que tanto me ama,",
+          "Él me sostendrá."
+        ],
+        "v2": [
+          "Nunca yo podré ser firme, con tan débil fe;",
+          "mas Él puede dirigirme y Él me sostendrá."
+        ],
+        "v3": [
+          "Son su gozo y complacencia, cuantos Él salvó;",
+          "y al salvarme su clemencia, Él me sostendrá."
+        ],
+        "v4": [
+          "Él no quiso ver perdida mi alma en la maldad;",
+          "dio su Sangre por mi vida y Él me sostendrá."
+        ]
+      }
+    }
+  ],
+  "versions": []
+}
