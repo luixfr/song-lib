@@ -1,0 +1,88 @@
+{
+  "titles": [
+    "Cuando Escuché"
+  ],
+  "authors": [
+    "Autor desconocido"
+  ],
+  "languages": [
+    "spanish"
+  ],
+  "songbooks": [
+    {
+      "name": "Nuestos Himnos Predilectos",
+      "number": "403"
+    }
+  ],
+  "lyrics": [
+    {
+      "language": "spanish",
+      "order": [
+        "v1",
+        "c1",
+        "v2",
+        "c1",
+        "v3",
+        "c1",
+        "v4",
+        "c1",
+        "v5",
+        "c1",
+        "v6",
+        "c1",
+        "v7"
+      ],
+      "lyric": {
+        "v1": [
+          "Cuando escuché a los hermanos cantar,",
+          "pensé: “Los iré a criticar…",
+          "A la puerta iré, mas no entraré…",
+          "Mucho menos iré a aceptar…”"
+        ],
+        "c1": [
+          "/: Empero algo extraño sentí en mí:",
+          "/¡Yo fui a contender! ",
+          "Dios me dio a entender, ",
+          "poniendo su Espíritu en mí."
+        ],
+        "v2": [
+          "El Diablo me dijo: “No vayas a entrar. ",
+          "Viniste sólo a criticar”. ",
+          "Más yo siempre entré y atrás me senté,",
+          "que nadie me fuera a mirar."
+        ],
+        "v3": [
+          "Los oí cantar y sus manos palmear... ",
+          "¡Extraño sentí el corazón! ",
+          "Si ellos van a orar, me voy a levantar,",
+          "yo sé que todo es emoción."
+        ],
+        "v4": [
+          "Alguno empezó a gritar y a cantar,",
+          "dio gracias por su salvación; ",
+          "sus manos alzó y en lenguas habló…",
+          "¡Qué extraño sentí el corazón!"
+        ],
+        "v5": [
+          "Y cuando el Ministro empezó a predicar,",
+          "qué pena tan grande sentí.",
+          "El Libro tomo y de el predico…",
+          "Y todo lo dijo por mí."
+        ],
+        "v6": [
+          "Yo muy contristado, me puse a pensar",
+          "Al fin, que seria de mi?",
+          "El fuego cayo y me bautizo",
+          "Y a ese 'Algo' fue lo que senti"
+        ],
+        "v7": [
+          "Al ir al altar a que orarán por mí,",
+          "Ya no me quería levantar.",
+          "El Ángel llego y con mi alma luchó,",
+          "¡Jesús me quiso bautizar!"
+        ]
+      }
+    }
+  ],
+  "versions": []
+}

@@ -1,13 +1,30 @@
 {
-  "titles": ["Los Que Con Lagrimas"],
-  "authors": ["Autor Desconocido"],
-  "songbooks": [{ "name": "Himnario de coros", "number": "87" }],
-  "languages": ["spanish"],
+  "titles": [
+    "Los Que Con Lagrimas"
+  ],
+  "authors": [
+    "Autor Desconocido"
+  ],
+  "songbooks": [
+    {
+      "name": "Himnario de coros",
+      "number": "87"
+    }
+  ],
+  "languages": [
+    "spanish"
+  ],
   "versions": [],
   "lyrics": [
     {
       "language": "spanish",
-      "order": ["v1", "v2", "v3", "v4", "v5"],
+      "order": [
+        "v1",
+        "v2",
+        "v3",
+        "v4",
+        "v5"
+      ],
       "lyric": {
         "v1": [
           "Los que con lágrimas sembraron",
@@ -26,10 +43,12 @@
         ],
         "v4": [
           "no se perdieron las semillas",
-          "mas dieron fruto en bendición.< /p>/: Andando irán (andando irán)",
+          "mas dieron fruto en bendición. /: Andando irán (andando irán)",
           "llorando irán (llorando irán)"
         ],
-        "v5": ["pero felices volverán:/"]
+        "v5": [
+          "pero felices volverán:/"
+        ]
       }
     }
   ]

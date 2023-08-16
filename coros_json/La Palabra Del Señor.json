@@ -1,13 +1,28 @@
 {
-  "titles": ["La Palabra Del Señor"],
-  "authors": ["Autor Desconocido"],
-  "songbooks": [{ "name": "Himnario de coros", "number": "217" }],
-  "languages": ["spanish"],
+  "titles": [
+    "La Palabra Del Señor"
+  ],
+  "authors": [
+    "Autor Desconocido"
+  ],
+  "songbooks": [
+    {
+      "name": "Himnario de coros",
+      "number": "217"
+    }
+  ],
+  "languages": [
+    "spanish"
+  ],
   "versions": [],
   "lyrics": [
     {
       "language": "spanish",
-      "order": ["v1", "v2", "v3"],
+      "order": [
+        "v1",
+        "v2",
+        "v3"
+      ],
       "lyric": {
         "v1": [
           "La Palabra del Señor es fiel,",
@@ -22,7 +37,7 @@
         "v3": [
           "la Palabra del Señor es fiel",
           "sus promesas cumplirá",
-          "en todo aquel que crea en El. < /p>"
+          "en todo aquel que crea en El."
         ]
       }
     }

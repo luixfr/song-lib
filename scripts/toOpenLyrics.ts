@@ -2,8 +2,8 @@ import fs from "fs";
 import { XMLElement, Attribute } from "xml-element";
 fetchSongs();
 function fetchSongs() {
-  const dir = __dirname + "/../nhp/";
-  const dist = __dirname + "/../nhp_openlyrics/";
+  const dir = __dirname + "/../coros_json/";
+  const dist = __dirname + "/../coros_openlyrics/";
 
   const files = fs.readdirSync(dir);
   files.map((file: string) => {
@@ -13,7 +13,7 @@ function fetchSongs() {
     let song:Song = JSON.parse(jsonSong);
     let openLyricsSong = createOpenLyrcs(song);
 
-    let fileName = `nhp ${song.songbooks[0].number}: ${file.replace(".json", "")}`.toUpperCase()
+    let fileName = `CORO_${song.songbooks[0].number}`
     console.log("saving:", fileName);
     fs.writeFileSync(dist + fileName + ".xml", openLyricsSong);
   });
@@ -31,7 +31,7 @@ function createOpenLyrcs(song: Song) {
   const properties = new XMLElement("properties");
   const titles = new XMLElement("titles");
   const lang: Attribute = { attribute: "lang", value: "es" };
-  const title = new XMLElement("title", [lang], capitalizeFirstLetter(song.titles[0]));
+  const title = new XMLElement("title", [lang], `CORO ${song.songbooks[0].number}: ${song.titles[0].toUpperCase()}`);
   titles.addChild(title);
 
   const authors = new XMLElement("auhtors");
@@ -86,15 +86,14 @@ function createOpenLyrcs(song: Song) {
   return '<?xml version="1.0" encoding="UTF-8"?>' + openLyrcsSong.toXML();
 }
 
-function capitalizeFirstLetter(input: string): string {
-  const words = input.split(' ');
-
-  for (let i = 0; i < words.length; i++) {
-    const word = words[i];
-    if (word.length > 0) {
-      words[i] = word[0].toUpperCase() + word.slice(1).toLowerCase();
-    }
-  }
-
-  return words.join(' ');
-}
+/*
+The following songs could not be imported:
+- C:\Users\Luix\Documents\songs\coros_openlyrics\CORO_.xml (XML syntax error)
+- C:\Users\Luix\Documents\songs\coros_openlyrics\CORO_70.xml (XML syntax error)
+- C:\Users\Luix\Documents\songs\coros_openlyrics\CORO_87.xml (XML syntax error)
+- C:\Users\Luix\Documents\songs\coros_openlyrics\CORO_168.xml (XML syntax error)
+- C:\Users\Luix\Documents\songs\coros_openlyrics\CORO_217.xml (XML syntax error)
+- C:\Users\Luix\Documents\songs\coros_openlyrics\CORO_218.xml (XML syntax error)
+- C:\Users\Luix\Documents\songs\coros_openlyrics\CORO_268.xml (XML syntax error)
+- C:\Users\Luix\Documents\songs\coros_openlyrics\CORO_475.xml (XML syntax error)
+*/

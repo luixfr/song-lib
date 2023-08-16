@@ -1,13 +1,32 @@
 {
-  "titles": ["Juventud Es Belleza"],
-  "authors": ["Autor Desconocido"],
-  "songbooks": [{ "name": "Himnario de coros", "number": "168" }],
-  "languages": ["spanish"],
+  "titles": [
+    "Juventud Es Belleza"
+  ],
+  "authors": [
+    "Autor Desconocido"
+  ],
+  "songbooks": [
+    {
+      "name": "Himnario de coros",
+      "number": "168"
+    }
+  ],
+  "languages": [
+    "spanish"
+  ],
   "versions": [],
   "lyrics": [
     {
       "language": "spanish",
-      "order": ["v1", "v2", "v3", "v4", "v5", "v6", "v7"],
+      "order": [
+        "v1",
+        "v2",
+        "v3",
+        "v4",
+        "v5",
+        "v6",
+        "v7"
+      ],
       "lyric": {
         "v1": [
           "Juventud es belleza",
@@ -19,14 +38,18 @@
           "Pasan, pasan los años",
           "una flor se marchita"
         ],
-        "v3": ["pero en Cristo bendito", "sólo habrá juventud.", "Coro:"],
+        "v3": [
+          "pero en Cristo bendito",
+          "sólo habrá juventud.",
+          "Coro:"
+        ],
         "v4": [
           "Del Señor acuérdate",
           "antes que lleguen",
           "los días malos diciendo:"
         ],
         "v5": [
-          "'Contento no estoy'. < /p>El Maestro te llama",
+          "'Contento no estoy'. El Maestro te llama",
           "su voz escucha atenta;",
           "adorna sus altares"
         ],
@@ -35,7 +58,10 @@
           "En la cruz del calvario",
           "una flor traspasada"
         ],
-        "v7": ["una flor ensangrentada", "juventud de Jesús."]
+        "v7": [
+          "una flor ensangrentada",
+          "juventud de Jesús."
+        ]
       }
     }
   ]
