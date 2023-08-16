@@ -1,6 +1,6 @@
 {
   "titles": ["Esta Obra"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "120" }],
   "languages": ["spanish"],
   "versions": [],

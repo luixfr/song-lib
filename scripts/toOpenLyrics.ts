@@ -1,23 +1,25 @@
 import fs from "fs";
-import { XMLElement } from "./XMLElement";
+import { XMLElement, Attribute } from "xml-element";
 fetchSongs();
 function fetchSongs() {
-  const dir = __dirname + "/../nhp_json/";
-  const dist = __dirname + "/../nhp_openlyrics/";
+  const dir = __dirname + "/../coros_json/";
+  const dist = __dirname + "/../coros_openlyrics/";
 
   const files = fs.readdirSync(dir);
-  files.map((file) => {
+  files.map((file: string) => {
     let jsonSong = fs.readFileSync(dir + "/" + file, "utf8");
     let song = JSON.parse(jsonSong);
     let openLyricsSong = createOpenLyrcs(song);
-    console.log("saving:", file);
-    fs.writeFileSync(dist + file.replace(".json", "") + ".xml", openLyricsSong);
+
+    let title = openLyricsSong.getChildren().filter(it =>)
+    console.log("saving:", openLyricsSong);
+    fs.writeFileSync(dist + file.replace(".json", "").toUpperCase() + ".xml", openLyricsSong);
   });
 }
 
-function createOpenLyrcs(song: Song): string {
+function createOpenLyrcs(song: Song): XMLElement {
   let openLyrcsSong = new XMLElement("song");
-  let attributes: Attributes[] = [
+  let attributes: Attribute[] = [
     { attribute: "xmlns", value: "http://openlyrics.info/namespace/2009/song" },
     { attribute: "version", value: "0.8" },
     { attribute: "createdIn", value: "toOpenLyrics" },
@@ -26,12 +28,12 @@ function createOpenLyrcs(song: Song): string {
 
   const properties = new XMLElement("properties");
   const titles = new XMLElement("titles");
-  const lang: Attributes = { attribute: "lang", value: "es" };
+  const lang: Attribute = { attribute: "lang", value: "es" };
   const title = new XMLElement("title", [lang], song.titles[0]);
   titles.addChild(title);
 
   const authors = new XMLElement("auhtors");
-  const auhtor = new XMLElement("auhtor", undefined, song.autors[0]);
+  const auhtor = new XMLElement("auhtor", undefined, song.authors[0]);
   authors.addChild(auhtor);
 
   const songbooks = new XMLElement("songbooks");
@@ -57,7 +59,8 @@ function createOpenLyrcs(song: Song): string {
 
   const lyrics = new XMLElement("lyrics");
   const songLyrics = song.lyrics[0];
-  for (const [verse, lines] of Object.entries(songLyrics)) {
+  
+  for (const [verse, lines] of Object.entries(songLyrics.lyric)) {
     if (verse == "language" || verse == "order") {
       continue;
     }
@@ -66,7 +69,8 @@ function createOpenLyrcs(song: Song): string {
       { attribute: "name", value: verse },
       { attribute: "lang", value: "es" },
     ]);
-    versexml.addChilds(
+
+    versexml.addChildren(
       lines.map((line) => new XMLElement("lines", undefined, line))
     );
 
@@ -76,7 +80,7 @@ function createOpenLyrcs(song: Song): string {
   openLyrcsSong.addChild(properties);
   openLyrcsSong.addChild(lyrics);
 
-  return (
-    '<?xml version="1.0" encoding="UTF-8"?>' + openLyrcsSong.getXMLElement()
-  );
+  
+  //return '<?xml version="1.0" encoding="UTF-8"?>' + openLyrcsSong.toXML();
+  return openLyrcsSong
 }

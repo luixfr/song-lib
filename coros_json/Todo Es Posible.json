@@ -1,6 +1,6 @@
 {
   "titles": ["Todo Es Posible"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "203" }],
   "languages": ["spanish"],
   "versions": [],

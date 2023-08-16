@@ -1,6 +1,6 @@
 {
   "titles": ["Demos Gracias"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "1" }],
   "languages": ["spanish"],
   "versions": [],

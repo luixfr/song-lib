@@ -1,6 +1,6 @@
 {
   "titles": ["Maravilloso Es"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "345" }],
   "languages": ["spanish"],
   "versions": [],

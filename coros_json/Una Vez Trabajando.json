@@ -1,6 +1,6 @@
 {
   "titles": ["Una Vez Trabajando"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "300" }],
   "languages": ["spanish"],
   "versions": [],

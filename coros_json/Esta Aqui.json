@@ -1,6 +1,6 @@
 {
   "titles": ["Esta Aqui"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "335" }],
   "languages": ["spanish"],
   "versions": [],

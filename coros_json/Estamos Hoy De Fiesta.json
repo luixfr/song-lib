@@ -1,6 +1,6 @@
 {
   "titles": ["Estamos Hoy De Fiesta"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "272" }],
   "languages": ["spanish"],
   "versions": [],

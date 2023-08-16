@@ -1,6 +1,6 @@
 {
   "titles": ["Fuego, Fuego"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "123" }],
   "languages": ["spanish"],
   "versions": [],

@@ -1,6 +1,6 @@
 {
   "titles": ["Viene Ya"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "302" }],
   "languages": ["spanish"],
   "versions": [],

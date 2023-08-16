@@ -1,6 +1,6 @@
 {
   "titles": ["Cantare Al Señor"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "321" }],
   "languages": ["spanish"],
   "versions": [],

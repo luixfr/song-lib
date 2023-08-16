@@ -1,6 +1,6 @@
 {
   "titles": ["Santo"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "404" }],
   "languages": ["spanish"],
   "versions": [],

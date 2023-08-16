@@ -1,6 +1,6 @@
 {
   "titles": ["Tres Veces"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "205" }],
   "languages": ["spanish"],
   "versions": [],

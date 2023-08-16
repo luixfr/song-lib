@@ -1,6 +1,6 @@
 {
   "titles": ["El Culto De Hoy"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "108" }],
   "languages": ["spanish"],
   "versions": [],

@@ -1,6 +1,6 @@
 {
   "titles": ["En Esta Reunión."],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "116" }],
   "languages": ["spanish"],
   "versions": [],

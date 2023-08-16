@@ -1,6 +1,6 @@
 {
   "titles": ["Heme Aqui"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "86" }],
   "languages": ["spanish"],
   "versions": [],

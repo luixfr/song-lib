@@ -1,6 +1,6 @@
 {
   "titles": ["Estoy Cantando Alegre"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "377" }],
   "languages": ["spanish"],
   "versions": [],

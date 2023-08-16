@@ -1,6 +1,6 @@
 {
   "titles": ["Yo Se Que Estas Aqui"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "314" }],
   "languages": ["spanish"],
   "versions": [],

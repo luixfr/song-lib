@@ -1,6 +1,6 @@
 {
   "titles": ["Yo Vivo Señor"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "235" }],
   "languages": ["spanish"],
   "versions": [],

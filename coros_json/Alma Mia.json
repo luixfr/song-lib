@@ -1,6 +1,6 @@
 {
   "titles": ["Alma Mia"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "171" }],
   "languages": ["spanish"],
   "versions": [],

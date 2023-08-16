@@ -1,6 +1,6 @@
 {
   "titles": ["Deseo"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "78" }],
   "languages": ["spanish"],
   "versions": [],

@@ -1,11 +1,6 @@
-type Attributes = {
-  attribute: string;
-  value: string;
-};
-
 type Song = {
   titles: string[];
-  autors: string[];
+  authors: string[];
   languages: string[];
   songbooks: Songbook[];
   lyrics: Lyric[];

@@ -1,6 +1,6 @@
 {
   "titles": ["Amen, Amen"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "55" }],
   "languages": ["spanish"],
   "versions": [],

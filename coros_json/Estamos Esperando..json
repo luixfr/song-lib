@@ -1,6 +1,6 @@
 {
   "titles": ["Estamos Esperando."],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "121" }],
   "languages": ["spanish"],
   "versions": [],

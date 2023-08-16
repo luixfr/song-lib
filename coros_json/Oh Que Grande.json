@@ -1,6 +1,6 @@
 {
   "titles": ["Oh Que Grande"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "221" }],
   "languages": ["spanish"],
   "versions": [],

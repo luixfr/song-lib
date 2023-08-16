@@ -1,6 +1,6 @@
 {
   "titles": ["Ya Estoy Aqui"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "261" }],
   "languages": ["spanish"],
   "versions": [],

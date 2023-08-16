@@ -1,6 +1,6 @@
 {
   "titles": ["Hemos Venido"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "32" }],
   "languages": ["spanish"],
   "versions": [],

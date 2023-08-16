@@ -1,6 +1,6 @@
 {
   "titles": ["Quien Dijo"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "353" }],
   "languages": ["spanish"],
   "versions": [],

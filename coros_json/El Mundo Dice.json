@@ -1,6 +1,6 @@
 {
   "titles": ["El Mundo Dice"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "166" }],
   "languages": ["spanish"],
   "versions": [],

@@ -1,6 +1,6 @@
 {
   "titles": ["Cantad Alegres"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "419" }],
   "languages": ["spanish"],
   "versions": [],

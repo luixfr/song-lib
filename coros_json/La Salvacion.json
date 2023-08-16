@@ -1,6 +1,6 @@
 {
   "titles": ["La Salvacion"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "399" }],
   "languages": ["spanish"],
   "versions": [],

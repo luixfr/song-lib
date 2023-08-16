@@ -1,6 +1,6 @@
 {
   "titles": ["Feliz, Feliz Cumpleaños"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "81" }],
   "languages": ["spanish"],
   "versions": [],

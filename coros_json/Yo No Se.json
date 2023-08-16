@@ -1,6 +1,6 @@
 {
   "titles": ["Yo No Se"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "72" }],
   "languages": ["spanish"],
   "versions": [],

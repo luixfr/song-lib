@@ -1,6 +1,6 @@
 {
   "titles": ["Las Promesas"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "219" }],
   "languages": ["spanish"],
   "versions": [],

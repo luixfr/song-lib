@@ -1,6 +1,6 @@
 {
   "titles": ["Soy Feliz"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "257" }],
   "languages": ["spanish"],
   "versions": [],

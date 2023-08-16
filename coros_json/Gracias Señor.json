@@ -1,6 +1,6 @@
 {
   "titles": ["Gracias Señor"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "386" }],
   "languages": ["spanish"],
   "versions": [],

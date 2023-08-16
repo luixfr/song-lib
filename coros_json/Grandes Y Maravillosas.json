@@ -1,6 +1,6 @@
 {
   "titles": ["Grandes Y Maravillosas"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "28" }],
   "languages": ["spanish"],
   "versions": [],

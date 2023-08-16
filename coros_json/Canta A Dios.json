@@ -1,6 +1,6 @@
 {
   "titles": ["Canta A Dios"],
-  "autors": ["Autor Desconocido"],
+  "authors": ["Autor Desconocido"],
   "songbooks": [{ "name": "Himnario de coros", "number": "56" }],
   "languages": ["spanish"],
   "versions": [],
